@@ -5,6 +5,7 @@ from reranker import Reranker
 from time_weighter import TimeWeighter
 from graph_rag import GraphRAG
 from metadata_filtering import QueryProcessor, MetadataFilter
+from generation import Generator
 
 
 # ---- Load Data ----
@@ -39,7 +40,7 @@ def load_data(file_path):
 
 
 # ---- Pipeline ----
-def run_pipeline(query, documents, metadata, df, doc_to_idx):
+def run_pipeline(query, documents, metadata, df, doc_to_idx, generation_strategy="citation"):
     print("\n🔎 QUERY:", query)
 
     # ---- 0. Query Parsing ----
@@ -127,6 +128,11 @@ def run_pipeline(query, documents, metadata, df, doc_to_idx):
 
     subgraph = graph.retrieve_subgraph(query_entities)
 
+    # ---- 7. Generation ----
+    print(f"\n✍️  Generating report with strategy: {generation_strategy}")
+    gen = Generator(strategy=generation_strategy)
+    report = gen.generate(query, reranked, graph_context=subgraph)
+
     # ---- OUTPUT ----
     print("\n📊 Top Reranked Results:")
     for item in reranked[:5]:
@@ -136,6 +142,8 @@ def run_pipeline(query, documents, metadata, df, doc_to_idx):
 
     print("\n🌐 Graph Context:")
     print(subgraph)
+
+    return report
 
 
 # ---- MAIN ----
@@ -148,5 +156,8 @@ if __name__ == "__main__":
         "After Russia invaded Ukraine, provide crude oil market snapshot" # CHANGE THIS TO TEST OTHER QUERIES
     ]
 
+    STRATEGY = "citation"
+
     for q in queries:
-        run_pipeline(q, documents, metadata, df, doc_to_idx)
+        run_pipeline(q, documents, metadata, df, doc_to_idx,
+                     generation_strategy=STRATEGY)
