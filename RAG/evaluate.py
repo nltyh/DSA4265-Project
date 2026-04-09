@@ -4,7 +4,14 @@ import time
 import re
 import numpy as np
 from datetime import datetime
-from anthropic import Anthropic
+from dotenv import load_dotenv
+from openai import OpenAI
+
+load_dotenv()
+
+
+def _get_response_text(response) -> str:
+    return response.choices[0].message.content.strip()
 
 # ── Optional heavy deps (graceful fallback) ─────────────────────────
 try:
@@ -46,7 +53,7 @@ def compute_bertscore(hypothesis: str, reference: str) -> float:
 # ────────────────────────────────────────────────────────────────────
 # 3.  Groundedness  (reference-free)
 #     Fraction of generated sentences that are entailed by the
-#     retrieved context, judged sentence-by-sentence by Claude.
+#     retrieved context, judged sentence-by-sentence by the LLM.
 # ────────────────────────────────────────────────────────────────────
 GROUNDEDNESS_SYSTEM = """\
 You are a strict fact-checking assistant.
@@ -59,12 +66,12 @@ Do NOT explain. Do NOT add punctuation."""
 def compute_groundedness(
     report: str,
     context: str,
-    client: Anthropic,
-    model: str = "claude-sonnet-4-20250514",
+    client: OpenAI,
+    model: str = "gpt-4o-mini",
     delay: float = 0.3,
 ) -> float:
     """
-    Split report into sentences and ask Claude whether each is supported
+    Split report into sentences and ask the model whether each is supported
     by the retrieved context.  Returns fraction that are SUPPORTED.
     """
     # Simple sentence split (handles most cases in structured reports)
@@ -76,17 +83,19 @@ def compute_groundedness(
     supported = 0
     for sent in sentences:
         try:
-            resp = client.messages.create(
+            resp = client.chat.completions.create(
                 model=model,
                 max_tokens=5,
-                system=GROUNDEDNESS_SYSTEM,
-                messages=[{
-                    "role": "user",
-                    "content": f"CONTEXT:\n{context}\n\nSENTENCE:\n{sent}"
-                }]
+                messages=[
+                    {"role": "system", "content": GROUNDEDNESS_SYSTEM},
+                    {
+                        "role": "user",
+                        "content": f"CONTEXT:\n{context}\n\nSENTENCE:\n{sent}",
+                    },
+                ],
             )
-            verdict = resp.content[0].text.strip().upper()
-            if "SUPPORTED" in verdict:
+            verdict = _get_response_text(resp).upper()
+            if verdict == "SUPPORTED":
                 supported += 1
             time.sleep(delay)
         except Exception as e:
@@ -102,11 +111,11 @@ LLM_JUDGE_SYSTEM = """\
 You are an expert evaluator of commodity risk reports.
 Score the following report on a scale of 1 to 5 using these criteria:
 
-5 – Excellent: fully grounded, no hallucinations, clear structure, actionable insight
-4 – Good: mostly grounded, minor gaps, clear and useful
-3 – Adequate: some unsupported claims or vague sections, still usable
-2 – Poor: multiple hallucinations or missing sections, limited usefulness
-1 – Very poor: mostly fabricated, incoherent, or completely off-topic
+5 - Excellent: fully grounded, no hallucinations, clear structure, actionable insight
+4 - Good: mostly grounded, minor gaps, clear and useful
+3 - Adequate: some unsupported claims or vague sections, still usable
+2 - Poor: multiple hallucinations or missing sections, limited usefulness
+1 - Very poor: mostly fabricated, incoherent, or completely off-topic
 
 Consider:
 - Factual grounding (only facts from the provided articles)
@@ -121,8 +130,8 @@ def compute_llm_judge(
     query: str,
     report: str,
     context: str,
-    client: Anthropic,
-    model: str = "claude-sonnet-4-20250514",
+    client: OpenAI,
+    model: str = "gpt-4o-mini",
 ) -> dict:
     """Returns {"score": int, "reason": str}"""
     prompt = (
@@ -131,13 +140,15 @@ def compute_llm_judge(
         f"## Generated Report:\n{report}"
     )
     try:
-        resp = client.messages.create(
+        resp = client.chat.completions.create(
             model=model,
             max_tokens=200,
-            system=LLM_JUDGE_SYSTEM,
-            messages=[{"role": "user", "content": prompt}]
+            messages=[
+                {"role": "system", "content": LLM_JUDGE_SYSTEM},
+                {"role": "user", "content": prompt},
+            ],
         )
-        raw = resp.content[0].text.strip()
+        raw = _get_response_text(resp)
         # Strip markdown fences if present
         raw = re.sub(r"```(?:json)?|```", "", raw).strip()
         return json.loads(raw)
@@ -154,8 +165,8 @@ def evaluate_reports(
     reports: dict[str, str],        # {strategy_name: report_text}
     context: str,                   # the retrieved articles passed to Generator
     reference: str | None = None,   # optional gold-standard answer
-    client: Anthropic | None = None,
-    model: str = "claude-sonnet-4-20250514",
+    client: OpenAI | None = None,
+    model: str = "gpt-4o-mini",
     run_groundedness: bool = True,
     run_llm_judge: bool = True,
     groundedness_delay: float = 0.3,
@@ -172,7 +183,7 @@ def evaluate_reports(
     }
     """
     if client is None:
-        client = Anthropic(api_key=os.environ["ANTHROPIC_API_KEY"])
+        client = OpenAI(api_key=os.environ["OPENAI_API_KEY"])
 
     results = {}
 
@@ -306,7 +317,7 @@ if __name__ == "__main__":
     print("Reports saved to eval_outputs/")
 
     # Run evaluation
-    client = Anthropic(api_key=os.environ["ANTHROPIC_API_KEY"])
+    client = OpenAI(api_key=os.environ["OPENAI_API_KEY"])
     results = evaluate_reports(
         query=QUERY,
         reports=reports,
