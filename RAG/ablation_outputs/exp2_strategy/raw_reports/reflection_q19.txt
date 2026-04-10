@@ -1,0 +1,89 @@
+## COMMODITY RISK REPORT
+**Commodity:** crude oil  
+**Report Date:** 2026-04-10  
+**Articles Analysed:** 2 articles  
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+### 1. OVERALL SENTIMENT
+**Bullish**  
+> The market sentiment is bullish as Brent crude prices surged to $118 per barrel amidst geopolitical tensions in the Strait of Hormuz, which indicates heightened risk to supply flows.
+
+---
+### 2. KEY RISK SIGNALS
+
+**Geopolitics & policy | Geopolitical Conflict | Severity: High**
+- **Headline:** Brent Hits $118 as Hormuz Shock Blows Out Spread With WTI
+- **What happened:** Brent crude jumped in price due to concerns about fuel flow risks related to increasing tensions in the Strait of Hormuz.
+- **Market impact:** The sharp price increase signals strong market reactions to geopolitical risks affecting oil supply, likely leading to upward pressure on prices.
+- **Sentiment contribution:** Bullish — heightened geopolitical risks usually support higher oil prices.
+
+---
+
+**Shipping & logistics | Supply Chain Blockage | Severity: High**
+- **Headline:** India Says 28 Oil and Gas Ships Are Stranded Near the Strait of Hormuz
+- **What happened:** At least 28 vessels, including those carrying crude oil and LNG, are stranded in a critical shipping lane, confirmed by the Indian government.
+- **Market impact:** This blockage poses a significant threat to supply logistics, potentially leading to supply shortages and further price escalation.
+- **Sentiment contribution:** Bullish — supply chain disruptions are likely to elevate fears regarding market stability and prices.
+
+---
+### 3. SIGNAL SYNTHESIS
+The risk signals are aligned as both highlight the impact of geopolitical tensions on crude oil prices. The geopolitical conflict is confirmed by both rising prices and the supply chain blockage, suggesting a compounded risk environment. This results in a significant risk exposure for crude oil in the upcoming trading period.
+
+---
+### 4. WATCH LIST
+- [ ] **Escalation of geopolitical tensions** → Further escalations could lead to more pronounced supply disruptions and price surges.
+- [ ] **Resolution or easing of shipping blockages** → If the stranded vessels are freed, supply could stabilize, leading to potential price corrections.
+- [ ] **Changes in OPEC+ production levels** → Any official announcements by OPEC+ regarding supply adjustments could drastically alter market dynamics.
+
+---
+### 5. BOTTOM LINE
+**Risk Level: High**  
+The current geopolitical climate combined with logistical disruptions poses a high risk to crude oil supply, which could result in further price increases. Risk managers should be particularly cognizant of the potential for ongoing volatility in response to developments in the Strait of Hormuz.
+
+---
+
+[REFLECTION]
+No issues found; the draft accurately captures all relevant data from the articles without hallucinations, acknowledges the aligned risk signals, and presents a well-supported sentiment conclusion.
+
+[FINAL REPORT]
+## COMMODITY RISK REPORT
+**Commodity:** crude oil  
+**Report Date:** 2026-04-10  
+**Articles Analysed:** 2 articles  
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+### 1. OVERALL SENTIMENT
+**Bullish**  
+> The market sentiment is bullish as Brent crude prices surged to $118 per barrel amidst geopolitical tensions in the Strait of Hormuz, which indicates heightened risk to supply flows.
+
+---
+### 2. KEY RISK SIGNALS
+
+**Geopolitics & policy | Geopolitical Conflict | Severity: High**
+- **Headline:** Brent Hits $118 as Hormuz Shock Blows Out Spread With WTI
+- **What happened:** Brent crude jumped in price due to concerns about fuel flow risks related to increasing tensions in the Strait of Hormuz.
+- **Market impact:** The sharp price increase signals strong market reactions to geopolitical risks affecting oil supply, likely leading to upward pressure on prices.
+- **Sentiment contribution:** Bullish — heightened geopolitical risks usually support higher oil prices.
+
+---
+
+**Shipping & logistics | Supply Chain Blockage | Severity: High**
+- **Headline:** India Says 28 Oil and Gas Ships Are Stranded Near the Strait of Hormuz
+- **What happened:** At least 28 vessels, including those carrying crude oil and LNG, are stranded in a critical shipping lane, confirmed by the Indian government.
+- **Market impact:** This blockage poses a significant threat to supply logistics, potentially leading to supply shortages and further price escalation.
+- **Sentiment contribution:** Bullish — supply chain disruptions are likely to elevate fears regarding market stability and prices.
+
+---
+### 3. SIGNAL SYNTHESIS
+The risk signals are aligned as both highlight the impact of geopolitical tensions on crude oil prices. The geopolitical conflict is confirmed by both rising prices and the supply chain blockage, suggesting a compounded risk environment. This results in a significant risk exposure for crude oil in the upcoming trading period.
+
+---
+### 4. WATCH LIST
+- [ ] **Escalation of geopolitical tensions** → Further escalations could lead to more pronounced supply disruptions and price surges.
+- [ ] **Resolution or easing of shipping blockages** → If the stranded vessels are freed, supply could stabilize, leading to potential price corrections.
+- [ ] **Changes in OPEC+ production levels** → Any official announcements by OPEC+ regarding supply adjustments could drastically alter market dynamics.
+
+---
+### 5. BOTTOM LINE
+**Risk Level: High**  
+The current geopolitical climate combined with logistical disruptions poses a high risk to crude oil supply, which could result in further price increases. Risk managers should be particularly cognizant of the potential for ongoing volatility in response to developments in the Strait of Hormuz.

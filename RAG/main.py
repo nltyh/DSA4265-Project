@@ -81,7 +81,7 @@ def run_pipeline(query, documents, metadata, df, doc_to_idx, generation_strategy
 
     # ---- 4. Time Weighting ----
     time_weighter = TimeWeighter(decay_rate=0.03)
-    time_weighted = time_weighter.apply(results_with_meta)
+    time_weighted = time_weighter.apply(results_with_meta, reference_date=parsed["date"])
 
     # ---- 5. Reranking ----
     reranker = Reranker()

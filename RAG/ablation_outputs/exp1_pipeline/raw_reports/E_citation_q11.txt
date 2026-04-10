@@ -1,0 +1,30 @@
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+## COMMODITY RISK REPORT
+**Commodity:** LNG  
+**Report Date:** 2026-04-10  
+**Articles Analysed:** 5 articles  
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+### 1. OVERALL SENTIMENT
+**Bearish**  
+The overall sentiment is bearish due to a significant supply chain blockage impacting LNG exports, driven by geopolitical tensions disrupting key supply routes.
+
+### 2. KEY RISK SIGNALS
+
+**LNG & natural gas | Supply Chain Blockage | Severity: High**
+- **Headline:** LNG Exports Plunge to 6-Month Low as War Throttles Supply
+- **What happened:** Worldwide LNG exports have dropped to a six-month low as supply from the Middle East has collapsed due to the de facto closure of the Strait of Hormuz and outages at major LNG facilities in Qatar [Article 1].
+- **Market impact:** The significant decrease in LNG shipments is likely to cause tight supply conditions and upward pressure on prices in the near term.
+- **Sentiment contribution:** Bearish — due to reduced availability of supply and rising prices.
+
+### 3. SIGNAL SYNTHESIS
+The signals are aligned in indicating that LNG faces a high risk of supply chain blockages caused by geopolitical conflict. The existing crisis in the region hampers supply substantially, leading to bearish market sentiment. This risk signal is confirmed by the fundamentals of reduced export volumes.
+
+### 4. WATCH LIST
+- [ ] Monitoring reopening of the Strait of Hormuz → A reopening would alleviate supply constraints and stabilize prices.
+- [ ] Updates on operations at LNG facilities in Qatar → Restoration of full capacity could improve export levels.
+- [ ] Developments in Middle Eastern geopolitical tensions → Escalation could further obstruct LNG shipping routes.
+
+### 5. BOTTOM LINE
+**Risk Level: High**  
+The current risk to LNG markets is high, primarily due to geopolitical tensions causing significant supply blockages. The supply situation remains fragile and unconfirmed in terms of potential resolutions.

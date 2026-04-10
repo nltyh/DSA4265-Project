@@ -13,6 +13,32 @@ load_dotenv()
 def _get_response_text(response) -> str:
     return response.choices[0].message.content.strip()
 
+
+# ────────────────────────────────────────────────────────────────────
+# 0.  Reference Serializer  (QA-pair expected_answer → flat string)
+# ────────────────────────────────────────────────────────────────────
+def serialize_expected_answer(expected_answer: dict) -> str:
+    """
+    Convert the structured expected_answer dict from qa_pairs.json into a
+    flat reference string suitable for ROUGE-L and BERTScore comparison.
+
+    Format:
+        Sentiment: <sentiment>
+        Key Event: <event> — <impact>
+        What It Means: <what_it_means>
+        Takeaway: <takeaway>
+    """
+    parts = []
+    parts.append(f"Sentiment: {expected_answer.get('sentiment', '')}")
+    for kn in expected_answer.get('key_news', []):
+        event  = kn.get('event', '')
+        impact = kn.get('impact', '')
+        parts.append(f"Key Event: {event} — {impact}")
+    parts.append(f"What It Means: {expected_answer.get('what_it_means', '')}")
+    parts.append(f"Takeaway: {expected_answer.get('takeaway', '')}")
+    return "\n".join(parts)
+
+
 # ── Optional heavy deps (graceful fallback) ─────────────────────────
 try:
     from rouge_score import rouge_scorer
@@ -149,9 +175,36 @@ def compute_llm_judge(
             ],
         )
         raw = _get_response_text(resp)
-        # Strip markdown fences if present
-        raw = re.sub(r"```(?:json)?|```", "", raw).strip()
-        return json.loads(raw)
+
+        # ── Try 1: strip markdown fences and parse directly ────────────────
+        cleaned = re.sub(r"```(?:json)?|```", "", raw).strip()
+        if cleaned:
+            try:
+                return json.loads(cleaned)
+            except json.JSONDecodeError:
+                pass
+
+        # ── Try 2: extract first {...} block via regex ─────────────────────
+        m = re.search(r'\{[^{}]*"score"\s*:\s*\d[^{}]*\}', raw, re.DOTALL)
+        if m:
+            try:
+                return json.loads(m.group())
+            except json.JSONDecodeError:
+                pass
+
+        # ── Try 3: extract score integer + best-effort reason ──────────────
+        score_m  = re.search(r'"score"\s*:\s*(\d)', raw)
+        reason_m = re.search(r'"reason"\s*:\s*"([^"]+)"', raw)
+        if score_m:
+            return {
+                "score" : int(score_m.group(1)),
+                "reason": reason_m.group(1) if reason_m else raw[:120],
+            }
+
+        # ── Fallback: log and return None ──────────────────────────────────
+        print(f"  LLM judge raw response (unparseable):\n    {repr(raw[:300])}")
+        return {"score": None, "reason": f"Unparseable response: {raw[:120]}"}
+
     except Exception as e:
         print(f"  LLM judge error: {e}")
         return {"score": None, "reason": str(e)}
@@ -164,15 +217,23 @@ def evaluate_reports(
     query: str,
     reports: dict[str, str],        # {strategy_name: report_text}
     context: str,                   # the retrieved articles passed to Generator
-    reference: str | None = None,   # optional gold-standard answer
+    reference: str | None = None,   # optional gold-standard answer (serialized)
     client: OpenAI | None = None,
-    model: str = "gpt-4o-mini",
+    groundedness_model: str = "gpt-4o-mini",
+    judge_model: str = "gpt-4o-mini",
     run_groundedness: bool = True,
     run_llm_judge: bool = True,
     groundedness_delay: float = 0.3,
 ) -> dict[str, dict]:
     """
     Evaluate all strategy reports and return a results dict.
+
+    Parameters
+    ----------
+    groundedness_model : str
+        Model used for per-sentence groundedness checks (default: gpt-4o-mini).
+    judge_model : str
+        Model used for holistic LLM Judge scoring (default: gpt-4o).
 
     Returns
     -------
@@ -206,8 +267,8 @@ def evaluate_reports(
 
         # Groundedness
         if run_groundedness:
-            print("  Computing groundedness (sentence-by-sentence)...")
-            g = compute_groundedness(report, context, client, model, groundedness_delay)
+            print(f"  Computing groundedness [{groundedness_model}] (sentence-by-sentence)...")
+            g = compute_groundedness(report, context, client, groundedness_model, groundedness_delay)
             entry["groundedness"] = round(g, 4)
             print(f"  Groundedness: {entry['groundedness']}")
         else:
@@ -215,8 +276,8 @@ def evaluate_reports(
 
         # LLM Judge
         if run_llm_judge:
-            print("  Running LLM judge...")
-            j = compute_llm_judge(query, report, context, client, model)
+            print(f"  Running LLM judge [{judge_model}]...")
+            j = compute_llm_judge(query, report, context, client, judge_model)
             entry["llm_judge"] = j
             print(f"  LLM Judge score: {j.get('score')} — {j.get('reason')}")
             time.sleep(1.0)   # rate-limit courtesy between strategies

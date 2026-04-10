@@ -1,0 +1,62 @@
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+## COMMODITY RISK REPORT
+**Commodity:** LNG  
+**Report Date:** 2026-04-10  
+**Articles Analyzed:** 5 articles  
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+### 1. OVERALL SENTIMENT
+**[Bullish]**  
+> The dominant sentiment is bullish due to significant supply disruptions in LNG amidst geopolitical tensions and adverse weather events impacting infrastructure.
+
+---
+
+### 2. KEY RISK SIGNALS
+
+**[LNG & Natural Gas] | [Supply Chain Blockage] | Severity: High**  
+- **Headline:** Asia Burns More Coal as Middle East War Sends LNG Prices to 3-Year Highs  
+- **What happened:** Increased coal usage in Asia results from a scramble for LNG amid ongoing conflicts in the Middle East leading to supply constraints.  
+- **Market impact:** The heightened demand for LNG, coupled with supply shortages, significantly raises prices and shifts energy sourcing in Asia towards coal.  
+- **Sentiment contribution:** Bullish — the crisis in LNG supply drives market prices higher and confirms a shift in energy dynamics.
+
+---
+
+**[LNG & Natural Gas] | [Infrastructure Damage] | Severity: High**  
+- **Headline:** Chevron Reports “Extensive Damage” at Major LNG Project  
+- **What happened:** Chevron’s Wheatstone LNG plant in Australia experienced extensive damage due to a cyclone, halting production at two liquefaction trains.  
+- **Market impact:** The shutdown exacerbates the existing supply crunch in LNG, potentially further driving price increases and increasing urgency for alternative energy solutions.  
+- **Sentiment contribution:** Bullish — confirmed physical disruptions in LNG supply chains amplify market concerns.
+
+---
+
+**[Shipping & Logistics] | [Supply Chain Blockage] | Severity: High**  
+- **Headline:** India Says 28 Oil and Gas Ships Are Stranded Near the Strait of Hormuz  
+- **What happened:** A substantial number of vessels carrying LNG and other petroleum products are stranded due to geopolitical tensions in the Strait of Hormuz.  
+- **Market impact:** This blockage raises concerns about supply reliability and increases the risk of price spikes, as these vessels represent critical energy supplies.  
+- **Sentiment contribution:** Bullish — potential disruptions to supply chains heighten market anxiety and drive prices upward.
+
+---
+
+**[Geopolitics & Policy] | [Geopolitical Conflict] | Severity: High**  
+- **Headline:** Brent Hits $118 as Hormuz Shock Blows Out Spread With WTI  
+- **What happened:** Brent crude prices surged significantly, reflecting increased geopolitical tensions and their impact on global supply chains, particularly in energy.  
+- **Market impact:** Rising crude prices may further affect LNG prices due to interlinked energy markets, leveraging market sensitivities across commodities.  
+- **Sentiment contribution:** Bullish — reinforcing concerns about energy supply stability and escalating costs.
+
+---
+
+### 3. SIGNAL SYNTHESIS
+The risk signals for LNG are aligned, all indicating a high likelihood of supply disruptions due to geopolitical tensions and weather-related infrastructure issues. The overall bullish sentiment is confirmed by fundamental supply concerns rather than being solely sentiment-driven. The current market snapshot indicates an elevated risk exposure for LNG moving forward.
+
+---
+
+### 4. WATCH LIST
+- [ ] **Monitor developments in the Middle East conflict** → Further escalations could exacerbate LNG supply disruptions and price spikes.
+- [ ] **Observe progress in repairs at the Wheatstone LNG plant** → Restoration of production capacity would mitigate supply concerns and affect pricing.
+- [ ] **Track shipping traffic near the Strait of Hormuz** → Any resolution to the stranded vessels situation could alleviate immediate supply concerns and influence market prices.
+
+---
+
+### 5. BOTTOM LINE
+**Risk Level: High**  
+The analysis indicates significant risks due to multiple supply chain disruptions impacting LNG, with underlying geopolitical tensions and infrastructure damage driving prices upward. Risk managers should prepare for potential volatility as these issues evolve and monitor associated impacts on energy pricing structures.

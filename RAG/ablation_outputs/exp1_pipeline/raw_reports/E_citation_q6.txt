@@ -1,0 +1,34 @@
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+## COMMODITY RISK REPORT
+**Commodity:** LNG  
+**Report Date:** 2026-04-10  
+**Articles Analysed:** 1 article  
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+### 1. OVERALL SENTIMENT
+**Bullish**
+> The dominant signal indicates a bullish sentiment due to potential supply constraints resulting from regulatory issues that could restrict LNG shipments.
+
+---
+### 2. KEY RISK SIGNALS
+
+**LNG & natural gas | Regulatory Constraint | Severity: High**
+- **Headline:** EXCLUSIVE Top U.S. LNG producer Cheniere asks Biden admin to drop pollution rule
+- **What happened:** Cheniere Energy Inc., the largest U.S. LNG producer, has requested an exemption from a pollution rule limiting emissions, arguing that enforcement would significantly hinder LNG shipments to Europe [Article 1].
+- **Market impact:** This could result in reduced LNG availability in European markets, thereby raising prices and affecting U.S.-European energy ties.
+- **Sentiment contribution:** Bullish — the regulatory uncertainty may lead to supply reduction which could elevate prices.
+
+---
+### 3. SIGNAL SYNTHESIS
+The risk signal is focused primarily on regulatory constraints affecting LNG supply. The challenges from environmental regulations could lead to a tightening supply situation, which is sentiment-driven. The current signal leans bullish due to the anticipation of reduced shipments impacting market dynamics.
+
+---
+### 4. WATCH LIST
+- [ ] Monitor decisions from the Biden administration regarding the pollution rule → An exemption could relieve supply pressure and stabilize prices.
+- [ ] Track responses from European markets to potential LNG shortage → Increased prices or alternative energy sourcing could emerge if supply tightens.
+- [ ] Observe Cheniere's shipping schedules and capacity → Adjustments could signal changes in market availability of LNG.
+
+---
+### 5. BOTTOM LINE
+**Risk Level: High**  
+The decision on regulatory constraints poses a significant risk to LNG supply dynamics. Risk managers should closely monitor developments in environmental regulations as they could substantially affect market conditions and pricing.

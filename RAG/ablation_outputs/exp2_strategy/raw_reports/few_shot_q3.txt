@@ -1,0 +1,34 @@
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+## COMMODITY RISK REPORT
+**Commodity:** crude oil  
+**Report Date:** 2022-03-08  
+**Articles Analysed:** 1 article  
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+### 1. OVERALL SENTIMENT
+**[Bullish]**  
+> The decision by Shell to stop buying Russian oil contributes to a significant sentiment shift, indicating that major companies are taking strong actions against Russian energy, which could lead to supply shortages.
+
+---
+### 2. KEY RISK SIGNALS
+
+**[Geopolitics & Policy] | [Geopolitical Conflict] | Severity: High**  
+- **Headline:** Shell Says It Will Stop Buying Russian Oil, Natural Gas  
+- **What happened:** Shell announced its intent to cease purchases of Russian oil and natural gas following international criticism and rising oil prices.  
+- **Market impact:** The cessation of Russian oil purchases is likely to exacerbate supply constraints in an already strained market, leading to upward pressure on prices in the short term due to reduced availability.  
+- **Sentiment contribution:** Bullish — this strong pivot by a significant player in the oil market signals potential supply disruptions, encouraging upward price movements amidst market uncertainty.
+
+---
+### 3. SIGNAL SYNTHESIS
+The key risk signal from Shell's decision aligns with broader geopolitical tensions, leading to a strong bullish sentiment due to fears of supply disruptions. This signal is consistent with the underlying fundamentals of reduced Russian oil availability, which could further pressure prices upwards as demand remains relatively stable.
+
+---
+### 4. WATCH LIST
+- [ ] Increased sanctions on Russian oil → would heighten supply disruptions, potentially leading to major price spikes.
+- [ ] Further commitments from other energy companies to boycott Russian assets → could amplify the overall market sentiment toward supply constraints.
+- [ ] Developments in the Ukraine conflict → would impact the global oil market depending on escalations or resolutions.
+
+---
+### 5. BOTTOM LINE
+**Risk Level: High**  
+The decision by Shell to stop purchases of Russian oil represents a significant risk factor in the global oil market, heightening concerns about supply shortages and potentially leading to sharp price increases. This signal is currently strong and uncontradicted based on available data.

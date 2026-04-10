@@ -1,0 +1,34 @@
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+## COMMODITY RISK REPORT
+**Commodity:** crude oil  
+**Report Date:** 2026-04-10  
+**Articles Analysed:** 1 article  
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+### 1. OVERALL SENTIMENT
+**Bearish**  
+The dominant signal is bearish due to geopolitical tensions affecting supply dynamics, specifically Shell's halting of Russian crude oil purchases, which has implications for both supply and price stability in the market.
+
+---
+### 2. KEY RISK SIGNALS
+
+**Geopolitics & Policy | Geopolitical Conflict | Severity: High**
+- **Headline:** Shell Says It Will Stop Buying Russian Oil, Natural Gas
+- **What happened:** Shell has announced it will cease purchasing oil and natural gas from Russia, following international pressures regarding energy purchases amidst the ongoing conflict in Ukraine [Article 1].
+- **Market impact:** This decision is likely to reduce the supply of Russian crude in the market, contributing to increased prices and volatility as traders adjust to tighter supply situations.
+- **Sentiment contribution:** Bearish — as it indicates significant geopolitical risk that might disrupt supply chains and pricing stability.
+
+---
+### 3. SIGNAL SYNTHESIS
+The risk signal regarding geopolitical conflict is aligned with the observed bearish sentiment. The ongoing geopolitical tensions, evidenced by Shell's strategic shift, are confirmed risks affecting the supply chain, indicating a fragile market situation lacking in stability.
+
+---
+### 4. WATCH LIST
+- [ ] Developments in the Ukraine conflict → An escalation could lead to further supply disruptions and price spikes.
+- [ ] Response from other oil companies regarding Russian oil purchases → If more companies follow Shell's lead, it could tighten supply and drive prices higher.
+- [ ] International sanctions on Russian oil exports → New sanctions may worsen the supply situation and affect global crude prices.
+
+---
+### 5. BOTTOM LINE
+**Risk Level: High**  
+The most critical takeaway is the high geopolitical risk surrounding crude oil supply that is currently unconfirmed and dependent on ongoing international relations. Traders should stay alert to shifts in supplier dynamics and broader geopolitical developments.

@@ -1,0 +1,59 @@
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+## COMMODITY RISK REPORT
+**Commodity:** LNG  
+**Report Date:** 2022-01-06  
+**Articles Analysed:** 5 articles  
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+### 1. OVERALL SENTIMENT
+**Bullish**  
+> The sentiment is predominantly bullish as the U.S. solidified its position as the world’s leading LNG exporter amid increasing demand and operational expansions, which are expected to sustain growth in the sector.
+
+---
+### 2. KEY RISK SIGNALS
+
+**[LNG & natural gas] | [No Significant Risk] | Severity: Low**  
+- **Headline:** U.S. Could Pass Australia, Qatar as Top LNG Exporter, Says IHS Markit  
+- **What happened:** An analysis by IHS Markit suggests that the U.S. is expected to become the world's largest LNG exporter in 2022, outpacing Australia and Qatar.  
+- **Market impact:** Increased U.S. LNG supply and terminal capacity could lead to a greater share in the global market, supporting price stability and demand fulfillment.  
+- **Sentiment contribution:** Bullish — the article emphasizes a favorable outlook driven by operational advances and strong demand.
+
+**[LNG & natural gas] | [No Significant Risk] | Severity: Low**  
+- **Headline:** US becomes world’s top LNG exporter for first time ever  
+- **What happened:** The U.S. overtook Qatar in LNG exports in December 2021 due to increasing deliveries and production growth.  
+- **Market impact:** This shift signifies enhanced market penetration for U.S. LNG in Europe and Asia, potentially buoying prices and demand in these regions.  
+- **Sentiment contribution:** Bullish — validates the U.S.’s strong position in the LNG market against competitors.
+
+**[LNG & natural gas] | [No Significant Risk] | Severity: Low**  
+- **Headline:** We’re #1! U.S. Ends 2021 As World’s Largest LNG Exporter  
+- **What happened:** The U.S. concluded 2021 as the largest LNG exporter, boosted by the shale revolution and capacity expansions.  
+- **Market impact:** This victory in export rankings reinforces the U.S. operational framework, indicating a stable supply environment that could affect pricing positively.  
+- **Sentiment contribution:** Bullish — highlights dominance in LNG output and market potential.
+
+**[Supply (production / upstream)] | [No Significant Risk] | Severity: Low**  
+- **Headline:** After Maharashtra, distributors might boycott HUL & Colgate products in 4 more states  
+- **What happened:** Distributors in India consider boycotting products due to pricing issues between traditional distributors and larger retailers.  
+- **Market impact:** This situation could create marginal indirect pressure on crude oil markets if disrupted supply chains evolve; however, it does not significantly impact the LNG market directly.  
+- **Sentiment contribution:** Neutral — while connected to supply dynamics, it lacks direct implications for LNG prices or availability.
+
+**[Supply (production / upstream)] | [No Significant Risk] | Severity: Low**  
+- **Headline:** A golden opportunity for Calista region  
+- **What happened:** Discusses potential economic growth from the Donlin Gold project, focusing on job creation and infrastructure benefits.  
+- **Market impact:** Although relevant for gold, the information does not correlate directly with LNG market risks, thus maintaining a neutral effect on LNG.  
+- **Sentiment contribution:** Neutral — unrelated to LNG dynamics.
+
+---
+### 3. SIGNAL SYNTHESIS
+The risk signals present a cohesive bullish outlook for the LNG market, underscoring the U.S.’s emerging dominance in LNG exports with no significant adverse signals threatening this momentum. While some articles explore unrelated sectors, the consolidated reports affirm strong operational growth, driven by high demand from global markets. Overall, fundamentals support a positive risk exposure for LNG at this time.
+
+---
+### 4. WATCH LIST
+- [ ] **U.S. LNG export levels** → Monitoring export data will be essential to verify ongoing competitiveness and market share stability.
+- [ ] **Capacity expansions** → Updates on new production facilities and operational efficiencies may influence overall supply levels and market pricing power.
+- [ ] **Economic developments in key markets (Europe, Asia)** → Shifts in demand due to economic factors could alter the dynamics of the LNG market.
+- [ ] **Competitive moves by Qatar and Australia** → Any strategic expansions or price changes could reshape the competitive landscape.
+
+---
+### 5. BOTTOM LINE
+**Risk Level: Low**  
+The outlook for the LNG market is stable and bullish, with the U.S. solidifying its position as a leading exporter. No significant risks are presently identified, though ongoing monitoring of global demand and competitive dynamics will be crucial for future assessments.

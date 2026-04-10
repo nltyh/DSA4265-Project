@@ -1,0 +1,52 @@
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+## COMMODITY RISK REPORT
+**Commodity:** crude oil  
+**Report Date:** 2026-04-10  
+**Articles Analysed:** 5 articles  
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+### 1. OVERALL SENTIMENT
+**Mixed**
+> The overall sentiment is mixed, driven by severe geopolitical tensions impacting oil supply combined with substantial U.S. production that has eased some immediate price concerns.
+
+---
+### 2. KEY RISK SIGNALS
+
+**[Geopolitics & Policy] | [Geopolitical Conflict] | Severity: High**
+- **Headline:** Saudi Arabia Slashes Oil Supply to Asia as War Chokes Export Route
+- **What happened:** Saudi Arabia has reduced crude oil exports to Asia due to a significant geopolitical conflict that has effectively closed the Strait of Hormuz.
+- **Market impact:** The decrease in supply heightens concerns for reliability in crude oil availability, potentially driving up prices due to fears of shortages.
+- **Sentiment contribution:** Bullish — the substantial cut in exports raises immediate supply risks, warranting upward price adjustments.
+
+**[Supply (Production/Upstream)] | [No Significant Risk] | Severity: Low**
+- **Headline:** Oil Prices Ease As US Pulls Out All Stops To Secure Supply
+- **What happened:** Oil prices have slightly decreased despite ongoing geopolitical concerns, indicating U.S. efforts to stabilize domestic supply.
+- **Market impact:** This signals a potential easing in supply-side pressure, which could moderate price increases.
+- **Sentiment contribution:** Neutral — the price pullback suggests market participants are not entirely convinced of sustained upward pressure.
+
+**[Demand/Macro Activity] | [Macro-Economic Cooling] | Severity: Low**
+- **Headline:** U.S. Energy Dominance Agenda Can't Shield Driver From Higher Gasoline Prices
+- **What happened:** Despite high domestic crude production, there is concern over rising gasoline prices driven by external geopolitical tensions.
+- **Market impact:** Higher gasoline prices may dampen consumer demand, impacting overall crude oil demand dynamics.
+- **Sentiment contribution:** Bearish — any forecast of cooling demand can temper overall upward price movements.
+
+**[Financial Flows/Positioning] | [No Significant Risk] | Severity: Low**
+- **Headline:** Oil Plummets 8% as Trump Postpones Hormuz Deadline Threat
+- **What happened:** Market reactions showed a notable decrease in oil prices following U.S. presidential comments alleviating immediate conflict fears.
+- **Market impact:** This implies a more stable outlook for short-term pricing, given the reduction in perceived threat levels.
+- **Sentiment contribution:** Bearish — suggesting that any easing of threats can lead to rapid corrections in price spikes.
+
+---
+### 3. SIGNAL SYNTHESIS
+The risk signals present a complex landscape for crude oil where geopolitical risks due to export reductions are countered by increased U.S. production and temporary price corrections related to geopolitical rhetoric. The sentiment surrounding these factors is mixed; supply disruptions from geopolitical tensions push prices up, while stable U.S. production levels and easing threats lead to bearish sentiments.
+
+---
+### 4. WATCH LIST
+- [ ] Monitor the situation in the Strait of Hormuz → Any reopening of this route could significantly alleviate supply fears and stabilize prices.
+- [ ] Watch for changes in U.S. crude production levels → An increase could shift market dynamics towards a more stable price environment.
+- [ ] Keep an eye on U.S.-Iran relations → Any escalation could lead to renewed fears of supply disruption, impacting the market sharply.
+
+---
+### 5. BOTTOM LINE
+**Risk Level: Medium**
+While there are significant risks from geopolitical conflicts limiting supply, the offsetting factors from U.S. production and stabilization efforts present a complex risk environment. It's crucial to remain vigilant as the situation may evolve rapidly based on geopolitical developments.

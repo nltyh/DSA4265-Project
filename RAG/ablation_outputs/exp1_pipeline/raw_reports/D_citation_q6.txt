@@ -1,0 +1,34 @@
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+## COMMODITY RISK REPORT
+**Commodity:** LNG  
+**Report Date:** 2026-04-10  
+**Articles Analysed:** 1 articles  
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+### 1. OVERALL SENTIMENT
+**Bullish**  
+> The request from Cheniere Energy for an exemption from pollution regulations raises concerns about potential reductions in LNG shipments to Europe, which would impact supply dynamics favorably for prices.
+
+---
+### 2. KEY RISK SIGNALS
+
+**LNG & natural gas | Regulatory Constraint | Severity: High**
+- **Headline:** EXCLUSIVE Top U.S. LNG producer Cheniere asks Biden admin to drop pollution rule
+- **What happened:** Cheniere Energy, the largest U.S. LNG producer, has requested an exemption from a rule limiting emissions, stating that its enforcement could reduce LNG shipments to Europe, complicating energy security as Europe seeks alternatives to Russian energy sources [Article 1].
+- **Market impact:** A reduction in shipments could tighten LNG supply in Europe, potentially leading to increased prices amid existing energy security concerns.
+- **Sentiment contribution:** Bullish — the regulatory pressure suggests a supply constraint, which tends to elevate prices in the market.
+
+---
+### 3. SIGNAL SYNTHESIS
+The risk signals are aligned, reflecting an increasing concern regarding regulatory constraints on LNG producers like Cheniere. This indicates a fundamental tension between environmental regulations and supply stability, contributing to a bullish sentiment in the market due to potential supply reductions.
+
+---
+### 4. WATCH LIST
+- [ ] Outcome of Cheniere's request for exemption → approval could alleviate supply concerns, maintaining or lowering prices.
+- [ ] Changes in U.S. policy regarding environmental regulations impacting LNG production → stricter policies could tighten supply further.
+- [ ] Global demand shifts for LNG, particularly from Europe → increased demand could lead to higher prices if supply levels remain constrained.
+
+---
+### 5. BOTTOM LINE
+**Risk Level: High**  
+The situation poses significant regulatory risks that could impact supply in the near term, creating upward pressure on LNG prices. Risk managers should closely monitor developments regarding Cheniere's exemption request and the broader regulatory environment affecting LNG production.

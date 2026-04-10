@@ -1,0 +1,38 @@
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+## COMMODITY RISK REPORT
+**Commodity:** LNG  
+**Report Date:** 2026-04-10  
+**Articles Analysed:** 5 articles  
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+### 1. OVERALL SENTIMENT
+**Bearish**
+> The dominant signal is bearish, driven by a significant decline in global LNG exports due to the closure of the Strait of Hormuz, which has resulted in supply chain blockages [Article 1].
+
+---
+
+### 2. KEY RISK SIGNALS
+
+**LNG & Natural Gas | Supply Chain Blockage | Severity: High**
+- **Headline:** LNG Exports Plunge to 6-Month Low as War Throttles Supply
+- **What happened:** Worldwide LNG exports have fallen to a six-month low, primarily due to the de facto closure of the Strait of Hormuz and an outage at the largest LNG complex in Qatar [Article 1].
+- **Market impact:** This supply chain blockage is likely to constrain LNG supply globally, pushing prices upward due to tight availability.
+- **Sentiment contribution:** Bearish — the significant drop in exports indicates weakening supply, impacting market confidence.
+
+---
+
+### 3. SIGNAL SYNTHESIS
+The risk signals are aligned in indicating a bearish trend for LNG, primarily due to the substantial supply chain blockage. The situation is fundamentally driven by geopolitical issues affecting the Strait of Hormuz, which is critical for LNG exports. Current risks contribute to a heightened exposure in terms of availability and pricing.
+
+---
+
+### 4. WATCH LIST
+- [ ] **Resolution of conflicts around the Strait of Hormuz** → If shipping routes reopen, it could stabilize or reduce LNG prices.
+- [ ] **Recovery of operations at Qatar's LNG complex** → This would improve supply levels and may lead to price adjustments in the market.
+- [ ] **Monitoring global LNG demand shifts** → An increase in demand, amid restricted supply, could further elevate prices.
+
+---
+
+### 5. BOTTOM LINE
+**Risk Level: High**  
+The current risk exposure for LNG is high due to significant supply chain blockages caused by geopolitical events. Risk managers should closely monitor developments in the region, as any resolution could shift market dynamics.

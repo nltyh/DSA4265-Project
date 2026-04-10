@@ -1,0 +1,62 @@
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+## COMMODITY RISK REPORT
+**Commodity:** diesel  
+**Report Date:** 2026-04-10  
+**Articles Analysed:** 5 articles  
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+### 1. OVERALL SENTIMENT
+**Bullish**  
+The market sentiment is predominantly bullish due to significant geopolitical tensions leading to rising global fuel prices, particularly diesel, influenced by the ongoing Middle East conflict [Article 3, 4].
+
+---
+
+### 2. KEY RISK SIGNALS
+
+**Geopolitics & Policy | Regulatory Constraint | Severity: High**  
+- **Headline:** Bangladesh Seeks U.S. Waiver for Russian Diesel as IMF Warns of Energy Shock  
+- **What happened:** Bangladesh has requested a temporary sanctions waiver from the U.S. to import 600,000 metric tonnes of Russian diesel amid an intensifying energy crisis [Article 1].  
+- **Market impact:** This could alleviate local supply shortages but highlights regulatory risks that could impact supply stability.  
+- **Sentiment contribution:** Bullish — as this move might secure crucial diesel supplies, easing regional pressures.
+
+---
+
+**Geopolitics & Policy | No Significant Risk | Severity: Low**  
+- **Headline:** China Sends Fuel to Struggling Southeast Asia Despite Export Ban  
+- **What happened:** China is providing diesel and other fuels to Southeast Asia, despite an export ban, aimed at diplomatic leverage in the region [Article 2].  
+- **Market impact:** This indicates that regional fuel supply chains may remain operational, mitigating immediate supply shocks.  
+- **Sentiment contribution:** Neutral — while it helps local markets, the ban remains in effect, limiting higher exports.
+
+---
+
+**Demand/Macro Activity | Inventory Shock | Severity: Medium**  
+- **Headline:** Global Fuel Prices Are Surging as the Middle East War Hits Consumers  
+- **What happened:** Oil price surges due to conflict have led to fuel price increases globally, including diesel, with spikes between 5% and 80% reported across various markets [Article 3].  
+- **Market impact:** Elevated prices may reduce demand elasticity, negatively impacting consumption in price-sensitive markets.  
+- **Sentiment contribution:** Bearish — price increases may lead to demand reduction.
+
+---
+
+**Geopolitics & Policy | Geopolitical Conflict | Severity: High**  
+- **Headline:** Oil Set to Book Record Monthly Gain on Iran Crisis  
+- **What happened:** The ongoing crisis in the Middle East, particularly events involving Iran, has driven a significant increase in oil prices, influencing fuels like diesel [Article 4].  
+- **Market impact:** Increased crude prices directly impact diesel costs, further straining consumers and altering demand patterns.  
+- **Sentiment contribution:** Bullish — rising crude prices typically reflect increased costs in derived products like diesel.
+
+---
+
+### 3. SIGNAL SYNTHESIS
+The signals present both bullish and bearish influences. The regulatory constraints on diesel in Bangladesh and heightened geopolitical tensions contribute to a bullish outlook, as they imply heightened prices and urgency in securing supplies. However, the rising fuel prices may lead to demand destruction in sensitive markets, creating bearish sentiments in some regions. Overall, the risks appear confirmed by current geopolitical fundamentals, leading to an elevated risk exposure.
+
+---
+
+### 4. WATCH LIST
+- [ ] **U.S. Response to Bangladesh’s Waiver Request** → A favorable U.S. response could stabilize supplies in South Asia, positively impacting diesel markets.
+- [ ] **Continued Price Increases in Crude** → Sustained increases may further drive up diesel prices, risking consumer demand.
+- [ ] **Resolution of Middle East Conflicts** → Any de-escalation might lead to decreased crude prices, which could alleviate pressure on diesel costs.
+
+---
+
+### 5. BOTTOM LINE
+**Risk Level: High**  
+Traders should be aware of the high risk tied to geopolitical developments impacting diesel supplies and prices. Recent volatility in crude oil prices tied to conflicts underscores the fragility of the market situation, where any escalations could exacerbate existing pressures.

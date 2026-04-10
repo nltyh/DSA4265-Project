@@ -1,0 +1,34 @@
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+## COMMODITY RISK REPORT
+**Commodity:** LNG  
+**Report Date:** 2026-04-10  
+**Articles Analysed:** 1 article  
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+### 1. OVERALL SENTIMENT
+**Bullish**  
+> The request by Cheniere Energy for regulatory exemption suggests potential supply disruptions, which could lead to upward price pressure in the LNG market.
+
+---
+### 2. KEY RISK SIGNALS
+
+**[LNG & Natural Gas] | [Regulatory Constraint] | Severity: High**
+- **Headline:** EXCLUSIVE Top U.S. LNG producer Cheniere asks Biden admin to drop pollution rule
+- **What happened:** Cheniere Energy, the largest LNG producer in the U.S., has requested an exemption from environmental regulations that limit emissions, arguing that adherence would significantly curtail LNG shipments to Europe.
+- **Market impact:** If the exemption is not granted, this could lead to reduced LNG availability for export, impacting supply to Europe and potentially raising prices in the global LNG market as alternatives are limited.
+- **Sentiment contribution:** Bullish — concerns about supply restrictions given the geopolitical context and energy needs of Europe amidst ongoing tensions with Russia.
+
+---
+### 3. SIGNAL SYNTHESIS
+The risk signal is clear and strongly aligned; the regulatory constraint placed on LNG exports is viewed negatively by producers and could lead to supply issues. The sentiment appears to be driven by the fundamentals of supply-demand dynamics, with the potential for a price increase if exports are hindered.
+
+---
+### 4. WATCH LIST
+- [ ] **Outcome of Cheniere's request** → Approval could stabilize current supply levels and mitigate price risks; denial may exacerbate supply tightness.
+- [ ] **Changes in U.S. environmental policy** → New regulations could further complicate the operational landscape for LNG producers, affecting export capabilities.
+- [ ] **European LNG demand fluctuations** → Increased demand from Europe due to geopolitical tensions could stress the limited supply, especially if U.S. exports decline.
+
+---
+### 5. BOTTOM LINE
+**Risk Level: High**  
+The potential for regulatory constraints affecting LNG supply to Europe is a critical concern for risk managers. The situation is currently fragile due to the pending decisions on environmental regulations and the geopolitical landscape.

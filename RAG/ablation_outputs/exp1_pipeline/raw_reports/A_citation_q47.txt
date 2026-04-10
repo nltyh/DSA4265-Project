@@ -1,0 +1,42 @@
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+## COMMODITY RISK REPORT
+**Commodity:** crude oil  
+**Report Date:** 2026-04-10  
+**Articles Analysed:** 5 articles  
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+### 1. OVERALL SENTIMENT
+**Bullish**  
+The dominant signal is bullish due to rising oil prices driven by geopolitical tensions, particularly the standoff over the Strait of Hormuz, which affects supply prospects.
+
+### 2. KEY RISK SIGNALS
+
+**Geopolitics & Policy | Geopolitical Conflict | Severity: High**
+- **Headline:** Brent Surges Past $110 on Iran Rejection  
+- **What happened:** The Iranian government rejected U.S. terms in negotiations, triggering a significant price increase for Brent crude above $110 amid fears of supply disruptions in the Strait of Hormuz [Article 1].  
+- **Market impact:** The geopolitical instability is likely to lead to supply chain blockages and increased crude oil prices, affecting both supply and overall market sentiment.  
+- **Sentiment contribution:** Bullish — the increased tensions are causing traders to anticipate higher prices.
+
+**Financial Flows/Positioning | No Significant Risk | Severity: Low**
+- **Headline:** Oil ETFs: What You Should Know Before You Invest  
+- **What happened:** This article discusses oil ETFs and implies a current overweight recommendation for the energy sector, suggesting confidence in investment despite underlying geopolitical risks [Article 2].  
+- **Market impact:** This represents a stable investment landscape but does not imply significant changes to supply or demand dynamics.  
+- **Sentiment contribution:** Neutral — while recommending investments, it reflects a stable perspective amidst potential volatility.
+
+**Financial Flows/Positioning | No Significant Risk | Severity: Low**
+- **Headline:** Washington Stress-Tests $200 Oil as War Risk Mounts  
+- **What happened:** The U.S. government is analyzing the ramifications of a crude oil price surge to $200 per barrel due to ongoing geopolitical risks, indicated by unnamed officials [Article 3].  
+- **Market impact:** This scenario modeling indicates a recognition of potential future risks but does not currently affect supply chain dynamics.  
+- **Sentiment contribution:** Neutral — it signifies awareness of risk but does not directly impact current market conditions.
+
+### 3. SIGNAL SYNTHESIS
+The risk signals mainly reflect an alignment of heightened geopolitical concerns which push the market sentiment towards bullish. However, there are also indicators of stability in investment behavior suggesting that some traders are factoring the geopolitical risks into their long-term strategies. Overall, the net effect increases commodity risk exposure in the short term.
+
+### 4. WATCH LIST
+- [ ] **Strait of Hormuz Closure** → If the Strait is closed, this would significantly disrupt oil supply routes, likely pushing prices even higher.
+- [ ] **Iran-U.S. Negotiation Outcomes** → Any breakthroughs in negotiations could stabilize prices, while further rejections may exacerbate volatility.
+- [ ] **New Sanctions on Iran** → Imposition of additional sanctions could trigger further geopolitical conflicts leading to supply disruptions.
+
+### 5. BOTTOM LINE
+**Risk Level: High**  
+The current geopolitical situation surrounding Iran poses a high risk to crude oil supply chains, potentially causing significant price fluctuations. Risk managers should closely monitor developments in the Strait of Hormuz and U.S.-Iran negotiations for potential impacts on market dynamics.

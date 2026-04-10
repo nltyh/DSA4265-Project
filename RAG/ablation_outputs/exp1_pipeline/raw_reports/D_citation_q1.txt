@@ -1,0 +1,34 @@
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+## COMMODITY RISK REPORT
+**Commodity:** crude oil  
+**Report Date:** 2026-04-10  
+**Articles Analysed:** 1 articles  
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+### 1. OVERALL SENTIMENT
+**Bullish**  
+> The sentiment is bullish due to the surge in oil prices, reaching nearly $100 a barrel, following the military actions in Ukraine, which create significant geopolitical tensions and uncertainty in the market.
+
+---
+### 2. KEY RISK SIGNALS
+
+**Geopolitics & Policy | Geopolitical Conflict | Severity: High**
+- **Headline:** Russian Military Action In Ukraine Causes Oil Prices To Soar
+- **What happened:** Following the attack on Ukraine by Russia, oil prices surged to nearly $100 a barrel, causing market volatility, particularly in Asia and Europe.
+- **Market impact:** The geopolitical conflict is likely to lead to supply disruptions and heightened uncertainty in the oil market, pushing prices higher due to perceived supply risks.
+- **Sentiment contribution:** Bullish — the spike in prices reflects market reactions to increased geopolitical tensions and potential supply chain disruptions [Article 1].
+
+---
+### 3. SIGNAL SYNTHESIS
+The signals are aligned; the geopolitical conflict is a singular source of risk that is confirmed by market reactions. The bullish sentiment is primarily driven by the immediate impact of geopolitical tensions rather than underlying fundamentals, indicating a high risk exposure in the crude oil market.
+
+---
+### 4. WATCH LIST
+- [ ] Developments in military actions or negotiations between Russia and Ukraine → Significant escalation could lead to further price increases.
+- [ ] Sanctions imposed on Russia by Western nations → Would impact oil supply and prices further.
+- [ ] Stock market reactions in response to ongoing military developments → Increased volatility could influence trader sentiment and pricing.
+
+---
+### 5. BOTTOM LINE
+**Risk Level: High**  
+The current sentiment and external geopolitical factors present significant risk in the crude oil market. Traders should remain cautious due to potential supply disruptions stemming from the conflict in Ukraine and its subsequent ramifications on prices.

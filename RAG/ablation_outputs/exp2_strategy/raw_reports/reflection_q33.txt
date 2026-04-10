@@ -1,0 +1,58 @@
+## COMMODITY RISK REPORT
+**Commodity:** diesel  
+**Report Date:** 2026-04-10  
+**Articles Analysed:** 5 articles  
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+### 1. OVERALL SENTIMENT
+**Mixed**
+> The market sentiment for diesel is mixed due to contrasting developments; while regulatory constraints and geopolitical conflicts signal potential supply disruptions, short-term alleviations from export actions and tax cuts could provide a buffer.
+
+---
+### 2. KEY RISK SIGNALS
+
+**Geopolitics & policy | Regulatory Constraint | Severity: High**  
+- **Headline:** Bangladesh Seeks U.S. Waiver for Russian Diesel as IMF Warns of Energy Shock  
+- **What happened:** Bangladesh is requesting a waiver from the U.S. to import 600,000 metric tonnes of Russian diesel amid an energy crisis.  
+- **Market impact:** This regulatory barrier could significantly limit supply options for Bangladesh, potentially escalating fuel prices regionally.  
+- **Sentiment contribution:** Bullish — due to the concern over supply constraints.
+
+**Geopolitics & policy | No Significant Risk | Severity: Low**  
+- **Headline:** China Sends Fuel to Struggling Southeast Asia Despite Export Ban  
+- **What happened:** China has delivered diesel to Southeast Asia, despite a recent export ban.  
+- **Market impact:** This action alleviates some regional demand pressures, albeit superficially.  
+- **Sentiment contribution:** Neutral — as this does not fundamentally alter the market dynamics.
+
+**Demand / macro activity | Inventory Shock | Severity: Medium**  
+- **Headline:** Global Fuel Prices Are Surging as the Middle East War Hits Consumers  
+- **What happened:** Fuel prices have surged globally due to rising oil prices from geopolitical tensions.  
+- **Market impact:** Increasing retail prices can lead to tighter budgets for consumers, potentially affecting overall demand.  
+- **Sentiment contribution:** Bearish — as higher prices may limit consumption.
+
+**Geopolitics & policy | Regulatory Constraint | Severity: Medium**  
+- **Headline:** Australia Cuts Fuel Tax in Half as Middle East War Squeezes Supply  
+- **What happened:** The Australian government is halving fuel excise to relieve financial pressure from rising fuel prices.  
+- **Market impact:** This could stimulate short-term demand in Australia, countering some supply constraints.  
+- **Sentiment contribution:** Bearish — as the tax cut may encourage consumption amidst rising prices.
+
+**Geopolitics & policy | Geopolitical Conflict | Severity: High**  
+- **Headline:** Oil Set to Book Record Monthly Gain on Iran Crisis  
+- **What happened:** The ongoing conflict related to the Iranian crisis is causing significant oil price increases.  
+- **Market impact:** A dramatic increase in oil prices would likely also escalate diesel prices, impacting supply chains.  
+- **Sentiment contribution:** Bullish — due to heightened risks in the market.
+
+---
+### 3. SIGNAL SYNTHESIS
+The risk signals identified show both alignment and contradiction. High fuel prices driven by geopolitical conflicts and regulatory constraints in Bangladesh suggest significant risks, while China's fuel deliveries provide some short-term relief. The bearish sentiment from demand shocks due to price increases contrasts with bullish indicators from regulatory issues, creating a mixed overall sentiment.
+
+---
+### 4. WATCH LIST
+- [ ] Monitor U.S. response to Bangladesh's waiver request → If granted, it could ease pressure while if denied, lead to significant supply issues.
+- [ ] Observe the continuation of China's fuel deliveries to Southeast Asia → If they continue, it may mitigate regional shortages.
+- [ ] Track global oil price movements related to Middle East tensions → Further increases could drive diesel prices even higher.
+- [ ] Watch for any changes in Australian fuel tax policy → A reversion could impact local supply and demand dynamics.
+
+---
+### 5. BOTTOM LINE
+**Risk Level: High**  
+The situation remains precarious for diesel, particularly due to regulatory constraints and geopolitical instability affecting pricing and supply. Key developments need monitoring as the balance of risk factors continues to evolve.

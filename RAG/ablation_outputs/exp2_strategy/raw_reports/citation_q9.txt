@@ -1,0 +1,54 @@
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+## COMMODITY RISK REPORT
+**Commodity:** crude oil  
+**Report Date:** 2026-04-10  
+**Articles Analysed:** 5 articles  
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+### 1. OVERALL SENTIMENT
+**Bearish**  
+> Despite significant geopolitical tensions impacting supply, the market is currently expressing bearish sentiment primarily due to expectations of increased production and stable pricing in the U.S. and India, which counteract the concerns raised by Saudi Arabia's export reductions and ongoing geopolitical conflicts.
+
+---
+
+### 2. KEY RISK SIGNALS
+
+**Geopolitics & Policy | Geopolitical Conflict | Severity: High**  
+- **Headline:** Saudi Arabia Slashes Oil Supply to Asia as War Chokes Export Route  
+- **What happened:** Saudi Arabia plans to cut crude oil exports to Asia for a second consecutive month due to the closure of the Strait of Hormuz, significantly affecting supply routes.  
+- **Market impact:** This reduction complicates supply dynamics, potentially driving prices higher due to limited availability under geopolitical stress.  
+- **Sentiment contribution:** Bullish — the disruption in exports typically leads to a rally in oil prices due to fears of further supply constraints [Article 1].
+
+---
+
+**Demand/Macro Activity | No Significant Risk | Severity: Low**  
+- **Headline:** India Holds Fuel Prices Steady Even as Oil Basket Soars Above $155  
+- **What happened:** India's retail fuel prices remain stable despite a surge in global oil prices to over $155 per barrel.  
+- **Market impact:** Stable prices in the face of rising costs indicate government intervention, which may dampen immediate price volatility.  
+- **Sentiment contribution:** Bearish — the intervention suggests that high prices are not yet being passed through to consumers, potentially signaling an oversupply or eased demand [Article 2].
+
+---
+
+**Financial Flows/Positioning | No Significant Risk | Severity: Low**  
+- **Headline:** Oil Plummets 8% as Trump Postpones Hormuz Deadline Threat  
+- **What happened:** Oil prices dropped significantly following positive diplomatic statements regarding negotiations between the U.S. and Iran, leading to reduced tensions in the region.  
+- **Market impact:** The price drop suggests that market participants are responding to diplomatic signals more than to supply disruptions, somewhat alleviating immediate concerns.  
+- **Sentiment contribution:** Bearish — positive diplomatic developments generally reduce risk premiums built into prices [Article 3].
+
+---
+
+### 3. SIGNAL SYNTHESIS
+The risk signals present a mixed picture for crude oil. The geopolitical conflict suggests a bullish risk due to potential supply constraints, yet bearish signals from stable fuel prices in India and a substantial drop in prices following U.S. diplomatic engagement indicate a complex market response. The prevailing bearish sentiment is shaped more by fundamentals and market expectations than by immediate geopolitical risks.
+
+---
+
+### 4. WATCH LIST
+- [ ] **Changes in U.S.-Iran diplomatic relations** → Positive developments could further depress prices while escalation could lead to spikes.
+- [ ] **Saudi Arabia's future export decisions** → Further cuts could dramatize supply constraints, impacting prices significantly.
+- [ ] **Global oil demand signals post-COVID** → Any shifts in demand post-recovery could influence pricing dynamics heavily.
+
+---
+
+### 5. BOTTOM LINE
+**Risk Level: Medium**  
+Traders should be cautious as geopolitical risks coexist with stable pricing dynamics in major markets. The mixed signals from supply disruptions and demand stabilization suggest neither extreme bearish nor bullish exposure is warranted at this time. The signals are somewhat fragile; heightened anxieties could resurface if tensions escalate further.

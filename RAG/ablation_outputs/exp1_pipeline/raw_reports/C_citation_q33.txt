@@ -1,0 +1,36 @@
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+## COMMODITY RISK REPORT
+**Commodity:** diesel  
+**Report Date:** 2026-04-10  
+**Articles Analysed:** 5 articles  
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+### 1. OVERALL SENTIMENT
+**Bullish**  
+The dominant sentiment for diesel is bullish, driven by increasing prices due to geopolitical conflicts and Bangladesh's request for a waiver to import Russian diesel amid an energy crisis, indicating robust demand against potential supply limitations.
+
+### 2. KEY RISK SIGNALS
+
+**Geopolitics & Policy | Regulatory Constraint | Severity: High**
+- **Headline:** Bangladesh Seeks U.S. Waiver for Russian Diesel as IMF Warns of Energy Shock
+- **What happened:** Bangladesh is requesting a temporary sanctions waiver from the U.S. to import approximately 600,000 metric tonnes of Russian diesel to address a worsening energy crisis [Article 1].
+- **Market impact:** This could create instability in diesel supply, increasing reliance on foreign imports and amplifying price volatility.
+- **Sentiment contribution:** Bullish — The necessity for a waiver reflects significant demand amid internal supply challenges, driving prices upward.
+
+**Demand / Macro Activity | Inventory Shock | Severity: Medium**
+- **Headline:** Global Fuel Prices Are Surging as the Middle East War Hits Consumers
+- **What happened:** Fuel prices are rising globally due to increased oil prices linked to the ongoing conflict in the Middle East, with notable price hikes for diesel between 5% and 80% reported [Article 3].
+- **Market impact:** Rising prices indicate strong consumer demand, potentially reflecting tighter diesel supply conditions.
+- **Sentiment contribution:** Bullish — The widespread price increase strengthens the perception of a supply-demand imbalance in the market.
+
+### 3. SIGNAL SYNTHESIS
+The risk signals are generally aligned, pointing towards a bullish outlook for diesel driven by geopolitical tensions and regulatory constraints impacting supply. The fundamental factors of reduced supply and increased demand are confirmed by market dynamics observed in the recent price surges. Overall, the current risk exposure for diesel is heightened.
+
+### 4. WATCH LIST
+- [ ] Monitor the U.S. response to Bangladesh's waiver request → A denial could exacerbate diesel shortages, influencing prices further.
+- [ ] Track developments in Middle Eastern conflicts → Escalation could lead to even higher oil prices, thereby impacting diesel pricing.
+- [ ] Observe global retail fuel price trends → Continued surges could indicate deepening supply shocks.
+
+### 5. BOTTOM LINE
+**Risk Level: High**  
+The situation presents a high risk level for diesel as regulatory and geopolitical factors converge, creating potential supply shortages and price spikes. Risk managers should remain vigilant to developments in both foreign policy and market prices, as current conditions can rapidly shift.

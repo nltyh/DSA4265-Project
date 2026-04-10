@@ -1,0 +1,52 @@
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+## COMMODITY RISK REPORT
+**Commodity:** crude oil  
+**Report Date:** 2026-04-10  
+**Articles Analysed:** 5 articles  
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+### 1. OVERALL SENTIMENT
+**Bullish**
+> Oil prices are considerably influenced by geopolitical tensions involving Iran and the Middle East, as well as infrastructural disruptions, leading to strong upward pressure on prices.
+
+---
+### 2. KEY RISK SIGNALS
+
+**Geopolitics & Policy | Geopolitical Conflict | Severity: High**
+- **Headline:** Oil Set to Book Record Monthly Gain on Iran Crisis
+- **What happened:** Houthi attacks on Israel and tensions over Iran have significantly escalated, impacting global oil markets.
+- **Market impact:** Increased prices due to supply concerns and geopolitical uncertainty.
+- **Sentiment contribution:** Bullish — geopolitical instability signals heightened risk premiums.
+
+**Geopolitics & Policy | Geopolitical Conflict | Severity: High**
+- **Headline:** Brent Surges Past $110 on Iran Rejection
+- **What happened:** Negotiations over the Strait of Hormuz have stalled, resulting in a substantial rise in Brent prices.
+- **Market impact:** Potential bottlenecks at a key global chokepoint, pushing prices higher.
+- **Sentiment contribution:** Bullish — supply disruptions potential increases market anxiety.
+
+**Accidents / Disruptions | Infrastructure Damage | Severity: Medium**
+- **Headline:** Second Tanker Hit in Weeks as Black Sea Drone Strikes Russian Oil Cargo
+- **What happened:** A Russian oil tanker was hit by a marine drone in the Black Sea, exacerbating transport risks.
+- **Market impact:** Possible supply chain disruptions influencing volatility.
+- **Sentiment contribution:** Bullish — ongoing disruptions can tighten supplies further.
+
+**Geopolitics & Policy | Geopolitical Conflict | Severity: Medium**
+- **Headline:** Oil Traders Caught Between Diplomacy and Disruption Risk
+- **What happened:** U.S.-Iran diplomatic strains create volatility in the WTI markets.
+- **Market impact:** Price swings persist, influenced by geopolitical affairs.
+- **Sentiment contribution:** Bullish — periodic tension raises risk premiums.
+
+---
+### 3. SIGNAL SYNTHESIS
+The risk signals are aligned, further emphasizing an overall bullish sentiment driven by geopolitical conflicts and infrastructure vulnerabilities. The risks are fundamentally backed by concrete geopolitical events and disruptions rather than speculative positions. The net effect points towards heightened commodity risk exposure as geopolitical tensions and tactical events continue to exert pressure on crude oil supply chains.
+
+---
+### 4. WATCH LIST
+- [ ] Further escalation of Middle East conflicts → Potential for increased oil price spikes.
+- [ ] Changes in Strait of Hormuz negotiations → Could drastically impact oil transport routes.
+- [ ] Reactions from key oil-producing countries → Policy shifts can alter global supply balance.
+
+---
+### 5. BOTTOM LINE
+**Risk Level: High**  
+Crude oil markets are under significant upward pressure due to geopolitical conflicts and infrastructural disruptions. Risk managers should be prepared for further volatility and price increases, keeping an eye on any developments in geopolitical landscapes that might alter current trends.

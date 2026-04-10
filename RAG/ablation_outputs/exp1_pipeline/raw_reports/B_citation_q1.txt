@@ -1,0 +1,34 @@
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+## COMMODITY RISK REPORT
+**Commodity:** crude oil  
+**Report Date:** 2026-04-10  
+**Articles Analysed:** 1 article  
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+### 1. OVERALL SENTIMENT
+**Bullish**  
+The sentiment is predominantly bullish due to the significant rise in oil prices, nearing $100 a barrel, following the geopolitical turmoil from Russia's military actions in Ukraine [Article 1].
+
+---
+### 2. KEY RISK SIGNALS
+
+**Geopolitics & Policy | Geopolitical Conflict | Severity: High**
+- **Headline:** Russian Military Action In Ukraine Causes Oil Prices To Soar
+- **What happened:** Following Russia's military attack on Ukraine, oil prices surged significantly, approaching $100 per barrel, while Asian and European stock markets experienced a decline [Article 1].
+- **Market impact:** This event indicates a substantial increase in oil prices, driven by fears of supply disruptions stemming from geopolitical instability.
+- **Sentiment contribution:** Bullish — the significant spike in prices reflects market concern and reaction to the geopolitical conflict, suggesting traders anticipate further risks to supply.
+
+---
+### 3. SIGNAL SYNTHESIS
+The risk signals are aligned with a clear bullish sentiment primarily driven by geopolitical factors. The market reaction indicates that the conflict has confirmed fears over potential supply disruptions, with traders reacting to the heightened risk environment. The net effect suggests an increased risk exposure for crude oil under current geopolitical conditions.
+
+---
+### 4. WATCH LIST
+- [ ] Developments in Ukraine → An escalation or resolution of the conflict could significantly impact oil prices.
+- [ ] Sanction announcements against Russia → New sanctions may further affect oil supply and pricing structures.
+- [ ] Responses from OPEC+ and oil producers → Indications of production adjustments in response to price changes could shift market dynamics.
+
+---
+### 5. BOTTOM LINE
+**Risk Level: High**  
+The current geopolitical landscape indicates a pronounced risk for crude oil, driven by conflict in Ukraine. Risk managers should closely monitor developments in this area, as any changes could swiftly impact market stability and pricing dynamics.

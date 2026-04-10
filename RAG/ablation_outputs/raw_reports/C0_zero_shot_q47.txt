@@ -1,0 +1,46 @@
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+## COMMODITY RISK REPORT
+**Commodity:** crude oil
+**Report Date:** 2026-04-10
+**Articles Analysed:** 5 articles
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+### 1. OVERALL SENTIMENT
+**Mixed**
+> The overall sentiment is mixed due to geopolitical tensions driving bullish sentiment (e.g., Strait of Hormuz tensions), juxtaposed with neutral insights from financial positioning and supply fundamentals.
+
+---
+### 2. KEY RISK SIGNALS
+
+**Geopolitics & Policy | Geopolitical Conflict | Severity: High**
+- **Headline:** Brent Surges Past $110 on Iran Rejection
+- **What happened:** Iran's rejection of U.S. terms concerning the Strait of Hormuz led to a standoff, significantly impacting oil prices.
+- **Market impact:** The tension threatens disruption of a critical supply route, pushing Brent prices above $110.
+- **Sentiment contribution:** Bullish — The conflict risks supply constraints, propelling prices upward.
+
+**Financial Flows/Positioning | No Significant Risk | Severity: Low**
+- **Headline:** Oil ETFs: What You Should Know Before You Invest
+- **What happened:** Overview and analysis of oil ETFs with focus on energy sector opportunities without highlighting immediate risks.
+- **Market impact:** Encourages investment flows into oil markets, providing stability.
+- **Sentiment contribution:** Neutral — Does not directly affect supply but indicates steady financial interest.
+
+**Financial Flows/Positioning | No Significant Risk | Severity: Low**
+- **Headline:** Washington Stress-Tests $200 Oil as War Risk Mounts
+- **What happened:** The U.S. is modeling scenarios for potential $200 oil, assessing economic impacts if geopolitical risks escalate.
+- **Market impact:** The scenario planning indicates concern but no immediate effect on current oil supply or pricing.
+- **Sentiment contribution:** Neutral — Contingency planning hints at economic caution but does not affect current market dynamics.
+
+---
+### 3. SIGNAL SYNTHESIS
+The risk signals are mixed, with a high-severity geopolitical risk contrasted by low severity signals in financial flows. The geopolitical conflict signal emphasizes potential supply-side constraints, crucial for ongoing price dynamics, while financial flows suggest steadying, with no immediate financial disruption to the commodity.
+
+---
+### 4. WATCH LIST
+- [ ] Iran-U.S. negotiations → Resolution could alleviate Strait of Hormuz tensions.
+- [ ] Gulf of Hormuz security developments → Any escalation could impact global oil flows.
+- [ ] Economic impact of potential $200 oil planning → Wider economic implications could affect demand.
+
+---
+### 5. BOTTOM LINE
+**Risk Level: Medium**
+Geopolitical tensions present a significant risk to the oil supply chain, with potential for severe disruption. However, financial market signals and planning mitigate immediate concerns, making the risk medium with a watch on geopolitical developments for future shifts.

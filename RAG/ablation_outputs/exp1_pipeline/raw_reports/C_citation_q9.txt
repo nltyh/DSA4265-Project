@@ -1,0 +1,52 @@
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+## COMMODITY RISK REPORT
+**Commodity:** crude oil  
+**Report Date:** 2026-04-10  
+**Articles Analysed:** 5 articles  
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+### 1. OVERALL SENTIMENT
+**Mixed**  
+The overall sentiment is mixed due to conflicting signals: the geopolitical conflict affecting supply from Saudi Arabia is bullish for prices, while the recent statements by the U.S. President have settled the market slightly, leading to reductions in oil prices.
+
+---
+### 2. KEY RISK SIGNALS
+
+**Geopolitics & Policy | Geopolitical Conflict | Severity: High**
+- **Headline:** Saudi Arabia Slashes Oil Supply to Asia as War Chokes Export Route
+- **What happened:** Saudi Arabia is reducing crude oil exports to Asia due to a conflict that has effectively closed the Strait of Hormuz, impacting supply chains for oil exportation [Article 1].
+- **Market impact:** This reduction signals potential supply shortages, which can drive prices up in the short to medium term.
+- **Sentiment contribution:** Bullish — the expectation of reduced supply typically leads to price increases.
+
+**Financial Flows/Positioning | No Significant Risk | Severity: Low**
+- **Headline:** Oil Plummets 8% as Trump Postpones Hormuz Deadline Threat
+- **What happened:** Brent crude oil prices dropped by over 8% following statements by U.S. President Trump regarding positive discussions with Iran [Article 2].
+- **Market impact:** The reduction in tension may stabilize prices, but the earlier supply disruption still looms large.
+- **Sentiment contribution:** Bearish — the market viewed this news as a buffer against potential price spikes due to geopolitical conflicts.
+
+**Demand/Macro Activity | No Significant Risk | Severity: Low**
+- **Headline:** India Holds Fuel Prices Steady Even as Oil Basket Soars Above $155
+- **What happened:** Indian retail fuel prices remain stable despite a significant rise in the global oil price basket [Article 3].
+- **Market impact:** Stability in local fuel pricing can lead to steady demand, but does not significantly impact broader supply issues.
+- **Sentiment contribution:** Neutral — while demand might appear stable, external factors of price movements are more significant.
+
+**Supply (Production/Upstream) | Macro-Economic Cooling | Severity: Medium**
+- **Headline:** U.S. Energy Dominance Agenda Can't Shield Driver From Higher Gasoline Prices
+- **What happened:** Despite increased production from the U.S., gasoline prices are still rising due to various conflicting market pressures [Article 4].
+- **Market impact:** This suggests underlying issues in the market that could inflate prices despite production increases.
+- **Sentiment contribution:** Bearish — regardless of domestic production levels, external factors are driving prices up.
+
+---
+### 3. SIGNAL SYNTHESIS
+The risk signals present are both aligned and contradictory. The geopolitical risk from Saudi supply cuts is a major bullish factor; however, relief from potential conflict as indicated by U.S. diplomatic discussions has a bearish effect. This creates a complex risk environment where supply risks are potentially offset by the easing of geopolitical tensions.
+
+---
+### 4. WATCH LIST
+- [ ] **Developments in the Strait of Hormuz →** Any changes in conflict that could further impact Saudi exports will likely influence pricing significantly.
+- [ ] **OPEC+ production decisions →** Adjustments in quotas could affect global supply and influence prices upward or downward.
+- [ ] **U.S. gasoline price trends →** Rising or falling gas prices could indicate broader market pressures impacting crude oil demand.
+
+---
+### 5. BOTTOM LINE
+**Risk Level: Medium**  
+Crude oil's risk profile is characterized by heightened geopolitical tensions counterbalanced by tentative diplomatic progress. Traders should remain vigilant for developments in both supply constraints from Saudi Arabia and market reactions to geopolitical discussions, as these will heavily dictate price movements in the coming days.

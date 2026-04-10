@@ -1,0 +1,34 @@
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+## COMMODITY RISK REPORT
+**Commodity:** crude oil  
+**Report Date:** 2026-04-10  
+**Articles Analysed:** 1 articles  
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+### 1. OVERALL SENTIMENT
+**Bearish**  
+> The reaction to Shell's decision to stop purchasing Russian oil is likely to dampen market confidence, as it reflects geopolitical tensions that can adversely affect global oil supply.
+
+---
+### 2. KEY RISK SIGNALS
+
+**Geopolitics & Policy | Geopolitical Conflict | Severity: High**  
+- **Headline:** Shell Says It Will Stop Buying Russian Oil, Natural Gas  
+- **What happened:** Shell has announced its cessation of purchasing Russian oil and natural gas amidst rising global oil prices and criticism from Ukraine's foreign minister.  
+- **Market impact:** This decision signals potential supply disruptions which could exacerbate existing pressures on oil prices.  
+- **Sentiment contribution:** Bearish — as the geopolitical tensions surrounding Russian energy are likely to create uncertainty and potentially reduce supplies in the market.
+
+---
+### 3. SIGNAL SYNTHESIS
+The sole risk signal identified is aligned in its indication of increasing geopolitical tensions affecting crude oil supply. The bearish sentiment indicated is rooted in real geopolitical developments, confirming that risk exposure in the crude oil market is heightened due to expected disruptions.
+
+---
+### 4. WATCH LIST
+- [ ] Monitoring further announcements from other major oil companies regarding their stance on Russian oil → would impact market supply dynamics.
+- [ ] Observing any escalations in geopolitical tensions in Ukraine → could lead to further sanctions and supply limitations.
+- [ ] Tracking crude oil price movements in response to potential new sanctions or policy changes → would indicate market reactions to funding instability.
+
+---
+### 5. BOTTOM LINE
+**Risk Level: High**  
+The most important takeaway for a risk manager is the high potential for market disruptions due to geopolitical conflict impacting oil supply, leading to increased price volatility. These signals are confirmed by current geopolitical events and are likely to maintain their weight in the market sentiment.

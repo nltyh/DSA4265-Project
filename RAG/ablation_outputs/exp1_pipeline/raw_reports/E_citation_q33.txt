@@ -1,0 +1,48 @@
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+## COMMODITY RISK REPORT
+**Commodity:** diesel  
+**Report Date:** 2026-04-10  
+**Articles Analysed:** 5 articles  
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+### 1. OVERALL SENTIMENT
+**Bullish**  
+The dominant sentiment is bullish due to increased diesel demand triggered by regulatory constraints and global fuel price hikes linked to geopolitical tensions, particularly in the Middle East.
+
+### 2. KEY RISK SIGNALS
+
+**Geopolitics & policy | Regulatory Constraint | Severity: High**
+- **Headline:** Bangladesh Seeks U.S. Waiver for Russian Diesel as IMF Warns of Energy Shock
+- **What happened:** Bangladesh has requested a temporary sanctions waiver from the U.S. to import 600,000 metric tonnes of Russian diesel amid an energy crisis [Article 1].
+- **Market impact:** This regulatory effort could indicate heightened demand for diesel, potentially impacting supply and prices as the country seeks to stabilize its energy needs.
+- **Sentiment contribution:** Bullish — the action suggests an urgent demand for diesel that could pressure prices upward.
+
+**Geopolitics & policy | No Significant Risk | Severity: Low**
+- **Headline:** China Sends Fuel to Struggling Southeast Asia Despite Export Ban
+- **What happened:** China has delivered diesel and other fuels to Southeast Asia despite an export ban, aiming to alleviate regional energy needs [Article 2].
+- **Market impact:** This could help manage some short-term supply issues in the region, dampening potential price surges.
+- **Sentiment contribution:** Neutral — while the action alleviates some pressure, it is not significant enough to influence overall price trends.
+
+**Demand / macro activity | Inventory Shock | Severity: Medium**
+- **Headline:** Global Fuel Prices Are Surging as the Middle East War Hits Consumers
+- **What happened:** The ongoing conflict in the Middle East has led to significant increases in global fuel prices, including diesel [Article 3].
+- **Market impact:** The retail prices of diesel have jumped considerably, suggesting a tightening supply and increasing demand, likely fueling further price expectations.
+- **Sentiment contribution:** Bullish — consumers facing higher prices reflect stronger demand pressures on the market.
+
+**Geopolitics & policy | Regulatory Constraint | Severity: Medium**
+- **Headline:** Australia Cuts Fuel Tax in Half as Middle East War Squeezes Supply
+- **What happened:** The Australian government has halved fuel excise taxes to mitigate the impact of rising fuel prices [Article 5].
+- **Market impact:** This measure is likely to increase diesel consumption in Australia by lessening the financial burden on consumers, impacting overall supply-demand dynamics.
+- **Sentiment contribution:** Bullish — as financial constraints on consumers ease, demand for diesel may increase.
+
+### 3. SIGNAL SYNTHESIS
+The risk signals are generally aligned in suggesting increased demand and regulatory interventions influencing the diesel market. While there is some neutralizing effect from China's actions to alleviate supply within Southeast Asia, the overall context of geopolitical tensions and resulting price hikes supports a firmly bullish sentiment. The market dynamics appear to be both sentiment-driven and confirmed by underlying fundamentals.
+
+### 4. WATCH LIST
+- [ ] Escalation in Middle East conflicts → would likely lead to further spikes in diesel prices.
+- [ ] Outcome of Bangladesh's waiver request → if granted, this could significantly alter supply availability in the region.
+- [ ] Performance of diesel prices in response to Australia's tax reductions → could indicate broader demand trends in the Asia-Pacific region.
+
+### 5. BOTTOM LINE
+**Risk Level: High**  
+The diesel market is experiencing high risk due to urgent demand from regulatory constraints and geopolitical issues driving prices upwards. Risk managers should closely monitor developments in international relations and local regulatory actions, as these will influence future price stability and supply trends.

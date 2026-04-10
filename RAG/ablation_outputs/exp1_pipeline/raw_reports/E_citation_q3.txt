@@ -1,0 +1,34 @@
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+## COMMODITY RISK REPORT
+**Commodity:** crude oil  
+**Report Date:** 2026-04-10  
+**Articles Analysed:** 1 article  
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+### 1. OVERALL SENTIMENT
+**Bearish**  
+> The sentiment is predominantly bearish due to Shell's decision to cease purchasing Russian oil amid rising tension and market concern over geopolitical stability affecting supply [Article 1]. 
+
+---
+### 2. KEY RISK SIGNALS
+
+**Geopolitics & Policy | Geopolitical Conflict | Severity: High**
+- **Headline:** Shell Says It Will Stop Buying Russian Oil, Natural Gas
+- **What happened:** Shell announced its strategic halt in buying Russian oil and natural gas following international criticism and rising oil prices, signifying a significant policy shift [Article 1].
+- **Market impact:** This decision could lead to reduced supply availability in the market, contributing to higher prices and increased volatility as traders react to geopolitical uncertainties.
+- **Sentiment contribution:** Bearish — The market may react negatively to potential supply shifts and the geopolitical ramifications of reduced reliance on Russian energy sources [Article 1].
+
+---
+### 3. SIGNAL SYNTHESIS
+The risk signals presented are aligned in highlighting the geopolitical risks surrounding crude oil. The fragility of the situation is underscored by the direct impacts on supply dynamics from Shell's decision. Thus, the sentiment reflects a bearish response rather than a fundamental demand-side strength, indicating the market is cautious amidst these geopolitical tensions. 
+
+---
+### 4. WATCH LIST
+- [ ] **Further actions by other oil companies against Russian energy** → Would indicate a broader market shift that could exacerbate supply shortages.
+- [ ] **Responses from Russia to sanctions or supply cuts** → Could lead to escalation in conflict or strategic retaliation affecting global prices.
+- [ ] **Global diplomatic efforts for conflict resolution** → Positive outcomes might stabilize market sentiment and supply lines.
+
+---
+### 5. BOTTOM LINE
+**Risk Level: High**  
+The situation is highly fluid, with Shell's strategic decision highlighting significant geopolitical risks that could lead to increased prices and volatility in crude oil markets. Risk management strategies should account for potential supply disruptions stemming from ongoing geopolitical tensions.

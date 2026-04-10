@@ -1,0 +1,42 @@
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+## COMMODITY RISK REPORT
+**Commodity:** diesel  
+**Report Date:** 2026-04-10  
+**Articles Analysed:** 5 articles  
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+### 1. OVERALL SENTIMENT
+**Bullish**  
+> The market sentiment is bullish driven primarily by Bangladesh's request for a sanctions waiver to import Russian diesel to meet its energy crisis needs, indicating a potential increase in demand amid regulatory constraints.
+
+### 2. KEY RISK SIGNALS
+
+**Geopolitics & Policy | Regulatory Constraint | Severity: High**  
+- **Headline:** Bangladesh Seeks U.S. Waiver for Russian Diesel as IMF Warns of Energy Shock  
+- **What happened:** Bangladesh has formally requested a temporary sanctions waiver from the U.S. to import about 600,000 metric tonnes of Russian diesel to address a pressing energy crisis [Article 1].  
+- **Market impact:** This request reflects a dire need for diesel supply, potentially leading to increased demand and price pressures if the waiver is granted.  
+- **Sentiment contribution:** Bullish — the urgency for diesel import despite sanctions illustrates strong demand dynamics.
+
+**Accidents / Disruptions | Infrastructure Damage | Severity: Medium**  
+- **Headline:** Gas Pipeline Explodes in Rural Oklahoma, With Damage But No Injury  
+- **What happened:** A natural gas pipeline explosion resulted in significant flames and power line destruction, impacting supply chains [Article 3].  
+- **Market impact:** Though this incident may disrupt infrastructure, it primarily affects natural gas rather than diesel directly but signals vulnerabilities in energy infrastructure which could affect diesel indirectly.  
+- **Sentiment contribution:** Neutral — the impact on diesel remains less pronounced but highlights potential supply chain risks.
+
+**Refining (Downstream) | No Significant Risk | Severity: Low**  
+- **Headline:** Marathon Petroleum Reports Better-Than-Expected Q4 Earnings  
+- **What happened:** Despite a positive earnings surprise, Marathon Petroleum’s shares faced a slight decline indicating mixed market reactions [Article 5].  
+- **Market impact:** The refining sector appears stable, reducing immediate concerns regarding diesel supply availability.  
+- **Sentiment contribution:** Neutral — although earnings were positive, the decline in shares post-announcement tempers enthusiasm.
+
+### 3. SIGNAL SYNTHESIS
+The risk signals presented show a primarily bullish sentiment from regulatory issues in Bangladesh, amplifying demand risk for diesel. However, the infrastructure damage signals inherent vulnerabilities in the energy sector, creating some concerns about a potential supply shock. The absence of significant risk from refining activities affirms that the market might absorb these disruptions without immediate adverse effects.
+
+### 4. WATCH LIST
+- [ ] **U.S. decision on the sanctions waiver for Russian diesel** → A positive outcome would likely increase diesel supply availability and boost market sentiment.
+- [ ] **Further developments regarding the Oklahoma pipeline explosion investigation** → New findings could indicate long-term infrastructure risks affecting diesel supply chains.
+- [ ] **Changes in global oil prices or related commodities** → Significant shifts could impact diesel prices and overall market dynamics.
+
+### 5. BOTTOM LINE
+**Risk Level: Medium**  
+The primary risk arises from regulatory constraints impacting supply with a bullish sentiment overall; however, infrastructure vulnerabilities are a concern. Risk managers should monitor developments in regulatory approvals closely, as they will strongly influence market dynamics moving forward.

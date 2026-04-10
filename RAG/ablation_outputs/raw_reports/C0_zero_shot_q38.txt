@@ -1,0 +1,40 @@
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+## COMMODITY RISK REPORT
+**Commodity:** LNG  
+**Report Date:** 2026-04-10  
+**Articles Analysed:** 5 articles  
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+### 1. OVERALL SENTIMENT
+**Mixed**
+> European demand for LNG is driving supply chain blockages in Asia, raising prices and supply challenges. However, new supply contracts with Asia may ease these pressures, indicating contradictory forces on demand and supply conditions.
+
+---
+### 2. KEY RISK SIGNALS
+
+**LNG & Natural Gas | Supply Chain Blockage | Severity: High**
+- **Headline:** Europe’s scramble for LNG leaves Asia starving for energy
+- **What happened:** Europe’s increased demand for LNG due to geopolitical pressure is diverting LNG shipments away from Asia, resulting in energy shortages and potential shifts back to nuclear or coal.
+- **Market impact:** This diversions exacerbate supply shortages in Asia, likely raising prices in Asian markets.
+- **Sentiment contribution:** Bullish — for European LNG demand but bearish for Asian supply stability.
+
+**LNG & Natural Gas | Supply (Production/Upstream) | Severity: Low**
+- **Headline:** Cheniere, NextDecade Each Clinch LNG Contracts for Asian Deliveries
+- **What happened:** Cheniere and NextDecade secured long-term contracts to supply LNG to Asia, potentially starting shipments in 2026.
+- **Market impact:** Long-term contracts may secure future supply stability for Asian markets, easing pressure from current supply chain restrictions.
+- **Sentiment contribution:** Neutral — anticipates future relief in supply chain issues, subject to fulfillment.
+
+---
+### 3. SIGNAL SYNTHESIS
+Risk signals are contradictory with the current supply chain blockage due to redirected shipments to Europe causing immediate supply stress and price hikes in Asia, while newly secured contracts for future LNG supply aim to mitigate these challenges over the long term. The sentiment is driven by both immediate geopolitical pressures affecting markets now and expectations of future supply changes. The net risk currently remains high due to immediate shortages affecting Asian markets, though mitigated slightly by future contract expectations.
+
+---
+### 4. WATCH LIST
+- [ ] European LNG demand fluctuations → could exacerbate or relieve current supply blocks.
+- [ ] Execution of long-term LNG supply contracts → will determine future supply stability for Asia.
+- [ ] Geopolitical developments influencing energy policy in Europe and Asia → any changes could shift LNG supply dynamics.
+
+---
+### 5. BOTTOM LINE
+**Risk Level: High**  
+The key issue is European demand's current impact on Asian LNG supply, creating high pricing and supply risk in Asia. This is slightly countered by potential future supply stability from newly secured LNG contracts, albeit these remain uncertain until execution.

@@ -1,0 +1,52 @@
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+## COMMODITY RISK REPORT
+**Commodity:** crude oil  
+**Report Date:** 2026-04-10  
+**Articles Analysed:** 5 articles
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+### 1. OVERALL SENTIMENT
+**Bearish**
+> The dominant signal is bearish due to significant export disruptions from Saudi Arabia, a major crude supplier, driven by geopolitical conflict impeding key supply routes.
+
+---
+### 2. KEY RISK SIGNALS
+
+**Geopolitics & Policy | Geopolitical Conflict | Severity: High**  
+- **Headline:** Saudi Arabia Slashes Oil Supply to Asia as War Chokes Export Route  
+- **What happened:** Saudi Arabia announced a reduction in crude oil exports to Asia, due to geopolitical tensions leading to limited access through the Strait of Hormuz.  
+- **Market impact:** This disrupted supply is likely to pressure global oil prices upwards due to reduced availability.  
+- **Sentiment contribution:** Bearish — due to increased supply risk and pressure on oil prices.
+
+**Supply (Production/Upstream) | Production Shortfall | Severity: Medium**  
+- **Headline:** Saudi Oil Exports to China and India Set to Fall Amid War Disruptions  
+- **What happened:** Export disruptions in the Middle East are expected to lead to a decline in Saudi oil exports to major clients China and India.  
+- **Market impact:** This diminishes supply in these large markets, potentially leading to higher global oil prices and increased market volatility.
+- **Sentiment contribution:** Bearish — due to reduced production impacting overall supply levels.
+
+**Geopolitics & Policy | Geopolitical Conflict | Severity: Medium**  
+- **Headline:** Oil Traders Caught Between Diplomacy and Disruption Risk  
+- **What happened:** U.S.-Iran diplomatic activity is affecting oil market volatility with the potential for significant geopolitical developments influencing crude prices.  
+- **Market impact:** The geopolitical uncertainty increases risk premiums, potentially elevating oil prices.  
+- **Sentiment contribution:** Bearish — uncertainty introduces a risk of elevated price volatility.
+
+**Supply (Production/Upstream) | No Significant Risk**  
+- **Headline:** Tetra Technologies in pilot project with EOG Resources for produced water from oil & gas wells  
+- **What happened:** A new technology project to treat produced water in the oil sector suggests advancements in operational efficiencies, though with no immediate large-scale impact.  
+- **Market impact:** Minimal short-term impact on crude oil supply and pricing.  
+- **Sentiment contribution:** Neutral — technological innovation offers long-term benefits but no immediate market shift.
+
+---
+### 3. SIGNAL SYNTHESIS
+The risk signals are largely aligned, emphasizing significant supply concerns from geopolitical tensions in the Middle East and production shortfalls for key Asian markets. The bearish sentiment is fundamentally driven by these disruptions and partially exacerbated by uncertain geopolitical developments. Although a technological initiative indicates progress, it does not offset the prevailing supply risks.
+
+---
+### 4. WATCH LIST
+- [ ] Monitor geopolitical developments in the Strait of Hormuz → Any resolution could ease supply concerns and stabilize prices.
+- [ ] U.S.-Iran diplomacy outcomes → A successful negotiation could reduce geopolitical risk and oil price volatility.
+- [ ] Export dynamics toward China and India → Further declines could intensify supply disruptions and alto price volatility.
+
+---
+### 5. BOTTOM LINE
+**Risk Level: High**  
+Current indications highlight a significant supply risk stemming from geopolitical disruptions affecting Saudi Arabian exports. Risk managers should be aware that these geopolitical tensions may drive further volatility and upward pressure on oil prices.

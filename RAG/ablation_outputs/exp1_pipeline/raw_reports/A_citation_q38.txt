@@ -1,0 +1,36 @@
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+## COMMODITY RISK REPORT
+**Commodity:** LNG  
+**Report Date:** 2026-04-10  
+**Articles Analysed:** 5 articles  
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+### 1. OVERALL SENTIMENT
+**Bullish**  
+The increased demand for LNG in Europe has diverted shipments from Asia, creating energy shortages and potential price increases in the Asian market. The ongoing adjustments indicate an upward trend in prices.
+
+### 2. KEY RISK SIGNALS
+
+**LNG & Natural Gas | Supply Chain Blockage | Severity: High**  
+- **Headline:** Europe’s scramble for LNG leaves Asia starving for energy  
+- **What happened:** Europe's heightened demand for LNG due to ongoing geopolitical tensions has redirected shipments away from Asia, causing energy shortages in countries like China, Japan, and Bangladesh [Article 1].  
+- **Market impact:** The redirection of LNG supply leads to heightened competition for available resources in Asia, likely resulting in increased prices.  
+- **Sentiment contribution:** Bullish — the energy shortages are likely to drive prices up in the Asian markets as nations seek to secure LNG supplies.
+
+**LNG & Natural Gas | Supply (Production/Upstream) | Severity: Medium**  
+- **Headline:** Cheniere, NextDecade Each Clinch LNG Contracts for Asian Deliveries  
+- **What happened:** Cheniere and NextDecade secured long-term LNG contracts with Asian buyers, indicating a strong demand for future LNG supplies despite current shortages [Article 3].  
+- **Market impact:** This future commitment reflects the potential for stable LNG prices and supply source security amid current volatility.  
+- **Sentiment contribution:** Neutral — stable contracts may reassure the market but do not mitigate current shortages.
+
+### 3. SIGNAL SYNTHESIS
+The key risk signals are aligned in indicating an overall bullish sentiment for LNG prices due to increased demand and supply chain disruptions stemming from geopolitical factors. While the long-term contracts may provide optimism, immediate market dynamics suggest heightened prices in Asia due to competition for limited supplies.
+
+### 4. WATCH LIST
+- [ ] **Monitor Asian LNG prices** → An increase could suggest sustained shortages or deeper market imbalances.  
+- [ ] **Evaluate geopolitical developments in Europe** → Further escalations could exacerbate the supply chain blockage, affecting global LNG flows.  
+- [ ] **Track weather forecasts in key LNG-exporting countries** → Seasonal demands can impact availability and price dynamics.  
+
+### 5. BOTTOM LINE
+**Risk Level: High**  
+The LNG market faces significant risks due to current supply chain blockages and escalated demand from Europe. Risk managers should be aware of the potential for price hikes and shortages in the Asian market as geopolitical tensions evolve and weather impacts are observed.

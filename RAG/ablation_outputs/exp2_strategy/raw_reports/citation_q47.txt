@@ -1,0 +1,42 @@
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  
+## COMMODITY RISK REPORT  
+**Commodity:** crude oil  
+**Report Date:** 2026-04-10  
+**Articles Analysed:** 5 articles  
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  
+
+### 1. OVERALL SENTIMENT  
+**Bearish**  
+> The dominant signal is bearish due to substantial cuts in supply from Saudi Arabia, driven by geopolitical tensions, despite a temporary easing of prices from earlier spikes.
+
+### 2. KEY RISK SIGNALS  
+
+**Geopolitics & Policy | Geopolitical Conflict | Severity: High**  
+- **Headline:** Saudi Arabia Slashes Oil Supply to Asia as War Chokes Export Route  
+- **What happened:** Saudi Arabia has cut crude oil exports to Asia for the second consecutive month due to a closed Strait of Hormuz affecting supply routes.  
+- **Market impact:** This reduction could lead to a tighter supply in the Asian market, potentially increasing prices if demand remains constant.  
+- **Sentiment contribution:** Bullish — as reduced supply could lead to price hikes, depending on demand dynamics [Article 1].  
+
+**Supply (Production/Upstream) | Macro-Economic Cooling | Severity: High**  
+- **Headline:** U.S. Energy Dominance Agenda Can't Shield Driver From Higher Gasoline Prices  
+- **What happened:** Even with high U.S. crude oil production, gasoline prices are rising, suggesting macro-economic factors are influencing prices adversely.  
+- **Market impact:** If high gasoline prices continue, they may dampen overall demand for crude oil, impacting future pricing structures negatively.  
+- **Sentiment contribution:** Bearish — as persistent high prices at the pump may indicate declining consumer demand [Article 3].  
+
+**Financial Flows/Positioning | No Significant Risk | Severity: Low**  
+- **Headline:** Oil Plummets 8% as Trump Postpones Hormuz Deadline Threat  
+- **What happened:** Oil prices fell after a statement regarding U.S.-Iran conversations, indicating a de-escalation of immediate threats.  
+- **Market impact:** The price drop indicates that short-term geopolitical factors can fluctuate the market significantly.  
+- **Sentiment contribution:** Neutral — while prices declined, the reasons for the drop do not inherently sustain momentum [Article 4].  
+
+### 3. SIGNAL SYNTHESIS  
+The risk signals suggest a complex interplay of factors affecting the crude oil market. The geopolitical conflict due to reduced supply from Saudi Arabia is a critical bearish factor, while concerns about macroeconomic conditions indicate downward pressure on demand. Although there is a sentiment of stability due to easing tensions, the overarching trends present a bearish outlook with potential volatility.
+
+### 4. WATCH LIST  
+- [ ] **Further attacks or escalations in the Middle East** → would likely exacerbate supply issues, increasing prices further.  
+- [ ] **Economic data releases indicating consumer demand trends** → significant changes could affect price forecasts and market positioning.  
+- [ ] **U.S. policy changes regarding oil exports or sanctions** → could either stabilize or destabilize the market significantly.
+
+### 5. BOTTOM LINE  
+**Risk Level: High**  
+The current risks surrounding crude oil are heightened due to geopolitical tensions affecting supply and macroeconomic factors influencing demand. The interplay of these forces suggests a fragile market where significant fluctuations can occur based on new developments.

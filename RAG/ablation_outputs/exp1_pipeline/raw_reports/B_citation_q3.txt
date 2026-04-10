@@ -1,0 +1,33 @@
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+## COMMODITY RISK REPORT
+**Commodity:** crude oil  
+**Report Date:** 2026-04-10  
+**Articles Analysed:** 1 article  
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+### 1. OVERALL SENTIMENT
+**Bullish**  
+> The strategic decision by Shell to cease purchasing Russian oil signals a significant shift in the market landscape, contributing to upward pressure on crude oil prices due to anticipated supply constraints following geopolitical concerns.
+
+---
+### 2. KEY RISK SIGNALS
+**Geopolitics & Policy | Geopolitical Conflict | Severity: High**  
+- **Headline:** Shell Says It Will Stop Buying Russian Oil, Natural Gas  
+- **What happened:** Shell announced its decision to halt purchases of Russian oil and natural gas amid rising oil prices and criticism over its continued engagement with Russian energy sources following the outbreak of conflict in Ukraine [Article 1].  
+- **Market impact:** This decision may lead to a reduction in available crude oil supply, particularly impacting markets reliant on Russian exports, thereby creating upward price pressure.  
+- **Sentiment contribution:** Bullish — the decision is perceived as a response to geopolitical tensions and reinforces the likelihood of higher prices due to lower supply availability.
+
+---
+### 3. SIGNAL SYNTHESIS
+The risk signals from the single article are aligned, indicating a clear geopolitical tension that is expected to affect supply dynamics in the crude oil market. The shift in sentiment is primarily driven by geopolitical factors as opposed to fundamental market shifts in supply-demand ratios or inventory levels. The net effect indicates an increased exposure to price volatility and potential upward price movements.
+
+---
+### 4. WATCH LIST
+- [ ] Global oil supply disruptions → would confirm downward trends in availability and potentially drive prices higher.
+- [ ] Further international sanctions on Russia → could exacerbate production shortfalls and tighten supply further.
+- [ ] Changes in OPEC+ production quotas → could modify market dynamics and influence price stabilization or escalation.
+
+---
+### 5. BOTTOM LINE
+**Risk Level: High**  
+The crude oil market is facing significant risk due to geopolitical conflicts impacting supply chains. The strategic pivot by major players like Shell strengthens the bullish sentiment and price volatility; risk managers should closely monitor supply chain developments and geopolitical responses to ensure well-informed trading strategies.

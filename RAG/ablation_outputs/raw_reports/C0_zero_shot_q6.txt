@@ -1,0 +1,52 @@
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+## COMMODITY RISK REPORT
+**Commodity:** LNG  
+**Report Date:** 2026-04-10  
+**Articles Analysed:** 5 articles
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+### 1. OVERALL SENTIMENT
+**Mixed**  
+> The sentiment is mixed due to contrasting risk signals: the positive momentum from confirmed LNG deals with European buyers is countered by regulatory constraints affecting significant projects like the NextDecade's Rio Grande LNG facility.
+
+---
+### 2. KEY RISK SIGNALS
+
+**LNG & Natural Gas | No Significant Risk | Severity: Low**
+- **Headline:** Sempra Signs LNG Deal with France’s Engie to Use Certified Natural Gas
+- **What happened:** Sempra signed a 15-year deal with Engie SA for LNG sourced from certified producers, addressing environmental concerns and expanding its European market presence.
+- **Market impact:** This increases certainty of supply and potentially boosts LNG exports to Europe.
+- **Sentiment contribution:** Bullish — due to secured demand and environmental compliance.
+
+**LNG & Natural Gas | Regulatory Constraint | Severity: Medium**
+- **Headline:** NextDecade: LNG halt flows back to Permian gas producers
+- **What happened:** A U.S. Court of Appeals vacated permits for the Rio Grande LNG facility, but construction proceeds under legal uncertainty while awaiting more environmental reviews.
+- **Market impact:** Creates potential delays and uncertainty around U.S. LNG supply capacity expansion.
+- **Sentiment contribution:** Bearish — due to regulatory risks and potential impact on supply timelines.
+
+**LNG & Natural Gas | No Significant Risk | Severity: Low**
+- **Headline:** McNeese LNG Center of Excellence Executive Director Named
+- **What happened:** Appointment of a new executive director at a research hub for the LNG industry, backed by government funding for workforce development and safety training.
+- **Market impact:** Enhances industry's operational capabilities and talent pool.
+- **Sentiment contribution:** Neutral — limited direct impact on market supply/demand.
+
+**Geopolitics & Policy | Regulatory Constraint | Severity: Medium**
+- **Headline:** Alaska tribal leaders urge state to revoke permit for Donlin Gold Mine
+- **What happened:** Tribal leaders are opposing permits for a gold mine due to environmental concerns, though it's not directly affecting LNG, reflecting a broader regulatory scrutiny trend.
+- **Market impact:** Signals potential for broader regulatory challenges for energy resource extraction projects.
+- **Sentiment contribution:** Slightly Bearish — indicative of increasing regulatory hurdles.
+
+---
+### 3. SIGNAL SYNTHESIS
+The risk signals present a mixed picture. While Sempra's deal with Engie indicates strong, secure LNG demand, ongoing regulatory issues such as those faced by NextDecade's Rio Grande facility highlight significant uncertainties. The sentiment is driven by both market fundamentals (robust demand from Europe) and external regulatory pressures which could constrain potential supply expansion.
+
+---
+### 4. WATCH LIST
+- [ ] Regulatory decisions on NextDecade's Rio Grande project → could significantly impact U.S. LNG export capacity if permits are upheld.
+- [ ] Final investment decisions for new LNG projects → would confirm supply-side expansions and partnerships.
+- [ ] Trends in U.S. environmental regulations → key to understanding future project risks and compliance costs.
+
+---
+### 5. BOTTOM LINE
+**Risk Level: Medium**  
+Current LNG market displays stable demand with regulatory challenges posing medium-level supply risks. Market participants should be attentive to regulatory developments that could affect supply chains or create operational bottlenecks.

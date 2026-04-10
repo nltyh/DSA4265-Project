@@ -1,0 +1,46 @@
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+## COMMODITY RISK REPORT
+**Commodity:** diesel
+**Report Date:** 2026-04-10
+**Articles Analysed:** 5 articles
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+### 1. OVERALL SENTIMENT
+**Mixed**
+> The sentiment is mixed due to regulatory constraints on Bangladesh's diesel procurement and counterbalancing stable refinery operations without significant disruptions.
+
+---
+### 2. KEY RISK SIGNALS
+
+**Geopolitics & Policy | Regulatory Constraint | Severity: High**
+- **Headline:** Bangladesh Seeks U.S. Waiver for Russian Diesel as IMF Warns of Energy Shock
+- **What happened:** Bangladesh requested a U.S. sanctions waiver to import 600,000 metric tons of Russian diesel to mitigate an energy crisis.
+- **Market impact:** Potentially tightens supply as Bangladesh struggles to secure diesel, possible price increases in affected regions.
+- **Sentiment contribution:** Bullish — heightened demand amid supply restrictions
+
+**Accidents/Disruptions | Infrastructure Damage | Severity: Medium**
+- **Headline:** Gas Pipeline Explodes in Rural Oklahoma, With Damage But No Injury
+- **What happened:** A gas pipeline explosion in Oklahoma damaged power lines, though no injuries were reported, and sections of the pipeline were closed.
+- **Market impact:** Potential disruption in diesel transportation and supply; may increase operational logistical costs.
+- **Sentiment contribution:** Bullish — possible supply chain disruptions increase delivery costs and prices.
+
+**Refining (Downstream) | No Significant Risk | Severity: Low**
+- **Headline:** Marathon Petroleum Reports Better-Than-Expected Q4 Earnings
+- **What happened:** Despite lower net income than the previous year, Marathon Petroleum exceeded profit expectations, indicating stable refining operations.
+- **Market impact:** Stable refining capacity supports supply side steadiness.
+- **Sentiment contribution:** Neutral — no significant change to supply or pricing.
+
+---
+### 3. SIGNAL SYNTHESIS
+The risk signals present a complex picture with regulatory and infrastructure challenges juxtaposed against stable refining operations. The regulatory constraints from Bangladesh seeking a waiver are sentiment-driven and indicate potential upstream supply pressures. Conversely, the information about stable refining operations suggests underlying supply chain resilience. The net effect presently indicates heightened alertness to potential supply constraints but with no immediate drastic impact.
+
+---
+### 4. WATCH LIST
+- [ ] U.S.'s decision on Bangladesh's waiver request → A positive outcome may alleviate supply tensions.
+- [ ] Developments in pipeline repairs in Oklahoma → Longer disruptions could impact diesel logistics further.
+- [ ] Market response to Marathon's operational stability → Continuity may stabilize the downstream market further.
+
+---
+### 5. BOTTOM LINE
+**Risk Level: Medium**
+The most pressing risk involves regulatory hindrances impacting diesel imports to Bangladesh, elevating supply concern. However, stable refining activities provide foundational support. Current risks appear credible, yet further market developments should be monitored for confirmation or resolution.

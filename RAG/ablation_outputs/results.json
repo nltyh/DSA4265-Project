@@ -1,0 +1,96 @@
+{
+  "C0": {
+    "zero_shot": {
+      "1": {
+        "rouge_l": 0.0954,
+        "bertscore": 0.8101,
+        "groundedness": 0.6957,
+        "llm_judge": {
+          "score": 4,
+          "reason": "The report is mostly grounded with clear structure and useful insights, but includes minor extrapolation beyond the direct market impact from the articles reviewed."
+        }
+      },
+      "3": {
+        "rouge_l": 0.0782,
+        "bertscore": 0.7897,
+        "groundedness": 0.76,
+        "llm_judge": {
+          "score": 2,
+          "reason": "The report inaccurately extends beyond the provided context by discussing events from 2026, while the query focuses on a 2022 event. Key details about Shell's pivot on Russian energy in March 2022 are missing."
+        }
+      },
+      "6": {
+        "rouge_l": 0.0672,
+        "bertscore": 0.7943,
+        "groundedness": 0.64,
+        "llm_judge": {
+          "score": 2,
+          "reason": "The report contains multiple hallucinations, as it incorrectly references events and regulatory issues not grounded in the provided articles, limiting its usefulness."
+        }
+      },
+      "9": {
+        "rouge_l": 0.0998,
+        "bertscore": 0.8068,
+        "groundedness": 0.7273,
+        "llm_judge": {
+          "score": 4,
+          "reason": "The report is mostly grounded with accurate coverage of key risk signals from the context, clear structure, and actionable insights, but has minor gaps in timeliness regarding the date of the report versus available data."
+        }
+      },
+      "11": {
+        "rouge_l": 0.0788,
+        "bertscore": 0.8058,
+        "groundedness": 0.7,
+        "llm_judge": {
+          "score": 5,
+          "reason": "The report is well-structured, factually grounded in the provided context, and provides actionable insights."
+        }
+      },
+      "17": {
+        "rouge_l": 0.115,
+        "bertscore": 0.8143,
+        "groundedness": 0.625,
+        "llm_judge": {
+          "score": 4,
+          "reason": "The report is mostly grounded and covers key risk signals, with clear structure and actionable insights, though it could slightly improve on clarity in risk synthesis."
+        }
+      },
+      "19": {
+        "rouge_l": 0.1202,
+        "bertscore": 0.7979,
+        "groundedness": 0.9545,
+        "llm_judge": {
+          "score": 4,
+          "reason": "The report is mostly grounded and provides a useful snapshot based on the retrieved context, but there are minor inaccuracies regarding the market snapshot date, as it focuses on March 31 while some events occurred earlier."
+        }
+      },
+      "33": {
+        "rouge_l": 0.1272,
+        "bertscore": 0.7994,
+        "groundedness": 0.5455,
+        "llm_judge": {
+          "score": 5,
+          "reason": "The report is fully grounded on the provided articles, covers key risk signals effectively, has a clear structure, and offers actionable insights in the watch list and bottom line."
+        }
+      },
+      "38": {
+        "rouge_l": 0.0931,
+        "bertscore": 0.8018,
+        "groundedness": 0.8824,
+        "llm_judge": {
+          "score": 3,
+          "reason": "The report is clear and structured but lacks clear grounding in recent facts, relying on outdated information with speculative future insights for 2026 that are not actionable."
+        }
+      },
+      "47": {
+        "rouge_l": 0.0778,
+        "bertscore": 0.7923,
+        "groundedness": 0.7143,
+        "llm_judge": {
+          "score": 3,
+          "reason": "The report accurately identifies a high severity geopolitical risk but includes unsupported claims about financial flows and positioning risks, which were not marked as significant in the sources."
+        }
+      }
+    }
+  }
+}

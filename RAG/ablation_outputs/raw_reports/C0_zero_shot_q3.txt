@@ -1,0 +1,52 @@
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+## COMMODITY RISK REPORT
+**Commodity:** crude oil  
+**Report Date:** 2026-04-10  
+**Articles Analysed:** 5 articles
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+### 1. OVERALL SENTIMENT
+**Mixed**
+> Geopolitical tensions and infrastructure damages in the Black Sea are bearish, but increased demand for Russian and Iranian crude offsets this with a bullish sentiment.
+
+---
+### 2. KEY RISK SIGNALS
+
+**Geopolitics & Policy | No Significant Risk | Severity: Low**
+- **Headline:** ADNOC, Aramco said to mull bids for Shell South Africa assets
+- **What happened:** ADNOC and Aramco considering bids for Shell South Africa assets; potential expansion in global presence.
+- **Market impact:** Little impact on immediate crude oil prices, relevant for long-term strategic positioning.
+- **Sentiment contribution:** Neutral — no immediate effect on market conditions or supply/demand dynamics.
+
+**Accidents / Disruptions | Infrastructure Damage | Severity: High**
+- **Headline:** Second Tanker Hit in Weeks as Black Sea Drone Strikes Russian Oil Cargo
+- **What happened:** A EU and UK sanctioned Altura crude oil tanker was hit by an unmanned marine vehicle in the Black Sea.
+- **Market impact:** Potential supply disruption, increasing regional risk premiums.
+- **Sentiment contribution:** Bearish — indicates vulnerability of oil supply routes.
+
+**Geopolitics & Policy | Macro-Economic Cooling | Severity: Medium**
+- **Headline:** What impact will Ukraine crisis have on Procter & Gamble Co.?
+- **What happened:** Discusses potential economic impacts due to the Ukraine crisis; effects on multinational engagement with Russian entities.
+- **Market impact:** Potential decrease in spending and economic activity in Europe could reduce oil demand.
+- **Sentiment contribution:** Bearish — suggests reduced demand due to economic cooling.
+
+**Financial Flows / Positioning | No Significant Risk | Severity: Low**
+- **Headline:** U.S. Waivers Spur Russian Oil Sales But Interest in Iran’s Crude Remains Low
+- **What happened:** US waivers have increased supply of Russian oil, especially in Asia.
+- **Market impact:** Increases in supply could depress prices, but the lack of interest in Iranian crude complicates impact.
+- **Sentiment contribution:** Bullish — added supply to global markets.
+
+---
+### 3. SIGNAL SYNTHESIS
+The risk signals present mixed sentiments. Geopolitical instability and infrastructure damage are driving a bearish view due to the risk of supply disruptions. However, increased supply through US waivers mediates this risk, offering a bullish counterbalance. The overall sentiment reflects tensions between geopolitical risks and financial market reactions to increased oil availability.
+
+---
+### 4. WATCH LIST
+- [ ] Developments in the Black Sea region → Further disruptions could heighten market volatility.
+- [ ] Implementation of US or other international waivers → Changes could alter supply levels and positioning.
+- [ ] European economic indicators → Cooling economic activity may influence global oil demand.
+
+---
+### 5. BOTTOM LINE
+**Risk Level: Medium**
+Crude oil markets face mixed signals, with geopolitical and infrastructure concerns contrasting increased supply through international waivers. Risk managers should remain vigilant regarding Black Sea developments which could drastically impact supply stability.

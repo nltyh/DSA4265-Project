@@ -1,0 +1,54 @@
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+## COMMODITY RISK REPORT
+**Commodity:** LNG  
+**Report Date:** 2026-04-10  
+**Articles Analysed:** 5 articles  
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+### 1. OVERALL SENTIMENT
+**Bullish**  
+The market sentiment for LNG is bullish due to significant supply chain blockages from geopolitical tensions and infrastructure damage affecting production.
+
+### 2. KEY RISK SIGNALS
+
+**LNG & Natural Gas | Supply Chain Blockage | Severity: High**  
+- **Headline:** Asia Burns More Coal as Middle East War Sends LNG Prices to 3-Year Highs  
+- **What happened:** The ongoing war in the Middle East has led to an LNG supply shortage, prompting Asian countries to increase coal usage for power generation.  
+- **Market impact:** This situation induces a surge in LNG prices, potentially affecting supply stability as countries pivot to alternative energy sources.  
+- **Sentiment contribution:** Bullish — the increased demand for LNG amidst scarcity drives prices higher [Article 1].
+
+---
+
+**LNG & Natural Gas | Infrastructure Damage | Severity: High**  
+- **Headline:** Chevron Reports “Extensive Damage” at Major LNG Project  
+- **What happened:** Chevron's Wheatstone LNG plant in Australia reported extensive damage due to a recent cyclone, leading to the shutdown of its liquefaction trains.  
+- **Market impact:** The plant's shutdown directly impacts LNG production capacity, contributing to supply concerns and potential price increases.  
+- **Sentiment contribution:** Bullish — supply constraints from infrastructure challenges enhance upward price pressures in an already tight market [Article 3].
+
+---
+
+**Shipping & Logistics | Supply Chain Blockage | Severity: High**  
+- **Headline:** India Says 28 Oil and Gas Ships Are Stranded Near the Strait of Hormuz  
+- **What happened:** 28 ships carrying crude oil and LNG are stranded near the Strait of Hormuz due to geopolitical tensions.  
+- **Market impact:** This blockage contributes to further supply disruptions, exacerbating the existing issues in LNG availability in Asia.  
+- **Sentiment contribution:** Bullish — the logistical challenges raise concerns about supply reliability and pricing in the market [Article 4].
+
+---
+
+**Geopolitics & Policy | Geopolitical Conflict | Severity: High**  
+- **Headline:** Brent Hits $118 as Hormuz Shock Blows Out Spread With WTI  
+- **What happened:** Brent crude prices rose significantly due to tensions around the Strait of Hormuz, impacting oil and gas flows.  
+- **Market impact:** Heightened geopolitical risks are likely to further stress LNG and crude oil supplies, influencing market dynamics adversely.  
+- **Sentiment contribution:** Bullish — rising crude prices are expected to spill over into LNG pricing, driven by interconnected energy markets [Article 5].
+
+### 3. SIGNAL SYNTHESIS
+The risk signals identified are aligned in projecting a bearish supply outlook for LNG due to high geopolitical tensions, infrastructure challenges, and supply chain blockages. These risks are fundamentally driven by recent events rather than sentiment. The combined effects create a heightened risk exposure for LNG, resulting in a potential upward price trajectory.
+
+### 4. WATCH LIST
+- [ ] **Continuation of Middle East Conflict** → Prolonged conflicts may further restrict LNG supplies and increase prices.
+- [ ] **Reopening of Wheatstone LNG Plant** → Restoration of normal operations could alleviate some supply pressures.
+- [ ] **Resolution of Shipping Blockages at Strait of Hormuz** → A return to normal shipping routes could stabilize supply chains and pricing.
+
+### 5. BOTTOM LINE
+**Risk Level: High**  
+The current landscape for LNG is marked by significant risks tied to geopolitical instability and infrastructure damage, which are likely to keep prices volatile. Risk managers should remain vigilant of developments in these areas, as they could have substantial implications for supply and pricing in the immediate future.

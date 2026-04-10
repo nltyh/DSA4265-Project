@@ -1,0 +1,71 @@
+## COMMODITY RISK REPORT
+**Commodity:** crude oil  
+**Report Date:** 2026-04-10  
+**Articles Analysed:** 1 articles  
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+### 1. OVERALL SENTIMENT
+**Bullish**  
+> The market sentiment is bullish as Shell's decision to stop purchasing Russian oil is a signal of reduced supply, likely leading to higher prices given the ongoing global demand.
+
+---
+### 2. KEY RISK SIGNALS
+**Geopolitics & Policy | Geopolitical Conflict | Severity: High**
+- **Headline:** Shell Says It Will Stop Buying Russian Oil, Natural Gas
+- **What happened:** Shell announced it would cease buying Russian oil amid increasing oil prices and criticism over supporting Russian energy in light of the Ukraine conflict.
+- **Market impact:** This decision is likely to tighten global crude oil supply, which, coupled with already surging prices, may lead to further upward pressure on prices.
+- **Sentiment contribution:** Bullish — reduced supply amidst a geopolitical crisis generally drives prices up.
+
+---
+### 3. SIGNAL SYNTHESIS
+The risk signal suggests a strong alignment with a bullish sentiment due to geopolitical issues impacting supply chains directly. The insights are supported by the recent actions of Shell, which align with rising prices indicative of constrained supply. There are currently no contradictory signals observed.
+
+---
+### 4. WATCH LIST
+- [ ] Monitoring global crude oil prices → A significant increase could indicate tighter market conditions.
+- [ ] Changes in policies regarding Russian energy by other major corporations → Direct impacts on overall supply stabilization.
+- [ ] Comments from other energy firms regarding future purchases of Russian oil → Indications could affect market sentiment.
+
+---
+### 5. BOTTOM LINE
+**Risk Level: High**  
+The significant geopolitical shift due to Shell's strategic pivot indicates a tightening crude oil supply, leading to upward price pressures. Risk managers should prepare for volatility as the market navigates these developments.
+
+---
+
+[REFLECTION]
+No issues found. The draft accurately reflects the information from the article and provides a structured and concise assessment of the risk factors and market sentiment.
+
+[FINAL REPORT]
+## COMMODITY RISK REPORT
+**Commodity:** crude oil  
+**Report Date:** 2026-04-10  
+**Articles Analysed:** 1 articles  
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+### 1. OVERALL SENTIMENT
+**Bullish**  
+> The market sentiment is bullish as Shell's decision to stop purchasing Russian oil is a signal of reduced supply, likely leading to higher prices given the ongoing global demand.
+
+---
+### 2. KEY RISK SIGNALS
+**Geopolitics & Policy | Geopolitical Conflict | Severity: High**
+- **Headline:** Shell Says It Will Stop Buying Russian Oil, Natural Gas
+- **What happened:** Shell announced it would cease buying Russian oil amid increasing oil prices and criticism over supporting Russian energy in light of the Ukraine conflict.
+- **Market impact:** This decision is likely to tighten global crude oil supply, which, coupled with already surging prices, may lead to further upward pressure on prices.
+- **Sentiment contribution:** Bullish — reduced supply amidst a geopolitical crisis generally drives prices up.
+
+---
+### 3. SIGNAL SYNTHESIS
+The risk signal suggests a strong alignment with a bullish sentiment due to geopolitical issues impacting supply chains directly. The insights are supported by the recent actions of Shell, which align with rising prices indicative of constrained supply. There are currently no contradictory signals observed.
+
+---
+### 4. WATCH LIST
+- [ ] Monitoring global crude oil prices → A significant increase could indicate tighter market conditions.
+- [ ] Changes in policies regarding Russian energy by other major corporations → Direct impacts on overall supply stabilization.
+- [ ] Comments from other energy firms regarding future purchases of Russian oil → Indications could affect market sentiment.
+
+---
+### 5. BOTTOM LINE
+**Risk Level: High**  
+The significant geopolitical shift due to Shell's strategic pivot indicates a tightening crude oil supply, leading to upward price pressures. Risk managers should prepare for volatility as the market navigates these developments.

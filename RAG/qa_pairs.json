@@ -1,0 +1,1050 @@
+[
+    {
+        "id": 1,
+        "query": "Provide a market snapshot for Crude Oil on February 24, 2022, following the report of Russian military action in Ukraine.",
+        "expected_answer": {
+            "snapshot_title": "Crude Oil Market Snapshot - Ukraine Invasion",
+            "sentiment": "Extreme Bullish (Geopolitical Crisis)",
+            "key_news": [
+                {
+                    "event": "Russian Military Action in Ukraine",
+                    "impact": "Triggers immediate global supply panic and a massive surge in crude prices."
+                }
+            ],
+            "what_it_means": "The market is pricing in a severe and prolonged disruption of Russian energy flows to the West.",
+            "watch_next": [
+                "Implementation of Western energy sanctions",
+                "Strategic Petroleum Reserve (SPR) release announcements",
+                "OPEC+ production stance"
+            ],
+            "takeaway": "The risk premium is at a multi-year high; focus shifts entirely from demand to supply security."
+        }
+    },
+    {
+        "id": 2,
+        "query": "Assess the LNG market snapshot for early March 2022 based on Cheniere CEO's outlook on demand growth.",
+        "expected_answer": {
+            "snapshot_title": "LNG Market Snapshot - Demand Surge",
+            "sentiment": "Bullish",
+            "key_news": [
+                {
+                    "event": "Cheniere CEO predicts exponential LNG demand growth",
+                    "impact": "Confirms long-term structural tightness in the global gas market."
+                }
+            ],
+            "what_it_means": "The pivot away from Russian pipelines is accelerating the reliance on seaborne LNG infrastructure.",
+            "watch_next": [
+                "New liquefaction project FID (Final Investment Decisions)",
+                "European regasification terminal capacity",
+                "Spot price volatility in JKM and TTF"
+            ],
+            "takeaway": "LNG is no longer a niche fuel; it is now the primary balancer for European energy security."
+        }
+    },
+    {
+        "id": 3,
+        "query": "What is the market snapshot for Crude Oil on March 8, 2022, following Shell's strategic pivot regarding Russian energy?",
+        "expected_answer": {
+            "snapshot_title": "Oil Market Snapshot - Corporate De-risking",
+            "sentiment": "Bullish",
+            "key_news": [
+                {
+                    "event": "Shell announces complete halt on Russian oil and natural gas purchases",
+                    "impact": "Increases pressure on other majors to self-sanction, further isolating Russian supply."
+                }
+            ],
+            "what_it_means": "The physical market is tightening as major buyers withdraw from the Urals market voluntarily.",
+            "watch_next": [
+                "Rerouting of Russian crude to Asia (India/China)",
+                "Escalation of EU formal sanctions",
+                "Refining margin adjustments"
+            ],
+            "takeaway": "Voluntary corporate boycotts are acting faster than government policy to tighten supply."
+        }
+    },
+    {
+        "id": 4,
+        "query": "Provide a market snapshot for the LNG sector on March 25, 2022, regarding the U.S.-E.U. energy partnership.",
+        "expected_answer": {
+            "snapshot_title": "LNG Market Snapshot - Transatlantic Alliance",
+            "sentiment": "Bullish (Supply Security)",
+            "key_news": [
+                {
+                    "event": "U.S. and E.U. announce partnership to undercut Russian energy reliance",
+                    "impact": "Guarantees long-term demand for U.S. LNG while stressing existing export capacity."
+                }
+            ],
+            "what_it_means": "Geopolitics is redrawing the global gas trade map, favoring U.S. Gulf Coast exporters.",
+            "watch_next": [
+                "U.S. domestic gas price reaction (Henry Hub)",
+                "Infrastructure bottlenecks at U.S. export terminals",
+                "Asian buyer competition for U.S. cargoes"
+            ],
+            "takeaway": "Energy policy is now a tool of national security; supply chains are being 'friend-shored'."
+        }
+    },
+    {
+        "id": 5,
+        "query": "Evaluate the Diesel and Crude Oil market snapshot on May 12, 2022, citing the impact of rising costs on consumer goods companies like Colgate-Palmolive.",
+        "expected_answer": {
+            "snapshot_title": "Energy/FMCG Market Snapshot - Cost Push Inflation",
+            "sentiment": "Bearish (Demand/Macro) / Bullish (Input Costs)",
+            "key_news": [
+                {
+                    "event": "Rising fats and oil prices force Colgate-Palmolive to mitigate costs",
+                    "impact": "Illustrates how high energy/feedstock costs are eroding margins in the consumer sector."
+                }
+            ],
+            "what_it_means": "High energy prices are filtering through the entire supply chain, risking demand destruction.",
+            "watch_next": [
+                "Consumer price index (CPI) prints",
+                "Diesel crack spread movements",
+                "Corporate earnings guidance in the FMCG sector"
+            ],
+            "takeaway": "Supply chain risks in energy are now a direct threat to broader economic stability."
+        }
+    },
+    {
+        "id": 6,
+        "query": "Provide a market snapshot for LNG on July 11, 2022, regarding U.S. environmental regulations and producers like Cheniere.",
+        "expected_answer": {
+            "snapshot_title": "LNG Market Snapshot - Regulatory Friction",
+            "sentiment": "Neutral / Slightly Bearish (Operational Risk)",
+            "key_news": [
+                {
+                    "event": "Cheniere asks Biden admin to drop pollution rules for LNG turbines",
+                    "impact": "Highlights a potential operational bottleneck if environmental compliance forces shutdowns."
+                }
+            ],
+            "what_it_means": "Policy friction between climate goals and energy security is creating supply-side uncertainty.",
+            "watch_next": [
+                "EPA ruling on turbine emissions",
+                "Maintenance schedules for major U.S. LNG trains",
+                "Political rhetoric regarding fossil fuel exports"
+            ],
+            "takeaway": "Operational continuity is currently at the mercy of regulatory waivers."
+        }
+    },
+    {
+        "id": 7,
+        "query": "What was the market snapshot for Diesel and Refining on January 30, 2024, following the Marathon Petroleum earnings report?",
+        "expected_answer": {
+            "snapshot_title": "Refining Market Snapshot - Operational Health",
+            "sentiment": "Bullish (Corporate) / Neutral (Market)",
+            "key_news": [
+                {
+                    "event": "Marathon Petroleum reports better-than-expected Q4 earnings and upbeat margins",
+                    "impact": "Suggests refining utilization remains high and profitable despite macro headwinds."
+                }
+            ],
+            "what_it_means": "The downstream supply chain is robust, capturing high margins from the diesel/gasoline spread.",
+            "watch_next": [
+                "Spring refinery turnaround (maintenance) season",
+                "Inventory levels in PADD 3 (Gulf Coast)",
+                "Global middle distillate demand signals"
+            ],
+            "takeaway": "Refiners are the primary beneficiaries of the current volatile supply chain environment."
+        }
+    },
+    {
+        "id": 8,
+        "query": "Assess the Crude Oil Market Snapshot on May 29, 2024, regarding ConocoPhillips' acquisition of Marathon Oil.",
+        "expected_answer": {
+            "snapshot_title": "Oil Market Snapshot - Industry Consolidation",
+            "sentiment": "Bullish (Long-term efficiency)",
+            "key_news": [
+                {
+                    "event": "ConocoPhillips agrees to buy Marathon Oil for $22.5 billion",
+                    "impact": "Signals a trend toward consolidation to optimize high-quality inventory and scale."
+                }
+            ],
+            "what_it_means": "Major players are focusing on 'buying' production growth through M&A rather than 'drilling' new wells.",
+            "watch_next": [
+                "Antitrust regulatory reviews",
+                "Further shale consolidation moves",
+                "Dividend and buyback updates from the combined entity"
+            ],
+            "takeaway": "The sector is prioritizing capital discipline and inventory depth over aggressive supply expansion."
+        }
+    },
+    {
+        "id": 9,
+        "query": "Provide a market snapshot for Crude Oil on March 23, 2026, focused on Saudi Arabian export strategy.",
+        "expected_answer": {
+            "snapshot_title": "Oil Market Snapshot - Supply Weaponization",
+            "sentiment": "High Bullish (Supply Shock)",
+            "key_news": [
+                {
+                    "event": "Saudi Arabia slashes oil supply to Asia as war chokes export routes",
+                    "impact": "Physically tightens the Asian market, creating a scramble for alternative grades."
+                }
+            ],
+            "what_it_means": "The Hormuz conflict is forcing major producers to curtail exports due to logistics risks.",
+            "watch_next": [
+                "Asian refinery run-rate cuts",
+                "Freight rate spikes for non-Gulf crude",
+                "Diplomatic pressure on Riyadh"
+            ],
+            "takeaway": "Geopolitical blockage is now translating into direct physical supply cuts."
+        }
+    },
+    {
+        "id": 10,
+        "query": "Evaluate the market snapshot for Crude Oil on March 23, 2026, regarding the 'Trump Deadline' headline.",
+        "expected_answer": {
+            "snapshot_title": "Oil Market Snapshot - Headline Volatility",
+            "sentiment": "Bearish (Short-term correction)",
+            "key_news": [
+                {
+                    "event": "Oil plummets 8% as Trump postpones Hormuz deadline threat",
+                    "impact": "Triggers a massive 'risk-off' liquidation as the immediate threat of escalation recedes."
+                }
+            ],
+            "what_it_means": "The market is hyper-leveraged to political headlines and deadline-driven diplomacy.",
+            "watch_next": [
+                "Official statements from Tehran or the UAE",
+                "Technical support levels for Brent/WTI",
+                "Hedge fund 'short-covering' or 'long-exit' activity"
+            ],
+            "takeaway": "Price action is decouple from fundamentals and entirely driven by 'war vs. peace' sentiment."
+        }
+    },
+    {
+        "id": 11,
+        "query": "Provide a market snapshot for LNG on March 23, 2026, describing the 'Supply Chain Blockage'.",
+        "expected_answer": {
+            "snapshot_title": "LNG Market Snapshot - Logistics Crisis",
+            "sentiment": "Bullish (Severe Scarcity)",
+            "key_news": [
+                {
+                    "event": "LNG exports plunge to 6-month low as war throttles supply",
+                    "impact": "Global spot prices gap significantly higher; creates energy security emergencies in import-heavy nations."
+                }
+            ],
+            "what_it_means": "The physical bottleneck in the Middle East is severing the primary artery for global LNG trade.",
+            "watch_next": [
+                "Status of Qatari LNG vessels",
+                "Force Majeure declarations from export terminals",
+                "European and Asian storage withdrawal rates"
+            ],
+            "takeaway": "Logistics and shipping risk is now the dominant factor in the global gas price."
+        }
+    },
+    {
+        "id": 12,
+        "query": "What was the market snapshot for Crude Oil on March 24, 2026, regarding the UAE's stance on the Hormuz Strait?",
+        "expected_answer": {
+            "snapshot_title": "Oil Market Snapshot - Geopolitical Rhetoric",
+            "sentiment": "Bullish (Escalation)",
+            "key_news": [
+                {
+                    "event": "UAE labels weaponization of Hormuz as 'Economic Terrorism'",
+                    "impact": "Signals a breakdown in regional diplomacy and raises the stakes for international intervention."
+                }
+            ],
+            "what_it_means": "Regional powers are hardening their positions, making a swift resolution unlikely.",
+            "watch_next": [
+                "UN Security Council response",
+                "Naval escort announcements for tankers",
+                "Insurance premium (War Risk) adjustments"
+            ],
+            "takeaway": "The conflict is entering a 'war of words' phase that solidifies the high-risk premium."
+        }
+    },
+    {
+        "id": 13,
+        "query": "Assess the Crude Oil market snapshot for March 25, 2026, regarding U.S. waivers and Iranian crude.",
+        "expected_answer": {
+            "snapshot_title": "Oil Market Snapshot - Sanction Policy",
+            "sentiment": "Neutral / Slightly Bearish",
+            "key_news": [
+                {
+                    "event": "U.S. waivers spur Russian oil sales while interest in Iran crude remains low",
+                    "impact": "Mitigates the global supply shock slightly by allowing some sanctioned molecules to reach market."
+                }
+            ],
+            "what_it_means": "The U.S. is using waivers as a pressure valve to prevent a global oil price explosion.",
+            "watch_next": [
+                "Chinese and Indian refinery appetite for discounted grades",
+                "Volume of 'shadow fleet' activity",
+                "Strictness of G7 price cap enforcement"
+            ],
+            "takeaway": "Policy 'carve-outs' are currently the only thing preventing $150+ oil."
+        }
+    },
+    {
+        "id": 14,
+        "query": "Provide a market snapshot for Crude Oil on March 27, 2026, following the 'Iran Rejection'.",
+        "expected_answer": {
+            "snapshot_title": "Oil Market Snapshot - Failed Diplomacy",
+            "sentiment": "Bullish (Aggressive)",
+            "key_news": [
+                {
+                    "event": "Brent surges past $110 on Iran rejection of diplomatic terms",
+                    "impact": "Eliminates the 'peace hope' rally; markets price in the next phase of conflict."
+                }
+            ],
+            "what_it_means": "Diplomatic failure is being treated as a 'green light' for higher prices.",
+            "watch_next": [
+                "Military escalation in the Persian Gulf",
+                "OPEC+ emergency meetings",
+                "Global demand reaction to $110 Brent"
+            ],
+            "takeaway": "The floor for oil has shifted significantly higher as diplomacy fails."
+        }
+    },
+    {
+        "id": 15,
+        "query": "What is the market snapshot for Crude Oil on March 27, 2026, regarding traders' positioning?",
+        "expected_answer": {
+            "snapshot_title": "Oil Market Snapshot - Trader Uncertainty",
+            "sentiment": "Neutral / Highly Volatile",
+            "key_news": [
+                {
+                    "event": "Traders caught between diplomacy and disruption risk",
+                    "impact": "Leads to erratic price swings and lower liquidity as players wait for a definitive signal."
+                }
+            ],
+            "what_it_means": "The uncertainty is so high that traditional 'directional' bets are becoming too risky for some funds.",
+            "watch_next": [
+                "Open interest changes in futures markets",
+                "Implied volatility (OVX) spikes",
+                "Weekend headline risk"
+            ],
+            "takeaway": "Uncertainty is at a peak; the market is waiting for a 'trigger' event to break the range."
+        }
+    },
+    {
+        "id": 16,
+        "query": "Evaluate the Crude Oil market snapshot on January 3, 2022, following the Maharashtra distributor boycott news.",
+        "expected_answer": {
+            "snapshot_title": "Oil Market Snapshot - Baseline News",
+            "sentiment": "Neutral",
+            "key_news": [
+                {
+                    "event": "Distributors boycott HUL & Colgate products in Maharashtra",
+                    "impact": "Minimal impact on oil; represents 'noise' from downstream consumer goods logistics."
+                }
+            ],
+            "what_it_means": "Local logistics disputes in FMCG do not currently reflect broader commodity supply chain risks.",
+            "watch_next": [
+                "Resolution of distributor-retailer price disparities",
+                "Indian domestic fuel demand trends"
+            ],
+            "takeaway": "Non-energy supply chain news is currently uncorrelated with global oil sentiment."
+        }
+    },
+    {
+        "id": 17,
+        "query": "Assess the LNG market snapshot for January 4, 2022, as the US becomes the top global exporter.",
+        "expected_answer": {
+            "snapshot_title": "LNG Market Snapshot - US Dominance",
+            "sentiment": "Bullish (Market Share)",
+            "key_news": [
+                {
+                    "event": "US becomes world's top LNG exporter for the first time",
+                    "impact": "Establishes the US as the critical swing supplier for the Atlantic and Pacific basins."
+                }
+            ],
+            "what_it_means": "The multi-year investment in US Gulf Coast infrastructure has reached full maturation.",
+            "watch_next": [
+                "Competition from Qatar's expansion projects",
+                "European winter weather patterns",
+                "Henry Hub-JKM arbitrage spreads"
+            ],
+            "takeaway": "The US is now the most influential player in the global LNG supply chain."
+        }
+    },
+    {
+        "id": 18,
+        "query": "Provide a market snapshot for Diesel on March 21, 2022, regarding 'Renewable Diesel'.",
+        "expected_answer": {
+            "snapshot_title": "Diesel Market Snapshot - Energy Transition",
+            "sentiment": "Bullish (Long-term) / Neutral (Immediate)",
+            "key_news": [
+                {
+                    "event": "Fueling a Sustainable Future with Renewable Diesel",
+                    "impact": "Highlights the shift toward greener alternatives, though current capacity is small."
+                }
+            ],
+            "what_it_means": "The supply chain is beginning to diversify into non-fossil distillates to meet ESG goals.",
+            "watch_next": [
+                "Tax credit policy changes",
+                "Feedstock (soy/tallow) price movements",
+                "Refinery conversion project timelines"
+            ],
+            "takeaway": "Transition fuels are a growing part of the supply chain story but don't solve immediate energy shocks."
+        }
+    },
+    {
+        "id": 19,
+        "query": "What was the market snapshot for Crude Oil on March 31, 2026, summarizing the monthly gain trend?",
+        "expected_answer": {
+            "snapshot_title": "Oil Market Snapshot - Record Monthly Gains",
+            "sentiment": "High Bullish",
+            "key_news": [
+                {
+                    "event": "Oil set to book record monthly gain on Iran crisis",
+                    "impact": "Cements the March 2026 crisis as a historical price event, with gains near 59%."
+                }
+            ],
+            "what_it_means": "The combination of geopolitical war and logistics blockades has created a 'perfect storm' for prices.",
+            "watch_next": [
+                "April contract rollover",
+                "Physical delivery challenges in Cushing/global ports",
+                "G7 emergency stockpile coordination"
+            ],
+            "takeaway": "March 2026 represents the most severe supply chain disruption for commodities in the modern era."
+        }
+    },
+    {
+        "id": 20,
+        "query": "Evaluate the risk category for Crude Oil on July 26, 2022, as U.S. natural gas hit a 14-year high.",
+        "expected_answer": {
+            "snapshot_title": "Energy Market Snapshot - Inter-fuel Competition",
+            "sentiment": "Bullish",
+            "key_news": [
+                {
+                    "event": "U.S. natgas up 3% after hitting 14-yr high",
+                    "impact": "Increases demand for oil-to-gas switching in power generation, supporting crude prices."
+                }
+            ],
+            "what_it_means": "The energy crisis is broad-based; scarcity in gas is creating 'sympathy' rallies in oil.",
+            "watch_next": [
+                "Inventory levels at Freeport LNG",
+                "U.S. power burn rates during summer heatwaves",
+                "Global gas-to-oil price parity"
+            ],
+            "takeaway": "Cross-commodity linkages are amplifying the supply chain risks across all energy sectors."
+        }
+    },
+    {
+        "id": 21,
+        "query": "Provide a market snapshot for the Refining sector on January 29, 2024, based on Valero's Q4 ethanol and operational reporting.",
+        "expected_answer": {
+            "snapshot_title": "Refining & Renewables Snapshot - Valero Q4",
+            "sentiment": "Neutral / Slightly Bullish",
+            "key_news": [
+                {
+                    "event": "Valero reports strong Q4 for ethanol segment",
+                    "impact": "Indicates resilience in the biofuels supply chain despite broader fossil fuel volatility."
+                }
+            ],
+            "what_it_means": "Refiners are successfully diversifying revenue streams into ethanol and renewables to buffer against crude price swings.",
+            "watch_next": [
+                "Ethanol blending mandates",
+                "Corn feedstock price volatility",
+                "Sustainable Aviation Fuel (SAF) project progress"
+            ],
+            "takeaway": "Operational flexibility is becoming the key metric for downstream stability."
+        }
+    },
+    {
+        "id": 22,
+        "query": "Assess the Crude Oil market snapshot on January 26, 2024, regarding Occidental Petroleum's stock performance and market positioning.",
+        "expected_answer": {
+            "snapshot_title": "Oil Market Snapshot - E&P Performance",
+            "sentiment": "Bullish",
+            "key_news": [
+                {
+                    "event": "Occidental Petroleum (OXY) outperforms competitors on strong trading day",
+                    "impact": "Reflects investor confidence in high-quality shale inventory and efficient capital allocation."
+                }
+            ],
+            "what_it_means": "The market is rewarding Exploration & Production (E&P) firms with the strongest balance sheets and low-cost production profiles.",
+            "watch_next": [
+                "OXY's net-zero strategy milestones",
+                "Direct Air Capture (DAC) technology investment",
+                "WTI price support levels"
+            ],
+            "takeaway": "Financial health is decoupling OXY from general market weakness."
+        }
+    },
+    {
+        "id": 23,
+        "query": "What was the market snapshot for the Diesel and Pipeline sector on January 31, 2024, following the Phillips 66 pipeline incident?",
+        "expected_answer": {
+            "snapshot_title": "Midstream Market Snapshot - Infrastructure Risk",
+            "sentiment": "Bearish (Local) / Bullish (Price Support)",
+            "key_news": [
+                {
+                    "event": "Phillips 66 closes Oklahoma pipeline after fire and rupture",
+                    "impact": "Temporary supply chain disruption for mid-continent crude and refined product flows."
+                }
+            ],
+            "what_it_means": "Infrastructure vulnerability remains a high-impact, low-probability risk for regional diesel availability.",
+            "watch_next": [
+                "Pipeline repair timeline",
+                "Inventory draws in Cushing, Oklahoma",
+                "Regulatory safety inspections"
+            ],
+            "takeaway": "Physical accidents can cause sudden, sharp spikes in regional basis prices."
+        }
+    },
+    {
+        "id": 24,
+        "query": "Provide a market snapshot for LNG on January 31, 2024, regarding the Phillips 66 Rodeo conversion project.",
+        "expected_answer": {
+            "snapshot_title": "Energy Transition Snapshot - Biorefinery Pivot",
+            "sentiment": "Bullish (Structural Shift)",
+            "key_news": [
+                {
+                    "event": "Phillips 66 champions renewable fuels; Rodeo conversion project to begin operations in Q1",
+                    "impact": "Signals the permanent removal of traditional refining capacity in favor of renewable diesel and SAF."
+                }
+            ],
+            "what_it_means": "The supply chain for traditional diesel is tightening as refineries are retired or repurposed for green fuels.",
+            "watch_next": [
+                "Rodeo facility ramp-up speed",
+                "California LCFS (Low Carbon Fuel Standard) credit prices",
+                "Feedstock procurement contracts"
+            ],
+            "takeaway": "Structural capacity shifts are creating a 'scarcity floor' for traditional distillates."
+        }
+    },
+    {
+        "id": 25,
+        "query": "Assess the market snapshot for Crude Oil on April 14, 2022, regarding the performance of 'Wide-Moat' energy funds.",
+        "expected_answer": {
+            "snapshot_title": "Financial Flows Snapshot - Defensive Positioning",
+            "sentiment": "Neutral / Slightly Bullish",
+            "key_news": [
+                {
+                    "event": "Wide-Moat funds play defense well during inflation and volatility",
+                    "impact": "Institutional capital is rotating into 'safe-haven' energy equities with high barriers to entry."
+                }
+            ],
+            "what_it_means": "Smart money is prioritizing stability and dividends over speculative production growth.",
+            "watch_next": [
+                "Interest rate hikes by the Fed",
+                "Energy sector weightings in major ETFs",
+                "Corporate buyback announcements"
+            ],
+            "takeaway": "Energy is being treated as an 'inflation hedge' by the broader financial community."
+        }
+    },
+    {
+        "id": 26,
+        "query": "Evaluate the market snapshot for Crude Oil on April 29, 2022, as Colgate-Palmolive cuts its forecast due to inflation.",
+        "expected_answer": {
+            "snapshot_title": "Macro Impact Snapshot - Margin Compression",
+            "sentiment": "Bearish (Economic Growth)",
+            "key_news": [
+                {
+                    "event": "Colgate piles onto inflation worries with forecast cut",
+                    "impact": "Direct evidence that high energy/commodity costs are destroying corporate profitability in non-energy sectors."
+                }
+            ],
+            "what_it_means": "The energy price spike is entering the 'demand destruction' phase where consumer spending power is threatened.",
+            "watch_next": [
+                "Q2 earnings from other retail giants",
+                "Consumer confidence index",
+                "Crude oil demand forecasts for H2 2022"
+            ],
+            "takeaway": "High oil prices are a double-edged sword; they support producers but risk a global recession."
+        }
+    },
+    {
+        "id": 27,
+        "query": "Provide a market snapshot for Diesel and Refining on April 25, 2024, regarding Valero's SAF project.",
+        "expected_answer": {
+            "snapshot_title": "Downstream Snapshot - Sustainable Aviation Fuel (SAF)",
+            "sentiment": "Bullish (Innovation)",
+            "key_news": [
+                {
+                    "event": "Valero: DGD’s SAF project to begin operations in Q4",
+                    "impact": "Establishes a new supply chain for low-carbon aviation, diversifying the refined product mix."
+                }
+            ],
+            "what_it_means": "Refiners are looking beyond road diesel to capture higher-margin, regulated aviation markets.",
+            "watch_next": [
+                "Airlines' SAF offtake agreements",
+                "Government subsidies for SAF production",
+                "Logistics of blending SAF into existing jet fuel infrastructure"
+            ],
+            "takeaway": "The 'diesel' category is fragmenting into specialized, higher-value renewable sub-sectors."
+        }
+    },
+    {
+        "id": 28,
+        "query": "What was the market snapshot for Crude Oil on May 25, 2024, regarding Phillips 66's expansion in the Midland Basin?",
+        "expected_answer": {
+            "snapshot_title": "Oil Market Snapshot - Upstream Consolidation",
+            "sentiment": "Bullish",
+            "key_news": [
+                {
+                    "event": "Phillips 66 eyes Midland Basin footprint expansion",
+                    "impact": "Demonstrates a desire to integrate upstream production with downstream refining to secure feedstock."
+                }
+            ],
+            "what_it_means": "Vertical integration is the preferred strategy to mitigate future supply chain volatility.",
+            "watch_next": [
+                "Midland Basin asset prices",
+                "Permian Basin takeaway capacity (pipelines)",
+                "Production volume growth from integrated majors"
+            ],
+            "takeaway": "Securing 'owned' supply is the best defense against geopolitical shocks."
+        }
+    },
+    {
+        "id": 29,
+        "query": "Assess the market snapshot for Crude Oil on June 27, 2024, regarding the Rodeo biorefinery's operating capacity.",
+        "expected_answer": {
+            "snapshot_title": "Refining Snapshot - Biorefinery Scale",
+            "sentiment": "Bullish (Efficiency)",
+            "key_news": [
+                {
+                    "event": "Phillips 66: Rodeo biorefinery operating at full capacity",
+                    "impact": "Proves that large-scale conversion of traditional refineries to renewables is technically and economically viable."
+                }
+            ],
+            "what_it_means": "The 'Green Refiners' are now significant players in the West Coast fuel supply chain.",
+            "watch_next": [
+                "Impact on local diesel spot prices in California",
+                "Import volumes of traditional diesel into the US West Coast",
+                "Competitor conversion announcements"
+            ],
+            "takeaway": "Full-scale biorefining is no longer a pilot project; it is a core supply chain reality."
+        }
+    },
+    {
+        "id": 30,
+        "query": "Evaluate the market snapshot for Crude Oil and Diesel on May 24, 2022, regarding Colgate-Palmolive's stability.",
+        "expected_answer": {
+            "snapshot_title": "Macro/Defensive Snapshot - Stability Amid Volatility",
+            "sentiment": "Neutral / Slightly Bullish (Defensive)",
+            "key_news": [
+                {
+                    "event": "Colgate-Palmolive: Stability Amid Volatility",
+                    "impact": "Market perceives established FMCG brands as a 'safe' place to park capital when energy markets are chaotic."
+                }
+            ],
+            "what_it_means": "Despite high input costs, 'essential' goods maintain pricing power during energy-driven inflation.",
+            "watch_next": [
+                "Price elasticity of consumer products",
+                "Global logistics costs (freight/shipping)",
+                "USD strength impact on international sales"
+            ],
+            "takeaway": "Financial stability can be found in sectors that provide essentials, even during supply chain shocks."
+        }
+    },
+    {
+        "id": 31,
+        "query": "Provide a market snapshot for Crude Oil on March 28, 2026, regarding U.S. drillers' response to triple-digit prices.",
+        "expected_answer": {
+            "snapshot_title": "Oil Market Snapshot - Supply Inelasticity",
+            "sentiment": "Bullish (Supply Constraint)",
+            "key_news": [
+                {
+                    "event": "Drillers see triple-digit crude and 'hit the brakes'",
+                    "impact": "Counter-intuitively, high prices are not triggering a massive surge in new drilling due to capital discipline."
+                }
+            ],
+            "what_it_means": "The 'supply response' to the 2026 crisis is muted; the market will remain tight for longer.",
+            "watch_next": [
+                "Rig count data",
+                "Shareholder pressure for dividends over growth",
+                "Cost of oilfield services (labor/equipment)"
+            ],
+            "takeaway": "Price alone is no longer the primary driver of US supply growth."
+        }
+    },
+    {
+        "id": 32,
+        "query": "Assess the market snapshot for Crude Oil and LNG on March 29, 2026, focusing on Africa's role in the Iran War context.",
+        "expected_answer": {
+            "snapshot_title": "Energy Snapshot - Geographic Diversification",
+            "sentiment": "Bullish (African Producers)",
+            "key_news": [
+                {
+                    "event": "Africa could emerge as the biggest winner in Iran War",
+                    "impact": "The blockade of the Middle East is forcing buyers to look to Nigeria, Angola, and Mozambique for supply."
+                }
+            ],
+            "what_it_means": "Supply chain risk is causing a massive structural shift toward the Atlantic Basin and African energy.",
+            "watch_next": [
+                "African export infrastructure capacity",
+                "Political stability in key African producing nations",
+                "Freight rates for Atlantic vs. Middle East routes"
+            ],
+            "takeaway": "Global energy flows are being permanently rerouted away from the Persian Gulf."
+        }
+    },
+    {
+        "id": 33,
+        "query": "What is the market snapshot for Diesel on March 30, 2026, regarding Bangladesh and IMF warnings?",
+        "expected_answer": {
+            "snapshot_title": "Diesel Snapshot - Emerging Market Crisis",
+            "sentiment": "Bearish (Macro) / Bullish (Price Tension)",
+            "key_news": [
+                {
+                    "event": "Bangladesh seeks U.S. waiver for Russian Diesel as IMF warns of energy shock",
+                    "impact": "Highlights the desperation of developing nations to secure fuel, even if it requires breaking sanctions."
+                }
+            ],
+            "what_it_means": "The supply chain disruption is hitting the most vulnerable economies hardest, risking civil unrest.",
+            "watch_next": [
+                "U.S. waiver policy for developing nations",
+                "IMF emergency lending packages",
+                "Diesel availability in South Asia"
+            ],
+            "takeaway": "The 'energy shock' is transitioning into a 'humanitarian/financial shock' for emerging markets."
+        }
+    },
+    {
+        "id": 34,
+        "query": "Provide a market snapshot for Diesel on March 30, 2026, regarding Australia's fuel tax policy.",
+        "expected_answer": {
+            "snapshot_title": "Diesel Snapshot - Government Intervention",
+            "sentiment": "Neutral (Consumer Relief) / Bullish (Demand Support)",
+            "key_news": [
+                {
+                    "event": "Australia cuts fuel tax in half as Middle East war squeezes supply",
+                    "impact": "Direct government effort to mitigate 'pump pain' for consumers and logistics firms."
+                }
+            ],
+            "what_it_means": "Governments are depleting fiscal revenues to prevent high diesel prices from stalling their economies.",
+            "watch_next": [
+                "Duration of the tax cut",
+                "Impact on Australian inflation data",
+                "Similar moves by other OECD nations"
+            ],
+            "takeaway": "State intervention is the final barrier against total supply chain cost pass-through."
+        }
+    },
+    {
+        "id": 35,
+        "query": "Assess the market snapshot for Crude Oil and Diesel on March 30, 2026, regarding global fuel price surges and inventory shocks.",
+        "expected_answer": {
+            "snapshot_title": "Global Energy Snapshot - Inventory Shock",
+            "sentiment": "High Bullish",
+            "key_news": [
+                {
+                    "event": "Global fuel prices surging as Middle East war hits consumers",
+                    "impact": "Widespread realization that inventories are insufficient to cover a long-term Hormuz blockade."
+                }
+            ],
+            "what_it_means": "The market has moved from 'fear of disruption' to 'real-time supply depletion'.",
+            "watch_next": [
+                "Global stock-draw data from IEA",
+                "Emergency storage releases",
+                "Retail fuel price caps in various countries"
+            ],
+            "takeaway": "The supply chain is broken; rationing and high prices are the new baseline."
+        }
+    },
+    {
+        "id": 36,
+        "query": "Evaluate the market snapshot for Crude Oil and LNG on March 31, 2026, regarding stranded ships near the Strait of Hormuz.",
+        "expected_answer": {
+            "snapshot_title": "Logistics Snapshot - Maritime Blockade",
+            "sentiment": "Extreme Bullish (Logistics Crisis)",
+            "key_news": [
+                {
+                    "event": "India says 28 oil and gas ships are stranded near the Strait of Hormuz",
+                    "impact": "Physical evidence of a massive supply chain blockage affecting nearly 30 major vessels."
+                }
+            ],
+            "what_it_means": "The physical movement of commodities has ground to a halt in the world's most critical transit point.",
+            "watch_next": [
+                "Satellite imagery of tanker clusters",
+                "Maritime security 'Safe Passage' negotiations",
+                "Alternative pipeline throughput (e.g., East-West Pipeline in Saudi Arabia)"
+            ],
+            "takeaway": "Shipping logistics are now the bottleneck that dictates global energy prices."
+        }
+    },
+    {
+        "id": 37,
+        "query": "Provide a market snapshot for Crude Oil on March 31, 2026, regarding the Brent-WTI spread.",
+        "expected_answer": {
+            "snapshot_title": "Oil Market Snapshot - Arbitrage Blowout",
+            "sentiment": "Bullish (Brent) / Neutral (WTI)",
+            "key_news": [
+                {
+                    "event": "Brent hits $118 as Hormuz shock blows out spread with WTI",
+                    "impact": "Brent (the global benchmark) is pricing in the crisis while WTI (the US benchmark) is relatively insulated."
+                }
+            ],
+            "what_it_means": "The US energy independence is acting as a 'safety net' for domestic prices, while the rest of the world suffers.",
+            "watch_next": [
+                "US crude export volumes to Europe/Asia",
+                "US Strategic Petroleum Reserve (SPR) actions",
+                "Brent-WTI spread widening vs. historical norms"
+            ],
+            "takeaway": "The energy market is fragmenting into 'safe zones' (US) and 'crisis zones' (Global)."
+        }
+    },
+    {
+        "id": 38,
+        "query": "Assess the market snapshot for LNG on March 31, 2026, regarding Asian energy switching and price highs.",
+        "expected_answer": {
+            "snapshot_title": "LNG Snapshot - Demand Destruction",
+            "sentiment": "Bullish (Price) / Bearish (Environment)",
+            "key_news": [
+                {
+                    "event": "Asia burns more coal as Middle East war sends LNG prices to 3-year highs",
+                    "impact": "High LNG prices are forcing a reversal of the 'gas-to-coal' transition in Asia."
+                }
+            ],
+            "what_it_means": "The supply chain crisis is not just an economic issue; it is a setback for global decarbonization goals.",
+            "watch_next": [
+                "Coal spot prices in Australia/Indonesia",
+                "Asian LNG spot buying activity",
+                "Air quality/emissions data in major Asian hubs"
+            ],
+            "takeaway": "Price-driven 'backward switching' is the only way Asia can keep the lights on."
+        }
+    },
+    {
+        "id": 39,
+        "query": "What was the market snapshot for LNG on March 31, 2026, regarding Chevron's project damage reports?",
+        "expected_answer": {
+            "snapshot_title": "LNG Snapshot - Infrastructure Damage",
+            "sentiment": "High Bullish",
+            "key_news": [
+                {
+                    "event": "Chevron reports 'extensive damage' at major LNG project",
+                    "impact": "Adds another layer of supply loss to an already throttled global gas market."
+                }
+            ],
+            "what_it_means": "Infrastructure failure—whether from conflict or accidents—is removing molecules that cannot be replaced.",
+            "watch_next": [
+                "Damage assessment and repair timeline",
+                "Force Majeure declarations from Chevron",
+                "Impact on long-term contract deliveries to Asia"
+            ],
+            "takeaway": "The global LNG supply buffer has completely evaporated."
+        }
+    },
+    {
+        "id": 40,
+        "query": "Evaluate the market snapshot for Crude Oil on March 27, 2026, summarizing the 'Sentiment' score for traders.",
+        "expected_answer": {
+            "snapshot_title": "Oil Market Snapshot - Sentiment Extremes",
+            "sentiment": "Highly Volatile (Fear vs. Diplomacy)",
+            "key_news": [
+                {
+                    "event": "Oil traders caught between diplomacy and disruption risk",
+                    "impact": "Extreme intraday price swings as traders react to every rumor from the Persian Gulf."
+                }
+            ],
+            "what_it_means": "Algorithmic trading and 'headline scanning' are dominating price discovery over fundamentals.",
+            "watch_next": [
+                "Daily trading volumes and liquidity",
+                "CBOE Oil Volatility Index (OVX) levels",
+                "Statements from OPEC+ delegates"
+            ],
+            "takeaway": "The market is in a 'fragile bullish' state where one headline can trigger a $10 move in either direction."
+        }
+    },
+    {
+        "id": 41,
+        "query": "Compare the 'Risk Severity' of LNG supply in March 2022 vs. March 2026 based on the news data.",
+        "expected_answer": {
+            "snapshot_title": "Risk Comparison - 2022 vs. 2026",
+            "sentiment": "High Risk (Both)",
+            "key_news": [
+                {
+                    "event": "2022: European scramble for LNG; 2026: Hormuz blockade and infrastructure damage.",
+                    "impact": "2022 was a 're-routing' crisis; 2026 is a 'physical loss' crisis."
+                }
+            ],
+            "what_it_means": "While 2022 saw record prices, the 2026 crisis is more severe because the physical transit of existing supply is blocked.",
+            "watch_next": [
+                "Reopening of the Strait of Hormuz",
+                "Global LNG liquefaction capacity growth",
+                "Storage levels in the EU vs. Japan/Korea"
+            ],
+            "takeaway": "The 2026 crisis represents a 'Logistics Total Failure' that far exceeds the 'Policy Shift' of 2022."
+        }
+    },
+    {
+        "id": 42,
+        "query": "Assess the 'Supply Chain Blockage' risk for India's energy sector on March 31, 2026.",
+        "expected_answer": {
+            "snapshot_title": "Regional Snapshot - India Energy Security",
+            "sentiment": "Extreme Bullish (Risk)",
+            "key_news": [
+                {
+                    "event": "28 oil and gas ships stranded; India Petrol Pricing taxed divide.",
+                    "impact": "High risk of domestic fuel shortages and runaway inflation in India."
+                }
+            ],
+            "what_it_means": "India is uniquely vulnerable to the Hormuz conflict due to its geographical proximity and heavy reliance on Gulf crude.",
+            "watch_next": [
+                "Indian Strategic Petroleum Reserve releases",
+                "Bilateral talks between Delhi and Tehran",
+                "Domestic fuel subsidies vs. state fiscal health"
+            ],
+            "takeaway": "India is at the epicenter of the 2026 supply chain collapse."
+        }
+    },
+    {
+        "id": 43,
+        "query": "Identify the 'No Significant Risk' news baseline from the dataset and explain its role in the 2022 context.",
+        "expected_answer": {
+            "snapshot_title": "Baseline Snapshot - Market Noise",
+            "sentiment": "Neutral",
+            "key_news": [
+                {
+                    "event": "Colgate toothpaste launches and consumer product distributor disputes in Maharashtra.",
+                    "impact": "Provides a 'control' dataset of news that does not impact global oil supply chains."
+                }
+            ],
+            "what_it_means": "Financial AI models must distinguish between 'sector noise' (FMCG) and 'systemic risk' (Energy).",
+            "watch_next": [
+                "Sentiment correlation between consumer goods and crude prices",
+                "Impact of inflation on luxury vs. essential spending"
+            ],
+            "takeaway": "Not all 'disruptions' are commodity supply chain risks; local logistics are noise."
+        }
+    },
+    {
+        "id": 44,
+        "query": "What is the 'Infrastructure Damage' market snapshot for the LNG sector on March 31, 2026?",
+        "expected_answer": {
+            "snapshot_title": "LNG Snapshot - Physical Assets",
+            "sentiment": "Bullish (Scarcity)",
+            "key_news": [
+                {
+                    "event": "Chevron reports 'extensive damage' at major project; global LNG prices at 3-year highs.",
+                    "impact": "Physical destruction of supply assets creates a multi-year deficit."
+                }
+            ],
+            "what_it_means": "The crisis has evolved from 'tanker delays' to 'permanent capacity loss'.",
+            "watch_next": [
+                "Insurance payouts for energy infrastructure",
+                "Availability of specialized repair ships/crews",
+                "Impact on 2027-2028 supply forecasts"
+            ],
+            "takeaway": "Hardware damage is the most 'sticky' form of supply chain risk."
+        }
+    },
+    {
+        "id": 45,
+        "query": "Provide a market snapshot for Diesel and Regulatory Constraints on March 30, 2026, regarding Bangladesh.",
+        "expected_answer": {
+            "snapshot_title": "Diesel Snapshot - Sanction Friction",
+            "sentiment": "Bullish (Regulatory Risk)",
+            "key_news": [
+                {
+                    "event": "Bangladesh seeks U.S. waiver for Russian Diesel.",
+                    "impact": "Demonstrates the tension between global sanction regimes and national survival."
+                }
+            ],
+            "what_it_means": "Sanctions are only as effective as the market's ability to provide alternative affordable supply.",
+            "watch_next": [
+                "Expansion of the 'Dark Fleet' for refined products",
+                "US State Department response to waiver requests",
+                "Global diesel arbitrage flows"
+            ],
+            "takeaway": "Regulation is becoming the 'invisible' supply chain bottleneck."
+        }
+    },
+    {
+        "id": 46,
+        "query": "Assess the 'Market Sentiment' for Crude Oil during the US-Iran 'Hormuz Deadline' event in March 2026.",
+        "expected_answer": {
+            "snapshot_title": "Sentiment Snapshot - Deadline Diplomacy",
+            "sentiment": "Bearish (Correction) following Bullish (Spike)",
+            "key_news": [
+                {
+                    "event": "Oil plummets 8% after Trump postpones deadline; Brent surged earlier on 'Iran Rejection'.",
+                    "impact": "Classic 'buy the rumor, sell the news' volatility."
+                }
+            ],
+            "what_it_means": "Sentiment is completely detached from the physical reality of oil in the ground and tied to the political calendar.",
+            "watch_next": [
+                "Social media sentiment from key political figures",
+                "Real-time news speed (latency) for trading desks",
+                "The next 'deadline' or 'negotiation' window"
+            ],
+            "takeaway": "Trading the 'Hormuz Headline' is a high-risk, high-reward game."
+        }
+    },
+    {
+        "id": 47,
+        "query": "What are the top 3 'High Severity' risks identified for the Crude Oil supply chain in March 2026?",
+        "expected_answer": {
+            "snapshot_title": "Risk Summary - March 2026 Crisis",
+            "sentiment": "Maximum Bullish (Risk)",
+            "key_news": [
+                {
+                    "event": "1. Saudi Export Slashing; 2. Hormuz Blockade/Stranded Ships; 3. Failed Diplomacy (Iran Rejection).",
+                    "impact": "A triple-threat to global supply continuity."
+                }
+            ],
+            "what_it_means": "We are witnessing the complete breakdown of the global oil supply chain as it relates to the Middle East.",
+            "watch_next": [
+                "US Naval intervention",
+                "Alternative pipeline utilization",
+                "Emergency IEA stock coordination"
+            ],
+            "takeaway": "March 2026 is the benchmark 'black swan' event for energy risk models."
+        }
+    },
+    {
+        "id": 48,
+        "query": "Analyze the sentiment for Diesel on March 31, 2026, as Australia cuts fuel taxes.",
+        "expected_answer": {
+            "snapshot_title": "Diesel Snapshot - Fiscal Buffer",
+            "sentiment": "Neutral / Bearish (Price)",
+            "key_news": [
+                {
+                    "event": "Australia cuts fuel tax in half; global prices surging.",
+                    "impact": "Locally bearish for prices (due to tax cut) but globally bullish (due to war)."
+                }
+            ],
+            "what_it_means": "Local price action can diverge from global benchmarks due to domestic policy interventions.",
+            "watch_next": [
+                "Impact on Australian freight and transport stocks",
+                "Duration of the excise cut",
+                "Inflation expectations in the Oceania region"
+            ],
+            "takeaway": "Supply chain intelligence must distinguish between 'global benchmark risk' and 'local retail impact'."
+        }
+    },
+    {
+        "id": 49,
+        "query": "Evaluate the 'Infrastructure Damage' risk for the LNG supply chain in March 2026.",
+        "expected_answer": {
+            "snapshot_title": "LNG Snapshot - Project Fragility",
+            "sentiment": "Bullish (Scarcity)",
+            "key_news": [
+                {
+                    "event": "Chevron reports 'extensive damage'; global supply chokes.",
+                    "impact": "Physical destruction of liquefaction assets removes supply that takes years to rebuild."
+                }
+            ],
+            "what_it_means": "The LNG supply chain is far more brittle than crude because its infrastructure is highly specialized and concentrated.",
+            "watch_next": [
+                "Modular construction timelines for repair",
+                "Spare part availability for LNG turbines",
+                "Cyber-security threats to other LNG hubs"
+            ],
+            "takeaway": "A single point of failure in an LNG project can shift the entire global price curve."
+        }
+    },
+    {
+        "id": 50,
+        "query": "Summarize the 'Sentiment' for the entire Commodity sector on March 31, 2026, based on all news in the dataset.",
+        "expected_answer": {
+            "snapshot_title": "Aggregate Commodity Snapshot - End of March 2026",
+            "sentiment": "Maximum Bullish (War/Supply Shock)",
+            "key_news": [
+                {
+                    "event": "Hormuz blockade, Chevron damage, 28 stranded ships, Saudi cuts, and Brent at $118.",
+                    "impact": "The global energy supply chain is in its most severe crisis since the 1970s."
+                }
+            ],
+            "what_it_means": "Market is pricing in a long-term conflict with no clear diplomatic exit.",
+            "watch_next": [
+                "Potential for the war to expand to other regions",
+                "Strategic reserve exhaustion timelines",
+                "Global GDP growth downgrades"
+            ],
+            "takeaway": "Commodity traders are focused on 'Supply Security' over all other metrics."
+        }
+    }
+]

@@ -1,0 +1,34 @@
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+## COMMODITY RISK REPORT
+**Commodity:** crude oil  
+**Report Date:** 2026-04-10  
+**Articles Analysed:** 1 articles  
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+### 1. OVERALL SENTIMENT
+**Bullish**  
+> The market sentiment is bullish due to Shell's announcement to stop purchasing Russian oil, indicating potential supply constraints and an overall tightening of the market.
+
+---
+### 2. KEY RISK SIGNALS
+
+**Geopolitics & Policy | Geopolitical Conflict | Severity: High**  
+- **Headline:** Shell Says It Will Stop Buying Russian Oil, Natural Gas  
+- **What happened:** Shell has decided to cease its purchases of Russian oil and natural gas amid heightened scrutiny and rising oil prices, following criticism from Ukraine's foreign minister.  
+- **Market impact:** The cessation of Russian oil imports by a major company like Shell may lead to a contraction in supply chains, raising the likelihood of higher prices due to diminished availability.  
+- **Sentiment contribution:** Bullish — this action suggests a reduction in available crude oil in the global market, potentially leading to price increases.
+
+---
+### 3. SIGNAL SYNTHESIS
+The risk signal presented is aligned and indicates heightened tensions surrounding geopolitical issues affecting crude oil supply. Shell's withdrawal from Russian oil is a fundamental market shift that raises concerns about future supply and price. The current sentiment reflects a bullish outlook based on expected supply shortages.
+
+---
+### 4. WATCH LIST
+- [ ] Monitor global oil price movements → a significant rise could confirm supply constraints.  
+- [ ] Track responses from other oil companies regarding Russian oil purchases → further withdrawals could indicate broader market changes.  
+- [ ] Observe geopolitical developments regarding the Ukraine conflict → escalations could increase volatility in oil supplies.  
+
+---
+### 5. BOTTOM LINE
+**Risk Level: High**  
+The most crucial aspect for risk managers is recognizing the geopolitical risks tied to Russian oil supplies, especially in light of Shell's action, which may influence overarching market dynamics significantly. The sentiment is strong, but the situation remains fluid and dependent on ongoing geopolitical developments.

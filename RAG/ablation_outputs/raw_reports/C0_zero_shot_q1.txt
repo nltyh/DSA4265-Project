@@ -1,0 +1,52 @@
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+## COMMODITY RISK REPORT
+**Commodity:** crude oil  
+**Report Date:** 2026-04-10  
+**Articles Analysed:** 5 articles
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+### 1. OVERALL SENTIMENT
+**Bullish**
+> The dominant signal is the geopolitical conflict triggered by Russian military action in Ukraine which has driven oil prices nearing $100 a barrel, indicating strong upward pressure on crude oil prices.
+
+---
+### 2. KEY RISK SIGNALS
+
+**Geopolitics & Policy | Geopolitical Conflict | Severity: High**
+- **Headline:** Russian Military Action In Ukraine Causes Oil Prices To Soar
+- **What happened:** Russia's invasion of Ukraine led to significant disruptions in global markets, causing oil prices to surge.
+- **Market impact:** The direct impact is an increased risk premium in oil markets due to fears of supply disruptions, leading to higher prices.
+- **Sentiment contribution:** Bullish — The escalation in geopolitical tensions heightens supply risks, supporting higher prices.
+
+**Geopolitics & Policy | Geopolitical Conflict | Severity: Medium**
+- **Headline:** Procter & Gamble continues sponsoring Russia’s war with two giant factories
+- **What happened:** P&G's continued operations in Russia financially support the Russian economy amid the Ukraine conflict.
+- **Market impact:** While not directly affecting oil supply, the continued financial engagement with Russia may prolong tensions and indirectly keep oil prices elevated.
+- **Sentiment contribution:** Bullish — Prolonged geopolitical support for conflict contributes to sustained supply risk perception.
+
+**Geopolitics & Policy | No Significant Risk | Severity: Low**
+- **Headline:** Illegal Rainforest Destruction for Palm Oil Continues Unchecked by Global Brands in the Leuser Ecosystem
+- **What happened:** Despite highlighted ongoing rainforest destruction for palm oil, there's no immediate risk for crude oil supply or demand.
+- **Market impact:** No direct impact on crude oil market.
+- **Sentiment contribution:** Neutral — Unrelated to crude oil supply/demand balance.
+
+**Geopolitics & Policy | No Significant Risk | Severity: Low**
+- **Headline:** US Lawmakers Condemn Oil Industry’s ‘Deception’ on Climate Action
+- **What happened:** US lawmakers criticized oil companies for misleading on climate actions but this does not impact current supply/demand directly.
+- **Market impact:** No immediate impact on oil prices or availability.
+- **Sentiment contribution:** Neutral — Focuses on long-term structural shifts rather than immediate market conditions.
+
+---
+### 3. SIGNAL SYNTHESIS
+Risk signals are largely aligned, indicating a bullish sentiment driven by high-impact geopolitical conflicts involving Russian military actions in Ukraine. The geopolitical tensions introduce a material risk to supply that is confirmed by market reactions, with prices driven upward fundamentally by these risks. Signals from other articles, though related to policy or long-term structural shifts, do not currently dispute or attenuate the high-risk outlook for prices.
+
+---
+### 4. WATCH LIST
+- [ ] Escalation in Russia-Ukraine conflict → Significant supply disruptions could further elevate prices.
+- [ ] Sanctions or embargoes on Russia → Would directly impact oil supply and global price stability.
+- [ ] Major policy shifts in US or EU regarding Russian energy imports → Could alter market sentiment and supply chain dynamics.
+  
+---
+### 5. BOTTOM LINE
+**Risk Level: High**  
+The most critical factor is the geopolitical instability due to Russia's actions in Ukraine, driving significant pressure on oil prices. The situation presents a clear and present risk with elevated prices anticipated in the near term. This signal is robust and currently uncontested by any contradictory data within the review period.

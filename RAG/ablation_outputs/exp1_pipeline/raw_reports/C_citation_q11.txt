@@ -1,0 +1,29 @@
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+## COMMODITY RISK REPORT
+**Commodity:** LNG  
+**Report Date:** 2026-04-10  
+**Articles Analysed:** 5 articles  
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+### 1. OVERALL SENTIMENT
+**Bearish**  
+> The bearish sentiment is driven by a significant plunge in global LNG exports, primarily attributed to supply chain blockages resulting from geopolitical tensions.
+
+### 2. KEY RISK SIGNALS
+**LNG & natural gas | Supply Chain Blockage | Severity: High**
+- **Headline:** LNG Exports Plunge to 6-Month Low as War Throttles Supply
+- **What happened:** Global LNG shipments have declined to approximately 1.1 million metric tons, marking a six-month low due to the collapse of Middle Eastern supply and the closure of the Strait of Hormuz [Article 1].
+- **Market impact:** The sharp decrease in shipments indicates a constrained supply landscape, likely leading to upward pressure on LNG prices due to reduced availability.
+- **Sentiment contribution:** Bearish — the decline in exports severely impacts market confidence, leading to concerns about future supply security.
+
+### 3. SIGNAL SYNTHESIS
+The risk signals are aligned around the theme of supply chain disruptions caused by geopolitical factors, specifically the conflict surrounding the Strait of Hormuz. This risk is confirmed by observable data regarding export levels and market reactions. The overall net effect of these signals is an elevated risk exposure for LNG due to significant supply constraints.
+
+### 4. WATCH LIST
+- [ ] **Continued conflict in the Middle East** → Escalation could further limit supply and exacerbate price increases.
+- [ ] **Resolution of the Strait of Hormuz situation** → A peaceful outcome might restore supply levels and relieve market pressure.
+- [ ] **Alternative supply routes or sources emerging** → New supply solutions could mitigate risks associated with current blockages.
+
+### 5. BOTTOM LINE
+**Risk Level: High**  
+The current signals firmly indicate a high-risk level for LNG due to substantial supply chain blockages. Immediate attention to geopolitical developments is essential, as the situation remains fragile with no confirmed resolutions in sight.

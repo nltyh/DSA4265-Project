@@ -1,0 +1,60 @@
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+## COMMODITY RISK REPORT
+**Commodity:** diesel  
+**Report Date:** 2026-04-10  
+**Articles Analyzed:** 5 articles  
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+### 1. OVERALL SENTIMENT
+**Bullish**
+> The overall sentiment is bullish for diesel due to regulatory constraints in Bangladesh and surging global prices, driven by geopolitical tensions and supply pressures from the Middle East.
+
+---
+### 2. KEY RISK SIGNALS
+
+**Geopolitics & Policy | Regulatory Constraint | Severity: High**
+- **Headline:** Bangladesh Seeks U.S. Waiver for Russian Diesel as IMF Warns of Energy Shock
+- **What happened:** Bangladesh requested a temporary sanctions waiver from the U.S. to import 600,000 metric tonnes of Russian diesel amid an energy crisis [Article 1].
+- **Market impact:** This situation suggests a heightened demand for diesel, potentially straining supply and rising prices.
+- **Sentiment contribution:** Bullish — due to the increased need for diesel imports and potential supply shortages.
+
+**Geopolitics & Policy | No Significant Risk | Severity: Low**
+- **Headline:** China Sends Fuel to Struggling Southeast Asia Despite Export Ban
+- **What happened:** China has been delivering diesel and other fuels to Southeast Asia despite its export ban, indicating efforts to alleviate regional fuel shortages [Article 2].
+- **Market impact:** This may slightly ease some supply pressures in Southeast Asia but does not significantly affect global diesel dynamics.
+- **Sentiment contribution:** Neutral — while it provides some supply relief, the overall demand-supply balance remains tight due to other issues.
+
+**Demand / Macro Activity | Inventory Shock | Severity: Medium**
+- **Headline:** Global Fuel Prices Are Surging as the Middle East War Hits Consumers
+- **What happened:** Global fuel prices, including diesel, have surged by up to 80% in response to the ongoing Middle East conflicts [Article 3].
+- **Market impact:** Rising prices indicate tightening inventories and higher consumer costs, which may lead to reduced demand.
+- **Sentiment contribution:** Bullish — as high prices reflect strong demand pressures.
+
+**Geopolitics & Policy | Geopolitical Conflict | Severity: High**
+- **Headline:** Oil Set to Book Record Monthly Gain on Iran Crisis
+- **What happened:** Oil prices are on track for a record monthly gain due to geopolitical tensions involving Iran [Article 4].
+- **Market impact:** Increased oil prices will likely lead to corresponding increases in diesel prices, amplifying existing supply concerns.
+- **Sentiment contribution:** Bullish — heightened geopolitical risks signal potential further price increases.
+
+**Geopolitics & Policy | Regulatory Constraint | Severity: Medium**
+- **Headline:** Australia Cuts Fuel Tax in Half as Middle East War Squeezes Supply
+- **What happened:** Australia has halved its fuel excise to mitigate the financial impacts of rising fuel prices [Article 5].
+- **Market impact:** This regulatory action might lower local prices temporarily but could exert additional pressure on supply chains.
+- **Sentiment contribution:** Bearish — while it helps consumers, it indicates underlying stress in supply chains, potentially signaling longer-term issues.
+
+---
+### 3. SIGNAL SYNTHESIS
+The risk signals present a largely bullish picture for diesel with a few neutral elements. The regulatory constraints in Bangladesh paired with the significant price hikes driven by geopolitical tensions suggest that demand pressures are outpacing supply capabilities. Although there are efforts to alleviate some supply pressures from China, the overarching narrative reflects strong demand coupled with geopolitical risks that may lead to further escalation in prices.
+
+---
+### 4. WATCH LIST
+- [ ] **U.S. Response to Bangladesh's Waiver Request** → A favorable or unfavorable response could significantly impact diesel availability and prices in Bangladesh.
+- [ ] **Further Developments in Middle East Conflicts** → An escalation could continue to drive up oil and diesel prices globally.
+- [ ] **Changes in Chinese Export Policies** → Any shifts could affect regional supply dynamics and price levels across Southeast Asia.
+- [ ] **Consumer Response to Rising Diesel Prices** → A noticeable decline in demand from consumers due to price sensitivity could alter supply-demand balance.
+- [ ] **Monitoring for Additional Regulatory Actions** → Further tax cuts or regulatory changes in major markets could impact prices and consumer demand.
+
+---
+### 5. BOTTOM LINE
+**Risk Level: High**  
+Traders and risk managers should note that the current market dynamics for diesel are heavily influenced by geopolitical tensions and regulatory constraints, leading to upward price pressures. Events and responses in Bangladesh and the Middle East will be critical to monitor, as contradictions and volatility in the market signal a fragile situation that could swing in either direction.

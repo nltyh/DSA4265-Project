@@ -1,0 +1,36 @@
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+## COMMODITY RISK REPORT
+**Commodity:** LNG  
+**Report Date:** 2026-04-10  
+**Articles Analysed:** 5 articles  
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+### 1. OVERALL SENTIMENT
+**Bullish**  
+> The U.S. has achieved a historic milestone by becoming the world's top LNG exporter, driven by increased production and export capacity, which suggests robust demand and supply conditions supporting higher prices.
+
+### 2. KEY RISK SIGNALS
+
+**LNG & Natural Gas | Supply Chain Blockage | Severity: Medium**  
+- **Headline:** U.S. becomes top LNG exporter in first half of 2022 - EIA  
+- **What happened:** The U.S. increased its LNG exports by 12% in the first half of 2022 despite a temporary reduction due to a fire at the Freeport LNG facility.  
+- **Market impact:** This indicates a generally strong export capacity, although disruptions can lead to uncertainties in supply continuity.  
+- **Sentiment contribution:** Bullish — the expansion in export capacity underlines a strong market outlook despite temporary setbacks [Article 2].
+
+**LNG & Natural Gas | No Significant Risk | Severity: Low**  
+- **Headline:** US becomes world’s top LNG exporter for first time ever  
+- **What happened:** For the first time, the U.S. surpassed Qatar to become the leading exporter of LNG, attributed to increased deliveries and new production units.  
+- **Market impact:** This achievement strengthens the U.S.'s position in the global LNG market, potentially stabilizing or boosting prices.  
+- **Sentiment contribution:** Neutral — although this is a positive milestone, there are indications that the leading position may be temporary due to future competition [Article 1].
+
+### 3. SIGNAL SYNTHESIS
+The risk signals present a coherent bullish outlook for the LNG market, driven by significant increases in export capacity and a historic status as a leading exporter. While there are potential supply chain disruptions noted, the overall trend points towards an increase in LNG availability, framing a sound demand-supply balance. Market sentiment is further buoyed by heightened global demand, especially from Europe amid geopolitical tensions.
+
+### 4. WATCH LIST
+- [ ] Monitor production activities at the Freeport LNG facility → A full recovery would signal continued strong supply.
+- [ ] Track Qatar's upcoming major export project timeline → Any delays could enhance U.S. competitive positioning in the market.
+- [ ] Watch for geopolitical developments in the Ukraine conflict → Further escalations could increase European demand for U.S. LNG.
+
+### 5. BOTTOM LINE
+**Risk Level: Medium**  
+The U.S. LNG market is benefiting from a significant bullish sentiment due to its newfound status as the top exporter, although the potential for supply chain disruptions should be monitored closely. The signals suggest a favorable environment but remain sensitive to external geopolitical factors and operational risks in key facilities.

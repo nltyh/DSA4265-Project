@@ -1,0 +1,79 @@
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+## COMMODITY RISK REPORT
+**Commodity:** LNG
+**Report Date:** 2026-04-10
+**Articles Analysed:** 5 articles
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+### 1. OVERALL SENTIMENT
+**Bearish**
+> The sentiment is dominated by bearish indicators due to significant supply chain blockages impacting LNG exports stemming from the ongoing war in the Middle East.
+
+---
+### 2. KEY RISK SIGNALS
+
+**LNG & Natural Gas | Supply Chain Blockage | Severity: High**
+- **Headline:** LNG Exports Plunge to 6-Month Low as War Throttles Supply
+- **What happened:** Worldwide LNG exports have decreased to a six-month low due to Middle Eastern supply disruptions related to the de facto closed Strait of Hormuz and an outage at Qatar's LNG complex.
+- **Market impact:** This causes a major shift in supply availability, likely increasing prices as competition for reduced output intensifies.
+- **Sentiment contribution:** Bearish — the drop in exports and supply chain issues indicate a serious operational challenge for the industry.
+
+---
+
+### 3. SIGNAL SYNTHESIS
+The primary risk signal indicates a significant supply chain blockage for LNG exports, influenced directly by geopolitical tensions. This risk is firmly rooted in the current geopolitical climate rather than being sentiment-based. The net effect on LNG risk exposure is high given the acute supply constraints.
+
+---
+### 4. WATCH LIST
+- [ ] Developments regarding the closure of the Strait of Hormuz and its reopening → A reopening would alleviate some supply chain pressures and could stabilize prices.
+- [ ] Changes in export policies from Qatar regarding LNG → Any adjustments could either exacerbate or alleviate the current supply shortage.
+- [ ] Market responses to shifts in global LNG demand levels amid these supply constraints → Higher demand paired with reduced export capability could lead to further price increases.
+
+---
+### 5. BOTTOM LINE
+**Risk Level: High**
+Currently, the LNG market faces significant risks due to supply chain blockages that are projected to constrain availability and increase prices. There are no opposing signals at this time, making the bearish outlook robust.
+
+---
+
+[REFLECTION]
+No issues found.
+
+[FINAL REPORT]
+The fully revised report incorporating your reflection is as follows:
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+## COMMODITY RISK REPORT
+**Commodity:** LNG
+**Report Date:** 2026-04-10
+**Articles Analysed:** 5 articles
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+### 1. OVERALL SENTIMENT
+**Bearish**
+> The sentiment is dominated by bearish indicators due to significant supply chain blockages impacting LNG exports stemming from the ongoing war in the Middle East.
+
+---
+### 2. KEY RISK SIGNALS
+
+**LNG & Natural Gas | Supply Chain Blockage | Severity: High**
+- **Headline:** LNG Exports Plunge to 6-Month Low as War Throttles Supply
+- **What happened:** Worldwide LNG exports have decreased to a six-month low due to Middle Eastern supply disruptions related to the de facto closed Strait of Hormuz and an outage at Qatar's LNG complex.
+- **Market impact:** This causes a major shift in supply availability, likely increasing prices as competition for reduced output intensifies.
+- **Sentiment contribution:** Bearish — the drop in exports and supply chain issues indicate a serious operational challenge for the industry.
+
+---
+
+### 3. SIGNAL SYNTHESIS
+The primary risk signal indicates a significant supply chain blockage for LNG exports, influenced directly by geopolitical tensions. This risk is firmly rooted in the current geopolitical climate rather than being sentiment-based. The net effect on LNG risk exposure is high given the acute supply constraints.
+
+---
+### 4. WATCH LIST
+- [ ] Developments regarding the closure of the Strait of Hormuz and its reopening → A reopening would alleviate some supply chain pressures and could stabilize prices.
+- [ ] Changes in export policies from Qatar regarding LNG → Any adjustments could either exacerbate or alleviate the current supply shortage.
+- [ ] Market responses to shifts in global LNG demand levels amid these supply constraints → Higher demand paired with reduced export capability could lead to further price increases.
+
+---
+### 5. BOTTOM LINE
+**Risk Level: High**
+Currently, the LNG market faces significant risks due to supply chain blockages that are projected to constrain availability and increase prices. There are no opposing signals at this time, making the bearish outlook robust.

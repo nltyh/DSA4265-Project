@@ -1,0 +1,44 @@
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+## COMMODITY RISK REPORT
+**Commodity:** LNG  
+**Report Date:** 2026-04-10  
+**Articles Analysed:** 5 articles
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+### 1. OVERALL SENTIMENT
+**Mixed**
+> The U.S. has emerged as the top exporter of LNG, driven by expanded export capacity and growing European demand due to geopolitical factors. However, the presence of significant competitive pressures from Qatar and Australia suggests caution in maintaining this position.
+
+---
+
+### 2. KEY RISK SIGNALS
+
+**LNG & natural gas | No Significant Risk | Severity: Low**
+- **Headline:** US becomes world’s top LNG exporter for first time ever
+- **What happened:** The U.S. surpassed Qatar as the leading exporter of LNG with increased deliveries to Europe, supported by intensified natural gas production and liquefaction facility investments.
+- **Market impact:** This achievement highlights the U.S.'s strengthened position in the LNG market, possibly leading to competitive pricing and increased U.S. export volumes.
+- **Sentiment contribution:** Bullish — due to increased production and demand meeting geopolitical needs.
+
+**LNG & natural gas | Supply Chain Blockage | Severity: Medium**
+- **Headline:** U.S. becomes top LNG exporter in first half of 2022 - EIA
+- **What happened:** U.S. LNG exports rose by 12% with significant increases to Europe amidst the Ukraine conflict. A fire at the Freeport LNG facility temporarily reduced June exports.
+- **Market impact:** Temporary export disruptions might pressure supply chains, potentially increasing export prices or impacting reliability.
+- **Sentiment contribution:** Bearish — due to the temporary nature of the infrastructure disruption highlighting vulnerabilities.
+
+---
+
+### 3. SIGNAL SYNTHESIS
+Risk signals for LNG are somewhat contradictory. While the U.S.'s rise to become the top LNG exporter is confirmed by increased production capacity and rising demand from Europe, short-term supply disruptions reflect vulnerabilities that could impact the reliability of this dominance. The sentiment is partially driven by geopolitical factors which confirm the fundamental demand increase but highlight potential supply chain fragility.
+
+---
+
+### 4. WATCH LIST
+- [ ] European demand increase → Continued demand from Europe could stabilize and enhance the U.S.'s exporter position.
+- [ ] Infrastructure resilience → Monitoring U.S. facility operations is crucial to prevent and manage disruptions.
+- [ ] Competitor actions → Qatar’s and Australia's strategic moves could erode the U.S. position if not matched with countermeasures.
+
+---
+
+### 5. BOTTOM LINE
+**Risk Level: Medium**
+The U.S.'s position as a leading LNG exporter is notable but challenged by infrastructure vulnerabilities and competitive pressure. Continued monitoring of market dynamics and infrastructure stability is essential to maintaining export leadership.

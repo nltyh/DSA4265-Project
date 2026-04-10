@@ -1,0 +1,71 @@
+## COMMODITY RISK REPORT
+**Commodity:** crude oil  
+**Report Date:** 2026-04-10  
+**Articles Analysed:** 1 articles  
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+### 1. OVERALL SENTIMENT
+**Bullish**  
+> The dominant signal is bullish due to significant geopolitical tension from Russia's military action in Ukraine, leading to a surge in oil prices.
+
+---
+### 2. KEY RISK SIGNALS
+**Geopolitics & Policy | Geopolitical Conflict | Severity: High**
+- **Headline:** Russian Military Action In Ukraine Causes Oil Prices To Soar
+- **What happened:** Following Russia's attack on Ukraine, Asian and European stock markets experienced a downturn while oil prices surged to nearly $100 a barrel.
+- **Market impact:** This geopolitical conflict is expected to tighten the supply of crude oil due to potential sanctions and disruptions in trade.
+- **Sentiment contribution:** Bullish — as increased geopolitical risks typically lead to rising oil prices.
+
+---
+### 3. SIGNAL SYNTHESIS
+The risk signal is aligned; the geopolitical conflict is expected to materially impact crude oil supply and pricing. The bullish sentiment is driven by the escalation of geopolitical tension, which is likely to persist, resulting in heightened commodity risk exposure.
+
+---
+### 4. WATCH LIST
+- [ ] Escalation of military actions in Ukraine → could lead to further price increases or supply shortages in the crude oil market.
+- [ ] New sanctions from Western nations against Russia → may significantly affect oil exports and pricing.
+- [ ] OPEC+ production decisions in response to geopolitical events → any output cuts could exacerbate price increases.
+
+---
+### 5. BOTTOM LINE
+**Risk Level: High**  
+The most important consideration for risk managers is the severe risk posed by the geopolitical conflict, which is likely to lead to increased volatility and higher prices in the crude oil market. This sentiment is currently supported by the ongoing geopolitical situation in Ukraine.
+
+---
+
+[REFLECTION]
+No issues found.
+
+[FINAL REPORT]
+## COMMODITY RISK REPORT
+**Commodity:** crude oil  
+**Report Date:** 2026-04-10  
+**Articles Analysed:** 1 articles  
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+### 1. OVERALL SENTIMENT
+**Bullish**  
+> The dominant signal is bullish due to significant geopolitical tension from Russia's military action in Ukraine, leading to a surge in oil prices.
+
+---
+### 2. KEY RISK SIGNALS
+**Geopolitics & Policy | Geopolitical Conflict | Severity: High**
+- **Headline:** Russian Military Action In Ukraine Causes Oil Prices To Soar
+- **What happened:** Following Russia's attack on Ukraine, Asian and European stock markets experienced a downturn while oil prices surged to nearly $100 a barrel.
+- **Market impact:** This geopolitical conflict is expected to tighten the supply of crude oil due to potential sanctions and disruptions in trade.
+- **Sentiment contribution:** Bullish — as increased geopolitical risks typically lead to rising oil prices.
+
+---
+### 3. SIGNAL SYNTHESIS
+The risk signal is aligned; the geopolitical conflict is expected to materially impact crude oil supply and pricing. The bullish sentiment is driven by the escalation of geopolitical tension, which is likely to persist, resulting in heightened commodity risk exposure.
+
+---
+### 4. WATCH LIST
+- [ ] Escalation of military actions in Ukraine → could lead to further price increases or supply shortages in the crude oil market.
+- [ ] New sanctions from Western nations against Russia → may significantly affect oil exports and pricing.
+- [ ] OPEC+ production decisions in response to geopolitical events → any output cuts could exacerbate price increases.
+
+---
+### 5. BOTTOM LINE
+**Risk Level: High**  
+The most important consideration for risk managers is the severe risk posed by the geopolitical conflict, which is likely to lead to increased volatility and higher prices in the crude oil market. This sentiment is currently supported by the ongoing geopolitical situation in Ukraine.

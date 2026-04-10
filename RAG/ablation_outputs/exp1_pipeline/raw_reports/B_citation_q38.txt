@@ -1,0 +1,42 @@
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+## COMMODITY RISK REPORT
+**Commodity:** LNG  
+**Report Date:** 2026-04-10  
+**Articles Analysed:** 5 articles  
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+### 1. OVERALL SENTIMENT
+**Bullish**  
+> The overall sentiment is bullish due to increased demand for LNG driven by supply shortages in Asia and geopolitical tensions affecting global LNG flows. This is contrasted by mitigating factors like recent infrastructure damage.
+
+### 2. KEY RISK SIGNALS
+
+**LNG & Natural Gas | Supply Chain Blockage | Severity: High**
+- **Headline:** Asia Burns More Coal as Middle East War Sends LNG Prices to 3-Year Highs  
+- **What happened:** Due to the ongoing war in the Middle East, countries in Asia are increasing their reliance on coal for power generation to counter the LNG supply shortage, leading to record LNG prices.  
+- **Market impact:** The higher LNG prices suggest a strong demand against constrained supply, likely pushing prices further upward.  
+- **Sentiment contribution:** Bullish — heightened demand and supply constraints support increasing prices.
+
+**LNG & Natural Gas | Infrastructure Damage | Severity: High**
+- **Headline:** Chevron Reports “Extensive Damage” at Major LNG Project  
+- **What happened:** Chevron’s Wheatstone LNG plant offshore Australia has sustained extensive damage due to a cyclone, with two liquefaction trains currently shut down.  
+- **Market impact:** The damage exacerbates supply disruptions at a time when LNG is already under pressure, negatively impacting availability.  
+- **Sentiment contribution:** Bearish — infrastructure damage may lead to tighter supply, which could increase prices but also lead to volatility.
+
+**Shipping & Logistics | Supply Chain Blockage | Severity: High**
+- **Headline:** India Says 28 Oil and Gas Ships Are Stranded Near the Strait of Hormuz  
+- **What happened:** The Indian government confirmed that 28 ships carrying crude oil, LPG, and LNG are stranded near the Strait of Hormuz, which is a critical shipping route.  
+- **Market impact:** This stranding adds to the supply chain concerns and will likely exacerbate the tightness in LNG supply in the region.  
+- **Sentiment contribution:** Bullish — the blockage contributes to constrained availability, pushing prices higher.
+
+### 3. SIGNAL SYNTHESIS
+The risk signals are aligned in emphasizing heightened concerns regarding supply, driven by geopolitical tensions and infrastructure issues, while also indicating increased demand for LNG in Asia. The overall risk exposure is high due to multiple threats from supply chain disruptions and infrastructure damage, confirmed by current market fundamentals.
+
+### 4. WATCH LIST
+- [ ] **Resolution of the conflict in the Middle East** → If tensions ease, there could be stabilization in LNG flows and prices.
+- [ ] **Assessment of damages at Chevron’s Wheatstone LNG plant** → Any updates could affect supply forecasts and market sentiment significantly.
+- [ ] **Clearing of stranded ships in the Strait of Hormuz** → Resolution would alleviate some logistical pressures and potentially adjust supply dynamics.
+
+### 5. BOTTOM LINE
+**Risk Level: High**  
+Current risks are significant, with multiple supply-side issues confirmed by fundamental conditions. Traders and risk managers should prepare for potential price volatility as supply concerns loom large in the market.

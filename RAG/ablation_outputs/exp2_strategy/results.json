@@ -1,0 +1,370 @@
+{
+  "zero_shot": {
+    "1": {
+      "rouge_l": null,
+      "bertscore": null,
+      "groundedness": null,
+      "llm_judge": {
+        "score": 4,
+        "reason": "The report is mostly grounded with clear structure and useful insights, but could benefit from additional data or examples to fully justify the bullish sentiment."
+      }
+    },
+    "3": {
+      "rouge_l": null,
+      "bertscore": null,
+      "groundedness": null,
+      "llm_judge": {
+        "score": 4,
+        "reason": "The report is mostly grounded with clear structure and useful insights, but could benefit from additional context or details regarding other market factors."
+      }
+    },
+    "6": {
+      "rouge_l": null,
+      "bertscore": null,
+      "groundedness": null,
+      "llm_judge": {
+        "score": 4,
+        "reason": "The report is mostly grounded in facts, provides clear risk signals and actionable insights, but slightly lacks detail on the implications of the regulatory constraints."
+      }
+    },
+    "9": {
+      "rouge_l": null,
+      "bertscore": null,
+      "groundedness": null,
+      "llm_judge": {
+        "score": 4,
+        "reason": "The report is mostly grounded in facts, covers key risk signals clearly, and provides actionable insights despite minor gaps in detail."
+      }
+    },
+    "11": {
+      "rouge_l": null,
+      "bertscore": null,
+      "groundedness": null,
+      "llm_judge": {
+        "score": 4,
+        "reason": "The report is mostly grounded and clear, providing a useful analysis of the LNG market with actionable insights, though it could benefit from additional supporting data."
+      }
+    },
+    "17": {
+      "rouge_l": null,
+      "bertscore": null,
+      "groundedness": null,
+      "llm_judge": {
+        "score": 4,
+        "reason": "The report provides a mostly grounded analysis of the LNG market, with clear structure and actionable insights, but minor gaps in discussing potential future risks."
+      }
+    },
+    "19": {
+      "rouge_l": null,
+      "bertscore": null,
+      "groundedness": null,
+      "llm_judge": {
+        "score": 5,
+        "reason": "The report is well-structured, fully factual based on the articles provided, and delivers clear, actionable insights regarding market conditions and risks."
+      }
+    },
+    "33": {
+      "rouge_l": null,
+      "bertscore": null,
+      "groundedness": null,
+      "llm_judge": {
+        "score": 4,
+        "reason": "The report is mostly grounded in facts and provides clear structure and actionable insights, but contains minor gaps in supporting all claims."
+      }
+    },
+    "38": {
+      "rouge_l": null,
+      "bertscore": null,
+      "groundedness": null,
+      "llm_judge": {
+        "score": 4,
+        "reason": "The report is mostly grounded with clear structure, actionable insights, and comprehensive coverage of key risk signals, though minor gaps in the analysis could be improved."
+      }
+    },
+    "47": {
+      "rouge_l": null,
+      "bertscore": null,
+      "groundedness": null,
+      "llm_judge": {
+        "score": 4,
+        "reason": "The report is mostly grounded with clear analysis of geopolitical risks, though it could better clarify the tier of risks and actionable insights for traders."
+      }
+    }
+  },
+  "few_shot": {
+    "1": {
+      "rouge_l": null,
+      "bertscore": null,
+      "groundedness": null,
+      "llm_judge": {
+        "score": 5,
+        "reason": "The report is well-structured, fully grounded in factual context, and provides clear actionable insights regarding the geopolitical risks affecting crude oil."
+      }
+    },
+    "3": {
+      "rouge_l": null,
+      "bertscore": null,
+      "groundedness": null,
+      "llm_judge": {
+        "score": 4,
+        "reason": "The report is mostly grounded with clear structure and useful insights, but has a minor gap in specifying supporting facts conclusively."
+      }
+    },
+    "6": {
+      "rouge_l": null,
+      "bertscore": null,
+      "groundedness": null,
+      "llm_judge": {
+        "score": 4,
+        "reason": "The report is mostly grounded with clear structure and actionable insights, though it could further detail the implications of the regulatory environment."
+      }
+    },
+    "9": {
+      "rouge_l": null,
+      "bertscore": null,
+      "groundedness": null,
+      "llm_judge": {
+        "score": 5,
+        "reason": "The report is well-structured, completely grounded in provided articles, and offers actionable insights regarding the complex influences on the crude oil market."
+      }
+    },
+    "11": {
+      "rouge_l": null,
+      "bertscore": null,
+      "groundedness": null,
+      "llm_judge": {
+        "score": 5,
+        "reason": "The report is well-structured, fully grounded in the context provided, actionable with clear recommendations, and offers insightful analysis of the risk signals."
+      }
+    },
+    "17": {
+      "rouge_l": null,
+      "bertscore": null,
+      "groundedness": null,
+      "llm_judge": {
+        "score": 5,
+        "reason": "The report is well-structured, grounded in factual information, covers key risk signals with actionable insights, and presents a clear bullish outlook for the LNG market."
+      }
+    },
+    "19": {
+      "rouge_l": null,
+      "bertscore": null,
+      "groundedness": null,
+      "llm_judge": {
+        "score": 4,
+        "reason": "The report is mostly grounded with clear structure and actionable insights, but minor gaps in detailing the monthly gain trend and specific price movements prevent a perfect score."
+      }
+    },
+    "33": {
+      "rouge_l": null,
+      "bertscore": null,
+      "groundedness": null,
+      "llm_judge": {
+        "score": 4,
+        "reason": "The report is mostly grounded with clear signs of risk from geopolitical tensions and regulatory actions, though it has minor gaps in the depth of analysis."
+      }
+    },
+    "38": {
+      "rouge_l": null,
+      "bertscore": null,
+      "groundedness": null,
+      "llm_judge": {
+        "score": 5,
+        "reason": "The report is well-structured, thoroughly grounded in facts from the retrieved articles, covers all key risk signals, and provides clear actionable insights for risk managers."
+      }
+    },
+    "47": {
+      "rouge_l": null,
+      "bertscore": null,
+      "groundedness": null,
+      "llm_judge": {
+        "score": 3,
+        "reason": "The report contains some grounded analysis and identifies key risks, but it includes unsupported claims and lacks clarity in some sections."
+      }
+    }
+  },
+  "citation": {
+    "1": {
+      "rouge_l": null,
+      "bertscore": null,
+      "groundedness": null,
+      "llm_judge": {
+        "score": 4,
+        "reason": "The report is mostly grounded with clear structure and actionable insights, though it has some minor gaps in data context."
+      }
+    },
+    "3": {
+      "rouge_l": null,
+      "bertscore": null,
+      "groundedness": null,
+      "llm_judge": {
+        "score": 4,
+        "reason": "The report is mostly grounded in factual information, well-structured, and provides useful insights, though it has minor gaps in detail and misdates the report."
+      }
+    },
+    "6": {
+      "rouge_l": null,
+      "bertscore": null,
+      "groundedness": null,
+      "llm_judge": {
+        "score": 4,
+        "reason": "The report is mostly grounded in factual content regarding Cheniere's request and its implications, but it has minor gaps in context and could provide more actionable insights."
+      }
+    },
+    "9": {
+      "rouge_l": null,
+      "bertscore": null,
+      "groundedness": null,
+      "llm_judge": {
+        "score": 4,
+        "reason": "The report is mostly grounded with clear structure and actionable insights, but it has minor gaps in the clarity of how geopolitical risks directly impact traders."
+      }
+    },
+    "11": {
+      "rouge_l": null,
+      "bertscore": null,
+      "groundedness": null,
+      "llm_judge": {
+        "score": 4,
+        "reason": "The report is mostly grounded with clear risk signals and actionable insights, but some sections could benefit from additional details or clearer explanations."
+      }
+    },
+    "17": {
+      "rouge_l": null,
+      "bertscore": null,
+      "groundedness": null,
+      "llm_judge": {
+        "score": 4,
+        "reason": "The report is mostly grounded and provides clear structure and actionable insights, but it contains minor gaps in coverage."
+      }
+    },
+    "19": {
+      "rouge_l": null,
+      "bertscore": null,
+      "groundedness": null,
+      "llm_judge": {
+        "score": 4,
+        "reason": "The report is mostly grounded and structured well, providing actionable insights, but it has minor gaps concerning the monthly gain trend."
+      }
+    },
+    "33": {
+      "rouge_l": null,
+      "bertscore": null,
+      "groundedness": null,
+      "llm_judge": {
+        "score": 5,
+        "reason": "The report is fully grounded with clear structure and actionable insights, covering key risks and providing a comprehensive market analysis."
+      }
+    },
+    "38": {
+      "rouge_l": null,
+      "bertscore": null,
+      "groundedness": null,
+      "llm_judge": {
+        "score": 4,
+        "reason": "The report is mostly grounded in facts from the retrieved articles, provides clear structure and useful insights, but contains minor gaps in fully addressing the implications of increased coal use."
+      }
+    },
+    "47": {
+      "rouge_l": null,
+      "bertscore": null,
+      "groundedness": null,
+      "llm_judge": {
+        "score": 4,
+        "reason": "The report is mostly grounded and well-structured, providing clear insights and actionable watchlist items, though it contains minor gaps in the coverage of risks."
+      }
+    }
+  },
+  "reflection": {
+    "1": {
+      "rouge_l": null,
+      "bertscore": null,
+      "groundedness": null,
+      "llm_judge": {
+        "score": 4,
+        "reason": "The report is mostly grounded with clear structure and useful insights, but it could benefit from additional specifics on potential market responses."
+      }
+    },
+    "3": {
+      "rouge_l": null,
+      "bertscore": null,
+      "groundedness": null,
+      "llm_judge": {
+        "score": 4,
+        "reason": "The report is mostly grounded in facts with clear structure and actionable watch list items, but could improve by providing more detail on the broader context."
+      }
+    },
+    "6": {
+      "rouge_l": null,
+      "bertscore": null,
+      "groundedness": null,
+      "llm_judge": {
+        "score": 4,
+        "reason": "The report is mostly grounded with useful insights but contains minor gaps in referencing the clarity of Cheniere's request and its broader implications."
+      }
+    },
+    "9": {
+      "rouge_l": null,
+      "bertscore": null,
+      "groundedness": null,
+      "llm_judge": {
+        "score": 4,
+        "reason": "The report provides a good overview of the key geopolitical risks affecting crude oil with clear structure and actionable insights, though it has minor gaps in completeness."
+      }
+    },
+    "11": {
+      "rouge_l": null,
+      "bertscore": null,
+      "groundedness": null,
+      "llm_judge": {
+        "score": 5,
+        "reason": "The report is excellent, fully grounded in factual information, covers key risk signals clearly, with actionable insights and a well-structured format."
+      }
+    },
+    "17": {
+      "rouge_l": null,
+      "bertscore": null,
+      "groundedness": null,
+      "llm_judge": {
+        "score": 4,
+        "reason": "The report provides a well-structured overview of the LNG market, is mostly grounded in factual information, and offers actionable insights, though minor gaps in coverage could be improved."
+      }
+    },
+    "19": {
+      "rouge_l": null,
+      "bertscore": null,
+      "groundedness": null,
+      "llm_judge": {
+        "score": 5,
+        "reason": "The report is fully grounded in facts, addresses key risk signals clearly, and provides actionable insights with a well-structured analysis."
+      }
+    },
+    "33": {
+      "rouge_l": null,
+      "bertscore": null,
+      "groundedness": null,
+      "llm_judge": {
+        "score": 4,
+        "reason": "The report is mostly grounded with useful insights, although there are minor gaps in clarity and coverage of all aspects of risks."
+      }
+    },
+    "38": {
+      "rouge_l": null,
+      "bertscore": null,
+      "groundedness": null,
+      "llm_judge": {
+        "score": 4,
+        "reason": "The report is mostly grounded with clear structure and useful insights, though it has minor gaps in sentiment contributions."
+      }
+    },
+    "47": {
+      "rouge_l": null,
+      "bertscore": null,
+      "groundedness": null,
+      "llm_judge": {
+        "score": 4,
+        "reason": "The report is mostly grounded with clear structure and actionable insights, but it presents a low severity signal which could be misinterpreted as a higher risk."
+      }
+    }
+  }
+}

@@ -1,0 +1,54 @@
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+## COMMODITY RISK REPORT
+**Commodity:** LNG  
+**Report Date:** 2026-04-10  
+**Articles Analysed:** 5 articles  
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+### 1. OVERALL SENTIMENT
+**Bearish**  
+There is significant concern over supply chain blockages due to geopolitical tensions in the Middle East, which are leading to rising prices and potential shortages in LNG supply.
+
+---
+
+### 2. KEY RISK SIGNALS
+
+**LNG & natural gas | Supply Chain Blockage | Severity: High**  
+- **Headline:** Gas Crisis Dwarfs Oil Shock as LNG Supply Breaks  
+- **What happened:** Analysts indicate that a recent geopolitical situation has severely disrupted LNG supply lines, contradicting previous forecasts of a supply glut.  
+- **Market impact:** This disruption is likely to lead to increased LNG prices and tighter supply in the market.  
+- **Sentiment contribution:** Bearish - as the worsening supply situation is leading to fears of long-term shortages and skyrocketing prices [Article 2].
+
+---
+
+**LNG & natural gas | Supply Chain Blockage | Severity: High**  
+- **Headline:** Asia Burns More Coal as Middle East War Sends LNG Prices to 3-Year Highs  
+- **What happened:** Countries in Asia are reverting to coal for power generation due to a significant LNG supply shortage driven by ongoing conflicts in the Middle East.   
+- **Market impact:** This shift is likely to increase coal demand while putting pressure on LNG markets, leading to price hikes.  
+- **Sentiment contribution:** Bearish - the reliance on alternative fuels underscores the severe constraints in LNG supply [Article 3].
+
+---
+
+**LNG & natural gas | Supply Chain Blockage | Severity: High**  
+- **Headline:** StanChart: Europe’s Gas Prices Could Spike Above $90/MWh By The Summer  
+- **What happened:** European natural gas futures have surged amid uncertainty regarding energy supply stability due to ongoing geopolitical conflicts.  
+- **Market impact:** The anticipated spike in prices indicates a strained market situation that could challenge both supply availability and price levels going forward.  
+- **Sentiment contribution:** Bearish - the expectation of high prices indicates stress in the LNG supply chain [Article 4].
+
+---
+
+### 3. SIGNAL SYNTHESIS
+The risk signals indicate a unified bearish sentiment towards LNG with multiple sources confirming supply chain blockages linked to geopolitical tensions. All articles presented point towards heightened prices and potential shortfalls, reflecting strong market fundamentals rather than sentiment-driven fluctuations. The net effect suggests a precarious situation for LNG supply, causing significant concern for traders and risk managers.
+
+---
+
+### 4. WATCH LIST
+- [ ] Escalation of Middle East tensions → would increase supply constraints and potentially spike prices further.
+- [ ] Resumption of diplomatic negotiations → could stabilize supply concerns and potentially ease market pressures.
+- [ ] Changes in coal and renewable energy policy in Asia → could impact LNG demand dynamics and price movements.
+
+---
+
+### 5. BOTTOM LINE
+**Risk Level: High**  
+The LNG market faces significant risks from supply chain blockages due to geopolitical events, leading to an uncertain price outlook. Risk managers should closely monitor developments in the Middle East and their impact on LNG supply to make informed decisions.

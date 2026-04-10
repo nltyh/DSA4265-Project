@@ -1,0 +1,42 @@
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+## COMMODITY RISK REPORT
+**Commodity:** crude oil  
+**Report Date:** 2026-04-10  
+**Articles Analysed:** 5 articles  
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+### 1. OVERALL SENTIMENT
+**Bearish**  
+The sentiment is primarily bearish, driven by significant reductions in Saudi crude oil exports to major markets due to geopolitical tensions and production disruptions, which are expected to decrease supply.
+
+### 2. KEY RISK SIGNALS
+
+**Geopolitics & Policy | Geopolitical Conflict | Severity: High**
+- **Headline:** Saudi Arabia Slashes Oil Supply to Asia as War Chokes Export Route
+- **What happened:** Saudi Arabia is reducing its crude oil exports to Asia for the second consecutive month due to disruptions in the Strait of Hormuz, effectively blocking most of the supply from this major exporter [Article 1].
+- **Market impact:** This move signals a tight supply scenario, likely pushing prices higher due to reduced availability.
+- **Sentiment contribution:** Bullish — concerns over supply scarcity arising from geopolitical conflicts generally lead to higher crude prices.
+
+**Supply (Production/Upstream) | Production Shortfall | Severity: High**
+- **Headline:** Saudi Oil Exports to China and India Set to Fall Amid War Disruptions
+- **What happened:** Exports of Saudi oil to China and India are set to decline in April, as reported by traders amid ongoing production disruptions in the Middle East [Article 2].
+- **Market impact:** A production shortfall diminishes overall global supply, with similar implications for price increases.
+- **Sentiment contribution:** Bullish — expected reduction in exports from vital markets like China and India adds to supply fears.
+
+**Supply (Production/Upstream) | No Significant Risk | Severity: Low**
+- **Headline:** Tetra Technologies in pilot project with EOG Resources for produced water from oil & gas wells
+- **What happened:** Tetra Technologies initiated a pilot project using a desalination solution for produced water management, showing innovation in the sector without immediate risk implications [Article 4].
+- **Market impact:** While this indicates ongoing investment and potential future gains, it does not directly affect current supply.
+- **Sentiment contribution:** Neutral — the project does not introduce immediate risk or significant supply changes.
+
+### 3. SIGNAL SYNTHESIS
+The risk signals identified present a consistent narrative, indicating a high-risk environment primarily driven by geopolitical conflict and production shortfalls. The bullish sentiment is reinforced by reductions in exports and supply constraints, although the neutral signal from the water management project introduces no significant counter-balance. Overall, the risks are grounded in current geopolitical realities rather than speculative sentiment, enhancing exposure in the crude oil market.
+
+### 4. WATCH LIST
+- [ ] Monitor developments in the Strait of Hormuz → any reopening of this crucial shipping lane could significantly alter supply dynamics.
+- [ ] Observe production data from Saudi Arabia and major consumer countries → further declines could sustain or increase current price levels.
+- [ ] Track geopolitical developments in the Middle East → escalation of conflicts could sharply increase risks and lead to price volatility.
+
+### 5. BOTTOM LINE
+**Risk Level: High**  
+Traders and risk managers must be prepared for potential price increases linked to supply constraints from Saudi Arabia due to geopolitical tensions. The outlook is fragile, as further disruption could exacerbate the already tight market conditions.

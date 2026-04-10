@@ -1,0 +1,33 @@
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+## COMMODITY RISK REPORT
+**Commodity:** crude oil  
+**Report Date:** 2026-04-10  
+**Articles Analysed:** 1 article  
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+### 1. OVERALL SENTIMENT
+**Bullish**  
+> The market is experiencing a bullish sentiment as oil prices surged to nearly $100 a barrel due to geopolitical tensions arising from Russia's military action in Ukraine, indicating significant supply concerns.
+
+---
+### 2. KEY RISK SIGNALS
+**Geopolitics & Policy | Geopolitical Conflict | Severity: High**
+- **Headline:** Russian Military Action In Ukraine Causes Oil Prices To Soar  
+- **What happened:** Russia launched military actions against Ukraine, leading to a drastic impact on global stock markets and a surge in oil prices to nearly $100 a barrel.  
+- **Market impact:** The conflict raises uncertainty about oil supply, contributing to higher prices and heightened geopolitical risk.  
+- **Sentiment contribution:** Bullish — the immediate reaction from markets illustrates strong concerns over potential supply disruptions.
+
+---
+### 3. SIGNAL SYNTHESIS
+The risk signal from the article is aligned, as the geopolitical conflict directly affects crude oil prices due to concerns over supply. The bullish sentiment is supported by the immediate market response to the geopolitical event, indicating that trader reactions are confirmed by imminent supply risks rather than speculative sentiments.
+
+---
+### 4. WATCH LIST
+- [ ] Developments in diplomacy between Russia and Ukraine → A de-escalation could stabilize prices.
+- [ ] OPEC responses to potential supply disruptions → A change in production levels could affect oil availability and prices.
+- [ ] Further military escalation or sanctions imposed on Russia → Increased geopolitical tensions could lead to higher prices and further supply concerns.
+
+---
+### 5. BOTTOM LINE
+**Risk Level: High**  
+The risk of supply disruption is pronounced due to the geopolitical conflict, suggesting traders should remain highly vigilant about market fluctuations and potential escalation of tensions.

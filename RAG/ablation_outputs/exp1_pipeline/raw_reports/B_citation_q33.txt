@@ -1,0 +1,42 @@
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+## COMMODITY RISK REPORT
+**Commodity:** diesel  
+**Report Date:** 2026-04-10  
+**Articles Analysed:** 5 articles  
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+### 1. OVERALL SENTIMENT
+**Bullish**  
+> The overall sentiment for diesel is bullish due to the escalating energy crisis in Bangladesh and heightened geopolitical tensions in the Middle East impacting fuel prices globally.
+
+### 2. KEY RISK SIGNALS
+
+**Geopolitics & Policy | Regulatory Constraint | Severity: Medium**
+- **Headline:** Bangladesh Seeks U.S. Waiver for Russian Diesel as IMF Warns of Energy Shock
+- **What happened:** Bangladesh has requested a temporary sanctions waiver from the U.S. to import approximately 600,000 metric tonnes of Russian diesel to meet its immediate energy demands amid an intensifying energy crisis, as highlighted by IMF warnings.
+- **Market impact:** This situation suggests a potential increase in diesel supply for Bangladesh, which may alleviate some immediate demand pressure but raises concerns about compliance with international sanctions.
+- **Sentiment contribution:** Bullish — the waiver could stabilize Bangladesh's diesel supply in the short term, affecting prices regionally.
+
+**Demand/Macro Activity | Inventory Shock | Severity: High**
+- **Headline:** Global Fuel Prices Are Surging as the Middle East War Hits Consumers
+- **What happened:** The ongoing war in the Middle East has led to significant increases in global oil prices, resulting in fuel price hikes, including diesel, ranging between 5% and 80% in various countries.
+- **Market impact:** The surge in fuel prices indicates strong demand outpacing supply amidst geopolitical tensions, leading to potential inventory shortages.
+- **Sentiment contribution:** Bullish — rising prices reflect heightened demand and potential supply constraints globally.
+
+**Geopolitics & Policy | No Significant Risk | Severity: Low**
+- **Headline:** China Sends Fuel to Struggling Southeast Asia Despite Export Ban
+- **What happened:** Despite an export ban, China has been delivering diesel and other fuels to Southeast Asia, aiming to address regional supply challenges.
+- **Market impact:** This suggests that while there is significant demand within Southeast Asia, China is attempting to mitigate the effects of the ban, which might prevent larger price spikes.
+- **Sentiment contribution:** Neutral — while it alleviates some regional pressure, it does not change the overall heightened risk environment for diesel.
+
+### 3. SIGNAL SYNTHESIS
+The risk signals show alignment towards a bullish sentiment for diesel, primarily driven by regulatory actions in Bangladesh and macroeconomic pressures resulting from geopolitical conflicts in the Middle East. While the Chinese fuel deliveries present a somewhat stabilizing effect, the overall market response seems determined by demand surpassing availability in a strained environment.
+
+### 4. WATCH LIST
+- [ ] Monitor changes in U.S. stance on sanctions regarding Russian diesel imports → Increased imports could stabilize prices in Bangladesh.
+- [ ] Track developments in the Middle East conflict → Any escalations could further drive up global fuel prices.
+- [ ] Observe trends in global fuel supply chains from major exporters like China → Changes might impact regional pricing dynamics.
+
+### 5. BOTTOM LINE
+**Risk Level: High**  
+The situation regarding diesel is characterized by a high level of risk due to significant geopolitical influences and market dynamics. The outlook remains bullish but is fragile, as escalating conflicts could swiftly alter supply conditions and fuel prices.

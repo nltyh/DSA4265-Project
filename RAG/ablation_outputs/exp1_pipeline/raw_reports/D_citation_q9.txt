@@ -1,0 +1,49 @@
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+## COMMODITY RISK REPORT
+**Commodity:** crude oil  
+**Report Date:** 2026-04-10  
+**Articles Analysed:** 5 articles  
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+### 1. OVERALL SENTIMENT
+**Bearish**  
+> The current sentiment for crude oil is bearish due to the significant short-term price drop following geopolitical developments, despite ongoing high export restrictions from Saudi Arabia.
+
+### 2. KEY RISK SIGNALS
+
+**Geopolitics & Policy | Geopolitical Conflict | Severity: High**
+- **Headline:** Saudi Arabia Slashes Oil Supply to Asia as War Chokes Export Route 
+- **What happened:** Saudi Arabia is reducing its crude oil exports to Asia due to a constricted Strait of Hormuz, impacting supply from a major world exporter [Article 1].
+- **Market impact:** This reduction in supply may contribute to upward pressure on prices in the medium term if demand remains stable.
+- **Sentiment contribution:** Bullish — due to reduced availability of crude oil potentially influencing prices upward.
+
+**Demand / Macro Activity | No Significant Risk | Severity: Low**
+- **Headline:** India Holds Fuel Prices Steady Even as Oil Basket Soars Above $155
+- **What happened:** Indian retail fuel prices remain unchanged despite an increase in oil prices to $156.29 per barrel [Article 2].
+- **Market impact:** Stable fuel prices may indicate a lack of immediate demand pressure, which could balance the market's response to supply issues.
+- **Sentiment contribution:** Bearish — the decision to keep prices steady suggests less immediate impact from rising oil prices on demand dynamics in India.
+
+**Financial Flows / Positioning | No Significant Risk | Severity: Low**
+- **Headline:** Oil Plummets 8% as Trump Postpones Hormuz Deadline Threat  
+- **What happened:** A statement from President Trump regarding improved U.S.-Iran communications led to an 8% decline in Brent crude prices [Article 3].
+- **Market impact:** This sudden price drop reflects market volatility and investor sentiment reacting to geopolitical developments.
+- **Sentiment contribution:** Bearish — the price decline indicates a negative market sentiment in response to geopolitical easing.
+
+**Supply (Production / Upstream) | Macro-Economic Cooling | Severity: Medium**
+- **Headline:** U.S. Energy Dominance Agenda Can't Shield Driver From Higher Gasoline Prices
+- **What happened:** Despite high U.S. crude oil production, gasoline prices continue to surge, indicating underlying issues in the market [Article 4].
+- **Market impact:** This disjunction may signal potential vulnerabilities in the supply chain or unexpected demand shocks.
+- **Sentiment contribution:** Bearish — as higher gasoline prices could depress overall economic activity and oil demand.
+
+### 3. SIGNAL SYNTHESIS
+The risk signals present are predominantly bearish due to conflicting factors; while the Saudi supply cut represents a potential bullish influence, the fundamental market response to geopolitical developments and stable pricing in key markets like India signals underlying weakness. Thus, risks appear sentiment-driven and indicate a collective bearish outlook on short-term pricing dynamics in crude oil.
+
+### 4. WATCH LIST
+- [ ] **Development in the Strait of Hormuz** → Increased disruptions could exacerbate supply constraints, leading potentially to price spikes.
+- [ ] **Indian Fuel Pricing Responses** → Any changes in retail prices could shift demand dynamics significantly, affecting the overall market sentiment.
+- [ ] **U.S.-Iran Relations** → Further developments in diplomatic relations might lead to market volatility, impacting crude oil prices.
+- [ ] **Global Economic Indicators** → Emerging data reflecting macro-economic trends could either support or undermine current oil price movements.
+
+### 5. BOTTOM LINE
+**Risk Level: Medium**  
+Current risks show significant geopolitical implications affecting the oil supply market; however, bearish market reactions indicate that traders should remain cautious about the potential for volatility and sustained price pressure.

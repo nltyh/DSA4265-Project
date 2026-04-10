@@ -1,0 +1,40 @@
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+## COMMODITY RISK REPORT
+**Commodity:** crude oil  
+**Report Date:** 2026-04-10  
+**Articles Analyzed:** 5 articles  
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+### 1. OVERALL SENTIMENT
+**Bearish**  
+The overall sentiment is bearish primarily due to the impacts of supply reduction from Saudi Arabia and the geopolitical conflict affecting the Strait of Hormuz, driving prices downward despite some tactical relief in the market.
+
+---
+### 2. KEY RISK SIGNALS
+
+**Geopolitics & Policy | Geopolitical Conflict | Severity: High**
+- **Headline:** Saudi Arabia Slashes Oil Supply to Asia as War Chokes Export Route
+- **What happened:** Saudi Arabia is reducing its crude oil exports to Asia for the second consecutive month due to a conflict that has effectively closed the Strait of Hormuz. 
+- **Market impact:** This reduction leads to a decrease in supply availability in a crucial market, likely driving prices up due to scarcity.
+- **Sentiment contribution:** Bullish — due to expected higher prices stemming from reduced supply in key markets [Article 2].
+
+**Supply (Production/Upstream) | Macro-Economic Cooling | Severity: High**
+- **Headline:** U.S. Energy Dominance Agenda Can't Shield Driver From Higher Gasoline Prices
+- **What happened:** Despite being the largest oil producer, U.S. gasoline prices are surging due to external conflicts affecting oil prices globally.
+- **Market impact:** High gasoline prices may lead to decreased consumer demand and economic cooling, potentially putting downward pressure on crude oil prices in the longer term.
+- **Sentiment contribution:** Bearish — suggesting consumer weakness and vulnerability in the oil market leading to lesser demand [Article 4].
+
+---
+### 3. SIGNAL SYNTHESIS
+The signals identified are somewhat aligned as both point to external geopolitical factors affecting supply and potential economic impacts leading to demand reductions. The risk of geopolitical conflict significantly elevates supply concerns, while macroeconomic considerations suggest potential demand weakness. These aspects create heightened volatility in the crude oil market.
+
+---
+### 4. WATCH LIST
+- [ ] **Further developments in Saudi Arabia's export policy** → Additional cuts could exacerbate supply shortages and lead to price spikes. 
+- [ ] **Escalation of conflict in the Strait of Hormuz** → If the conflict intensifies, it could significantly impact crude oil transportation and availability, affecting prices.
+- [ ] **Changes in U.S. domestic fuel consumption trends** → An increase in gasoline prices due to conflict might lead to a significant drop in consumption, reducing oil demand further.
+
+---
+### 5. BOTTOM LINE
+**Risk Level: High**  
+Currently, heightened geopolitical tensions around the Strait of Hormuz combined with tightening supply from Saudi Arabia indicate a high risk level in the crude oil market. Traders should be vigilant given the strong potential for price volatility and demand fluctuations linked to economic conditions.

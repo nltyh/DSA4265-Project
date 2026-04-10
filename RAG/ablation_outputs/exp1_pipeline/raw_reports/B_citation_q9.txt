@@ -1,0 +1,48 @@
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+## COMMODITY RISK REPORT
+**Commodity:** crude oil  
+**Report Date:** 2026-04-10  
+**Articles Analysed:** 5 articles  
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+### 1. OVERALL SENTIMENT
+**Bearish**  
+The market sentiment is primarily bearish due to a significant drop in oil prices following positive developments involving the U.S. and Iran, which suggest a potential easing of tensions that could stabilize supply routes. 
+
+### 2. KEY RISK SIGNALS
+
+**Geopolitics & Policy | Geopolitical Conflict | Severity: High**
+- **Headline:** Saudi Arabia Slashes Oil Supply to Asia as War Chokes Export Route  
+- **What happened:** Saudi Arabia announced a reduction in crude oil exports to Asia for April, continuing a trend due to the conflict affecting the Strait of Hormuz [Article 1].  
+- **Market impact:** The reduction in exports raises concerns about tightening supplies, which should theoretically support prices.  
+- **Sentiment contribution:** Bearish — however, this is somewhat mitigated by the ongoing geopolitical tension which typically would drive prices up if unresolved.
+
+**Financial Flows/Positioning | No Significant Risk | Severity: Low**
+- **Headline:** Oil Plummets 8% as Trump Postpones Hormuz Deadline Threat  
+- **What happened:** A significant decline in Brent crude prices occurred after President Trump announced a delay in potential action regarding the Strait of Hormuz, indicating improved geopolitical stability [Article 2].  
+- **Market impact:** The downturn in prices reflects market reactions to expected stabilization of the supply routes.  
+- **Sentiment contribution:** Bearish — the decline in prices suggests the market is reacting positively to reduced immediate conflict risks.
+
+**Demand/Macro Activity | No Significant Risk | Severity: Low**
+- **Headline:** India Holds Fuel Prices Steady Even as Oil Basket Soars Above $155  
+- **What happened:** Retail fuel prices in India remained stable despite the oil basket price exceeding $155 per barrel [Article 3].  
+- **Market impact:** Stability in consumer prices may counterbalance pressure on demand, but it does not significantly affect broader supply dynamics.  
+- **Sentiment contribution:** Neutral — this stabilized demand implies there may be limited further downside risk currently.
+
+**Supply (Production/Upstream) | Macro-Economic Cooling | Severity: Medium**
+- **Headline:** U.S. Energy Dominance Agenda Can't Shield Driver From Higher Gasoline Prices  
+- **What happened:** Despite increased U.S. crude oil production, gasoline prices are surging due to ongoing geopolitical conflicts affecting supply perceptions [Article 4].  
+- **Market impact:** The increased production may not translate to lower prices due to external tensions, suggesting supply chain vulnerabilities remain.  
+- **Sentiment contribution:** Bearish — this reflects concerns about macroeconomic factors in determining price stability.
+
+### 3. SIGNAL SYNTHESIS
+The risk signals present a mainly bearish environment for crude oil, with the geopolitical conflict particularly impacting supply perceptions. There is a contradiction between the immediate bearish market reaction to improved geopolitical dialogues (evidenced by falling prices) juxtaposed against a backdrop of supply chain vulnerabilities highlighted by Saudi export cuts. Overall, the risks are primarily sentiment-driven, influenced by market reactions to geopolitical events, with fundamentals supporting some concerns about supply.
+
+### 4. WATCH LIST
+- [ ] Monitor developments regarding U.S.-Iran relations → If tensions ease significantly, expect further price stabilization.
+- [ ] Watch for Saudi Arabia's next export announcements → Additional cuts could tighten supplies and raise local prices.
+- [ ] Keep an eye on global demand indicators, especially in India → Changes could signal shifts in consumer behavior amidst high prices.
+
+### 5. BOTTOM LINE
+**Risk Level: Medium**  
+The current crude oil market presents moderate risk primarily due to geopolitical factors influencing supply dynamics and market sentiment. The interplay between geopolitical events and their impact on trading positions defines the ongoing volatility, thus warranting careful monitoring of both political developments and production announcements.

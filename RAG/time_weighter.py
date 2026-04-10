@@ -8,7 +8,7 @@ class TimeWeighter:
         """
         self.decay_rate = decay_rate
 
-    def apply(self, documents):
+    def apply(self, documents, reference_date=None):
         """
         documents: list of dicts with arbitrary metadata
         {
@@ -17,17 +17,32 @@ class TimeWeighter:
             "date": "YYYY-MM-DD",
             ...
         }
+        reference_date: str | None
+            If provided ("YYYY-MM-DD"), decay is anchored to this date (e.g. the
+            query date) instead of wallclock time.  Documents closer to this date
+            receive higher weights.  Falls back to datetime.now() when None,
+            preserving the original live-query behaviour.
         """
-        now = datetime.now()
+        # Anchor: query date if given, wallclock otherwise
+        if reference_date:
+            try:
+                anchor = datetime.strptime(reference_date, "%Y-%m-%d")
+            except ValueError:
+                anchor = datetime.now()
+        else:
+            anchor = datetime.now()
+
         weighted_docs = []
 
         for doc in documents:
             # ---- Handle missing or bad date safely ----
             try:
                 doc_date = datetime.strptime(doc["date"], "%Y-%m-%d")
-                days_diff = (now - doc_date).days
+                # abs() → symmetric: penalise articles far from the query date
+                # in either direction, not just older ones
+                days_diff = abs((anchor - doc_date).days)
                 time_weight = np.exp(-self.decay_rate * days_diff)
-            except:
+            except Exception:
                 # fallback: no time decay if date invalid
                 time_weight = 1.0
 
@@ -41,4 +56,4 @@ class TimeWeighter:
 
         # sort again
         weighted_docs.sort(key=lambda x: x["score"], reverse=True)
-        return weighted_docs
+        return weighted_docs

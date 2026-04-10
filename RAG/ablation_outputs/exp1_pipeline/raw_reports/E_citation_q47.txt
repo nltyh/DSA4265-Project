@@ -1,0 +1,46 @@
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+## COMMODITY RISK REPORT
+**Commodity:** crude oil  
+**Report Date:** 2026-04-10  
+**Articles Analysed:** 5 articles  
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+### 1. OVERALL SENTIMENT
+**Mixed**  
+The sentiment is mixed due to the significant geopolitical tension affecting supply alongside easing price pressures, resulting in conflicting signals for traders and risk managers.
+
+---
+
+### 2. KEY RISK SIGNALS
+
+**Geopolitics & Policy | Geopolitical Conflict | Severity: High**  
+- **Headline:** Saudi Arabia Slashes Oil Supply to Asia as War Chokes Export Route  
+- **What happened:** Saudi Arabia has reduced crude oil exports to Asia as the Strait of Hormuz remains largely closed due to ongoing conflict, marking a second consecutive month of supply cuts.  
+- **Market impact:** This disruption presents a significant risk to oil supply, raising concerns over potential price spikes due to limited availability.  
+- **Sentiment contribution:** Bullish — the reduction in supply amid geopolitical tensions can lead to upward pressure on oil prices as demand remains.
+
+---
+
+**Supply (Production/Upstream) | Macro-Economic Cooling | Severity: High**  
+- **Headline:** U.S. Energy Dominance Agenda Can't Shield Driver From Higher Gasoline Prices  
+- **What happened:** Despite the U.S. being the largest crude oil producer at over 13.6 million barrels per day, rising geopolitical tensions are causing gasoline prices to surge, indicating macroeconomic pressures.  
+- **Market impact:** This suggests an imbalance in supply and demand dynamics, with external factors driving prices higher despite robust production levels.  
+- **Sentiment contribution:** Bearish — while production levels are high, rising consumer costs can dampen overall economic activity and oil demand in the longer term.
+
+---
+
+### 3. SIGNAL SYNTHESIS
+The signals are partially aligned; the high geopolitical risk from supply cuts reflects a bullish perspective, while macroeconomic concerns about rising prices could indicate cooling demand and bearish sentiment. The interplay between these risks highlights a fragile environment, with strong geopolitical factors potentially offsetting economic concerns.
+
+---
+
+### 4. WATCH LIST
+- [ ] **Continued Conflict in the Middle East** → If the conflict escalates further, it could lead to more substantial supply disruptions and higher prices.
+- [ ] **U.S. Policy Changes on Oil Exports** → Any new regulatory changes or sanctions could significantly impact supply and global oil prices.
+- [ ] **Global Economic Indicators** → If economic performance indicators continue to decline, this could further suppress demand amid rising supply prices.
+
+---
+
+### 5. BOTTOM LINE
+**Risk Level: High**  
+The crude oil market faces high-risk levels primarily due to geopolitical tensions disrupting supply. Traders should remain cautious, as these risks are exacerbated by macroeconomic signals that could dampen demand. The current situation is delicate and requires close monitoring of geopolitical developments.

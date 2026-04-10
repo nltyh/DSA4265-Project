@@ -1,0 +1,51 @@
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+## COMMODITY RISK REPORT
+**Commodity:** crude oil  
+**Report Date:** 2026-04-10  
+**Articles Analysed:** 5 articles  
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+### 1. OVERALL SENTIMENT
+**Mixed**  
+> Current market signals are mixed, driven by geopolitical tensions affecting supply alongside stable production levels in the U.S. and moderated pricing movements.
+
+---
+### 2. KEY RISK SIGNALS
+
+**Geopolitics & Policy | Geopolitical Conflict | Severity: High**  
+- **Headline:** Saudi Arabia Slashes Oil Supply to Asia as War Chokes Export Route  
+- **What happened:** Saudi Arabia is cutting its crude oil exports to Asia due to the conflict rendering the Strait of Hormuz largely closed.  
+- **Market impact:** This reduction in supply could cause upward pressure on oil prices due to decreased availability.  
+- **Sentiment contribution:** Bullish — as disruptions in key supply routes heighten concerns over oil availability.
+
+---
+
+**Supply (Production/Upstream) | Macro-Economic Cooling | Severity: Medium**  
+- **Headline:** U.S. Energy Dominance Agenda Can't Shield Driver From Higher Gasoline Prices  
+- **What happened:** Despite high production rates in the U.S., gasoline prices are surging, indicating tight market conditions.  
+- **Market impact:** This underscores potential demand-side pressures that could keep prices elevated despite strong production figures.  
+- **Sentiment contribution:** Bearish — high prices amidst strong supply may dampen demand as consumers face increased costs.
+
+---
+
+**Financial Flows/Positioning | No Significant Risk | Severity: Low**  
+- **Headline:** Oil Plummets 8% as Trump Postpones Hormuz Deadline Threat  
+- **What happened:** Following political statements, oil prices experienced a sharp decline, reflecting market volatility rather than a structural issue.  
+- **Market impact:** The price drop indicates short-term pressure, suggesting fluctuating sentiment among traders.  
+- **Sentiment contribution:** Neutral — this is more indicative of temporary market adjustments than a reflection of long-term trends.
+
+---
+
+### 3. SIGNAL SYNTHESIS
+The risks are somewhat aligned, with significant geopolitical conflict threatening supply while high production levels in the U.S. create mixed signals on price stability. The geopolitical concerns are more impactful in driving sentiment compared to the cyclical price movement driven by temporary factors.
+
+---
+### 4. WATCH LIST
+- [ ] Continued conflict in the Strait of Hormuz → would exacerbate supply disruptions and drive prices higher.
+- [ ] U.S. production levels unexpected change (up or down) → could lead to shifts in market balance between supply and demand.
+- [ ] Major geopolitical developments involving Saudi Arabia or Iran → would significantly influence market confidence and pricing.
+
+---
+### 5. BOTTOM LINE
+**Risk Level: High**  
+Traders must be alert to geopolitical developments affecting crude oil supply due to the high severity of potential risk from conflicts. The mixed signals from production stability and price volatility suggest a complex landscape where risk management strategies must adapt rapidly.

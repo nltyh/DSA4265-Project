@@ -1,0 +1,54 @@
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+## COMMODITY RISK REPORT
+**Commodity:** crude oil  
+**Report Date:** 2026-04-10  
+**Articles Analysed:** 5 articles  
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+### 1. OVERALL SENTIMENT
+**Bullish**  
+> The crude oil market is experiencing a bullish sentiment driven by significant geopolitical tensions—primarily surrounding Iran—which have led to a record monthly gain in oil prices.
+
+### 2. KEY RISK SIGNALS
+
+**Geopolitics & policy | Geopolitical Conflict | Severity: High**  
+- **Headline:** Oil Set to Book Record Monthly Gain on Iran Crisis  
+- **What happened:** Crude oil prices are projected to rise significantly due to escalating conflicts involving Iran and recent attacks linked to Houthi forces.  
+- **Market impact:** This geopolitical instability is likely to push prices upward as fears of disruption mount, thus affecting supply and overall market prices.  
+- **Sentiment contribution:** Bullish due to expectations of higher prices driven by conflict-related risk [Article 1].
+
+---
+
+**Geopolitics & policy | Geopolitical Conflict | Severity: High**  
+- **Headline:** Brent Surges Past $110 on Iran Rejection  
+- **What happened:** Brent crude prices have increased beyond $110 amid heightened tensions over U.S.-Iran negotiations regarding oil exports and potential disruptions in the Strait of Hormuz.  
+- **Market impact:** The closure threat of this key shipping lane raises the risk of supply shortages, driving up prices further.  
+- **Sentiment contribution:** Bullish as increased tension correlates with elevated price levels [Article 4].
+
+---
+
+**Geopolitics & policy | Geopolitical Conflict | Severity: High**  
+- **Headline:** Oil Traders Caught Between Diplomacy and Disruption Risk  
+- **What happened:** Traders are navigating a volatile market influenced by U.S.-Iran diplomacy and the associated risks of disruptions, keeping prices under pressure and driving high risk premiums.  
+- **Market impact:** The uncertainty complicates trading dynamics, maintaining upward pressure on prices due to perceived risks.  
+- **Sentiment contribution:** Bullish, as the geopolitical tensions favor higher prices despite market fluctuations [Article 5].
+
+---
+
+**Accidents/Disruptions | Infrastructure Damage | Severity: Medium**  
+- **Headline:** Second Tanker Hit in Weeks as Black Sea Drone Strikes Russian Oil Cargo  
+- **What happened:** A tanker carrying Russian oil has been damaged by a drone strike near Istanbul, marking an increase in risks for oil transport in conflict zones.  
+- **Market impact:** This incident raises concerns about shipping safety and could lead to supply disruptions, although the immediate price impact may be limited compared to geopolitical tensions.  
+- **Sentiment contribution:** Bearish due to potential increases in shipping costs and operational risks affecting supply, but less significant than geopolitical tensions [Article 2].
+
+### 3. SIGNAL SYNTHESIS
+The key risk signals are aligned towards a bullish sentiment driven by geopolitical factors, particularly concerning Iran and the threat to oil transport routes. The incident involving the drone strike on the tanker introduces some bearish sentiment due to infrastructure risk, but the overarching geopolitical dynamics dominate.
+
+### 4. WATCH LIST
+- [ ] Watch for developments in the U.S.-Iran negotiations → A resolution could stabilize prices or lead to lower highs.
+- [ ] Monitor any further incidents in the Strait of Hormuz → New threats could significantly elevate prices.
+- [ ] Keep an eye on tanker safety reports and operational disruptions → Ongoing issues may restrict supply and support price increases.
+
+### 5. BOTTOM LINE
+**Risk Level: High**  
+Traders and risk managers should remain vigilant due to acute geopolitical tensions affecting crude oil prices, especially surrounding Iran and the potential for disruptions in major shipping routes. A focus on diplomatic developments is crucial as risks are high and sentiment is strongly bullish.

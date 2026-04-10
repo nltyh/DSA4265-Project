@@ -1,0 +1,33 @@
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+## COMMODITY RISK REPORT
+**Commodity:** crude oil  
+**Report Date:** 2026-04-10  
+**Articles Analysed:** 1 article  
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+### 1. OVERALL SENTIMENT
+**Bullish**  
+> The decision by Shell to stop purchasing Russian oil signals potential reductions in supply from a major player, which typically exerts upward pressure on prices, contributing to a bullish sentiment for crude oil. 
+
+---
+### 2. KEY RISK SIGNALS
+**Geopolitics & Policy | Geopolitical Conflict | Severity: High**  
+- **Headline:** Shell Says It Will Stop Buying Russian Oil, Natural Gas  
+- **What happened:** Shell announced its decision to cease purchasing Russian oil and natural gas following criticism amidst soaring global oil prices and geopolitical concerns connected to the situation in Ukraine.  
+- **Market impact:** This decision may lead to tighter global supplies of crude oil, contributing to an increase in prices due to potential supply constraints.  
+- **Sentiment contribution:** Bullish — as reduced purchasing from Russia could lead to scarcity in the market, which generally drives prices higher.
+
+---
+### 3. SIGNAL SYNTHESIS
+The risk signal identified in the article is aligned, showing a potential impact on supply due to geopolitical decisions. The sentiment is primarily driven by the geopolitical landscape and its implications for crude supply, indicating a net bullish effect on commodity risk exposure as the market anticipates tighter supplies.
+
+---
+### 4. WATCH LIST
+- [ ] Developments in the Ukraine conflict → escalation may further strain supply chains and affect pricing.
+- [ ] Reactions from other major oil buyers regarding Russian energy → increased withdrawal may exacerbate supply constraints.
+- [ ] Regulatory actions in major markets regarding sanctions → new sanctions could further hinder supply.
+
+---
+### 5. BOTTOM LINE
+**Risk Level: High**  
+The situation remains sensitive to geopolitical developments which could lead to significant price volatility. Risk managers should closely monitor international responses to Russia's actions and any emerging market shifts in energy purchasing strategies.

@@ -1,0 +1,42 @@
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+## COMMODITY RISK REPORT
+**Commodity:** LNG  
+**Report Date:** 2026-04-10  
+**Articles Analysed:** 5 articles  
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+### 1. OVERALL SENTIMENT
+**Neutral**  
+The sentiment is neutral as there are both positive developments in LNG projects and significant regulatory constraints that could impact operations.
+
+### 2. KEY RISK SIGNALS
+
+**LNG & natural gas | No Significant Risk | Severity: Low**
+- **Headline:** Sempra Signs LNG Deal with France’s Engie to Use Certified Natural Gas
+- **What happened:** Sempra Infrastructure signed a 15-year agreement to supply certified LNG to Engie from its Port Arthur project, emphasizing environmental standards.
+- **Market impact:** This deal may strengthen Sempra’s market position, potentially increasing demand for U.S. LNG in environmentally conscious markets.
+- **Sentiment contribution:** Bullish — due to the strengthening of market position and focus on certified gas [Article 1].
+
+**LNG & natural gas | Regulatory Constraint | Severity: Medium**
+- **Headline:** NextDecade: LNG halt flows back to Permian gas producers
+- **What happened:** Legal challenges have led to permit vacating for the Rio Grande LNG facility, which heavily relies on Permian Basin natural gas.
+- **Market impact:** This regulatory uncertainty may hinder production and supply chains, potentially constraining LNG availability.
+- **Sentiment contribution:** Bearish — because regulatory hurdles can delay projects and affect future supply [Article 2].
+
+**LNG & natural gas | Regulatory Constraint | Severity: Medium**
+- **Headline:** Alaska tribal leaders urge state to revoke permit for Donlin Gold Mine
+- **What happened:** Tribal leaders are urging for a permit revocation due to environmental concerns relating to the proposed Donlin Gold Mine, which may impact LNG supply indirectly.
+- **Market impact:** Increased scrutiny of environmental regulations could affect permit processes for LNG projects, introducing delays.
+- **Sentiment contribution:** Bearish — as heightened regulatory concerns may create additional barriers for LNG projects [Article 4].
+
+### 3. SIGNAL SYNTHESIS
+The risks presented are somewhat contradictory, as while some projects show positive developments in securing long-term contracts, significant regulatory constraints threaten other developments in the LNG sector. These risks are confirmed by current fundamentals as they influence both future supply and current demand dynamics. The net effect indicates a stable risk exposure; however, vigilance regarding regulatory developments is necessary.
+
+### 4. WATCH LIST
+- [ ] Monitor the Supreme Court's decision on NextDecade's appeal → If the court rules in favor, it may restore confidence and operational stability for the Rio Grande LNG facility.
+- [ ] Watch for further environmental litigation developments regarding LNG projects → Increased litigation may lead to more regulatory constraints impacting future developments.
+- [ ] Track European market demand for certified LNG → Strong demand could bolster U.S. LNG exports under climate-conscious contracts.
+
+### 5. BOTTOM LINE
+**Risk Level: Medium**  
+The current risk environment for LNG is moderate due to regulatory constraints that may offset some of the positive market developments. Risk managers should be aware of the fragile nature of project permits and ongoing legal challenges that could affect future LNG supply stability.

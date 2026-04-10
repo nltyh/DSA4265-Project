@@ -1,0 +1,36 @@
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+## COMMODITY RISK REPORT
+**Commodity:** crude oil  
+**Report Date:** 2026-04-10  
+**Articles Analysed:** 5 articles  
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+### 1. OVERALL SENTIMENT
+**Bearish**  
+The dominant signal is bearish due to Saudi Arabia's significant cuts in oil exports as geopolitical tensions rise, which outweighs temporary price pullbacks and stable retail prices in major markets [Article 1, 2, 5].
+
+### 2. KEY RISK SIGNALS
+
+**Geopolitics & policy | Geopolitical Conflict | Severity: High**
+- **Headline:** Saudi Arabia Slashes Oil Supply to Asia as War Chokes Export Route
+- **What happened:** Saudi Arabia is reducing its crude oil exports to Asia for the second consecutive month due to the persistent closure of the Strait of Hormuz, affecting supply chains significantly [Article 1].
+- **Market impact:** This reduction is likely to tighten global supply, causing upward pressure on prices and exacerbating supply chain uncertainties.
+- **Sentiment contribution:** Bullish — The reduction in supply amidst ongoing geopolitical tensions typically leads to higher prices.
+
+**Supply (Production/Upstream) | Macro-Economic Cooling | Severity: High**
+- **Headline:** U.S. Energy Dominance Agenda Can't Shield Driver From Higher Gasoline Prices
+- **What happened:** Despite high production levels, gasoline prices in the U.S. are rising due to conflict-related supply pressures, indicating underlying vulnerabilities in the supply chain [Article 3].
+- **Market impact:** The disconnect between high production and rising prices suggests market instability and potential demand destruction.
+- **Sentiment contribution:** Bearish — Rising prices amidst stable production may indicate a weakening demand scenario and could cool overall economic activity.
+
+### 3. SIGNAL SYNTHESIS
+The risk signals identified are partly aligned but contain contradictions; while geopolitical issues are driving some bullish sentiment, macroeconomic indicators suggest a bearish outlook due to rising consumer prices and potential economic cooling. The risks appear fundamentally driven by geopolitical conflicts yet may be sentiment-driven on a short-term trading basis. The net effect suggests heightened risk exposure for commodity traders due to ongoing geopolitical tensions.
+
+### 4. WATCH LIST
+- [ ] Monitor US-Iran negotiations → Further de-escalation could stabilize prices but a breakdown could heighten risks.
+- [ ] Watch developments in the Strait of Hormuz → Increased military activity could further disrupt supply chains.
+- [ ] Track global demand indicators → Any significant downturn could shift prices despite high production levels.
+
+### 5. BOTTOM LINE
+**Risk Level: High**  
+Traders and risk managers should prepare for increased volatility driven by geopolitical tensions that are tightening crude oil supplies. The signals indicate fragility in the supply chain, with the potential for sharp price fluctuations based on geopolitical developments.

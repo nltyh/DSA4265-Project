@@ -1,0 +1,56 @@
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+## COMMODITY RISK REPORT
+**Commodity:** LNG  
+**Report Date:** 2026-04-10  
+**Articles Analysed:** 5 articles  
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+### 1. OVERALL SENTIMENT
+**Mixed**  
+> The sentiment is mixed due to simultaneous signals of supply constraints from geopolitical tensions and infrastructure damage, contrasted with a significant investment in U.S. midstream assets suggesting capital flow stability.
+
+---
+
+### 2. KEY RISK SIGNALS
+
+**LNG & natural gas | Supply Chain Blockage | Severity: High**  
+- **Headline:** Asia Burns More Coal as Middle East War Sends LNG Prices to 3-Year Highs  
+- **What happened:** Countries in Asia are increasing coal usage due to an LNG supply shortage related to the ongoing war in the Middle East.  
+- **Market impact:** The reduction in LNG supply raises prices, creating upward pressure on energy costs across Asia.  
+- **Sentiment contribution:** Bullish — escalating prices generally indicate a tight supply situation.
+
+**LNG & natural gas | Infrastructure Damage | Severity: High**  
+- **Headline:** Chevron Reports “Extensive Damage” at Major LNG Project  
+- **What happened:** The Wheatstone LNG plant in Australia suffered extensive damage from a cyclone, resulting in the shutdown of its liquefaction trains.  
+- **Market impact:** This infrastructure damage exacerbates the existing LNG supply issues, potentially pushing prices higher amid a supply shortfall.  
+- **Sentiment contribution:** Bearish — infrastructure damage signals a reduction in available supply.
+
+**Shipping & logistics | Supply Chain Blockage | Severity: High**  
+- **Headline:** India Says 28 Oil and Gas Ships Are Stranded Near the Strait of Hormuz  
+- **What happened:** At least 28 vessels carrying crude oil and LNG are stranded, impacting supply routes.  
+- **Market impact:** A blockage in critical shipping routes disrupts the supply chain, particularly affecting flows to Asia.  
+- **Sentiment contribution:** Bullish — the blockage is likely to escalate supply shortages and drive up prices.
+
+**Financial flows/positioning | No Significant Risk | Severity: Low**  
+- **Headline:** UAE Investment Firm Buys U.S. Midstream Gas Assets for $2.25 Billion  
+- **What happened:** An Abu Dhabi-based firm acquired U.S. gas pipeline assets, highlighting continued investment in the LNG sector.  
+- **Market impact:** This acquisition indicates overall market confidence despite existing risks but does not contribute significantly to immediate supply.  
+- **Sentiment contribution:** Neutral — while it shows market confidence, it does not directly affect current supply-demand dynamics.
+
+---
+
+### 3. SIGNAL SYNTHESIS
+The risk signals related to LNG are both aligned and contradictory. High supply chain blockage risks from geopolitical unrest and infrastructure damage threaten to tighten supply, which could push prices upward. However, the major investment in U.S. midstream assets adds a layer of stability that may mitigate some fears, though it is not immediately impactful. Overall, the pressures from supply constraints dominate the current risk exposure picture.
+
+---
+
+### 4. WATCH LIST
+- [ ] **Further developments in the Middle East conflict** → Escalation could result in deeper supply chain disruptions and price surges.
+- [ ] **Updates on the Wheatstone LNG plant's recovery** → A longer shutdown would exacerbate supply issues.
+- [ ] **Resolution of the shipping blockage at the Strait of Hormuz** → Any improvement could ease oil and LNG flow, affecting prices.
+
+---
+
+### 5. BOTTOM LINE
+**Risk Level: High**  
+The current situation poses high risk levels due to severe supply chain disruptions and infrastructure challenges. Risk managers should be prepared for potential price spikes and consider tight supply scenarios as a basis for operational decisions. The mixed sentiment indicates ongoing volatility that warrants close monitoring.

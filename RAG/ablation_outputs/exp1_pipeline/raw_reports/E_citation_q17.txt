@@ -1,0 +1,46 @@
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+## COMMODITY RISK REPORT
+**Commodity:** LNG  
+**Report Date:** 2026-04-10  
+**Articles Analysed:** 5 articles  
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+### 1. OVERALL SENTIMENT
+**Bullish**  
+The United States has solidified its position as the world's largest LNG exporter, driven by increased production and demand, which bodes well for future growth prospects in the LNG market [Article 1, 2, 3].
+
+---
+### 2. KEY RISK SIGNALS
+
+**LNG & natural gas | No Significant Risk | Severity: Low**  
+- **Headline:** U.S. Could Pass Australia, Qatar as Top LNG Exporter, Says IHS Markit  
+- **What happened:** The U.S. is projected to become the largest LNG exporter in 2022, attributed to increased LNG supplies and terminal capacity, with no significant risks identified in the production or logistics sectors [Article 1].  
+- **Market impact:** This positioning is likely to bolster U.S. LNG prices positively, reflecting an increase in export capacity and competitiveness in global markets.  
+- **Sentiment contribution:** Bullish — growth prospects enhance market confidence regarding U.S. LNG capabilities [Article 1].
+
+**LNG & natural gas | No Significant Risk | Severity: Low**  
+- **Headline:** US becomes world’s top LNG exporter for first time ever  
+- **What happened:** The U.S. surpassed Qatar in LNG exports in December 2021, thanks to several factors including new production units and increased deliveries to Europe [Article 2].  
+- **Market impact:** Establishing the U.S. as the top exporter is likely to inspire further investment in U.S. LNG infrastructure and support stable to rising prices.  
+- **Sentiment contribution:** Bullish — the shift in export leadership can lead to greater pricing power for U.S. exporters [Article 2].
+
+**LNG & natural gas | No Significant Risk | Severity: Low**  
+- **Headline:** We’re #1! U.S. Ends 2021 As World’s Largest LNG Exporter  
+- **What happened:** By the end of 2021, the U.S. became the leading LNG exporter, fueled by increased production and efficient liquefaction facilities [Article 3].  
+- **Market impact:** This achievement reinforces the long-term viability of the U.S. in the LNG market, attracting investments and boosting export volumes.  
+- **Sentiment contribution:** Bullish — established dominance encourages optimism in U.S. LNG exports [Article 3].
+
+---
+### 3. SIGNAL SYNTHESIS
+The risk signals are aligned, indicating a positive outlook on the LNG market. There are no significant risks present, and the bullish sentiment aligns with verified market fundamentals — the U.S. has confirmed its increase in capacity and production. Overall, the current outlook suggests heightened optimism in LNG supply and pricing.
+
+---
+### 4. WATCH LIST
+- [ ] Monitor upcoming LNG terminal expansions → An increase in capacity could further solidify U.S. dominance and influence pricing.
+- [ ] Track developments in Qatar's LNG production projects → Greater competition from Qatar could alter market dynamics.
+- [ ] Observe global demand trends from Europe and Asia → A rise in demand could push prices higher, while a decline could reverse current bullish sentiment.
+
+---
+### 5. BOTTOM LINE
+**Risk Level: Low**  
+The outlook for the LNG market remains positive, with the U.S. establishing itself as the leading exporter without significant risks on the horizon. Traders and risk managers can proceed with cautious optimism, as the current indicators support continued growth and stability in the LNG market.

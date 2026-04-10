@@ -1,0 +1,45 @@
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+## COMMODITY RISK REPORT
+**Commodity:** LNG  
+**Report Date:** 2026-04-10  
+**Articles Analysed:** 1 articles  
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  
+
+### 1. OVERALL SENTIMENT
+**Bearish**  
+> The dominant signal is bearish as regulatory constraints posed by the Biden administration on pollution could reduce LNG shipments and impact supply to Europe, critical for energy security amidst geopolitical tensions.
+
+---
+
+### 2. KEY RISK SIGNALS
+**LNG & Natural Gas | Regulatory Constraint | Severity: Medium**  
+- **Headline:** EXCLUSIVE Top U.S. LNG producer Cheniere asks Biden admin to drop pollution rule  
+- **What happened:** Cheniere Energy has requested an exemption from a rule limiting emissions of cancer-causing pollutants, arguing that adherence would drastically reduce LNG shipments.  
+- **Market impact:** A reduction in LNG shipments could tighten supply in Europe, potentially elevating prices given the reliance on U.S. exports amidst current geopolitics.  
+- **Sentiment contribution:** Bearish — the risk of regulatory constraints may overshadow the current demand for LNG in Europe.
+
+---
+
+### 3. SIGNAL SYNTHESIS
+The risk signals are aligned in indicating that regulatory constraints on LNG production could negatively impact supply. This sentiment is driven by real concerns about environmental policies interfering with energy security needs during a critical geopolitical moment. The net effect points to an increased risk exposure for traders and risk managers in the LNG market.
+
+---
+
+### 4. WATCH LIST
+- [ ] Progress on Cheniere's request for exemption → If granted, could alleviate supply constraints and stabilize prices.
+- [ ] Developments in U.S.-Europe energy discussions → Positive outcomes could bolster LNG demand, mitigating regulatory risks.
+- [ ] Changes in public sentiment regarding pollution regulations → Shifts could influence the regulatory landscape and production capabilities. 
+
+---
+
+### 5. BOTTOM LINE
+**Risk Level: Medium**  
+The most important point for risk managers is to closely monitor regulatory developments as they present medium-term risks to LNG supply availability. The current risk signals indicate a fragile balance between environmental policies and market demands influenced by geopolitical factors.
+
+---
+
+[REFLECTION]
+No issues found.
+
+[FINAL REPORT]
+(As drafted in PASS 1, with no changes necessary.)

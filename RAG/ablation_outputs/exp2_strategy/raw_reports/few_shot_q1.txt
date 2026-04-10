@@ -1,0 +1,37 @@
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+## COMMODITY RISK REPORT
+**Commodity:** crude oil  
+**Report Date:** 2026-04-10  
+**Articles Analysed:** 1 article  
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+### 1. OVERALL SENTIMENT
+**Bullish**  
+> The Russian military action in Ukraine has sparked significant concerns about supply disruptions, leading to a sharp rise in oil prices.
+
+---
+
+### 2. KEY RISK SIGNALS
+**[Geopolitics & Policy] | [Geopolitical Conflict] | Severity: High**
+- **Headline:** Russian Military Action In Ukraine Causes Oil Prices To Soar
+- **What happened:** Russian forces launched an attack on Ukraine, triggering instability and international market reactions.
+- **Market impact:** Oil prices surged to nearly $100 per barrel due to fears of supply disruption, as Russian crude exports, which constitute a significant portion of global supply, are now at risk.
+- **Sentiment contribution:** Bullish — the situation creates immediate concerns over supply availability, confirmed by dramatic price increases in response to geopolitical developments.
+
+---
+
+### 3. SIGNAL SYNTHESIS
+The key risk signal from the geopolitical conflict is aligned with the bullish market sentiment, as the escalating situation in Ukraine poses an immediate threat to oil supply chains. The risks are predominantly sentiment-driven based on geopolitical fallout rather than on concrete production changes at this time, leading to heightened commodity risk exposure.
+
+---
+
+### 4. WATCH LIST
+- [ ] **Escalation of conflict** → Further military actions or sanctions could lead to an immediate spike in oil prices or significant market volatility.
+- [ ] **Sanctions imposed on Russia** → New sanctions could restrict crude oil exports from Russia, tightening global supply further and driving prices higher.
+- [ ] **OPEC response** → Any announcement from OPEC regarding production adjustments in response to geopolitical tensions could dramatically shift market dynamics.
+
+---
+
+### 5. BOTTOM LINE
+**Risk Level: High**  
+The geopolitical conflict involving Russia and Ukraine is creating a fragile supply risk environment for crude oil, with elevated prices reflecting market fears of disruptions. Traders and risk managers should remain vigilant as the situation develops and monitor for new updates closely.
