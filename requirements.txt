@@ -4,3 +4,7 @@ sentence-transformers
 rank-bm25
 dateparser
 matplotlib
+rouge-score
+bert-score
+openai
+python-dotenv

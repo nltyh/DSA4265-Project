@@ -1,11 +1,14 @@
 import pandas as pd
+from pathlib import Path
+import json
 
 from hybrid_retriever import HybridRetriever
 from reranker import Reranker
 from time_weighter import TimeWeighter
 from graph_rag import GraphRAG
 from metadata_filtering import QueryProcessor, MetadataFilter
-from generation import Generator
+from generation import Generator, build_context
+from evaluate import evaluate_reports, print_summary
 
 
 # ---- Load Data ----
@@ -33,7 +36,7 @@ def load_data(file_path):
             "severity": row["risk_severity"]
         })
 
-    # Create fast lookup 
+    # Create fast lookup
     doc_to_idx = {doc: i for i, doc in enumerate(documents)}
 
     return df, documents, metadata, doc_to_idx
@@ -132,6 +135,7 @@ def run_pipeline(query, documents, metadata, df, doc_to_idx, generation_strategy
     print(f"\n✍️  Generating report with strategy: {generation_strategy}")
     gen = Generator(strategy=generation_strategy)
     report = gen.generate(query, reranked, graph_context=subgraph)
+    generation_docs = reranked[: gen.top_k_docs]
 
     # ---- OUTPUT ----
     print("\n📊 Top Reranked Results:")
@@ -143,12 +147,18 @@ def run_pipeline(query, documents, metadata, df, doc_to_idx, generation_strategy
     print("\n🌐 Graph Context:")
     print(subgraph)
 
-    return report
+    print("\n📝 Generated Report:")
+    print(report)
+
+    return {
+        "report": report,
+        "generation_docs": generation_docs,
+    }
 
 
 # ---- MAIN ----
 if __name__ == "__main__":
-    file_path = "data/merged_df_v2.csv"  
+    file_path = "data/merged_df_v2.csv"
 
     df, documents, metadata, doc_to_idx = load_data(file_path)
 
@@ -157,7 +167,30 @@ if __name__ == "__main__":
     ]
 
     STRATEGY = "citation"
+    EVALUATE_REPORT = True
 
-    for q in queries:
-        run_pipeline(q, documents, metadata, df, doc_to_idx,
-                     generation_strategy=STRATEGY)
+    output_dir = Path("outputs")
+    output_dir.mkdir(exist_ok=True)
+
+    for i, q in enumerate(queries, start=1):
+        result = run_pipeline(q, documents, metadata, df, doc_to_idx,
+                              generation_strategy=STRATEGY)
+        output_path = output_dir / f"query_{i}_{STRATEGY}_report.txt"
+        output_path.write_text(result["report"], encoding="utf-8")
+        print(f"\n💾 Saved report to {output_path}")
+
+        if EVALUATE_REPORT:
+            context = build_context(result["generation_docs"])
+            evaluation = evaluate_reports(
+                query=q,
+                reports={STRATEGY: result["report"]},
+                context=context,
+                reference=None,
+                run_groundedness=True,
+                run_llm_judge=True,
+            )
+            print_summary(evaluation)
+
+            evaluation_path = output_dir / f"query_{i}_{STRATEGY}_evaluation.json"
+            evaluation_path.write_text(json.dumps(evaluation, indent=2), encoding="utf-8")
+            print(f"\n💾 Saved evaluation to {evaluation_path}")

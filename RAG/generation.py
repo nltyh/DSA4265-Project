@@ -1,7 +1,10 @@
 import os
 import time
 from datetime import datetime
-from anthropic import Anthropic
+from dotenv import load_dotenv
+from openai import OpenAI
+
+load_dotenv()
 
 
 # ───────────────────────────────────────────────
@@ -231,6 +234,10 @@ PROMPT_BUILDERS = {
 }
 
 
+def _get_response_text(response) -> str:
+    return response.choices[0].message.content.strip()
+
+
 # ───────────────────────────────────────────────
 # Generator class
 # ───────────────────────────────────────────────
@@ -241,9 +248,9 @@ class Generator:
     strategy : str
         One of: "zero_shot", "few_shot", "citation", "reflection"
     api_key : str, optional
-        Anthropic API key. Falls back to ANTHROPIC_API_KEY env var.
+        OpenAI API key. Falls back to OPENAI_API_KEY env var.
     model : str
-        Claude model to use.
+        OpenAI model to use.
     max_tokens : int
         Max tokens for the response.
     top_k_docs : int
@@ -256,7 +263,7 @@ class Generator:
         self,
         strategy: str = "citation",
         api_key: str | None = None,
-        model: str = "claude-sonnet-4-20250514",
+        model: str = "gpt-4o-mini",
         max_tokens: int = 2048,
         top_k_docs: int = 5,
     ):
@@ -270,12 +277,12 @@ class Generator:
         self.max_tokens = max_tokens
         self.top_k_docs = top_k_docs
 
-        key = api_key or os.environ.get("ANTHROPIC_API_KEY")
+        key = api_key or os.environ.get("OPENAI_API_KEY")
         if not key:
             raise EnvironmentError(
-                "No API key provided. Set ANTHROPIC_API_KEY or pass api_key= to Generator()."
+                "No API key provided. Set OPENAI_API_KEY or pass api_key= to Generator()."
             )
-        self.client = Anthropic(api_key=key)
+        self.client = OpenAI(api_key=key)
 
     def generate(
         self,
@@ -310,14 +317,16 @@ class Generator:
             context, query, commodity, date, n, graph_context
         )
 
-        response = self.client.messages.create(
+        response = self.client.chat.completions.create(
             model=self.model,
             max_tokens=self.max_tokens,
-            system=SYSTEM_PROMPT,
-            messages=[{"role": "user", "content": prompt}],
+            messages=[
+                {"role": "system", "content": SYSTEM_PROMPT},
+                {"role": "user", "content": prompt},
+            ],
         )
 
-        return response.content[0].text
+        return _get_response_text(response)
 
     def generate_all_strategies(
         self,
