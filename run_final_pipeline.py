@@ -15,10 +15,12 @@ warnings.filterwarnings("ignore")
 BASE_DIR = Path(__file__).parent.resolve()
 sys.path.insert(0, str(BASE_DIR / "RAG"))
 sys.path.insert(0, str(BASE_DIR / "evaluation"))
+sys.path.insert(0, str(BASE_DIR / "data"))
 
 from ablation_configs import PIPELINE_CONFIGS
 from run_ablation import retrieve_docs
 from generation import Generator
+from data_loader import load_data
 
 load_dotenv()
 
@@ -32,6 +34,8 @@ CONFIG_PATH = BASE_DIR / "evaluation" / "ablation_outputs" / "best_config_select
 DATA_PATH = BASE_DIR / "data" / "final_df.csv"
 
 print("Loading data...")
+df = load_data(data_path = DATA_PATH)
+
 try:
     df = pd.read_csv(DATA_PATH)
 except FileNotFoundError:
