@@ -1,0 +1,62 @@
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+## COMMODITY RISK REPORT
+**Commodity:** crude oil  
+**Report Date:** 2024-09-30  
+**Articles Analysed:** 5 articles  
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+### 1. OVERALL SENTIMENT
+**Mixed**  
+> The sentiment is mixed due to strong geopolitical tensions surrounding Venezuela's CITGO auction and simultaneous approval of Chevron's merger with Hess, which adds complexity to crude oil supply dynamics.
+
+---
+
+### 2. KEY RISK SIGNALS
+
+**Geopolitics & Policy | Geopolitical Conflict | Severity: High**  
+- **Headline:** Venezuela: Vulture Fund Elliott Chosen as Winner of CITGO Court-Mandated Auction  
+- **What happened:** Elliott Investment Management won a court-mandated auction for CITGO, a move complicated by various ongoing legal disputes related to debt claims against Venezuela.  
+- **Market impact:** This event introduces uncertainties regarding the operational control of CITGO, affecting crude oil supply chains and investor confidence.  
+- **Sentiment contribution:** Bearish — the auction outcome raises concerns about Venezuela's oil production stability.
+
+---
+
+**Geopolitics & Policy | Geopolitical Conflict | Severity: High**  
+- **Headline:** ConocoPhillips gets judge to approve seizing of payments to Venezuela's PDVSA  
+- **What happened:** A Trinidad court approved ConocoPhillips' request to seize payments owed to Venezuela's PDVSA, complicating cash flow for the state-owned oil company.  
+- **Market impact:** This situation could further strain PDVSA's operations and its ability to maintain production levels, negatively impacting supply.  
+- **Sentiment contribution:** Bearish — signifies the ongoing geopolitical strife, potentially affecting crude oil availability.
+
+---
+
+**Geopolitics & Policy | Geopolitical Conflict | Severity: High**  
+- **Headline:** Chevron’s $53 billion merger with Hess moves forward but not out of woods yet as arbitration keeps suspense alive  
+- **What happened:** Chevron's merger with Hess has cleared regulatory hurdles but remains subject to ongoing arbitration that could delay the finalization.  
+- **Market impact:** The merger stands to consolidate production capabilities, which could stabilize supply if finalized, but the arbitration introduces uncertainty.  
+- **Sentiment contribution:** Mixed — while the merger could be supportive of future supply, current arbitration issues create an element of unease.
+
+---
+
+**Energy Transition/Structural | No Significant Risk | Severity: Low**  
+- **Headline:** LSU Collaborating With Industry Partners on New CO2 Research Well  
+- **What happened:** LSU is partnering with several energy companies to advance CO2 research technology.  
+- **Market impact:** This development is more focused on long-term energy transition goals rather than immediate crude oil supply issues.  
+- **Sentiment contribution:** Neutral — while relevant in the broader energy landscape, it does not directly impact current crude oil pricing or supply chains.
+
+---
+
+### 3. SIGNAL SYNTHESIS
+The risk signals are predominantly aligned with bearish sentiments toward crude oil prices due to the prevailing geopolitical conflicts surrounding Venezuela and its oil operations. The potential positive impact of Chevron's merger is contradicted by the ongoing legal disputes that could affect immediate supply. Overall, the situation is marked more by political tensions than by favorable production outlooks.
+
+---
+
+### 4. WATCH LIST
+- [ ] Outcome of Elliott’s controlling interests in CITGO → A resolution could either stabilize or exacerbate supply risks depending on management decisions.  
+- [ ] Developments regarding ConocoPhillips’ access to PDVSA payments → If this persists, it may significantly impact Venezuela’s crude oil production capabilities.  
+- [ ] Decisions from ongoing arbitration related to Chevron and Hess → A favorable ruling could solidify Chevron's production strength, while an unfavorable decision may stall progress.
+
+---
+
+### 5. BOTTOM LINE
+**Risk Level: High**  
+The current landscape surrounding Venezuela's crude oil sector presents significant risks due to geopolitical conflicts, which are likely to impact supply and market dynamics. Traders should closely monitor ongoing legal disputes and their repercussions on production capacity and export levels.

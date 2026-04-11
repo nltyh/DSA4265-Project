@@ -1,0 +1,50 @@
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+## COMMODITY RISK REPORT
+**Commodity:** crude oil  
+**Report Date:** 2026-04-11  
+**Articles Analysed:** 5 articles  
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+### 1. OVERALL SENTIMENT
+**Mixed**  
+The crude oil market sentiment is mixed as the ongoing geopolitical tension regarding the Strait of Hormuz drives prices up while a diplomatic pause from the U.S. President has led to temporary price declines. The conflicting reports of price increases and decreases reflect this uncertainty.
+
+---
+
+### 2. KEY RISK SIGNALS
+
+**Geopolitics & Policy | Geopolitical Conflict | Severity: High**  
+- **Headline:** Oil Plummets 8% as Trump Postpones Hormuz Deadline Threat  
+- **What happened:** Brent crude oil fell by over 8% after President Donald Trump cited productive discussions with Iran, delaying the immediate threat over the Strait of Hormuz [Article 2].  
+- **Market impact:** This decline indicates temporary relief from fears of supply disruptions, but the volatility persists due to the high stakes in the region.  
+- **Sentiment contribution:** Bearish — market reacts negatively to the delay in action, seeing it as a reduction in immediate risk.
+
+**Geopolitics & Policy | Geopolitical Conflict | Severity: High**  
+- **Headline:** Brent Surges Past $110 on Iran Rejection  
+- **What happened:** The oil markets surged as Iran rejected terms proposed by the U.S., pushing Brent back over $110 amid ongoing tensions [Article 1].  
+- **Market impact:** This spike in prices reflects heightened concerns about supply disruptions from the Middle East, particularly related to the Strait of Hormuz's closure.  
+- **Sentiment contribution:** Bullish — supply concerns are pushing prices higher as geopolitical risks escalate.
+
+**Geopolitics & Policy | Geopolitical Conflict | Severity: High**  
+- **Headline:** War Could Soon Force Oil Prices To Catch Up with the Massive Supply Loss  
+- **What happened:** Analysts warn of a significant upward price movement if the Strait of Hormuz remains blocked, exacerbating the already strained supply chains [Article 3].  
+- **Market impact:** Anticipation of a supply shock could lead to inflated future prices, as major consumers from Asia heavily rely on Middle Eastern imports.  
+- **Sentiment contribution:** Bullish — projections of potential supply shortages heighten market apprehensions.
+
+---
+
+### 3. SIGNAL SYNTHESIS
+The risk signals indicate significant geopolitical tensions affecting the crude oil supply chain, contributing to both bullish and bearish market sentiments. While the threat of conflict and supply loss pushes prices higher, the temporary diplomatic progress led to a notable drop in prices. This mixed environment reflects competing pressures that could result in heightened volatility going forward.
+
+---
+
+### 4. WATCH LIST
+- [ ] **Outcome of U.S.-Iran negotiations** → A resolution could stabilize or further disrupt prices, altering market expectations significantly.
+- [ ] **Further military actions in the region** → Any escalation might lead to sharp price increases if supply routes are threatened.
+- [ ] **Market reactions to Brent's price fluctuations** → How traders assess and react to these price signals will impact overall market stability.
+
+---
+
+### 5. BOTTOM LINE
+**Risk Level: High**  
+The current geopolitical climate poses substantial risks to crude oil supply and pricing, with competing positive and negative forces at play. Traders and risk managers should remain vigilant, as the market is subject to rapid changes based on international developments and negotiations surrounding the Hormuz Strait.

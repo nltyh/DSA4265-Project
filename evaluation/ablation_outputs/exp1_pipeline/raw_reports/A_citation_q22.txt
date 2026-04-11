@@ -1,0 +1,43 @@
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+## COMMODITY RISK REPORT
+**Commodity:** crude oil, diesel  
+**Report Date:** 2026-04-11  
+**Articles Analysed:** 5 articles  
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+### 1. OVERALL SENTIMENT
+**Bearish**  
+> The bearish sentiment is primarily driven by the Argentine government's cut-off of gas supplies to industries, affecting both crude oil and diesel markets due to supply chain constraints associated with increased demand.
+
+### 2. KEY RISK SIGNALS
+
+**Supply (Production/Upstream) | Supply Chain Blockage | Severity: High**
+- **Headline:** El gobierno declaró la pre-emergencia del sector energético y cortó el gas a industrias en todo el país.
+- **What happened:** The Argentine government declared a pre-emergency in the energy sector and cut off gas supply to industries due to high demand caused by low temperatures [Article 1].
+- **Market impact:** This measure prioritizes essential demand for gas while hindering gas supplies to industries, which may lead to increased reliance on crude oil and diesel, thereby influencing prices and supply stability.
+- **Sentiment contribution:** Bearish, as the supply chain blockage could lead to diminished production capabilities and increased costs.
+
+**Financial Flows/Positioning | No Significant Risk | Severity: Low**
+- **Headline:** 2024 Annual Shareholder Meeting.
+- **What happened:** Exxon Mobil's annual shareholder meeting highlighted its stable position without significant risks [Article 2].
+- **Market impact:** While there is no immediate impact, the visibility into Exxon Mobil's activities offers stability in the crude oil market.
+- **Sentiment contribution:** Neutral, as it doesn't significantly affect market dynamics.
+
+**Supply (Production/Upstream) | Production Shortfall | Severity: Medium**
+- **Headline:** ConocoPhillips announces FID for Willow oil and gas project in US.
+- **What happened:** ConocoPhillips' final investment decision is expected to produce significant quantities of crude oil, thereby enhancing supply in the long-term [Article 5].
+- **Market impact:** While this addresses future supply needs, ongoing issues like the Argentine gas cuts could overshadow these long-term gains in the short-term outlook.
+- **Sentiment contribution:** Bullish for the long term but potentially neutral in the immediate context.
+
+### 3. SIGNAL SYNTHESIS
+The identified risk signals suggest a strained supply chain for crude oil and diesel primarily driven by the Argentine government's energy decisions, creating a bearish outlook. While there are long-term production opportunities from projects like ConocoPhillips' Willow, the immediate impact of supply chain blockages takes precedence in influencing market sentiment.
+
+### 4. WATCH LIST
+- [ ] **Monitor temperature forecasts in Argentina** → if low temperatures persist, gas demand may increase further, exacerbating supply issues.
+- [ ] **Track progress on the Néstor Kirchner Gas Pipeline** → successful completion could alleviate current supply constraints and shift sentiment positively.
+- [ ] **Follow regulatory developments regarding the Willow project** → any delays could affect anticipated crude oil supply.
+- [ ] **Observe global crude oil price movements** → significant changes could indicate wider market reactions to unforeseen disruptions.
+
+### 5. BOTTOM LINE
+**Risk Level: High**  
+The immediate risk environment is high due to supply chain blockages affecting crude oil and diesel markets in Argentina, with essential services prioritized over industrial demand. The impact is currently unconfirmed in terms of its potential duration, indicating a fragile situation that demand managers should closely monitor.

@@ -1,0 +1,41 @@
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+## COMMODITY RISK REPORT
+**Commodity:** crude oil,diesel  
+**Report Date:** 2026-04-11  
+**Articles Analysed:** 5 articles  
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+### 1. OVERALL SENTIMENT
+**Bullish**  
+> The sentiment is predominantly bullish due to robust mergers in the oil sector, indicating strong corporate confidence in oil prices and future profitability.
+
+### 2. KEY RISK SIGNALS
+**Geopolitics & Policy | Regulatory Constraint | Severity: Medium**
+- **Headline:** Another Big Oil Deal Despite Regulatory Pushback and Market Volatility
+- **What happened:** ConocoPhillips announced its acquisition of Marathon Oil for $22.5 billion, encountering regulatory challenges due to its increased market concentration [Article 1, 2].
+- **Market impact:** The regulatory scrutiny may temporarily slow down the operation of these entities but does not directly affect supply or demand in the short term; however, consolidation could lead to price stabilization.
+- **Sentiment contribution:** Bullish — strong M&A activity reflects confidence in crude oil demand and future prices amid regulatory challenges.
+
+**Geopolitics & Policy | Regulatory Constraint | Severity: Medium**
+- **Headline:** ConocoPhillips Acquires Marathon Oil for $22.5 Billion in Landmark Deal
+- **What happened:** The deal is likely to drive increased scrutiny from regulators as it consolidates market power in critical basins [Article 3, 5].
+- **Market impact:** The potential for delays or constraints from regulators may create uncertainty in the market but is mitigated by strong operational fundamentals.
+- **Sentiment contribution:** Bullish — reinforces a positive outlook on long-term profitability despite short-term regulatory concerns.
+
+**Geopolitics & Policy | No Significant Risk | Severity: Low**
+- **Headline:** Marathon Oil to dismiss over 500 workers in Texas ahead of ConocoPhillips deal
+- **What happened:** Marathon Oil plans to lay off over 500 employees in preparation for the merger [Article 4].
+- **Market impact:** While this signals cost-cutting measures, it does not pose a significant risk to overall supply capacity in the near term.
+- **Sentiment contribution:** Neutral — operational adjustments are standard in large mergers, causing no significant shift in overall market sentiment.
+
+### 3. SIGNAL SYNTHESIS
+The risk signals around regulatory scrutiny from the M&A activity are aligned, indicating a medium-level concern stemming from potential delays in the merger approval process. However, the underlying bullish sentiment is sustained by ongoing M&A activity which reflects fundamental confidence in the market. As such, the net effect on commodity risk exposure remains bullish, emphasized by the consolidation trends in the oil sector.
+
+### 4. WATCH LIST
+- [ ] **Regulatory Approval for M&A** → Delays could affect market performance; swift approval could enhance market sentiment.
+- [ ] **Oil Price Fluctuations** → Major shifts could impact M&A valuations and investor confidence.
+- [ ] **Employment Changes at Marathon Oil** → Further layoffs could indicate deeper operational changes affecting production capabilities.
+  
+### 5. BOTTOM LINE
+**Risk Level: Medium**  
+The most critical point for risk managers is that while there are regulatory hurdles related to the ConocoPhillips and Marathon Oil merger, the broader outlook remains bullish due to the underlying confidence in continued sector consolidation. The signals are primarily based on anticipated market dynamics and are not currently contradicted by evidence, but given the regulatory context, vigilance is called for.

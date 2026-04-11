@@ -1,0 +1,58 @@
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+## COMMODITY RISK REPORT
+**Commodity:** crude oil  
+**Report Date:** 2026-04-11  
+**Articles Analysed:** 5 articles  
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+### 1. OVERALL SENTIMENT
+**Mixed**  
+> The crude oil market is facing pressures from both geopolitical tensions and supply challenges, contributing to a tense but somewhat cushioned environment as prior market buffers may not sustain long-term price shocks.
+
+---
+### 2. KEY RISK SIGNALS
+
+**Geopolitics & Policy | Geopolitical Conflict | Severity: High**  
+- **Headline:** Brent Surges Past $110 on Iran Rejection  
+- **What happened:** Rising geopolitical tensions, particularly regarding Iran's rejection of U.S. terms, have pushed Brent crude prices back above $110 per barrel as fears mount over potential supply disruptions in the Strait of Hormuz [Article 4].  
+- **Market impact:** This situation could lead to significant price volatility and a potential increase in global oil prices due to fears of supply disruptions.  
+- **Sentiment contribution:** Bullish — because escalating geopolitical tensions typically increase market apprehension, driving prices higher.
+
+---
+
+**Supply (Production/Upstream) | Production Shortfall | Severity: High**  
+- **Headline:** Australia’s Fuels Dependence Turns Into a Crisis  
+- **What happened:** Australia is facing a fuel supply crisis, scrambling for imports due to domestic production disruptions [Article 1]. Similarly, the global oil market is witnessing a significant supply disruption [Article 2].  
+- **Market impact:** This indicates a tightening in supply, potentially propelling prices upward as demand remains constant or increases amidst rising geopolitical tensions.  
+- **Sentiment contribution:** Bullish — heightened concerns over reduced supply are likely to lead to upward pressure on prices.
+
+---
+
+**Demand/Macro Activity | No Significant Risk | Severity: Low**  
+- **Headline:** Inside India’s Petrol Pricing System and the Tax Divide Driving State Gaps  
+- **What happened:** Despite rising crude prices and market shocks, the Indian oil market currently shows no significant risk, indicating stability at the pump for consumers [Article 3].  
+- **Market impact:** This stability might create an illusion of equilibrium in demand against rising prices in other markets, showcasing segmented effects on oil consumption.  
+- **Sentiment contribution:** Neutral — steady pricing in India suggests absorption of shocks, but concerns remain for impacted regions.
+
+---
+
+**Financial Flows/Positioning | No Significant Risk | Severity: Low**  
+- **Headline:** Washington Stress-Tests $200 Oil as War Risk Mounts  
+- **What happened:** The U.S. is preparing for scenarios in which oil prices could surge to $200 per barrel due to increasing geopolitical risks, but currently, there is no significant risk posed to the U.S. economy [Article 5].  
+- **Market impact:** This preparation indicates a level of concern, yet it also reflects current cushioning within the market's framework.  
+- **Sentiment contribution:** Neutral — while the modeling indicates preparation for an extreme scenario, it does not signal present market disruption.
+
+---
+### 3. SIGNAL SYNTHESIS
+The risk signals present a mixed landscape: heightened geopolitical conflicts and production shortfalls are aligning towards bullish sentiment, while other factors like India's stable market conditions and U.S. risk modeling provide neutral interpretations. Overall, risks are grounded in fundamentals like supply disruptions, while external geopolitical factors continue to influence market stability.
+
+---
+### 4. WATCH LIST
+- [ ] **Strait of Hormuz Closures** → A closure would severely disrupt global oil supply, leading to sharp price increases.
+- [ ] **Australian Fuel Import Trends** → Observing changes in import policies or shifts in domestic production due to ongoing crises can affect supply stability.
+- [ ] **Further Escalation in Iran-U.S. Negotiations** → Significant developments could propel market uncertainty and price volatility.
+
+---
+### 5. BOTTOM LINE
+**Risk Level: High**  
+Given the convergence of geopolitical tensions and production challenges, risk exposure in the crude oil market is notable. Traders and risk managers should remain alert to potential rapid shifts in supply and price volatility amid these concerning developments.

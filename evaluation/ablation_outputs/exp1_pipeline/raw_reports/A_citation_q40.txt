@@ -1,0 +1,56 @@
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+## COMMODITY RISK REPORT
+**Commodity:** crude oil  
+**Report Date:** 2026-04-11  
+**Articles Analysed:** 5 articles  
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+### 1. OVERALL SENTIMENT
+**Bullish**  
+> Strong upward pressures on oil prices are driven by geopolitical tensions surrounding the Strait of Hormuz and growing concerns over supply losses, particularly impacting the Middle Eastern oil supply routes.
+
+---
+
+### 2. KEY RISK SIGNALS
+
+**Geopolitics & Policy | Geopolitical Conflict | Severity: High**
+- **Headline:** Brent Surges Past $110 on Iran Rejection
+- **What happened:** Oil prices surged past $110 as negotiations involving Iran stalled, leading to increased tensions over the closure of the Strait of Hormuz [Article 1].
+- **Market impact:** This situation creates a risk of supply interruptions that could drive prices higher across the board as a significant portion of global oil transit relies on this route.
+- **Sentiment contribution:** Bullish — Signals strong market reaction to geopolitical uncertainty.
+
+**Geopolitics & Policy | Geopolitical Conflict | Severity: High**
+- **Headline:** War Could Soon Force Oil Prices To Catch Up with the Massive Supply Loss
+- **What happened:** Analysts highlight that continued blockage of the Strait beyond March could lead to significant price increases due to the anticipated loss of supply from the Middle East [Article 3].
+- **Market impact:** This reinforces the idea that market participants are not fully pricing in the potential drastic supply reductions, suggesting that prices could rise further.
+- **Sentiment contribution:** Bullish — Builds on existing concerns around supply vulnerabilities.
+
+**Geopolitics & Policy | Geopolitical Conflict | Severity: High**
+- **Headline:** Uranium market freezes as Trump tariff threats rattle buyers
+- **What happened:** Trump’s threatened tariffs on Canadian energy exports, while primarily impacting uranium, also reflect broader geopolitical jitters affecting commodities, including crude oil [Article 2].
+- **Market impact:** Indirectly creates an unpredictable energy market environment, which could lead to hesitance in investments.
+- **Sentiment contribution:** Neutral — While it indicates a risk, it is not directly tied to crude oil supply issues.
+
+**Supply (Production/Upstream) | No Significant Risk | Severity: Low**
+- **Headline:** ADNOC, Aramco said to mull bids for Shell South Africa assets
+- **What happened:** ADNOC and Aramco are exploring acquisitions of downstream assets in South Africa as part of a strategic expansion [Article 5].
+- **Market impact:** This might signify stable long-term investment intentions but presently does not affect crude supply or price.
+- **Sentiment contribution:** Neutral — Not a pressing concern compared to geopolitical risks.
+
+---
+
+### 3. SIGNAL SYNTHESIS
+The risk signals are predominantly aligned, highlighting a significant geopolitical threat that suggests potential supply chain disruptions and consequent price inflation in the crude oil market. The concerns regarding the Strait of Hormuz create a high sentiment-driven risk, with market participants likely to react more keenly to geopolitical developments than to stable production capacities elsewhere. Overall, the prevalent sentiment is that of bullishness due to these immediate threats.
+
+---
+
+### 4. WATCH LIST
+- [ ] Resolution of negotiations involving Iran and the U.S. → If terms are accepted, it could alleviate supply fears and stabilize pricing.
+- [ ] Extended blockage of the Strait of Hormuz → Continued closure would likely exacerbate supply shortages and inflate prices further.
+- [ ] Moves by respective governments to enforce or cancel tariffs on energy-related imports → Changes in tariffs could create broader market impacts, affecting supply dynamics.
+
+---
+
+### 5. BOTTOM LINE
+**Risk Level: High**  
+The crude oil market is facing heightened risks due to geopolitical conflicts, particularly surrounding the Strait of Hormuz. These tensions are expected to have immediate effects on supply chains and price action. Risk managers should prepare for potential volatility, as the current signals are strongly bullish based on geopolitical factors.

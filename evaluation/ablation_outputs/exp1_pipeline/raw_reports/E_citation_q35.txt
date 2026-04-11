@@ -1,0 +1,54 @@
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+## COMMODITY RISK REPORT
+**Commodity:** crude oil  
+**Report Date:** 2026-04-11  
+**Articles Analysed:** 5 articles  
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+### 1. OVERALL SENTIMENT
+**Bearish**  
+The dominant sentiment is bearish due to regulatory constraints impacting key projects, specifically the removal of funding for clean energy initiatives, which signals potential instability in crude oil demand and supply.
+
+---
+
+### 2. KEY RISK SIGNALS
+
+**Geopolitics & Policy | Regulatory Constraint | Severity: High**  
+- **Headline:** Exxon's clean hydrogen project hit by Trump budget cuts  
+- **What happened:** The Trump administration cut $3.7 billion in federal funding for clean energy projects, affecting Exxon's clean hydrogen complex, which was expected to advance energy generation.  
+- **Market impact:** This reduction in funding indicates a slowdown in transitioning to cleaner energy sources, potentially reducing future crude oil demand as alternative energy projects face setbacks.  
+- **Sentiment contribution:** Bearish, as it raises concerns about the future of investment in energy transitions and their impact on crude oil demand [Article 1].
+
+---
+
+**Geopolitics & Policy | Regulatory Constraint | Severity: High**  
+- **Headline:** Texas plant in limbo after Eastman loses DOE grant  
+- **What happened:** Eastman lost a $375 million federal grant for its methanolysis plant, which could halt the project aimed at recycling plastic waste.  
+- **Market impact:** Delays in processing capabilities for plastic waste might keep oil-derived plastics in higher demand, hence marginally supporting crude oil demand but overall indicating instability in energy transitions.  
+- **Sentiment contribution:** Bearish, as the loss of funding undermines project viability, signaling regulatory constraints hindering oil market versatility [Article 2].
+
+---
+
+**Supply (Production/Upstream) | No Significant Risk | Severity: Low**  
+- **Headline:** OPEC+ Agrees on Third Oil Supply Surge Despite Russia’s Qualms  
+- **What happened:** OPEC+ agreed to increase oil output by 411,000 barrels a day for July, despite concerns from Russia.  
+- **Market impact:** The increase in output may lead to an oversupply in the market, further pressuring crude oil prices downward.  
+- **Sentiment contribution:** Bearish, as the shift towards higher output suggests a move away from price stabilization efforts [Article 4].
+
+---
+
+### 3. SIGNAL SYNTHESIS
+The risk signals are mainly aligned in indicating a bearish outlook for crude oil, primarily due to regulatory constraints affecting funding for alternative energy and projects that could diversify energy supplies. The signals reflect a fundamental shift towards exploring new energy avenues while threatening the stability of traditional oil demand. Overall, there is a heightened risk exposure in the crude oil market.
+
+---
+
+### 4. WATCH LIST
+- [ ] **Biden administration’s energy policies** → Changes could either stabilize or further complicate crude oil's market dynamics. 
+- [ ] **Eastern European geopolitical events** → Any escalation could impact global oil supply and prices significantly.
+- [ ] **OPEC+ production decisions** → Future decisions to curb or expand oil production can directly affect price stability.
+
+---
+
+### 5. BOTTOM LINE
+**Risk Level: High**  
+The crude oil market faces significant risk from regulatory constraints linked to clean energy funding cuts, which could undermine demand in the longer term. Monitoring ongoing political decisions will be crucial as they have compounded effects on the market's outlook.

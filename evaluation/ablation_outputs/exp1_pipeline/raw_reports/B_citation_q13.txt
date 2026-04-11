@@ -1,0 +1,35 @@
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  
+## COMMODITY RISK REPORT  
+**Commodity:** crude oil  
+**Report Date:** 2026-04-11  
+**Articles Analysed:** 5 articles  
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  
+
+### 1. OVERALL SENTIMENT  
+**Bullish**  
+The approval of the bill to nationalise ExxonMobil's assets by Chad suggests potential supply disruptions, contributing to a bullish sentiment in the crude oil market [Article 1].  
+
+---  
+### 2. KEY RISK SIGNALS  
+
+**Geopolitics & Policy | Geopolitical Conflict | Severity: High**  
+- **Headline:** Chad approves bill to nationalise assets ExxonMobil sold to Savannah Energy  
+- **What happened:** Chad's parliament approved a bill to nationalise oil assets previously sold to Savannah Energy, indicating a significant governmental push against foreign ownership amid concerns for public order [Article 1].  
+- **Market impact:** This move could lead to supply disruptions or increased regulatory scrutiny, thereby tightening market conditions and possibly raising prices.  
+- **Sentiment contribution:** Bullish — the potential for reduced oil supply could drive prices higher due to perceived instability [Article 1].  
+
+---  
+
+### 3. SIGNAL SYNTHESIS  
+The key risk signal points toward geopolitical conflict affecting the crude oil supply from Chad, which introduces a significant bullish sentiment in the market. The other articles reviewed did not indicate any contrary signals that would offset this geopolitical risk, reinforcing the view of increasing risks and potential price increases.   
+
+---  
+### 4. WATCH LIST  
+- [ ] Upcoming international responses from ExxonMobil regarding the nationalisation → Any legal or diplomatic actions could clarify ownership disputes and influence market stability.  
+- [ ] Monitor Chad's operational capacity and reactions from Savannah Energy → The effectiveness of Chad's enforcement may deeply impact the actual supply flow and pricing.  
+- [ ] Legislative or diplomatic developments involving other oil-producing nations reacting to this nationalisation → Such interactions could escalate tensions or impact overall market confidence in oil security.  
+
+---  
+### 5. BOTTOM LINE  
+**Risk Level: High**  
+While the nationalisation moves in Chad present significant risks, they are presently confirmed rather than speculative. Risk managers should be prepared for potential supply interruptions stemming from geopolitical tensions.

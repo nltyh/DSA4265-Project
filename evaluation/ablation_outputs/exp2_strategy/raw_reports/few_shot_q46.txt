@@ -1,0 +1,54 @@
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+## COMMODITY RISK REPORT
+**Commodity:** LNG  
+**Report Date:** 2026-04-11  
+**Articles Analysed:** 5 articles  
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+### 1. OVERALL SENTIMENT
+**Bullish**  
+> The dominant signal is bullish due to significant infrastructure damage and a projected production shortfall driven by the ongoing Iran war, leading to fears of prolonged supply constraints.
+
+---
+
+### 2. KEY RISK SIGNALS
+
+**[LNG & Natural Gas] | [Infrastructure Damage] | Severity: High**
+- **Headline:** The Iran War Has Already Unleashed a $25 Billion Energy Repair Bill
+- **What happened:** The conflict in the Middle East has led to substantial damage and shutdowns at LNG facilities, refineries, and critical gas-to-liquids operations.
+- **Market impact:** This infrastructure damage severely threatens LNG supply chains, possibly leading to increased prices and tighter market conditions due to supply disruptions.
+- **Sentiment contribution:** Bullish — the extensive damage signals a long-term risk to supply, bolstering price expectations.
+
+---
+
+**[LNG & Natural Gas] | [Production Shortfall] | Severity: High**
+- **Headline:** The Iran War Has Upended Global LNG Markets
+- **What happened:** Analysts have downgraded global LNG supply forecasts by 35 million tons due to production disruptions linked to the ongoing war.
+- **Market impact:** The production shortfall directly contributes to increased pricing pressure on LNG as market balance is disrupted.
+- **Sentiment contribution:** Bullish — the tangible loss in expected supply heightens price pressures, confirming market sentiment.
+
+---
+
+**[Geopolitics & Policy] | [Geopolitical Conflict] | Severity: High**
+- **Headline:** Brent Surges Past $110 on Iran Rejection
+- **What happened:** Rising tensions over the Strait of Hormuz, notably Iran's rejection of U.S. terms, have intensified the geopolitical landscape affecting oil and natural gas markets.
+- **Market impact:** The geopolitical instability surrounding Iran may further complicate LNG supply routes, contributing to volatility in pricing.
+- **Sentiment contribution:** Bullish — concerns over geopolitical developments universally impact trader outlooks, driving prices upward.
+
+---
+
+### 3. SIGNAL SYNTHESIS
+The risk signals are aligned, indicating a consensus about high risk levels for LNG markets due to the ongoing conflict. Infrastructure damage and anticipated production shortfalls are confirmed by tangible disruptions and projected decreases in supply. The net effect is a substantial increase in commodity risk exposure now.
+
+---
+
+### 4. WATCH LIST
+- [ ] **Repair bill announcements from affected facilities** → Further estimates could refine projections of supply constraints.
+- [ ] **Negotiations between Iran and the U.S. regarding sanctions** → Progress or breakdown could impact geopolitical tensions and supply routes.
+- [ ] **Market responses to new LNG shipment forecasts** → Observing adjustments in forecasted demand estimates could signal shifts in market balance.
+
+---
+
+### 5. BOTTOM LINE
+**Risk Level: High**  
+The situation around LNG is precarious, with significant infrastructure challenges and an anticipated production shortfall due to the Iran war. Market managers must consider the high risk levels connected to these developments and prepare for volatile price movements.

@@ -1,0 +1,42 @@
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+## COMMODITY RISK REPORT
+**Commodity:** LNG  
+**Report Date:** 2022-03-25  
+**Articles Analysed:** 5 articles  
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  
+
+### 1. OVERALL SENTIMENT
+**Bullish**  
+The announcement of increased U.S. LNG exports to Europe will likely exacerbate existing supply shortages in Asia, thus tightening the global LNG market and pushing prices higher.  
+
+### 2. KEY RISK SIGNALS
+
+**LNG & Natural Gas | Supply Chain Blockage | Severity: High**  
+- **Headline:** U.S., E.U. Announce New Partnership To Undercut Russian Energy  
+- **What happened:** The U.S. and allies committed to boosting LNG exports to Europe by 15 billion cubic meters in 2022 to reduce reliance on Russian energy sources.  
+- **Market impact:** This increased demand for U.S. LNG could redirect supplies away from Asia, heightening competition and potentially raising prices in that region.  
+- **Sentiment contribution:** Bullish — due to anticipated supply constraints in Asia as European nations prioritize their energy security in the face of reduced Russian imports [Article 2].
+
+**LNG & Natural Gas | Supply Chain Blockage | Severity: High**  
+- **Headline:** Europe’s scramble for LNG leaves Asia starving for energy  
+- **What happened:** Increased European demand, driven by the war in Ukraine, has diverted LNG shipments from Asia, leading to energy shortages.  
+- **Market impact:** Countries like China and Japan may face high prices and supply challenges as they compete for reduced available LNG.  
+- **Sentiment contribution:** Bullish — concerns over energy shortages and rising prices in Asia contribute positively to LNG market sentiment [Article 3].  
+
+**LNG & Natural Gas | Supply Chain Blockage | Severity: High**  
+- **Headline:** U.S. becomes top LNG exporter in first half of 2022 - EIA  
+- **What happened:** The U.S. has become the leading LNG exporter, increasing supply notably to Europe amidst ongoing geopolitical tensions.  
+- **Market impact:** This shift indicates improved export capacity but may cause volatility in global LNG pricing as demand dynamics evolve.  
+- **Sentiment contribution:** Bullish — the U.S.'s position bolsters overall LNG supply, expected to favor European nations looking to secure energy sources [Article 4].  
+
+### 3. SIGNAL SYNTHESIS
+The risk signals align towards a bullish sentiment for LNG as increasing demand in Europe diverts supplies from Asia, which could lead to price hikes and energy shortages in that region. These risks are driven by a combination of geopolitical events (the war in Ukraine) and supply chain adjustments, underscoring a heightened risk exposure in the LNG market.
+
+### 4. WATCH LIST
+- [ ] **Continuation of the conflict in Ukraine** → Further escalation could dramatically alter LNG supply chains and pricing structures.
+- [ ] **Additional agreements for LNG exports to Europe** → More commitments from the U.S. to supply LNG could shift market dynamics and exacerbate shortages in Asia.
+- [ ] **Monitoring Asian market responses** → Should Asian countries increase alternative energy sources (e.g., coal or nuclear), it may influence global LNG demand.
+
+### 5. BOTTOM LINE
+**Risk Level: High**  
+The LNG market is under significant stress due to geopolitical pressures and shifting supply dynamics. Analysts should closely monitor the escalation of conflicts affecting supply lines and the strategic choices of Asian consumers in response to potential shortages. The current sentiment is underpinned by fundamental changes in global LNG supply and demand interactions.

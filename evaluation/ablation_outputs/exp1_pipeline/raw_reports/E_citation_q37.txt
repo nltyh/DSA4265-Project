@@ -1,0 +1,36 @@
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+## COMMODITY RISK REPORT
+**Commodity:** crude oil  
+**Report Date:** 2026-04-11  
+**Articles Analysed:** 5 articles  
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+### 1. OVERALL SENTIMENT
+**Bearish**  
+> The market sentiment for crude oil is currently bearish due to potential OPEC+ supply increases and expectations of a market surplus, which are pressuring prices downward despite other positive signals like the rise in corporate stock prices related to crude oil producers.
+
+### 2. KEY RISK SIGNALS
+
+**Supply (Production/Upstream) | Supply Chain Blockage | Severity: High**
+- **Headline:** The Commodities Feed: Oil under pressure amid noise over more OPEC+ supply hikes
+- **What happened:** Discussions about potential additional supply increases from OPEC+ and expectations of an oversupplied market have emerged.
+- **Market impact:** This could lead to lower prices as markets anticipate more oil entering the market during late 2025 and throughout 2026.
+- **Sentiment contribution:** Bearish due to expected over-supply leading to price decrease [Article 1].
+
+**Financial Flows/Positioning | No Significant Risk | Severity: Low**
+- **Headline:** Why Occidental Petroleum Stock Rose In After-Hours Today?
+- **What happened:** Occidental Petroleum's stock rose as Berkshire Hathaway expressed interest in acquiring its petrochemical business, which indicates institutional confidence.
+- **Market impact:** This positive sentiment around Occidental may provide a slight bullish influence on the overall crude oil market.
+- **Sentiment contribution:** Bullish due to improved retail sentiment towards oil stocks, though this is tempered by broader bearish indicators [Article 2].
+
+### 3. SIGNAL SYNTHESIS
+The risk signals present are partly aligned but also contradictory. The bearish pressure from OPEC+ discussions and supply expectations weighs heavily on price sentiment, dominating the market's outlook. Although there is a bullish sentiment from specific stock movements, wider market fundamentals suggest a bearish trend. This collective situation creates a net bearish effect on crude oil prices, suggesting increased risks for traders.
+
+### 4. WATCH LIST
+- [ ] Monitor OPEC+ announcements regarding supply levels → An increase could exacerbate bearish pressures on prices.
+- [ ] Watch for changes in global demand outlook, especially from large consumers → A decrease could deepen bearish sentiment.
+- [ ] Keep track of significant investment into oil firms, such as acquisitions by major players → Enhanced corporate confidence may mitigate bearish effects.
+
+### 5. BOTTOM LINE
+**Risk Level: High**  
+The current landscape for crude oil shows high risk due to anticipated supply increases from OPEC+, which pose a significant downward pressure on prices. While there are some positive market signals from individual corporations, they are outweighed by the overall bearish market conditions driven by supply surplus expectations.

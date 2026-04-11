@@ -1,0 +1,46 @@
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+## COMMODITY RISK REPORT
+**Commodity:** crude oil  
+**Report Date:** 2024-07-31  
+**Articles Analysed:** 5 articles  
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+### 1. OVERALL SENTIMENT
+**Bearish**  
+> The dominant signal is bearish due to delays in Chevron's acquisition of Hess Corp., which could hinder production capabilities, alongside ongoing refining outages that may limit supply.
+
+### 2. KEY RISK SIGNALS
+
+**Geopolitics & Policy | Geopolitical Conflict | Severity: High**
+- **Headline:** Chevron’s Hess Deal Suffers New Blow as Arbitration Drags On
+- **What happened:** Chevron's acquisition of Hess Corp. is delayed due to arbitration issues that could extend the decision until Q3 2025, impacting operations tied to the Guyana oil project.
+- **Market impact:** This delay exacerbates uncertainty, potentially restricting future crude oil supply and contributing to bearish sentiment.
+- **Sentiment contribution:** Bearish — the uncertainty surrounding the acquisition dampens market confidence.
+
+---
+
+**Refining (Downstream) | Refining Outage | Severity: Medium**
+- **Headline:** Cenovus Energy Inc: Analysis of Shutdown of Lima Refinery
+- **What happened:** Cenovus Energy Inc. announced a shutdown at its Lima refinery, which is crucial for its overall refining capacity.
+- **Market impact:** The refining outage creates a risk of reduced gasoline and diesel production, which may tighten supply and elevate prices if demand remains steady.
+- **Sentiment contribution:** Bearish — the reduction in refining capacity puts further strain on crude oil demand.
+
+---
+
+**Supply (Production/Upstream) | No Significant Risk | Severity: Low**
+- **Headline:** BP Holding Natural Gas Output Steady, with Aim to Build Cash Flow Over Volumes
+- **What happened:** BP focuses on cash flow rather than increasing production volumes, but highlights ongoing LNG projects that could support future supply.
+- **Market impact:** While prioritizing financial metrics, this strategy does not contribute significantly to immediate supply concerns.
+- **Sentiment contribution:** Neutral — no immediate risk associated with production levels.
+
+### 3. SIGNAL SYNTHESIS
+The risk signals are primarily aligned in suggesting a bearish outlook for crude oil. The geopolitical conflict from Chevron's uncertain acquisition process and the refining outage from Cenovus both contribute to reduced supply within the market. The overall risk environment is sentiment-driven, largely confirmed by the latest developments in refining disruptions and acquisition delays.
+
+### 4. WATCH LIST
+- [ ] **Completion of Chevron’s Arbitration** → A resolution could stabilize market expectations and impact crude supply positively.
+- [ ] **Cenovus Refinery Status Update** → If the Lima refinery resumes operations sooner than expected, it might alleviate some bearish supply pressures.
+- [ ] **Global Oil Demand Trends** → Monitoring changes in global demand amid geopolitical tensions could shift market sentiment.
+
+### 5. BOTTOM LINE
+**Risk Level: High**  
+The current environment poses significant risks due to operational uncertainties following the arbitration delay and ongoing refining outages, which could collectively hinder crude oil supply. Risk managers should closely monitor developments related to the Chevron-Hess deal and refining capacity alterations.

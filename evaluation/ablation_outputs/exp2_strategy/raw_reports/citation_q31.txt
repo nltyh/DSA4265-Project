@@ -1,0 +1,42 @@
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+## COMMODITY RISK REPORT
+**Commodity:** Diesel, Crude Oil  
+**Report Date:** 11-04-2026  
+**Articles Analysed:** 5 articles  
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+### 1. OVERALL SENTIMENT
+**Mixed**  
+The sentiment is mixed due to Valero's potential refinery sale amid regulatory pressures, which could restrict diesel supply, versus Woodside's retirement of an LNG train that seemingly has little direct impact on diesel but indicates broader supply challenges.
+
+### 2. KEY RISK SIGNALS
+
+**LNG & Natural Gas | Production Shortfall | Severity: Medium**  
+- **Headline:** Woodside Retiring North West Shelf LNG Train Amid Declining Feed Gas — Three Things to Know About the LNG Market  
+- **What happened:** Woodside Energy Group Ltd. is retiring Train 2 at its North West Shelf LNG facility due to declining feed gas availability and the need to manage costs and emissions [Article 1].  
+- **Market impact:** This retirement suggests potential challenges in LNG supply, which could indirectly affect the market dynamics for crude oil and diesel.  
+- **Sentiment contribution:** Bearish — indicative of declining supply in the LNG market.
+
+**Refining (Downstream) | Regulatory Constraint | Severity: High**  
+- **Headline:** Valero Considers All Options, Including Sale, for California Refineries Amid Regulatory Pressure  
+- **What happened:** Valero Energy Corp. is evaluating options, including the sale of its California refineries, due to increasing regulatory pressures and high gas prices [Article 2].  
+- **Market impact:** If the refineries close or are sold, it could significantly reduce diesel supply in California, increasing dependence on imports and possibly driving up prices.  
+- **Sentiment contribution:** Bearish — heightened regulatory pressures could lead to a supply shortfall.
+
+**Refining (Downstream) | No Significant Risk | Severity: Low**  
+- **Headline:** Chevron and CalBio complete RNG central processing facility for Hilmar, California, biomethane fuel project  
+- **What happened:** A joint venture between Chevron and California Bioenergy completed a facility to convert dairy biogas into renewable natural gas, with no direct impact on diesel refining [Article 5].  
+- **Market impact:** While positive for renewable energy, it does not affect current diesel supply or pricing directly.  
+- **Sentiment contribution:** Neutral — does not impact diesel market directly.
+
+### 3. SIGNAL SYNTHESIS
+The risk signals identified show a bearish trend primarily driven by regulatory constraints affecting refinery operations, which could tighten diesel supply and lead to higher prices. The retirement of the LNG train indicates challenges in gas supply, but its direct impact on diesel is minimal. Overall, the risks appear to be confirmed by regulatory developments rather than sentiment-driven fluctuations.
+
+### 4. WATCH LIST
+- [ ] **Valero's refinery decisions** → If Valero sells or closes its refineries, it could lead to increased diesel prices due to tighter supply.
+- [ ] **Development of alternative energy projects** → Increased production of renewable natural gas may affect demand for diesel over the longer term.
+- [ ] **Regulatory changes in California** → New regulations could either aggravate or ease operational constraints on refineries, impacting diesel supply.
+
+### 5. BOTTOM LINE
+**Risk Level: High**  
+The risk environment for diesel remains high due to significant regulatory pressures that could limit supply amidst growing demand concerns. Traders should closely monitor Valero's decisions regarding its California refineries as well as any potential regulatory developments that could affect refinery operations. Signals of supply constraints are supported by recent developments in the market.

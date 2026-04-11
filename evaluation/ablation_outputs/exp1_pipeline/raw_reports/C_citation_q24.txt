@@ -1,0 +1,62 @@
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+## COMMODITY RISK REPORT
+**Commodity:** crude oil  
+**Report Date:** 2026-04-11  
+**Articles Analysed:** 5 articles  
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+### 1. OVERALL SENTIMENT
+**Bearish**  
+The dominant sentiment is bearish due to heightened geopolitical risks from Houthi attacks on shipping, which could jeopardize supply routes, despite some ongoing financial dealings within the industry that may lead to consolidation and market stability [Article 1, 4, 5].
+
+---
+
+### 2. KEY RISK SIGNALS
+
+**Shipping & Logistics | Geopolitical Conflict | Severity: High**
+- **Headline:** Behind Houthi Attacks on Ships Operated by Greece-Based Companies
+- **What happened:** The Houthis have increased attacks on ships operated by Greek companies, citing connections to Israel, with a significant incident damaging a bulk carrier [Article 1].
+- **Market impact:** This escalation raises concerns over shipping safety and could lead to supply chain disruptions for crude oil transport, potentially driving prices higher due to perceived risks.
+- **Sentiment contribution:** Bullish — The risk to shipping routes and heightened tensions can lead to increased prices due to fear-driven market reactions.
+
+---
+
+**Financial Flows/Positioning | No Significant Risk | Severity: Low**
+- **Headline:** 2024 Annual Shareholder Meeting
+- **What happened:** Exxon Mobil's shareholder meeting provided insights without major risk implications for crude oil [Article 2].
+- **Market impact:** Minimal effect on supply or pricing as no significant risk was identified.
+- **Sentiment contribution:** Neutral — Regular corporate activities do not impact market volatility at this time.
+
+---
+
+**Supply (Production/Upstream) | No Significant Risk | Severity: Low**
+- **Headline:** ADNOC, Aramco said to mull bids for Shell South Africa assets
+- **What happened:** ADNOC and Aramco are considering bids for Shell’s assets, indicating ongoing shifts in the market landscape [Article 3].
+- **Market impact:** Potential expansions might strengthen supply but do not introduce immediate risk factors affecting current operations.
+- **Sentiment contribution:** Neutral — Although there are strategic moves in acquisitions, these do not currently bear risk implications.
+
+---
+
+**Geopolitics & Policy | Regulatory Constraint | Severity: Low**
+- **Headline:** Another Big Oil Deal Despite Regulatory Pushback and Market Volatility
+- **What happened:** ConocoPhillips announced a major acquisition of Marathon Oil amid regulatory scrutiny [Article 4].
+- **Market impact:** While consolidation indicates strength in the oil sector, potential regulatory challenges could complicate the market outlook.
+- **Sentiment contribution:** Bearish — Regulatory uncertainty could hinder operational agility and introduce future risks.
+
+---
+
+### 3. SIGNAL SYNTHESIS
+The risk signals are somewhat aligned in their concern over geopolitical tensions primarily affecting shipping risks. While there are no significant production or financial risks highlighted, the strong bearish sentiment is predominantly driven by the geopolitical conflict, influencing market psychology. The net effect indicates heightened commodity risk exposure currently, fueled by external threats.
+
+---
+
+### 4. WATCH LIST
+- [ ] **Escalation of Houthi attacks** → Increased attacks could severely disrupt crude oil shipping, further elevating prices.
+- [ ] **Regulatory developments on merger deals** → Any significant regulatory hiccups in major acquisitions might impact market confidence and operational strategies.
+- [ ] **Changes in geopolitical alliances** → Shifting political stances could either exacerbate or mitigate shipping risks in the region.
+
+---
+
+### 5. BOTTOM LINE
+**Risk Level: High**  
+The primary concern for risk managers is the elevated geopolitical conflict due to Houthi threats against shipping routes, which poses a significant risk to crude oil pricing stability and supply continuity. This signal is confirmed by current market conditions, emphasizing vigilance amidst ongoing geopolitical uncertainties.

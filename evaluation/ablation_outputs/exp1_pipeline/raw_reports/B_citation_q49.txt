@@ -1,0 +1,40 @@
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+## COMMODITY RISK REPORT
+**Commodity:** crude oil  
+**Report Date:** 2026-04-11  
+**Articles Analysed:** 5 articles  
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+### 1. OVERALL SENTIMENT
+**Bearish**  
+> The sentiment is bearish primarily due to confirmed reductions in Saudi crude oil exports to major markets like India and China, driven by geopolitical tensions in the Middle East that threaten supply continuity [Article 1, 2].
+
+---
+### 2. KEY RISK SIGNALS
+
+**LNG & Natural Gas | Production Shortfall | Severity: High**
+- **Headline:** Saudi Oil Exports to China and India Set to Fall Amid War Disruptions
+- **What happened:** Saudi crude oil exports to India and China are expected to decline in April due to production disruptions related to ongoing war tensions [Article 1].
+- **Market impact:** This significant drop in exports to key markets suggests a tightening of supply, potentially pushing prices upwards in response to scarcity.
+- **Sentiment contribution:** Bearish — as diminished supply from Saudi Arabia raises concerns over market availability and contributes to price volatility.
+
+**Supply (Production/Upstream) | Supply Chain Blockage | Severity: High**
+- **Headline:** Saudi Arabia Slashes Oil Supply to Asia as War Chokes Export Route
+- **What happened:** Saudi Arabia has cut oil supplies to Asia for two consecutive months due to the closure of the Strait of Hormuz, a critical export route [Article 2].
+- **Market impact:** The interruption increases the risk of supply shortage in Asian markets, likely exerting upward pressure on prices.
+- **Sentiment contribution:** Bearish — the blockage increases market uncertainty around oil availability.
+
+---
+### 3. SIGNAL SYNTHESIS
+The risk signals are aligned in indicating a bearish sentiment for crude oil. Both highlight substantial risks from geopolitical tensions, directly leading to anticipated production shortfalls and supply chain disruptions. These concerns are fundamentally driven by current events in the Middle East, leading to increased uncertainty in the oil markets.
+
+---
+### 4. WATCH LIST
+- [ ] Continued geopolitical tensions in the Middle East → If tensions escalate further, additional supply interruptions may occur.
+- [ ] Developments in Saudi production levels and exports → Adjustments may impact global supply significantly.
+- [ ] New government policies in India regarding fuel exports → Changes could further affect demand and market reactions in the region.
+
+---
+### 5. BOTTOM LINE
+**Risk Level: High**  
+The current risk environment for crude oil is high due to significant production shortfalls and supply chain blockages originating from ongoing geopolitical tensions. The bearish sentiment is supported by substantial evidence from multiple sources indicating potential market disruptions.

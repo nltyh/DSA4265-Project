@@ -1,0 +1,56 @@
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+## COMMODITY RISK REPORT
+**Commodity:** crude oil
+**Report Date:** 2026-04-11
+**Articles Analysed:** 5 articles
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+### 1. OVERALL SENTIMENT
+**Bullish**
+> The overall sentiment is bullish as crude oil prices surged past $110 due to geopolitical tensions stemming from the Iran conflict, driving expectations for continued price increases.
+
+### 2. KEY RISK SIGNALS
+
+**Geopolitics & policy | Geopolitical Conflict | Severity: High**
+- **Headline:** Brent Surges Past $110 on Iran Rejection
+- **What happened:** The oil market is reacting to a standoff over the Strait of Hormuz, with Iran rejecting U.S. terms, which suspended negotiations and contributed to the rise in Brent prices above $110.
+- **Market impact:** This geopolitical tension is causing supply disruptions and pushing prices higher, increasing market volatility.
+- **Sentiment contribution:** Bullish — the rejection has triggered a significant price rally, reflecting trader concerns about supply certainty and geopolitical stability [Article 1].
+
+---
+
+**Geopolitics & policy | Geopolitical Conflict | Severity: High**
+- **Headline:** Africa Could Emerge As The Biggest Winner In Iran War
+- **What happened:** The ongoing Middle East conflict has disrupted global energy supplies, cutting off approximately 8 million barrels of crude per day and 20% of liquefied natural gas (LNG) supplies.
+- **Market impact:** Significant supply constraints are expected to exacerbate the upward pressure on crude oil prices.
+- **Sentiment contribution:** Bullish — the disruption contributes to a fundamental supply shock, pushing traders towards a bullish outlook as they anticipate declining availability of crude [Article 2].
+
+---
+
+**Geopolitics & policy | Geopolitical Conflict | Severity: High**
+- **Headline:** Oil Set to Book Record Monthly Gain on Iran Crisis
+- **What happened:** Oil prices are poised for their largest monthly increase on record, driven by fear and uncertainty due to recent geopolitical events.
+- **Market impact:** A record gain indicates strong bullish momentum, reinforcing traders' expectations of further price rises as the crisis escalates.
+- **Sentiment contribution:** Bullish — substantial upward price movements solidify the market sentiment towards higher future prices in light of ongoing conflicts [Article 3].
+
+---
+
+**Financial flows / positioning | No Significant Risk | Severity: Low**
+- **Headline:** Washington Stress-Tests $200 Oil as War Risk Mounts
+- **What happened:** The U.S. government is conducting modeling scenarios for crude oil pricing reaching $200 per barrel amid rising geopolitical tensions.
+- **Market impact:** The stress-testing indicates the government’s preparedness but reflects uncertainty about future price fluctuations.
+- **Sentiment contribution:** Neutral — while the exercise highlights potential risks, it does not directly impact current market conditions or prices [Article 4].
+
+---
+
+### 3. SIGNAL SYNTHESIS
+The risk signals from the analyzed articles are predominantly aligned in suggesting a bullish outlook for crude oil due to the heightened geopolitical tensions and significant supply disruptions associated with the Iran conflict. While there is an element of uncertainty reflected in attempts to stress-test potential high prices, the overall sentiment indicates strong bullish momentum driven by fundamental supply constraints.
+
+### 4. WATCH LIST
+- [ ] Continued developments in Iran negotiations → Any shift could significantly impact supply and price direction.
+- [ ] Updates on conflict outcomes in the Middle East → Progression could either stabilize or exacerbate supply constraints.
+- [ ] Data releases on U.S. crude inventory levels → An increase in inventories may dampen the bullish sentiment temporarily.
+
+### 5. BOTTOM LINE
+**Risk Level: High**
+The current crude oil market climate is characterized by a high risk level due to ongoing geopolitical tensions that are significantly disrupting supply chains and elevating prices. Traders and risk managers should closely monitor the geopolitical landscape for sudden shifts that could affect market dynamics. The signals are clear and predominantly bullish, indicating strong price support amidst instability.

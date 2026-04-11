@@ -1,0 +1,36 @@
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+## COMMODITY RISK REPORT
+**Commodity:** crude oil, diesel  
+**Report Date:** 2024-05-29  
+**Articles Analysed:** 5 articles  
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+### 1. OVERALL SENTIMENT
+**Bearish**  
+The dominant signal is bearish due to the Argentine government's declaration of a pre-emergency in the energy sector, which has resulted in gas supply cuts that may constrain refinery operations and overall fuel supplies, affecting market dynamics for crude oil and diesel.
+
+### 2. KEY RISK SIGNALS
+
+**Supply (Production/Upstream) | Supply Chain Blockage | Severity: High**
+- **Headline:** El gobierno declaró la pre-emergencia del sector energético y cortó el gas a industrias en todo el país
+- **What happened:** The Argentine government cut gas supplies to industries and GNC stations nationwide due to high demand from low temperatures, worsened by the unfinished expansion of the Néstor Kirchner Gas Pipeline and import shortages [Article 1].
+- **Market impact:** This disruption may lead to production shortfalls in refining operations, reducing the supply of crude oil and diesel, and putting upward pressure on prices.
+- **Sentiment contribution:** Bearish — due to concerns over reduced supply and operational inefficiencies.
+
+**Supply (Production/Upstream) | No Significant Risk | Severity: Low**
+- **Headline:** BP, Shell and EOG vie for acreage in Trinidad's oil and gas auction
+- **What happened:** Trinidad and Tobago received bids from major companies like BP, Shell, and EOG Resources for oil and gas exploration blocks [Article 5].
+- **Market impact:** Continued interest in exploration indicates a stable outlook for future production, which may help offset current supply constraints.
+- **Sentiment contribution:** Neutral — while activity is positive, it doesn't significantly alter immediate supply concerns due to the Argentine situation.
+
+### 3. SIGNAL SYNTHESIS
+The key risk signals present a conflicting picture. The bearish sentiment from the Argentine pre-emergency declaration and subsequent supply chain blockage is contrasted by neutral developments from ongoing oil exploration in Trinidad. However, the immediate impact of the Argentine disruptions on supply is likely to dominate, highlighting an overall increased risk exposure for traders focusing on crude oil and diesel.
+
+### 4. WATCH LIST
+- [ ] **Monitor weather conditions in Argentina** → Prolonged low temperatures could further strain the energy sector and exacerbate supply issues.
+- [ ] **Assess the timeline for the Néstor Kirchner Gas Pipeline completion** → Delays could prolong supply chain disruptions.
+- [ ] **Follow bids outcomes from the Trinidad oil and gas auction** → Success in these auctions could stabilize future supply amid current disruptions.
+
+### 5. BOTTOM LINE
+**Risk Level: High**  
+The current situation in Argentina regarding gas supply constraints poses a significant risk to crude oil and diesel supply chains. Immediate operational inefficiencies and potential production shortfalls are key concerns, marking an environment of elevated risk for traders and risk managers.

@@ -1,0 +1,36 @@
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+## COMMODITY RISK REPORT
+**Commodity:** LNG  
+**Report Date:** 2026-04-11  
+**Articles Analysed:** 5 articles  
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+### 1. OVERALL SENTIMENT
+**Bearish**  
+The overall sentiment is bearish due to severe production and infrastructure disruptions in the LNG market, driven by the ongoing conflict in the Middle East which has led to substantial supply reductions.
+
+### 2. KEY RISK SIGNALS
+
+**LNG & Natural Gas | Infrastructure Damage | Severity: High**
+- **Headline:** The Iran War Has Already Unleashed a $25 Billion Energy Repair Bill
+- **What happened:** The war in the Middle East has caused significant damage and shutdowns to critical LNG facilities in the region.
+- **Market impact:** This infrastructure damage is expected to exacerbate supply disruptions, potentially leading to higher prices due to constrained availability.
+- **Sentiment contribution:** Bullish — as the repair bill and resulting disruptions indicate elevated costs and scarcity risks.
+
+**LNG & Natural Gas | Production Shortfall | Severity: High**
+- **Headline:** The Iran War Has Upended Global LNG Markets
+- **What happened:** Analysts have downgraded global LNG supply forecasts by approximately 35 million tons due to disruptions from the war.
+- **Market impact:** This production shortfall could lead to increased prices and strained supply chains in global LNG markets.
+- **Sentiment contribution:** Bearish — the revised outlook indicates a supply crunch, impacting market stability.
+
+### 3. SIGNAL SYNTHESIS
+The risk signals are mixed but predominantly bearish, with high uncertainty stemming from both infrastructure damage and production shortfalls. While the infrastructure damage introduces a bullish pressure on prices due to limited supply, the significant production downgrade creates a bearish sentiment as markets grapple with the shortages. The net effect presents a complex risk exposure scenario in the LNG market.
+
+### 4. WATCH LIST
+- [ ] **Monitoring Global LNG Supply Levels** → A continued decline in supply could exacerbate price volatility and tighten market conditions.
+- [ ] **Infrastructure Repair Progress** → Delays in repairing damaged LNG facilities could extend supply disruptions and lead to allegations of further instability.
+- [ ] **Geopolitical Developments in the Middle East** → Any escalation or resolution in the conflict could drastically alter market dynamics and risk perceptions.
+
+### 5. BOTTOM LINE
+**Risk Level: High**  
+The situation presents high risks for LNG due to considerable supply threats linked to the ongoing war. Market participants should be vigilant as these dynamics could lead to significant price fluctuations and instability in global LNG supply.

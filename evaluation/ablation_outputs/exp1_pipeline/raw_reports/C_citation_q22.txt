@@ -1,0 +1,42 @@
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+## COMMODITY RISK REPORT
+**Commodity:** crude oil, diesel  
+**Report Date:** 2026-04-11  
+**Articles Analysed:** 5 articles  
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+### 1. OVERALL SENTIMENT
+**Bearish**  
+The Argentine government's declaration of a pre-emergency in the energy sector has disrupted gas supply to industries, negatively impacting crude oil and diesel demand amid rising prices due to insufficient supply [Article 1]. 
+
+### 2. KEY RISK SIGNALS
+
+**Supply (Production / Upstream) | Supply Chain Blockage | Severity: High**  
+- **Headline:** El gobierno declaró la pre-emergencia del sector energético y cortó el gas a industrias en todo el país  
+- **What happened:** An unexpected surge in demand due to low temperatures led Argentina to declare a pre-emergency in its energy sector, cutting gas supply to various industries.  
+- **Market impact:** This supply disruption has triggered increased demand for alternative fuels, raising market prices for crude oil and diesel as users look for substitutes.  
+- **Sentiment contribution:** Bullish — Due to increased reliance on crude oil and diesel amid gas supply shortages, market sentiment is leaning towards bullish.
+
+**Financial Flows / Positioning | No Significant Risk | Severity: Low**  
+- **Headline:** 2024 Annual Shareholder Meeting  
+- **What happened:** Exxon Mobil Corporation's annual meeting did not present any significant risk factors affecting crude oil supply or demand.  
+- **Market impact:** Ongoing corporate activities are neutral for market dynamics and do not influence commodity prices directly.  
+- **Sentiment contribution:** Neutral — No meaningful implications on the market sentiment regarding crude oil.
+
+**Energy Transition / Structural | No Significant Risk | Severity: Low**  
+- **Headline:** Tax Credit Lures Canada’s Largest Renewable Diesel Venture  
+- **What happened:** Alberta granted a substantial tax credit to establish a new renewable diesel facility, set to commence production in 2025.  
+- **Market impact:** This development will likely create future demand for biofeedstock, impacting crude oil demand marginally but not immediately.  
+- **Sentiment contribution:** Neutral — Although this signals a shift towards renewable energy, the immediate effects on crude oil and diesel markets remain limited.
+
+### 3. SIGNAL SYNTHESIS
+The primary signal regarding the supply disruption in Argentina dominates the overall sentiment, leading to a bearish outlook due to anticipated increases in fuel prices [Article 1]. Other articles reveal neutral development signals with no contradictory data that would upset the bearish outlook. The disruption appears to be primarily driven by emerging shortages confirmed by current market fundamentals.
+
+### 4. WATCH LIST
+- [ ] **Gas Supply Restoration in Argentina** → If gas supplies are restored quickly, it may alleviate pressure on crude oil and diesel prices. 
+- [ ] **Further Weather Events** → Severe cold snaps could continue to increase demand for diesel and crude oil for heating purposes.
+- [ ] **New Renewable Production Initiatives** → Major advancements in renewable fuel production may shift future crude oil demand patterns.
+
+### 5. BOTTOM LINE
+**Risk Level: High**  
+The Argentine energy sector's pre-emergency situation introduces significant risks to crude oil and diesel supplies, creating elevated market uncertainty and potential price volatility. This signal is confirmed by ongoing supply chain disruptions; traders should remain vigilant.

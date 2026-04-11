@@ -1,0 +1,60 @@
+## COMMODITY RISK REPORT
+**Commodity:** crude oil  
+**Report Date:** 2026-04-11  
+**Articles Analysed:** 5 articles  
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+### 1. OVERALL SENTIMENT
+**Mixed**  
+> The dominant signals include heightened geopolitical risks surrounding BP's climate goals, contrasting with strong quarterly earnings from refiners. This juxtaposition creates uncertainty in the market.
+
+---
+### 2. KEY RISK SIGNALS
+
+**Energy transition / structural | Geopolitical Conflict | Severity: Medium**
+- **Headline:** BP faces green protest over new climate goals
+- **What happened:** BP is facing protests from shareholders and environmental activists after easing its climate targets, which has raised concerns about its long-term sustainability strategy.
+- **Market impact:** Potential reputational damage and operational disruptions could affect BP's oil production and investor confidence, thereby impacting supply and prices in the crude oil market.
+- **Sentiment contribution:** Bearish — the protests and shareholder discontent could negatively influence BP's stock and operations.
+
+---
+
+**Geopolitics & Policy | Regulatory Constraint | Severity: Medium**
+- **Headline:** Norway's Wealth Fund Sides With Activists Against Exxon, Chevron
+- **What happened:** Norway's sovereign wealth fund has backed shareholder proposals at ExxonMobil and Chevron for stricter emissions targets, reflecting a shift in institutional investment attitudes towards fossil fuel companies.
+- **Market impact:** The move may pressure companies to adopt more stringent climate policies, impacting investment and operational strategies in crude oil production.
+- **Sentiment contribution:** Bearish — increased regulatory scrutiny may limit operational flexibility and profitability for oil companies.
+
+---
+
+**Refining (Downstream) | Macro-Economic Cooling | Severity: Medium**
+- **Headline:** U.S. oil refiners to post strong Q1 earnings, but demand outlook dims
+- **What happened:** U.S. refiners are expected to report strong earnings due to robust margins despite concerns about a decline in domestic diesel demand and potential softening of exports.
+- **Market impact:** Strong Q1 earnings could support refiners' stock prices, but declining future demand could indicate a weakening market for crude oil.
+- **Sentiment contribution:** Mixed — while earnings are strong, the negative outlook for demand suggests potential price pressures going forward.
+
+---
+### 3. SIGNAL SYNTHESIS
+The risk signals found in the articles show a mixed landscape. On the one hand, shareholder protests and institutional actions reflect growing regulatory scrutiny and social pressures on large oil producers, which are bearish for the crude oil market. On the other hand, strong earnings reports from refiners provide a counterbalancing bullish signal, indicating ongoing profitability despite potential macroeconomic challenges. Overall, these risks are somewhat aligned with current market fundamentals, reflecting a complex environment for traders.
+
+---
+### 4. WATCH LIST
+- [ ] BP's response to protests → If BP strengthens or further weakens its climate policy, it could significantly impact investor sentiment and market values.
+- [ ] Changes in Petrobras or other major oil producers' climate strategies → Such shifts could indicate broader industry trends impacting supply and market dynamics.
+- [ ] Upcoming regulatory announcements from Norway or other significant markets → These could impose additional constraints on oil companies, affecting their operational strategies.
+
+---
+### 5. BOTTOM LINE
+**Risk Level: Medium**  
+Traders and risk managers should be mindful of the potential for increased regulatory constraints and public dissent impacting oil production strategies, especially concerning major players like BP versus the profitability of refiners in the current market. The situation remains fluid, and conflicting signals make it critical to monitor developments closely.
+
+---
+
+[REFLECTION]
+1. No hallucination issues found; facts strictly adhered to article content.
+2. The contradiction between the bearish signals from BP's controversies and the positive earnings outlook for refiners was acknowledged.
+3. All relevant risk signals were covered adequately.
+4. The conclusion regarding the mixed sentiment was justified by the nature of the signals presented.
+
+[FINAL REPORT]
+**[Remains unchanged as the draft was solid.]**

@@ -1,0 +1,42 @@
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+## COMMODITY RISK REPORT
+**Commodity:** LNG  
+**Report Date:** 2022-07-26  
+**Articles Analysed:** 5 articles  
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+### 1. OVERALL SENTIMENT
+**Bullish**  
+The overall sentiment is bullish as U.S. natural gas futures have surged significantly, attributed to increased demand and supply concerns amid geopolitical tensions and weather forecasts.
+
+### 2. KEY RISK SIGNALS
+
+**LNG & natural gas | Demand / macro activity | Severity: High**  
+- **Headline:** U.S. natgas up 3% after hitting 14-yr high ahead of contract rollover  
+- **What happened:** Natural gas futures increased by approximately 3% due to forecasts for hotter weather and concerns surrounding Russian gas supplies to Europe as the August contract nears expiration.  
+- **Market impact:** This price surge indicates heightened demand and limited supply availability, potentially leading to higher prices at the Henry Hub.  
+- **Sentiment contribution:** Bullish — driven by high demand and a predictive increase in pricing dynamics owing to geopolitical factors [Article 1].
+
+**LNG & natural gas | Supply Chain Blockage | Severity: Medium**  
+- **Headline:** U.S. becomes top LNG exporter in first half of 2022 - EIA  
+- **What happened:** The U.S. became the leading exporter of LNG, boosting supply to Europe amidst ongoing geopolitical conflicts, despite facing temporary disruptions due to a fire at the Freeport LNG facility.  
+- **Market impact:** Increased export capacity and demand could put upward pressure on prices, but operational disruptions may cause supply inconsistencies.  
+- **Sentiment contribution:** Neutral — the increase in exports is positive, but existing supply issues at Freeport LNG add uncertainty concerning reliability [Article 4].
+
+**LNG & natural gas | Production Shortfall | Severity: High**  
+- **Headline:** As demand for US LNG booms, one plant struggles to stay online  
+- **What happened:** Freeport LNG has been operating below its potential capacity due to technical issues and previous damage, significantly impacting U.S. LNG exports.  
+- **Market impact:** This unreliability threatens the U.S.'s ability to meet rising global demand, potentially constraining export volumes and impacting prices.  
+- **Sentiment contribution:** Bearish — the operational struggles at Freeport LNG present significant risks to supply stability, which can negatively influence market dynamics [Article 5].
+
+### 3. SIGNAL SYNTHESIS
+The risk signals presented depict a mixed landscape where increased demand is fostering a bullish sentiment, while supply-related challenges, particularly at Freeport LNG, introduce bearish pressures. The demand surge is buoyed by both domestic needs and international tensions, whereas supply chain disruptions could lead to volatile pricing and uncertainty.
+
+### 4. WATCH LIST
+- [ ] Monitor Freeport LNG operational status → If operational capacity improves, it could stabilize supply and enhance bullish sentiment.
+- [ ] Watch for geopolitical developments in Europe, particularly regarding Russian gas flows → Increased tensions may lead to further demand for U.S. LNG, affecting price dynamics.
+- [ ] Track weather trends influencing gas demand → Extended heat waves could substantially boost demand, impacting future price levels.
+
+### 5. BOTTOM LINE
+**Risk Level: High**  
+Traders should focus on the interplay between demand spikes and supply risk from operational challenges at key export facilities. The current bullish sentiment supported by demand is tempered by bearish signals from potential supply chain blockage due to Freeport LNG's struggles, creating a precarious situation for risk management.

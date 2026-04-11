@@ -1,0 +1,58 @@
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+## COMMODITY RISK REPORT
+**Commodity:** LNG  
+**Report Date:** 2026-04-11  
+**Articles Analysed:** 5 articles  
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+### 1. OVERALL SENTIMENT
+**Bearish**  
+> The overall sentiment is bearish due to substantial risks of production shortfalls and supply chain blockages exacerbated by geopolitical tensions in the Middle East, leading to rising prices and decreased demand.
+
+---
+### 2. KEY RISK SIGNALS
+
+**LNG & natural gas | Geopolitical Conflict | Severity: High**  
+- **Headline:** Ras Laffan Attack Shatters Illusion of Global Gas Abundance  
+- **What happened:** The attack has disrupted perceptions of a stable LNG supply, impacting market confidence.  
+- **Market impact:** This is likely to heighten price volatility and restrict availability in a market already under stress from geopolitical conflicts.  
+- **Sentiment contribution:** Bearish — investors are concerned about supply stability.
+
+**Geopolitics & policy | Geopolitical Conflict | Severity: High**  
+- **Headline:** Middle East War Could Push West Canada's LNG Projects Forward  
+- **What happened:** The war has influenced global LNG trade, potentially benefiting Western Canada's export capacity due to its political stability.  
+- **Market impact:** While it might enhance Canadian LNG exports, overall market sentiment remains bearish due to ongoing disruptions elsewhere.  
+- **Sentiment contribution:** Neutral — while it offers an alternative, the primary conflicts overshadow this opportunity.
+
+**LNG & natural gas | Production Shortfall | Severity: High**  
+- **Headline:** The Iran War Has Upended Global LNG Markets  
+- **What happened:** Analysts have revised global LNG supply forecasts down by approximately 35 million tons due to disruptions in production and exports.  
+- **Market impact:** Significant reductions in expected supply contribute to upward pressure on prices amid dwindling inventory levels.  
+- **Sentiment contribution:** Bearish — worsening supply constraints are concerning for traders.
+
+**LNG & natural gas | Supply Chain Blockage | Severity: High**  
+- **Headline:** Soaring Prices Set to Crash China’s LNG Imports to 8-Year Low  
+- **What happened:** Increased prices driven by reduced availability from Qatar and UAE are leading to a dramatic decrease in LNG imports by China.  
+- **Market impact:** Lower imports from a major consumer (China) may affect global demand dynamics and contribute to a price reset.  
+- **Sentiment contribution:** Bearish — the reduction in demand from key markets worsens overall market conditions.
+
+**LNG & natural gas | Production Shortfall | Severity: High**  
+- **Headline:** Gas Crisis Dwarfs Oil Shock as LNG Supply Breaks  
+- **What happened:** A sharp shift in analysts' sentiment from expected gluts to risks of actual supply shortages has occurred due to recent geopolitical events.  
+- **Market impact:** Doubts about future supply availability have augmented fears of rising prices.  
+- **Sentiment contribution:** Bearish — the shift in outlook increases market anxiety over supply crises.
+
+---
+### 3. SIGNAL SYNTHESIS
+The risk signals are predominantly aligned in indicating high volatility and bearish sentiment regarding LNG. They confirm that geopolitical conflict is significantly impacting supply and demand fundamentals, leading to greater exposure to risk. Overall, the current outlook indicates a significant threat to both supply continuity and market stability.
+
+---
+### 4. WATCH LIST
+- [ ] **Escalation of Middle East Conflict** → Any further escalation could exacerbate supply disruptions and impact overall global LNG flows.
+- [ ] **Resumption of Exports from Affected Regions** → Restarting exports could stabilize markets but will depend on improvements in geopolitical conditions.
+- [ ] **Changes in Chinese Demand** → A rebound in LNG imports from China could shift sentiment if prices become more favorable.
+
+---
+### 5. BOTTOM LINE
+**Risk Level: High**  
+Current geopolitical tensions and production uncertainties create a high-risk environment for LNG. Risk managers should remain vigilant to potential further disruptions and manage inventories accordingly, as signals on supply and demand are fraught with uncertainty and bear a strongly negative outlook.

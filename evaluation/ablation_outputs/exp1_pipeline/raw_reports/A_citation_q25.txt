@@ -1,0 +1,36 @@
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  
+## COMMODITY RISK REPORT  
+**Commodity:** LNG  
+**Report Date:** 2026-04-11  
+**Articles Analysed:** 5 articles  
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  
+
+### 1. OVERALL SENTIMENT  
+**Bearish**  
+> Rising U.S. labor costs are jeopardizing new LNG projects, contributing to a negative outlook on supply and potential price increases.
+
+### 2. KEY RISK SIGNALS  
+
+**LNG & Natural Gas | Supply Chain Blockage | Severity: High**  
+- **Headline:** Rising US labor costs threaten to derail new LNG projects  
+- **What happened:** Labor costs in the U.S. Gulf Coast have risen by as much as 20%, leading to budget overruns and project delays for new LNG initiatives.  
+- **Market impact:** This poses a significant threat to the expansion of LNG supply, which can result in tightening market conditions and upward pressure on prices.  
+- **Sentiment contribution:** Bearish — increased costs and project disruption negatively affect supply outlook.
+
+**LNG & Natural Gas | Supply Chain Blockage | Severity: Low**  
+- **Headline:** U.S. LNG exports help fill supply gap  
+- **What happened:** The U.S. continues to expand its LNG export capacity, bolstered by facilities such as the Calcasieu Pass terminal and projected increases in exports.  
+- **Market impact:** Increased exports can mitigate some supply concerns, but this is also strained by rising costs affecting new project viability.  
+- **Sentiment contribution:** Neutral — while exports are increasing, the rising costs represent a counteracting bearish force.
+
+### 3. SIGNAL SYNTHESIS  
+The risk signals indicate a significant bearish sentiment rooted in rising labor costs affecting new LNG projects, which may lead to supply constraints. Although there is growth in U.S. LNG exports, the underlying cost challenges could overshadow this positive aspect. The net effect is increased risk exposure due to tightening supply conditions.
+
+### 4. WATCH LIST  
+- [ ] Monitor further labor cost increases → An escalation could deeply impact future LNG project viability.  
+- [ ] Watch for project cancellations or delays announced by major LNG developers → This would exacerbate supply concerns.  
+- [ ] Track changes in export demand from key import markets → Shifts could influence U.S. LNG pricing and availability.
+
+### 5. BOTTOM LINE  
+**Risk Level: High**  
+Rising labor costs pose a significant risk to new LNG projects' viability, increasing supply concerns that could drive prices higher. Traders should be vigilant about developments in labor negotiations and project timelines that could confirm or alter this bearish outlook.

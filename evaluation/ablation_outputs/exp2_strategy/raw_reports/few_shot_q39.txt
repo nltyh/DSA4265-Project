@@ -1,0 +1,70 @@
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+## COMMODITY RISK REPORT
+**Commodity:** LNG  
+**Report Date:** 2026-04-11  
+**Articles Analysed:** 5 articles  
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+### 1. OVERALL SENTIMENT
+**[Bullish]**  
+The overall sentiment is bullish due to significant geopolitical conflict leading to production shortfalls and supply chain blockages that have heavily impacted global LNG availability and pricing.
+
+---
+
+### 2. KEY RISK SIGNALS
+
+**[LNG & natural gas] | [Geopolitical Conflict] | Severity: High**  
+- **Headline:** Ras Laffan Attack Shatters Illusion of Global Gas Abundance  
+- **What happened:** The attack on Ras Laffan has disrupted the previously expected LNG supply surge and raised concerns about availability.  
+- **Market impact:** Market analysts have shifted from a narrative of abundance for LNG to one focusing on scarcity, contributing to increased prices and volatility.  
+- **Sentiment contribution:** Bullish — the incident has highlighted vulnerabilities in the LNG supply chain, driving upward pressure on prices.
+
+---
+
+**[Geopolitics & policy] | [Geopolitical Conflict] | Severity: High**  
+- **Headline:** Middle East War Could Push West Canada’s LNG Projects Forward  
+- **What happened:** The ongoing war in the Middle East has led to a significant halt in around 20% of global LNG trade flows.  
+- **Market impact:** This situation is intensifying interest in Canadian LNG projects as an alternative source for Asian markets, which may help alleviate some supply shortages in the long run.  
+- **Sentiment contribution:** Bullish — while the war directly impacts supply, it also catalyzes new investment opportunities.
+
+---
+
+**[LNG & natural gas] | [Production Shortfall] | Severity: High**  
+- **Headline:** The Iran War Has Upended Global LNG Markets  
+- **What happened:** Analysts have downgraded their forecasts for LNG supply by approximately 35 million tons due to disruptions from the war.  
+- **Market impact:** The decreased supply forecast is likely to exacerbate existing shortages, driving prices further up.  
+- **Sentiment contribution:** Bullish — the clear production shortfall signals severe tightening in global supply.
+
+---
+
+**[LNG & natural gas] | [Supply Chain Blockage] | Severity: Medium**  
+- **Headline:** Soaring Prices Set to Crash China’s LNG Imports to 8-Year Low  
+- **What happened:** Rising LNG prices are expected to drastically reduce Chinese imports, as buyers shift to domestic production and pipeline sources.  
+- **Market impact:** This could lead to a significant demand drop from one of the world's largest consumers, impacting global pricing dynamics.  
+- **Sentiment contribution:** Bearish — though production is hampered, a reduced demand from China could provide some price mitigation.
+
+---
+
+**[LNG & natural gas] | [Production Shortfall] | Severity: High**  
+- **Headline:** Gas Crisis Dwarfs Oil Shock as LNG Supply Breaks  
+- **What happened:** Projected oversupply scenarios have inverted into actual supply crises following geopolitical tensions and military strikes in the Middle East.  
+- **Market impact:** The abrupt shift from a surplus to a crisis situation is likely leading to wild price fluctuations.  
+- **Sentiment contribution:** Bullish — the crisis narrative strongly influences market psychology and price expectations.
+
+---
+
+### 3. SIGNAL SYNTHESIS
+The risk signals are predominantly aligned, indicating a significant disruption in both production and supply chains for LNG. The combination of geopolitical conflicts and supply shortages drives a bullish sentiment despite a potential demand drop from China, which is somewhat bearish. Overall, signals are confirmed by fundamentals, with market dynamics rapidly shifting toward tighter conditions.
+
+---
+
+### 4. WATCH LIST
+- [ ] **Escalation of Middle East conflicts** → Broader disruption in global supply and potential for further price spikes.
+- [ ] **Stabilization of Chinese import patterns** → Assess the potential recovery or decline in demand from one of the largest LNG importers.
+- [ ] **Progress on Canadian LNG projects** → Successful development may alleviate some supply issues, impacting future price expectations.
+
+---
+
+### 5. BOTTOM LINE
+**Risk Level: High**  
+The geopolitical conflict has created significant disruptions in global LNG supply chains, leading to a bullish sentiment underscored by production shortfalls. Risk managers should monitor developments closely, as the fragile nature of the situation may invite further volatility in prices and market dynamics.

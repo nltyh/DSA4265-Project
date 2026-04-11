@@ -1,0 +1,72 @@
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+## COMMODITY RISK REPORT
+**Commodity:** LNG  
+**Report Date:** 2026-04-11  
+**Articles Analysed:** 5 articles  
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+### 1. OVERALL SENTIMENT
+**Bearish**  
+> Surging LNG prices and supply disruptions due to the ongoing conflict in the Middle East are leading to lowered import volumes and overall concerns regarding LNG availability.
+
+---
+
+### 2. KEY RISK SIGNALS
+
+**LNG & Natural Gas | Supply Chain Blockage | Severity: High**  
+- **Headline:** Soaring Prices Set to Crash China’s LNG Imports to 8-Year Low  
+- **What happened:** Due to surging LNG prices exacerbated by the war in the Middle East, China is projected to experience its lowest monthly LNG imports in eight years.  
+- **Market impact:** This significant drop in imports indicates a vulnerability in global LNG supply that may push prices even higher.  
+- **Sentiment contribution:** Bearish — the anticipated decline in imports reflects escalating supply issues.
+
+---
+
+**LNG & Natural Gas | Production Shortfall | Severity: High**  
+- **Headline:** The Iran War Has Upended Global LNG Markets  
+- **What happened:** Analysts have revised the global LNG supply outlook downwards by approximately 35 million tons due to disruptions in production and exports linked to the Middle East conflict.  
+- **Market impact:** This forecasted supply shortfall is likely to pressure prices upward, as supply fails to meet demand.  
+- **Sentiment contribution:** Bearish — lowered supply forecasts indicate tightening market conditions.
+
+---
+
+**Geopolitics & Policy | Geopolitical Conflict | Severity: Medium**  
+- **Headline:** Middle East War Could Push West Canada’s LNG Projects Forward  
+- **What happened:** The ongoing war in the Middle East has prompted increased interest in LNG exports from Western Canada due to its political stability and proximity to Asian markets.  
+- **Market impact:** Potentially heightened exports from Canada could alleviate some supply concerns, but they may not offset immediate disruptions.  
+- **Sentiment contribution:** Neutral — while it suggests future potential for supply increase, current risks dominate market sentiment.
+
+---
+
+**Supply (Production/Upstream) | Production Shortfall | Severity: High**  
+- **Headline:** Asia Burns More Coal as Middle East War Sends LNG Prices to 3-Year Highs  
+- **What happened:** The increase in coal usage in Asia indicates a shift in energy generation methods due to LNG shortages caused by the geopolitical situation.  
+- **Market impact:** While this may relieve some demand for LNG in the immediate term, heightened prices could persist as LNG remains scarce.  
+- **Sentiment contribution:** Bearish — rising prices and a pivot to coal reflect severe disruptions in the LNG market.
+
+---
+
+**LNG & Natural Gas | Production Shortfall | Severity: High**  
+- **Headline:** Gas Crisis Dwarfs Oil Shock as LNG Supply Breaks  
+- **What happened:** Analysts have observed a significant shift in LNG market fundamentals due to attacks, which have disrupted previously anticipated supply increases.  
+- **Market impact:** The reference to a breach in supply points to a more significant systemic issue affecting LNG availability.  
+- **Sentiment contribution:** Bearish — the nature of the crisis indicates severe risks to production adequacy.
+
+---
+
+### 3. SIGNAL SYNTHESIS
+The risk signals across the articles align towards a bearish outlook reflecting significant supply disruptions stemming from geopolitical conflict and market pressures. These risks are substantiated by fundamentals indicating production shortfalls and increased market prices, suggesting that the commodity risk exposure for LNG is currently elevated.
+
+---
+
+### 4. WATCH LIST
+- [ ] **Monitor LNG stock levels in China** → If stock levels continue to decline, this may further escalate prices and exacerbate shortages.
+- [ ] **Track Western Canada's LNG project developments** → Any advancements in export capabilities could signal a potential easing of supply constraints.
+- [ ] **Watch for updates on Middle East tensions** → Continuation or escalation of conflicts could further jeopardize LNG supply chains.
+- [ ] **Observe coal consumption trends in Asia** → A sustained shift towards coal may indicate long-term reductions in LNG demand and price impact.
+- [ ] **Evaluate the impact of U.S. LNG export policies** → Any changes could significantly alter the global supply dynamics based on production capacity.
+
+---
+
+### 5. BOTTOM LINE
+**Risk Level: High**  
+The current landscape depicts an elevated risk environment for LNG due to significant supply disruptions and high prices fueled by geopolitical tensions. Risk managers should be aware of the fragility of current supply chains and the potential for further escalation in risks as conditions evolve.

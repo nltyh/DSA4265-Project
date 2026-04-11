@@ -1,0 +1,40 @@
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+## COMMODITY RISK REPORT
+**Commodity:** LNG  
+**Report Date:** 2026-04-11  
+**Articles Analysed:** 5 articles  
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+### 1. OVERALL SENTIMENT
+**Bearish**  
+The rising labor costs in the U.S. Gulf Coast are creating challenges for new LNG projects, which could dampen supply prospects and increase costs, as indicated by recent reports [Article 1]. 
+
+---
+### 2. KEY RISK SIGNALS
+
+**LNG & Natural Gas | Supply Chain Blockage | Severity: High**
+- **Headline:** Rising US labor costs threaten to derail new LNG projects
+- **What happened:** Labor costs in the U.S. Gulf Coast have surged by up to 20%, straining the financial viability of new LNG projects due to significant budget overruns and contractor challenges, including a bankruptcy [Article 1].
+- **Market impact:** These rising costs could lead to delays in project completion and reduced LNG supply, potentially increasing prices in the long term.
+- **Sentiment contribution:** Bearish — the escalation in labor costs indicates that new project developments may lag, restricting future supply.
+
+**LNG & Natural Gas | Supply Chain Blockage | Severity: Medium**
+- **Headline:** U.S. LNG exports help fill supply gap
+- **What happened:** Despite the geopolitical crises such as the war in Ukraine, U.S. LNG exporters are projected to expand operations significantly, boosting export capacity [Article 2].
+- **Market impact:** This expansion aims to meet heightened global demand, which could mitigate some bearish impacts from domestic production issues.
+- **Sentiment contribution:** Bullish — the anticipated increase in exports signals a healthy demand for LNG, partly offsetting the risks presented by labor cost inflation.
+
+---
+### 3. SIGNAL SYNTHESIS
+The primary risk from rising labor costs presents a bearish scenario for LNG supply and project viability, while the ongoing expansion of U.S. LNG exports provides a counterbalancing bullish sentiment. Collectively, the risks appear fundamentally driven by costs rather than temporary market fluctuations, suggesting a net bearish outlook on commodity risk exposure right now.
+
+---
+### 4. WATCH LIST
+- [ ] **Monitoring labor cost inflation trends** → Sustained increases could further elevate project costs and hinder new LNG project viability.
+- [ ] **Updates on the Ukrainian war's impact on LNG demand** → Continued geopolitical instability may sustain high demand, influencing pricing.
+- [ ] **New developments in U.S. LNG export capacity** → Successful expansion and operational status of facilities will impact global supply and price dynamics.
+
+---
+### 5. BOTTOM LINE
+**Risk Level: Medium**  
+The key risk for LNG remains the ascent in Gulf Coast labor costs, which threatens project viability and could constrain future supply against a backdrop of rising global demand. This situation underlines the fragility of emerging project timelines as reflected in current data.

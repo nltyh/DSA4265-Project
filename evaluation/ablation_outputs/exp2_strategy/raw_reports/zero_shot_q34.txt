@@ -1,0 +1,67 @@
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  
+## COMMODITY RISK REPORT  
+**Commodity:** crude oil  
+**Report Date:** 2026-04-11  
+**Articles Analysed:** 5 articles  
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  
+
+### 1. OVERALL SENTIMENT  
+**Mixed**  
+> The overall sentiment is mixed due to the combination of geopolitical risk from the revocation of Chevron's license to export Venezuelan oil, which could restrict supply, and downward pressure on prices from other factors like increased Iraqi exports and macroeconomic concerns.
+
+---  
+### 2. KEY RISK SIGNALS 
+
+**Geopolitics & Policy | Geopolitical Conflict | Severity: High**  
+- **Headline:** Trump cuts financial lifeline for Venezuela by ending permit to export oil to U.S.  
+- **What happened:** Former President Trump terminated Chevron Corp.'s permit to pump and export Venezuelan oil, which effectively removes a financial lifeline for Venezuela amidst ongoing political turmoil.  
+- **Market impact:** This decision could restrict Venezuelan oil supply to the U.S. market, potentially tightening overall supply and supporting higher prices.  
+- **Sentiment contribution:** Bullish — as the reduction of Venezuelan supply may lead to upward pressure on prices.
+
+---
+
+**Geopolitics & Policy | Geopolitical Conflict | Severity: High**  
+- **Headline:** FACTBOX | Summary of US licenses and authorizations for Venezuela's oil sector  
+- **What happened:** The article summarizes U.S. licenses pertaining to Venezuela's oil sector, reinforcing the implications of Trump's recent decision to revoke a key oil license.  
+- **Market impact:** The restriction on Venezuela's oil supply further reinforces the idea that geopolitical risks are increasing concerns about supply stability.  
+- **Sentiment contribution:** Bullish — due to heightened geopolitical risks affecting supply chains.
+
+---
+
+**Demand / Macro Activity | No Significant Risk | Severity: Low**  
+- **Headline:** Oil falls on White House spat, tariffs, Iraq exports  
+- **What happened:** Oil prices are under pressure due to macroeconomic issues, including U.S. tariffs and Iraq's resumption of oil exports.  
+- **Market impact:** The decline in oil prices suggests that demand may be weakening, overshadowing other bullish signals.  
+- **Sentiment contribution:** Bearish — as the factors leading to declining prices raise concerns about overall demand.
+
+---
+
+**Financial Flows / Positioning | No Significant Risk | Severity: Low**  
+- **Headline:** Petrobras to issue dividends despite fourth quarter net loss of $2.8 billion  
+- **What happened:** Petrobras reported a substantial net loss but plans to distribute dividends, indicating some financial resilience despite market challenges.  
+- **Market impact:** While this reflects operational issues, the dividend announcement mitigates immediate concerns about financial stability in the sector.  
+- **Sentiment contribution:** Neutral — as the impact of financial performance is moderate on immediate market conditions.
+
+---
+
+**Geopolitics & Policy | Regulatory Constraint | Severity: Medium**  
+- **Headline:** BP to Focus More on Oil and Gas in Strategy ‘Reset’  
+- **What happened:** BP announced a strategic pivot back to oil and gas, with reduced investments in clean energy, reflecting a more cautious approach in response to market pressures.  
+- **Market impact:** This shift could increase supply from major players, potentially offsetting some geopolitical risks.  
+- **Sentiment contribution:** Neutral — as this could stabilize supply but reflects a reactive strategy driven by current market pressures.
+
+---
+
+### 3. SIGNAL SYNTHESIS  
+The key risk signals present both bullish and bearish narratives. Geopolitical risks primarily stemming from the U.S. decision to revoke Chevron's oil license point towards potential supply constraints, contributing to bullish sentiment. Conversely, macroeconomic pressures, including increased supply from Iraq and concerns over demand, exert downward pressure on oil prices. The net effect indicates that crude oil remains in a state of volatility, with significant attention required on geopolitical developments.
+
+---  
+### 4. WATCH LIST  
+- [ ] **Monitoring Chevron's response** → If Chevron provides alternative strategies, this could mitigate some supply risks.
+- [ ] **Changes in Iraqi production levels** → Resumption and adjustments could influence global supply dynamics significantly.
+- [ ] **Further geopolitical developments regarding other Latin American countries** → Any similar actions might amplify the volatility in crude oil markets.
+
+---  
+### 5. BOTTOM LINE  
+**Risk Level: Medium**  
+The current risk level is medium as geopolitical tensions surrounding Venezuela pose serious risks to supply, which could be offset by emerging supply from other regions. Vigilance is needed to monitor the evolving situation and any potential impacts on global market stability.

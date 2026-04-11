@@ -1,0 +1,51 @@
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+## COMMODITY RISK REPORT
+**Commodity:** crude oil  
+**Report Date:** 2026-04-11  
+**Articles Analysed:** 5 articles  
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+### 1. OVERALL SENTIMENT
+**Bearish**  
+The overall market sentiment is bearish due to regulatory constraints stemming from significant funding cuts in clean energy initiatives, as highlighted by the $3.7 billion reduction affecting Exxon Mobil’s hydrogen project [Article 1]. This overarching theme of reduced investment impacts future supply dynamics negatively.
+
+---
+### 2. KEY RISK SIGNALS
+
+**Geopolitics & Policy | Regulatory Constraint | Severity: High**  
+- **Headline:** Exxon's clean hydrogen project hit by Trump budget cuts  
+- **What happened:** The Trump administration cut $3.7 billion in federal funding for clean energy projects, including over $330 million for Exxon's hydrogen complex. This action has been criticized as detrimental to clean energy initiatives [Article 1].  
+- **Market impact:** Reduced investment in clean energy could slow the transition away from crude oil, potentially increasing crude supply in the near term but limiting long-term viability and innovation.  
+- **Sentiment contribution:** Bearish — reduced funding suggests less diversification and investment in alternative technology trends, maintaining crude reliance.
+
+---
+
+**Geopolitics & Policy | Regulatory Constraint | Severity: Medium**  
+- **Headline:** Texas plant in limbo after Eastman loses DOE grant  
+- **What happened:** Eastman lost a $375 million DOE grant which jeopardizes their methanolysis plant aimed at processing 110,000 metric tons of waste annually [Article 3].  
+- **Market impact:** This signifies a broader trend of decreased funding impacting the development of alternatives to crude oil, bolstering crude's market position in the short term.  
+- **Sentiment contribution:** Bearish — reflects a continuing trend of funding cuts that limits the capacity for alternative energy initiatives.
+
+---
+
+**Supply (Production/Upstream) | No Significant Risk | Severity: Low**  
+- **Headline:** OPEC+ Agrees on Third Oil Supply Surge Despite Russia’s Qualms  
+- **What happened:** OPEC+ has announced an increase of 411,000 barrels per day in oil output, indicating a shift toward a more aggressive supply strategy [Article 2].  
+- **Market impact:** Despite fears of oversupply, this increase is structured to drive prices lower, affecting market dynamics but not presenting immediate production risks.  
+- **Sentiment contribution:** Neutral — signals supply flexibility but could lead to price pressures amidst funding cuts in alternative energy.
+
+---
+
+### 3. SIGNAL SYNTHESIS
+The risk signals show alignment in how regulatory constraints from government budget cuts are negatively impacting crude oil market dynamics. While OPEC+ supply increases do provide some neutral sentiment, the regulatory constraints strongly lean towards bearish market indicators. Overall, the sentiment is influenced more by funding cuts confirmed from multiple sources than by OPEC's actions.
+
+---
+### 4. WATCH LIST
+- [ ] **Future Legislative Changes** → Any new support for clean energy could change funding prospects, positively impacting alternative energy developments.
+- [ ] **OPEC+ Production Reviews** → Future assessments of production levels could further influence crude prices; increased output without corresponding demand could depress prices.
+- [ ] **Economic Recovery Indicators** → Signs of economic recovery could boost demand for crude oil, counterbalancing funding cuts to clean energy.
+
+---
+### 5. BOTTOM LINE
+**Risk Level: High**  
+The current landscape presents significant risks due to the regulatory constraints from cuts in clean energy funding, which could slow the transition away from crude oil dependence. This situation is exacerbated by OPEC's aggressive supply increase, leading to bearish market conditions. Traders should remain vigilant regarding upcoming economic and regulatory developments that could impact the crude oil market.

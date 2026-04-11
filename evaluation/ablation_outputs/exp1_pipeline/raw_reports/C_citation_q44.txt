@@ -1,0 +1,54 @@
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+## COMMODITY RISK REPORT
+**Commodity:** crude oil, LNG  
+**Report Date:** 2026-04-11  
+**Articles Analysed:** 4 articles  
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+### 1. OVERALL SENTIMENT
+**Bullish**  
+The bullish sentiment is driven by the significant increase in oil prices due to the ongoing geopolitical conflict in the Middle East, which has cut off substantial oil and LNG supplies, thereby tightening the market and increasing prices [Article 1, 2].
+
+### 2. KEY RISK SIGNALS
+
+**Geopolitics & Policy | Geopolitical Conflict | Severity: High**  
+- **Headline:** Africa Could Emerge As The Biggest Winner In Iran War  
+- **What happened:** The ongoing conflict in the Middle East has resulted in the disruption of approximately 8 million barrels of crude oil per day and 20% of LNG supplies.  
+- **Market impact:** This disruption has led to a significant surge in oil prices, indicating a tightening supply situation.  
+- **Sentiment contribution:** Bullish — the significant supply cuts are likely to push prices higher as demand remains steady or increases.
+
+---
+
+**Geopolitics & Policy | Geopolitical Conflict | Severity: High**  
+- **Headline:** Oil Set to Book Record Monthly Gain on Iran Crisis  
+- **What happened:** Oil prices are poised to achieve a record monthly increase, largely attributed to the heightened tensions and attacks in the region.  
+- **Market impact:** The rapid price rise reflects tight supply conditions and escalating conflict, bolstering market expectations for higher future prices.  
+- **Sentiment contribution:** Bullish — the record gain signals extreme market reactivity to geopolitical tensions.
+
+---
+
+**Demand / Macro Activity | Macro-Economic Cooling | Severity: Medium**  
+- **Headline:** Global Fuel Prices Are Surging as the Middle East War Hits Consumers  
+- **What happened:** The spike in oil prices has resulted in significant increases in fuel prices globally, affecting consumers in various regions.  
+- **Market impact:** This could dampen demand as higher fuel prices limit consumer spending and economic activity.  
+- **Sentiment contribution:** Bearish — the potential for economic cooling offsets some of the bullish sentiment driven by supply constraints.
+
+---
+
+**Demand / Macro Activity | Macro-Economic Cooling | Severity: Medium**  
+- **Headline:** South Korea Weighs First Public Driving Restrictions in 35 Years  
+- **What happened:** South Korea is considering implementing driving restrictions if oil prices hit $120 per barrel due to the current crisis.  
+- **Market impact:** Such measures would directly decrease oil consumption in the region and signal broader economic challenges tied to high energy prices.  
+- **Sentiment contribution:** Bearish — potential driving restrictions could stifle demand and economic growth.
+
+### 3. SIGNAL SYNTHESIS
+The risk signals are somewhat aligned but show contradictory influences. The geopolitical risks point to a tightening supply and rising prices, which is bullish for the market. However, concerns regarding macroeconomic cooling and potential demand decline due to high prices introduce bearish sentiments. Overall, the net effect leans towards elevated risks and a bullish outlook, offset slightly by concerns about demand.
+
+### 4. WATCH LIST
+- [ ] Monitor oil prices approaching $120/barrel → Potential driving restrictions could emerge in South Korea, decreasing demand significantly.
+- [ ] Watch for further escalation of conflict in the Middle East → Could lead to additional supply disruptions and price increases.
+- [ ] Track consumer response to rising fuel prices → A significant shift in consumer behavior could indicate a broader economic impact.
+
+### 5. BOTTOM LINE
+**Risk Level: High**  
+The crude oil market is facing heightened risks due to geopolitical tensions leading to significant supply disruptions, which are driving prices up. However, the potential for economic cooling and reduced demand because of high fuel prices remains a critical concern that could temper overall market enthusiasm. These signals are fragile and could shift based on new developments.

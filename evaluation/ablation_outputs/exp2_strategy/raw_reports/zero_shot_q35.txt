@@ -1,0 +1,58 @@
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+## COMMODITY RISK REPORT
+**Commodity:** crude oil  
+**Report Date:** 2026-04-11  
+**Articles Analysed:** 5 articles  
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+### 1. OVERALL SENTIMENT
+**Neutral**  
+> The sentiment is neutral due to conflicting regulatory signals from articles about federal funding cuts for clean energy versus OPEC+'s increase in oil output.
+
+---
+### 2. KEY RISK SIGNALS
+
+**Geopolitics & Policy | Regulatory Constraint | Severity: High**  
+- **Headline:** Exxon's clean hydrogen project hit by Trump budget cuts  
+- **What happened:** The Trump administration cut $3.7 billion in federal funding for clean energy projects, negatively affecting Exxon's hydrogen project.  
+- **Market impact:** This could stifle advancements in clean energy technologies, potentially increasing crude oil reliance in the short term.  
+- **Sentiment contribution:** Bearish — as regulatory constraints signal an adverse impact on future energy diversification.
+
+---
+
+**Supply (Production/Upstream) | No Significant Risk | Severity: Low**  
+- **Headline:** OPEC+ Agrees on Third Oil Supply Surge Despite Russia’s Qualms  
+- **What happened:** OPEC+ has decided to increase oil output by 411,000 barrels a day for July.  
+- **Market impact:** This increase is likely to stabilize or even depress prices due to higher supply.  
+- **Sentiment contribution:** Bullish — the action supports market confidence in managing supply levels.
+
+---
+
+**Supply (Production/Upstream) | No Significant Risk | Severity: Low**  
+- **Headline:** Chevron to lay off approximately 200 employees in Texas in 2025  
+- **What happened:** Chevron is proceeding with layoffs as part of a global workforce reduction initiative.  
+- **Market impact:** The layoffs, though significant for the company, may not drastically impact overall crude oil supply.  
+- **Sentiment contribution:** Neutral — while workforce reduction might hint at operational tightening, there are no tangible immediate supply impacts.
+
+---
+
+**Supply (Production/Upstream) | No Significant Risk | Severity: Low**  
+- **Headline:** Chevron to lay off 200 workers in the Permian Basin; TWC cites data entry error for initial numbers  
+- **What happened:** A correction was made regarding the number of layoffs due to an error by the Texas Workforce Commission.  
+- **Market impact:** Similar to the previous point, this adjustment in numbers maintains a neutral outlook for crude oil supply.  
+- **Sentiment contribution:** Neutral — again, the layoffs do not indicate a significant immediate risk to supply.
+
+---
+### 3. SIGNAL SYNTHESIS
+The risk signals present a mixed picture with regulatory constraints suggesting a bearish outlook, particularly for clean energy investments. In contrast, OPEC+'s decision to increase supply contributes a bullish component by stabilizing prices. However, the supply-related signals from Chevron are neutral, indicating that current workforce adjustments will not significantly impact the overall crude oil market balance. 
+
+---
+### 4. WATCH LIST
+- [ ] Monitor future government funding decisions for clean energy projects → any new cuts could exacerbate reliance on crude oil.
+- [ ] Keep an eye on OPEC+ output levels in the next quarterly meeting → additional production increases could further suppress prices.
+- [ ] Watch Chevron's operational changes and overall employment levels → significant layoffs could signal deeper issues in production capacity.
+
+---
+### 5. BOTTOM LINE
+**Risk Level: Medium**  
+Traders should be aware of the potential for volatility due to regulatory constraints impacting clean energy initiatives and a steady increase in crude supply from OPEC+. The mixed signals necessitate caution, as upcoming government decisions could alter market dynamics significantly.

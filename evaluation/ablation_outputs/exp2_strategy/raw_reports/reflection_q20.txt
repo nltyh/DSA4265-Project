@@ -1,0 +1,133 @@
+### PASS 1 — Draft Report
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+## COMMODITY RISK REPORT
+**Commodity:** crude oil  
+**Report Date:** 2026-04-11  
+**Articles Analysed:** 5 articles  
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+### 1. OVERALL SENTIMENT
+**Bullish**  
+> The dominant signal is bullish due to supply chain blockages stemming from geopolitical tensions and attacks in the Red Sea, which are increasing shipping costs and constraining supply.
+
+---
+### 2. KEY RISK SIGNALS
+
+**Shipping & logistics | Supply Chain Blockage | Severity: High**  
+- **Headline:** Shortage of Oil Tankers at Hand as Red Sea Attacks Divert Trade  
+- **What happened:** Houthi attacks in the Red Sea have resulted in a significant shortage of oil tankers, leading to diversions and increased shipping duration.  
+- **Market impact:** This situation is tightening the tanker market, causing rate increases and affecting overall supply.  
+- **Sentiment contribution:** Bullish — the tanker owners are benefiting from higher rates amid supply constraints.
+
+---
+
+**Financial flows / positioning | No Significant Risk | Severity: Low**  
+- **Headline:** EOG Misses Estimates Despite Production Increase  
+- **What happened:** EOG Resources reported an income miss despite increasing oil production and strategic investments.  
+- **Market impact:** While this indicates operational growth, the miss does not significantly affect market sentiment.  
+- **Sentiment contribution:** Neutral — the market reaction remains tempered as production increases are noted.
+
+---
+
+**LNG & natural gas | No Significant Risk | Severity: Low**   
+- **Headline:** Sempra Looking Beyond LNG Pause to ‘Development Milestones’ for Port Arthur, Cameron Expansions  
+- **What happened:** Sempra is making progress on LNG projects despite a temporary pause on new export authorizations.  
+- **Market impact:** This situation reflects stability in project timelines, contributing positively to market views.  
+- **Sentiment contribution:** Neutral — the news does not directly alter crude oil dynamics.
+
+---
+
+**LNG & natural gas | Production Shortfall | Severity: Medium**  
+- **Headline:** Kosmos: BP’s Tortue project to produce first LNG in Q4  
+- **What happened:** Delays in BP's Tortue project push the first LNG production to late 2024.  
+- **Market impact:** Potential shortfalls in LNG supply could influence crude oil prices if demand shifts.  
+- **Sentiment contribution:** Bearish — the delay suggests vulnerabilities in the LNG market which may spill over into crude oil dynamics.
+
+---
+### 3. SIGNAL SYNTHESIS
+The primary risk signals point toward a tightening crude oil supply due to shipping interruptions from geopolitical tensions, generating a bullish outlook. However, operational updates from EOG and Sempra are either neutral or signify robust future performance with no immediate risk. The production delays in LNG could create a ripple effect and introduce downward pressure, but the overall sentiment remains bullish.
+
+---
+### 4. WATCH LIST
+- [ ] Monitor developments in the Red Sea regarding geopolitical tensions and attacks → Further escalation could intensify supply chain disruptions.
+- [ ] Track global oil tanker availability and freight rates → An increase in costs could further squeeze supply and uplift prices.
+- [ ] Observe EOG's next financial statement for production and revenue forecasts → A recovery from their initial miss could bolster market confidence.
+- [ ] Watch for updates on BP’s Tortue project → Any acceleration in production timelines could stabilize market expectations.
+
+---
+### 5. BOTTOM LINE
+**Risk Level: High**  
+The risk factor relating to oil supply disruption is significant due to geopolitical tensions affecting tanker availability. The overall market sentiment is bullish, but traders should remain cautious about potential downstream effects from LNG sector delays, which can indirectly impact crude oil prices.
+
+---
+
+### PASS 2 — Reflection & Revision
+
+[REFLECTION]
+1. I included all relevant signals based on the retrieved articles and accounted for contradictions, particularly highlighting the neutral sentiment from effects on production amidst bullish market signals from shipping disruptions.
+2. There were no missed signals in the context of the articles, covering all major themes.
+3. The overall sentiment is well-supported by the articles, focusing on concrete risks and the complexities of current market conditions.
+
+[FINAL REPORT]
+The fully revised report incorporating your reflection.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+## COMMODITY RISK REPORT
+**Commodity:** crude oil  
+**Report Date:** 2026-04-11  
+**Articles Analysed:** 5 articles  
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+### 1. OVERALL SENTIMENT
+**Bullish**  
+> The dominant signal is bullish due to supply chain blockages stemming from geopolitical tensions and attacks in the Red Sea, which are increasing shipping costs and constraining supply.
+
+---
+### 2. KEY RISK SIGNALS
+
+**Shipping & logistics | Supply Chain Blockage | Severity: High**  
+- **Headline:** Shortage of Oil Tankers at Hand as Red Sea Attacks Divert Trade  
+- **What happened:** Houthi attacks in the Red Sea have resulted in a significant shortage of oil tankers, leading to diversions and increased shipping duration.  
+- **Market impact:** This situation is tightening the tanker market, causing rate increases and affecting overall supply.  
+- **Sentiment contribution:** Bullish — the tanker owners are benefiting from higher rates amid supply constraints.
+
+---
+
+**Financial flows / positioning | No Significant Risk | Severity: Low**  
+- **Headline:** EOG Misses Estimates Despite Production Increase  
+- **What happened:** EOG Resources reported an income miss despite increasing oil production and strategic investments.  
+- **Market impact:** While this indicates operational growth, the miss does not significantly affect market sentiment.  
+- **Sentiment contribution:** Neutral — the market reaction remains tempered as production increases are noted.
+
+---
+
+**LNG & natural gas | No Significant Risk | Severity: Low**  
+- **Headline:** Sempra Looking Beyond LNG Pause to ‘Development Milestones’ for Port Arthur, Cameron Expansions  
+- **What happened:** Sempra is making progress on LNG projects despite a temporary pause on new export authorizations.  
+- **Market impact:** This situation reflects stability in project timelines, contributing positively to market views.  
+- **Sentiment contribution:** Neutral — the news does not directly alter crude oil dynamics.
+
+---
+
+**LNG & natural gas | Production Shortfall | Severity: Medium**  
+- **Headline:** Kosmos: BP’s Tortue project to produce first LNG in Q4  
+- **What happened:** Delays in BP's Tortue project push the first LNG production to late 2024.  
+- **Market impact:** Potential shortfalls in LNG supply could influence crude oil prices if demand shifts.  
+- **Sentiment contribution:** Bearish — the delay suggests vulnerabilities in the LNG market which may spill over into crude oil dynamics.
+
+---
+### 3. SIGNAL SYNTHESIS
+The primary risk signals point toward a tightening crude oil supply due to shipping interruptions from geopolitical tensions, generating a bullish outlook. However, operational updates from EOG and Sempra are either neutral or signify robust future performance with no immediate risk. The production delays in LNG could create a ripple effect and introduce downward pressure, but the overall sentiment remains bullish.
+
+---
+### 4. WATCH LIST
+- [ ] Monitor developments in the Red Sea regarding geopolitical tensions and attacks → Further escalation could intensify supply chain disruptions.
+- [ ] Track global oil tanker availability and freight rates → An increase in costs could further squeeze supply and uplift prices.
+- [ ] Observe EOG's next financial statement for production and revenue forecasts → A recovery from their initial miss could bolster market confidence.
+- [ ] Watch for updates on BP’s Tortue project → Any acceleration in production timelines could stabilize market expectations.
+
+---
+### 5. BOTTOM LINE
+**Risk Level: High**  
+The risk factor relating to oil supply disruption is significant due to geopolitical tensions affecting tanker availability. The overall market sentiment is bullish, but traders should remain cautious about potential downstream effects from LNG sector delays, which can indirectly impact crude oil prices.

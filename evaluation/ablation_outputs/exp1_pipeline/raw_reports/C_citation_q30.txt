@@ -1,0 +1,46 @@
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  
+## COMMODITY RISK REPORT  
+**Commodity:** LNG  
+**Report Date:** 2026-04-11  
+**Articles Analysed:** 5 articles  
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  
+  
+### 1. OVERALL SENTIMENT  
+**Bearish**  
+> The sentiment is predominantly bearish due to the significant challenges faced by NextDecade with its Rio Grande LNG facility, influenced by legal and regulatory issues.  
+
+---  
+### 2. KEY RISK SIGNALS  
+  
+**LNG & Natural Gas | Infrastructure Damage | Severity: High**  
+- **Headline:** NextDecade: LNG halt flows back to Permian gas producers  
+- **What happened:** NextDecade is encountering challenges with its Rio Grande LNG facility following a U.S. Court of Appeals' decision to vacate its permits, prompting the company to consider an appeal to the Supreme Court if necessary [Article 1].  
+- **Market impact:** The situation creates uncertainty around LNG supply chains, potentially increasing prices due to anticipated supply disruptions.  
+- **Sentiment contribution:** Bearish — the legal uncertainty is likely to reduce confidence in the availability of LNG supplies.  
+  
+**LNG & Natural Gas | No Significant Risk | Severity: Low**  
+- **Headline:** As Other Projects Fall Behind, Cheniere Says Corpus Christi LNG Expansion Still Ahead of Schedule  
+- **What happened:** Cheniere's Corpus Christi LNG expansion project remains on schedule, with the first LNG expected to be produced by the end of 2024 [Article 2].  
+- **Market impact:** This positive development may counterbalance some bearish sentiment by supporting future LNG supply.  
+- **Sentiment contribution:** Neutral — while it's a stable signal, it does not drastically shift the market's bearish outlook.  
+  
+**LNG & Natural Gas | No Significant Risk | Severity: Low**  
+- **Headline:** Precision Drilling expects rig demand growth with LNG Canada startup  
+- **What happened:** Anticipated growth in rig demand is linked to the startup of the LNG Canada facility, expected in mid-2025 [Article 3].  
+- **Market impact:** Increased drilling activity may support longer-term supply expansions, but is not an immediate risk factor.  
+- **Sentiment contribution:** Neutral — reflects a long-term perspective rather than immediate concerns.  
+
+---  
+### 3. SIGNAL SYNTHESIS  
+The key risk signal from NextDecade’s infrastructure damage is strong and raises significant concerns about the immediate outlook for LNG supplies. While there are supportive developments from other LNG projects, such as Cheniere's expansion and increased rig demand for LNG Canada, these do not sufficiently offset the negative impacts created by the ongoing legal troubles affecting NextDecade. Overall, uncertainty dominates the current risk exposure for LNG.  
+
+---  
+### 4. WATCH LIST  
+- [ ] **Supreme Court Decision on NextDecade’s Permits** → A ruling in favor could help restore confidence in LNG projects and stabilize supply concerns.  
+- [ ] **Progress on Cheniere’s Corpus Christi Expansion** → Delays here could worsen the bearish sentiment if expected supply is disrupted.  
+- [ ] **LNG Canada Startup Timeline** → Successful startup could indicate a potential increase in LNG supplies, positively impacting market sentiment.  
+
+---  
+### 5. BOTTOM LINE  
+**Risk Level: High**  
+The current risks facing LNG infrastructure and the uncertainty surrounding NextDecade's permits present a high-risk environment for traders and risk managers. Legal challenges seriously hinder supply chain confidence, potentially leading to price volatility.

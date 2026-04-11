@@ -1,0 +1,70 @@
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+## COMMODITY RISK REPORT
+**Commodity:** LNG, Crude Oil  
+**Report Date:** 2024-07-01  
+**Articles Analysed:** 5 articles  
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+### 1. OVERALL SENTIMENT
+**Mixed**  
+> The sentiment is mixed due to conflicting signals: rising labor costs threaten LNG project viability, while FERC's approval of new infrastructure and Aramco's agreements suggest long-term supply confidence for crude oil and LNG.
+
+---
+
+### 2. KEY RISK SIGNALS
+
+**[LNG & Natural Gas] | [Supply Chain Blockage] | Severity: High**  
+- **Headline:** Rising US labor costs threaten to derail new LNG projects  
+- **What happened:** Rising labor costs and inflation on the U.S. Gulf Coast are jeopardizing LNG project financial viability, leading to delays and significant budget overruns.  
+- **Market impact:** Heightened concerns regarding project delays could diminish new LNG supply availability, potentially elevating prices in an already tight market.  
+- **Sentiment contribution:** Bullish — fears of supply constraints drive expectations of price increases as projects struggle under financial pressure.  
+
+---
+
+**[LNG & Natural Gas] | [No Significant Risk] | Severity: Low**  
+- **Headline:** FERC Approves Transco's Texas to Louisiana Gas Pipeline Project  
+- **What happened:** FERC has approved a project that will enhance the Transco gas system's capacity significantly by 2025.  
+- **Market impact:** Improved infrastructure support may mitigate some supply constraints created by rising labor costs and increasing demand.  
+- **Sentiment contribution:** Neutral — while the approval is positive for infrastructure, it does not directly alleviate current labor-related issues.
+
+---
+
+**[LNG & Natural Gas] | [No Significant Risk] | Severity: Low**  
+- **Headline:** Aramco, Sempra ink non-binding Port Arthur LNG deal  
+- **What happened:** Aramco signed a non-binding agreement to purchase LNG from Sempra’s project, indicating a strategic move into the LNG market.  
+- **Market impact:** This deal, while solidifying long-term purchasing commitments, does not currently address supply issues resulting from labor costs.  
+- **Sentiment contribution:** Neutral — positive for long-term supply security but lacks immediate impact on current market concerns.
+
+---
+
+**[LNG & Natural Gas] | [No Significant Risk] | Severity: Low**  
+- **Headline:** Aramco ups gas game with US project in hot pursuit of shoo-in to global LNG club’s kingpins  
+- **What happened:** Aramco is expanding its LNG operations in the U.S. through new equity agreements in various projects.  
+- **Market impact:** Similar to the previous article, this does not directly affect the immediate supply situation influenced by labor costs.  
+- **Sentiment contribution:** Neutral — reflects strategic growth rather than immediate risk mitigation.
+
+---
+
+**[Supply (Production/Upstream)] | [No Significant Risk] | Severity: Low**  
+- **Headline:** Exxon Mobil: Gaining A Competitive Edge With Cost Advantaged Assets  
+- **What happened:** Exxon and partners have reported profitable performance in Guyana and expect significant future production.  
+- **Market impact:** Strong production outlook bolsters crude supply confidence, but does not counteract potential LNG project delays.  
+- **Sentiment contribution:** Neutral — while bullish for crude, it does not resolve the risks facing LNG infrastructure.
+
+---
+
+### 3. SIGNAL SYNTHESIS
+The risk signals present a mix of bullish and neutral sentiments. Labor cost inflation creates a high-risk environment for LNG project viability, suggesting potential supply shortages. However, approvals for new infrastructure and new deals in the crude oil sector reflect confidence and may counterbalance supply concerns. This mixed sentiment reflects an overall cautious outlook for the LNG market, while the crude market appears stable.
+
+---
+
+### 4. WATCH LIST
+- [ ] **Labor Cost Trends** → Continued rises could lead to further project cancellations or delays, exacerbating supply issues.
+- [ ] **Pending Infrastructure Projects** → Successful completions of new pipelines may help alleviate supply constraints.
+- [ ] **Global LNG Demand Shifts** → Changes in demand from major importers could quickly alter market dynamics.
+
+---
+
+### 5. BOTTOM LINE
+**Risk Level: Medium**  
+Labor cost inflation poses a significant threat to new LNG projects, which may lead to supply constraints in the near term. However, infrastructure expansions and strategic agreements in the crude sector indicate resilience. Monitoring labor market developments will be critical in assessing ongoing risk exposure.

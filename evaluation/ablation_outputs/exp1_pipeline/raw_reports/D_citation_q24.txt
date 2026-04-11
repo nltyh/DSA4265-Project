@@ -1,0 +1,42 @@
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+## COMMODITY RISK REPORT
+**Commodity:** crude oil  
+**Report Date:** 2026-04-11  
+**Articles Analysed:** 5 articles  
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+### 1. OVERALL SENTIMENT
+**Bearish**  
+The predominant sentiment regarding crude oil shipping risks is bearish, primarily due to heightened geopolitical tensions that could threaten supply routes, as indicated by intensified Houthi attacks on vessels tied to Greek companies [Article 1].
+
+### 2. KEY RISK SIGNALS
+
+**Shipping & Logistics | Geopolitical Conflict | Severity: High**
+- **Headline:** Behind Houthi Attacks on Ships Operated by Greece-Based Companies
+- **What happened:** The Houthis have intensified attacks on ships operated by Greece-based companies, particularly since late April, targeting any shipping company with links to Israeli trade, impacting vessels such as the bulk carrier Laax [Article 1].
+- **Market impact:** These developments may disrupt shipping routes, potentially leading to supply shortages or increased shipping costs, influencing oil prices negatively.
+- **Sentiment contribution:** Bearish — Geopolitical risks related to shipping directly impact market confidence.
+
+**Financial Flows/Positioning | No Significant Risk | Severity: Low**
+- **Headline:** 2024 Annual Shareholder Meeting
+- **What happened:** Exxon Mobil held its Annual Shareholder Meeting with no significant risks reported [Article 2].
+- **Market impact:** This indicates stability in financial operations but does not directly alter supply/demand dynamics.
+- **Sentiment contribution:** Neutral — Does not influence the current geopolitical risk landscape.
+
+**Geopolitics & Policy | Regulatory Constraint | Severity: Medium**
+- **Headline:** Another Big Oil Deal Despite Regulatory Pushback and Market Volatility
+- **What happened:** ConocoPhillips is acquiring Marathon Oil for $22.5 billion amid regulatory scrutiny [Article 3, 4].
+- **Market impact:** This indicates consolidation within the oil sector, but potential regulatory hurdles could delay benefits from economies of scale.
+- **Sentiment contribution:** Bearish — Regulatory concerns can dampen sector growth expectations.
+
+### 3. SIGNAL SYNTHESIS
+The risk signals indicate a predominantly bearish environment for crude oil shipping due to significant geopolitical threats that could disrupt supply routes. While there are elements of stability from financial flows and consolidation in the sector, the overwhelming concern regarding Houthi attacks creates a heightened risk sentiment, which is confirmed by current geopolitical dynamics.
+
+### 4. WATCH LIST
+- [ ] Increased Houthi attacks on shipping → escalation could lead to immediate supply disruptions and price spikes.
+- [ ] Regulatory developments regarding the ConocoPhillips-Marathon deal → could either enhance or hinder market stability depending on outcomes.
+- [ ] Price trends in crude oil following shipping incident reports → could indicate market reactions to geopolitical tensions and affect trader positioning.
+
+### 5. BOTTOM LINE
+**Risk Level: High**  
+Traders and risk managers should remain vigilant concerning geopolitical developments, particularly the risk from Houthi attacks on shipping routes. The current situation poses significant risks to supply chains and pricing in the crude oil market, supported by ongoing geopolitical tensions.

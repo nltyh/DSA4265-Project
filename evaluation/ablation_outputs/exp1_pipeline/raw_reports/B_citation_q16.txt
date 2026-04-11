@@ -1,0 +1,40 @@
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  
+## COMMODITY RISK REPORT  
+**Commodity:** crude oil  
+**Report Date:** 2026-04-11  
+**Articles Analysed:** 5 articles  
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  
+
+### 1. OVERALL SENTIMENT  
+**Bearish**  
+The overall sentiment for crude oil is bearish due to downward pressure from anticipated supply increases by OPEC+ and expectations of a market surplus, alongside the absence of significant risks noted in recent articles [Article 3, 4].
+
+### 2. KEY RISK SIGNALS  
+
+**LNG & Natural Gas | Supply Chain Blockage | Severity: High**  
+- **Headline:** Explainer: What's at stake in Chevron's Australia LNG labour dispute?  
+- **What happened:** A potential strike at Chevron's LNG facilities in Australia threatens to block global LNG supply, impacting the operations of about 500 workers [Article 1].  
+- **Market impact:** This disruption could elevate gas prices and affect crude production levels, as LNG facilities significantly influence crude oil market dynamics during the winter months.  
+- **Sentiment contribution:** Bullish — the looming threat of reduced LNG supplies could tighten markets and push crude prices up, despite current bearish pressures.
+
+---
+
+**LNG & Natural Gas | Supply Chain Blockage | Severity: High**  
+- **Headline:** Rising US labor costs threaten to derail new LNG projects  
+- **What happened:** Rising labor costs in the U.S. Gulf Coast are jeopardizing the financial viability and timelines of new LNG projects due to significant budget overruns [Article 5].  
+- **Market impact:** Delays and potential cancellations of LNG projects can lead to further supply chain disruptions, thus impacting crude oil markets indirectly.  
+- **Sentiment contribution:** Bearish — while initially concerning, the effect on crude is mitigated by the current forecast of surplus supply in the market.
+
+---
+
+### 3. SIGNAL SYNTHESIS  
+The key risk signals are somewhat aligned but show mixed impacts. While the potential strikes at Chevron and rising labor costs for LNG projects are pronounced risks, they do not currently negate the bearish sentiment driven by potential OPEC+ supply increases and expected market surpluses [Article 3, 4]. The elevated risk of supply disruptions exists, but this is offset by overall market conditions point towards a cooling in prices.
+
+### 4. WATCH LIST  
+- [ ] Monitor the outcome of the Chevron labor dispute → A resolution could stabilize potential supply shocks, impacting crude prices positively.  
+- [ ] Watch for further announcements from OPEC+ regarding supply increases → If they confirm additional hikes, it would likely heighten bearish sentiment.  
+- [ ] Track any further projected delays in U.S. LNG projects → Continued delays could increase systemic risks for crude prices linked to LNG impacts.
+
+### 5. BOTTOM LINE  
+**Risk Level: Medium**  
+Traders and risk managers should remain cautious as ongoing labor disputes and rising costs could create volatility. However, the prevailing bearish fundamentals lead to an overall expectation of price stabilization unless disrupted significantly by external factors.

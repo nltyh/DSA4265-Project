@@ -1,0 +1,42 @@
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+## COMMODITY RISK REPORT
+**Commodity:** crude oil  
+**Report Date:** 2026-04-11  
+**Articles Analysed:** 5 articles  
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+### 1. OVERALL SENTIMENT
+**Bearish**  
+> The predominant signal is bearish due to significant regulatory constraints imposed by budget cuts on clean energy initiatives, which affect Exxon's hydrogen projects, and ongoing geopolitical conflicts related to Chevron's acquisition of Hess Corp. This impact on supply and investment in cleaner technologies has potential long-term implications for crude oil prices.
+
+### 2. KEY RISK SIGNALS
+
+**Geopolitics & Policy | Regulatory Constraint | Severity: High**
+- **Headline:** Exxon's clean hydrogen project hit by Trump budget cuts
+- **What happened:** The Trump administration has cut $3.7 billion in federal funding for clean energy initiatives, impacting over $330 million allocated for Exxon's hydrogen project in Baytown [Article 1].
+- **Market impact:** This reduction may hinder Exxon's ability to innovate in clean energy and maintain future oil production levels, leading to reduced investor confidence and a potential longer-term decline in crude oil demand.
+- **Sentiment contribution:** Bearish — the cuts are perceived as a setback for clean energy, which may lead to a reliance on fossil fuels in the short term.
+
+**Geopolitics & Policy | Geopolitical Conflict | Severity: Medium**
+- **Headline:** Chevron’s Hess Deal Suffers New Blow as Arbitration Drags On
+- **What happened:** Chevron's $53 billion acquisition of Hess is delayed due to arbitration with Exxon regarding rights, potentially affecting investments in the Guyana oil project [Article 3].
+- **Market impact:** The uncertainty surrounding the merger could stall production expansion strategies, causing price volatility and affecting overall market sentiment.
+- **Sentiment contribution:** Bearish — as delays indicate instability, which may lead to lower short-term oil production forecasts.
+
+**Geopolitics & Policy | No Significant Risk | Severity: Low**
+- **Headline:** Chevron to buy Hess Corp for $53 billion in all-stock deal
+- **What happened:** Chevron's acquisition of Hess is expected to increase its footprint and cash flows [Article 5].
+- **Market impact:** While this could result in market consolidation, it does not pose an immediate risk. 
+- **Sentiment contribution:** Neutral — as the deal's implications do not currently introduce significant risk but suggest a shift in market dynamics.
+
+### 3. SIGNAL SYNTHESIS
+The signals are somewhat aligned in a bearish direction, as both regulatory constraints and geopolitical conflicts highlight risks to crude oil supply and investment. The potential for regulatory changes and delays in strategic mergers may underpin a more cautious outlook from investors, suggesting higher risk exposure in the short to medium term.
+
+### 4. WATCH LIST
+- [ ] **Future Budget Decisions** → Monitoring any changes to federal funding for clean energy could signal shifts in investment focus.
+- [ ] **Arbitration Outcomes** → The result of the arbitration involving Exxon and Chevron could impact merger timelines and production forecasts.
+- [ ] **Market Reactions to Earnings Reports** → Changes in institutional investor sentiment regarding Exxon Mobil and Chevron after earnings releases may reshape price expectations.
+
+### 5. BOTTOM LINE
+**Risk Level: High**  
+There is significant regulatory and geopolitical risk impacting the crude oil market following recent budget cuts and ongoing arbitration issues. Risk managers should be particularly aware of the uncertainties that could affect both supply and market sentiment in the near term.

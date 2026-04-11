@@ -1,0 +1,48 @@
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+## COMMODITY RISK REPORT
+**Commodity:** crude oil  
+**Report Date:** 2026-04-11  
+**Articles Analysed:** 5 articles  
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+### 1. OVERALL SENTIMENT
+**Bullish**  
+The acquisition of Marathon Oil by ConocoPhillips is seen as a strong move towards consolidation within the crude oil sector, driven by robust profits among U.S. oil companies and potential synergies through the merger, despite regulatory challenges.
+
+### 2. KEY RISK SIGNALS
+
+**Geopolitics & Policy | Regulatory Constraint | Severity: Medium**  
+- **Headline:** ConocoPhillips Acquires Marathon Oil for $22.5 Billion in Landmark Deal  
+- **What happened:** ConocoPhillips announced its acquisition of Marathon Oil for $22.5 billion amid ongoing regulatory scrutiny.  
+- **Market impact:** The deal raises concerns over market concentration in the Eagle Ford basin, potentially affecting competition and regulatory approvals.  
+- **Sentiment contribution:** Bearish, as regulatory scrutiny may delay or complicate the merger process [Article 1].
+
+---
+
+**Geopolitics & Policy | Regulatory Constraint | Severity: Medium**  
+- **Headline:** Another Big Oil Deal Despite Regulatory Pushback and Market Volatility (Published 2024)  
+- **What happened:** The acquisition is described as a significant merger in the U.S. energy sector, highlighting ongoing regulatory challenges and market volatility alongside the deal's announcement.  
+- **Market impact:** These regulatory challenges might dampen market enthusiasm and create uncertainty about future transactions in the sector.  
+- **Sentiment contribution:** Bearish, due to potential market disruptions from regulatory challenges [Article 2]. 
+
+---
+
+**Financial Flows / Positioning | No Significant Risk | Severity: Low**  
+- **Headline:** ConocoPhillips is buying Marathon Oil in $22.5 billion deal  
+- **What happened:** The merger aims for substantial cost savings, expected to enhance ConocoPhillips' cash flow and market position without immediate risks.  
+- **Market impact:** This suggests a potential for more stability and growth in the organization, likely easing immediate market fears related to the merger.  
+- **Sentiment contribution:** Bullish, as it indicates a strengthening market position for ConocoPhillips despite the regulatory concerns [Article 3].
+
+---
+
+### 3. SIGNAL SYNTHESIS
+The risk signals reflect both regulatory challenges and positive market positioning for ConocoPhillips post-acquisition. While the regulatory constraints present a medium risk that could suppress near-term market sentiment, the expected operational synergies and increased cash flow might provide a bullish outlook overall. The net effect results in moderate risk exposure in the crude oil sector, influenced heavily by regulatory outcomes.
+
+### 4. WATCH LIST
+- [ ] **Regulatory approval timeline** → A lengthy approval process could dampen market sentiment and delay operational synergies for ConocoPhillips.
+- [ ] **Market reaction to other M&A** → Additional acquisitions in the sector may demonstrate the strength or fragility of the current M&A trend, influencing investor sentiment.
+- [ ] **Pressure from regulatory bodies** → Aggressive pushes from regulators could indicate a changing landscape for future mergers and acquisitions, impacting overall market dynamics.
+
+### 5. BOTTOM LINE
+**Risk Level: Medium**  
+The sentiment remains somewhat fragile due to potential regulatory constraints impacting the newly announced merger. Traders should closely monitor regulatory developments while balancing this against the potential growth offered by the acquisition.

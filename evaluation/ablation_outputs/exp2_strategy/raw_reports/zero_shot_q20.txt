@@ -1,0 +1,51 @@
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+## COMMODITY RISK REPORT
+**Commodity:** crude oil  
+**Report Date:** 2024-02-29  
+**Articles Analysed:** 5 articles  
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+### 1. OVERALL SENTIMENT
+**Bullish**  
+> The prevailing risk factors, particularly the Red Sea attacks causing oil tanker shortages, are contributing to a tightening market and upward price movements.
+
+---
+### 2. KEY RISK SIGNALS
+
+**Shipping & Logistics | Supply Chain Blockage | Severity: High**
+- **Headline:** Shortage of Oil Tankers at Hand as Red Sea Attacks Divert Trade
+- **What happened:** Houthi attacks in the Red Sea have led to significant shortages of oil tankers and longer voyage durations.
+- **Market impact:** This disruption is tightening tanker availability and increasing transportation costs, leading to bullish price expectations for crude oil.
+- **Sentiment contribution:** Bullish — the tightening of tanker fleet capacity supports higher prices.
+
+---
+
+**Financial Flows / Positioning | No Significant Risk | Severity: Low**
+- **Headline:** EOG Misses Estimates Despite Production Increase
+- **What happened:** EOG Resources reported a production increase but missed earnings estimates.
+- **Market impact:** While production is up, the missed earnings indicate operational challenges that may temper bullish sentiment.
+- **Sentiment contribution:** Neutral — the production increase suggests stability but mixed performance raises caution.
+
+---
+
+**LNG & Natural Gas | Production Shortfall | Severity: Medium**
+- **Headline:** Kosmos: BP’s Tortue project to produce first LNG in Q4
+- **What happened:** BP’s project experiences delays, pushing LNG production to late 2024.
+- **Market impact:** Although primarily focused on LNG, delays can affect market perceptions around overall energy security and supply.
+- **Sentiment contribution:** Bearish — production shortfalls can create concerns about future supply stability.
+
+---
+
+### 3. SIGNAL SYNTHESIS
+The key risk signals are aligned towards a bullish outlook due to the significant supply chain blockade from tanker shortages; however, the delays in LNG production introduce some bearish sentiments. Overall, the primary drivers are related to geopolitical tensions impacting shipping, which are confirmed by the disruption, resulting in elevated risk exposure for crude oil.
+
+---
+### 4. WATCH LIST
+- [ ] Monitor developments in the Red Sea region → Increased security risks may further disrupt tanker routes.
+- [ ] Watch for EOG's future earnings reports → Improved or worsening operational performance can influence market expectations.
+- [ ] Observe the status of BP's Tortue project → Delays or advancements could reshape natural gas supply expectations impacting overall energy markets.
+
+---
+### 5. BOTTOM LINE
+**Risk Level: High**  
+Current geopolitical tensions leading to oil tanker shortages present significant immediate risks. The market should remain vigilant regarding evolving supply chain disruptions that could further influence pricing dynamics.

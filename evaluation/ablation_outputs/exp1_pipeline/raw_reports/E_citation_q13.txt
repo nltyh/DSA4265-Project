@@ -1,0 +1,42 @@
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+## COMMODITY RISK REPORT
+**Commodity:** crude oil  
+**Report Date:** 2026-04-11  
+**Articles Analysed:** 5 articles  
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+### 1. OVERALL SENTIMENT
+**Bearish**  
+The sentiment is primarily bearish due to the nationalization of ExxonMobil's assets in Chad, which signals potential disruptions in supply and a rising geopolitical conflict, overshadowing other neutral financial flow indicators related to energy companies.
+
+### 2. KEY RISK SIGNALS
+
+**Geopolitics & Policy | Geopolitical Conflict | Severity: High**
+- **Headline:** Chad approves bill to nationalise assets ExxonMobil sold to Savannah Energy.
+- **What happened:** Chad's parliament approved a bill to nationalise oil assets sold to Savannah Energy, claiming threats to public order and stability [Article 1].
+- **Market impact:** This nationalization may disrupt the operational landscape for crude oil extraction in Chad, raising uncertainty around supply stability.
+- **Sentiment contribution:** Bearish — the nationalization signifies increased risks associated with investment and production in the region.
+
+**Geopolitics & Policy | Geopolitical Conflict | Severity: High**
+- **Headline:** ADNOC, bp form natural gas partnership to purchase Israeli energy company for $2 billion.
+- **What happened:** BP and ADNOC are forming a joint venture to enter the eastern Mediterranean gas market, acquiring NewMed Energy to enhance their strategic position [Article 5].
+- **Market impact:** This partnership continues to draw attention to geopolitical developments affecting oil and gas supplies in the region, indicating strategic positioning by major players.
+- **Sentiment contribution:** Bearish — while not directly affecting crude oil supply in the short term, it reflects ongoing geopolitical maneuvering that can create longer-term volatility.
+
+**Financial Flows/Positioning | No Significant Risk | Severity: Low**
+- **Headline:** 4 Energy Stocks With Fast-Growing Dividends.
+- **What happened:** Energy companies are projected to continue to grow dividends as they return cash to shareholders after a profitable 2022, albeit at a slower pace than 2022 [Article 2].
+- **Market impact:** This trend may reflect positive corporate health in the energy sector, supporting investor confidence and potentially stabilizing prices.
+- **Sentiment contribution:** Neutral — while this provides a positive view on corporate performance, it does not significantly alter the outlook dictated by geopolitical factors.
+
+### 3. SIGNAL SYNTHESIS
+The risk signals present both high geopolitical tensions stemming from Chad's nationalization efforts, which create a bearish outlook for crude oil, while financial trends point to stability in corporate dividends. However, the geopolitical risks related to Chad's nationalization outweigh the financial positivity, creating a primarily bearish sentiment in the market.
+
+### 4. WATCH LIST
+- [ ] Monitor the outcome of Savannah Energy's legal contest against Chad's nationalization → A successful contest may stabilize operations.
+- [ ] Keep tabs on developments within the ADNOC and BP partnership in Israeli gas markets → Changes in regional dynamics could impact crude oil market sentiment.
+- [ ] Watch for fluctuations in crude oil prices following changes in production levels in Chad → A drop in production would lead to higher prices, while a stable output may quell fears.
+
+### 5. BOTTOM LINE
+**Risk Level: High**  
+The nationalization in Chad introduces significant geopolitical risks that could disrupt supply and create a volatile market environment. Traders and risk managers should prepare for potential uncertainties and keep a close watch on legal developments in the region.

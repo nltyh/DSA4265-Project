@@ -1,0 +1,41 @@
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+## COMMODITY RISK REPORT
+**Commodity:** diesel
+**Report Date:** 2026-04-11
+**Articles Analysed:** 5 articles
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+### 1. OVERALL SENTIMENT
+**Bearish**
+> The dominant sentiment is bearish due to the major refinery shutdown caused by the explosion, which is expected to tighten supply in the short term. Additionally, high crude oil inventories contribute to a negative outlook on diesel prices.
+
+### 2. KEY RISK SIGNALS
+**Refining (downstream) | Refining Outage | Severity: High**
+- **Headline:** Valero Shuts Major Refinery After Explosion as Fuel Markets Tighten
+- **What happened:** Valero has shut down its Port Arthur refinery following an explosion, impacting diesel processing. 
+- **Market impact:** This shutdown will likely reduce diesel supply, potentially increasing prices in the near term due to limited availability.
+- **Sentiment contribution:** Bullish — The supply disruption typically leads to higher prices for diesel.
+
+---
+
+**Geopolitics & policy | Geopolitical Conflict | Severity: Medium**
+- **Headline:** UAE: Weaponizing Hormuz is Economic Terrorism Against the World
+- **What happened:** The UAE condemned Iran's actions regarding energy flows through the Strait of Hormuz, a vital chokepoint for oil and LNG supplies.
+- **Market impact:** Ongoing geopolitical tensions might affect crude oil supply stability, further impacting prices.
+- **Sentiment contribution:** Bearish — Although sentiments around disruptions can drive up prices, the overall geopolitical context suggests risks that might pressure oil prices.
+
+---
+
+### 3. SIGNAL SYNTHESIS
+The refining outage due to the Valero explosion and the geopolitical concerns related to the Strait of Hormuz present mixed signals for diesel. While the shutdown can lead to a temporarily bullish sentiment for prices due to tighter supply, the geopolitical landscape is bearish by casting uncertainty over crude oil supplies. The net effect indicates a cautious outlook on diesel prices due to potential upward pressure against a broader bearish environment influenced by geopolitical risks and high inventory levels.
+
+### 4. WATCH LIST
+- [ ] Monitoring Valero’s operational status → A prolonged shutdown could significantly restrict diesel supply.
+- [ ] Watch for developments in Iran-UAE relations → Further escalations could lead to more severe supply disruptions.
+- [ ] Observe API inventory reports → An unexpected rise in crude inventories could further impact market sentiment negatively.
+
+---
+
+### 5. BOTTOM LINE
+**Risk Level: Medium**
+Given the ongoing refinery outage and geopolitical strains, traders should be cautious while assessing diesel market dynamics. The current signals exhibit both potential for price increases due to supply constraints and pressures from heightened geopolitical tensions, emphasizing a need for vigilance in market positioning.

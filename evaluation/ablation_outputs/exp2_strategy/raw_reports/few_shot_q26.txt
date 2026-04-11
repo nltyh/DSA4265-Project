@@ -1,0 +1,54 @@
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+## COMMODITY RISK REPORT
+**Commodity:** crude oil  
+**Report Date:** 31/7/2024  
+**Articles Analysed:** 5 articles  
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+### 1. OVERALL SENTIMENT
+**Mixed**  
+> The sentiment is mixed due to conflicting situations affecting crude oil: on one hand, geopolitical concerns regarding Chevron's Hess deal introduce potential risks; on the other hand, refinery outages may influence short-term supply chains, but there are also indications of no significant risks from the broader perspective of production and storage.
+
+---
+
+### 2. KEY RISK SIGNALS
+
+**[Geopolitics & Policy] | [Geopolitical Conflict] | Severity: High**
+- **Headline:** Chevron’s Hess Deal Suffers New Blow as Arbitration Drags On
+- **What happened:** Chevron's acquisition of Hess Corp. faces further delays due to ongoing arbitration with Exxon Mobil Corp. regarding rights to Hess's stake in a lucrative oil project.
+- **Market impact:** This uncertainty may hinder the operational capabilities and expansion plans for Chevron, impacting supply availability, hence increasing market uncertainty and potential price volatility.
+- **Sentiment contribution:** Bearish — concerns over geopolitical tensions could disrupt supply chains and deter investment, impacting overall market confidence.
+
+---
+
+**[Refining (Downstream)] | [Refining Outage] | Severity: Medium**
+- **Headline:** Cenovus Energy Inc: Analysis of Shutdown of Lima Refinery
+- **What happened:** Cenovus Energy announced a unit shutdown at it Lima refinery, a critical facility that contributes notably to the refining capacity.
+- **Market impact:** A refinery outage can lead to localized supply restrictions, which could drive up prices in affected markets. However, the potential for a return to normal operations mitigates the overall negative impact.
+- **Sentiment contribution:** Bearish — immediate supply impact on refined products can affect price dynamics and trading strategies.
+
+---
+
+**[LNG & Natural Gas] | [No Significant Risk] | Severity: Low**
+- **Headline:** 365-Mile Blackcomb Pipeline Project Greenlit to Boost Permian Gas Flow to Gulf Coast
+- **What happened:** The Blackcomb Pipeline project has been approved to enhance natural gas takeaway capacity, with no imminent risks cited.
+- **Market impact:** Increased capacity for transporting natural gas may lead to increased supply and lower prices for natural gas, indirectly affecting crude oil's competitiveness if transitioning occurs.
+- **Sentiment contribution:** Neutral — while increasing supply capacity is generally positive, the lack of immediate impact on crude oil keeps sentiment balanced.
+
+---
+
+### 3. SIGNAL SYNTHESIS
+The risk signals present a mixed outlook. On one hand, geopolitical risks from the delayed Chevron-Hess arbitration could lead to negative sentiment and price volatility; on the other hand, the reported refinery outage could tighten supply and drive refined crude product prices higher. Furthermore, new pipeline projects could stabilize gas supply dynamics, contributing neutral sentiment. Overall, the net effect indicates a cautious approach to risk management in crude oil.
+
+---
+
+### 4. WATCH LIST
+- [ ] **Outcome of Chevron-Hess arbitration** → If resolved favorably, it could restore market confidence and stabilize supply expectations.
+- [ ] **Progress on Cenovus’s Lima refinery restoration** → If repairs are quick, supply normalization could provide relief to pricing pressures from refined oil products.
+- [ ] **Monitoring future pipeline projects for natural gas supply** → Increased natural gas availability could shift energy markets, affecting crude oil demand and pricing.
+
+---
+
+### 5. BOTTOM LINE
+**Risk Level: Medium**  
+There is an elevated risk stemming from geopolitical uncertainties and localized refining outages, warranting close monitoring. Traders should prepare for potential price volatility but remain alert for quick recovery signs from operational challenges.

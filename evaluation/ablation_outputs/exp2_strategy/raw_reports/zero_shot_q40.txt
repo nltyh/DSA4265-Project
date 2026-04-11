@@ -1,0 +1,58 @@
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+## COMMODITY RISK REPORT
+**Commodity:** crude oil  
+**Report Date:** 2026-04-11  
+**Articles Analysed:** 5 articles  
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+### 1. OVERALL SENTIMENT
+**Mixed**  
+> The market sentiment is mixed due to a combination of geopolitical tensions surrounding the Strait of Hormuz affecting supply expectations, contrasted by a recent diplomatic easing from the U.S. that led to a price decline.
+
+---
+### 2. KEY RISK SIGNALS
+
+**Geopolitics & Policy | Geopolitical Conflict | Severity: High**  
+- **Headline:** War Could Soon Force Oil Prices To Catch Up with the Massive Supply Loss  
+- **What happened:** Persistent conflict in the Middle East risks blocking the Strait of Hormuz, crucial for oil transport.  
+- **Market impact:** The potential supply loss is likely to push oil prices higher if the situation doesn't stabilize.  
+- **Sentiment contribution:** Bullish — due to heightened concerns over supply disruptions.
+
+**Geopolitics & Policy | Geopolitical Conflict | Severity: High**  
+- **Headline:** Oil Plummets 8% as Trump Postpones Hormuz Deadline Threat  
+- **What happened:** A diplomatic statement from President Trump regarding negotiations with Iran caused an immediate sharp decline in oil prices.  
+- **Market impact:** This easing of immediate tensions suggests reduced risk of supply disruption, impacting price negatively.  
+- **Sentiment contribution:** Bearish — as market reacts positively to perceived stability.
+
+**Supply (Production / Upstream) | No Significant Risk | Severity: Low**  
+- **Headline:** Oil Prices Ease As US Pulls Out All Stops To Secure Supply  
+- **What happened:** Recent price pulls back are noted as a tactical adjustment rather than a sign of confidence in market stability.  
+- **Market impact:** Suggests that while there are fluctuations, there is currently no significant change in overall supply conditions.  
+- **Sentiment contribution:** Neutral — indicates that the supply status has not substantially changed.
+
+**Financial Flows / Positioning | No Significant Risk | Severity: Low**  
+- **Headline:** Washington Stress-Tests $200 Oil as War Risk Mounts  
+- **What happened:** Government scenarios are being modeled for extreme price scenarios, although such risks remain hypothetical for now.  
+- **Market impact:** Informs preparedness but does not imply immediate risk affecting current pricing.  
+- **Sentiment contribution:** Neutral — it's a precautionary measure rather than a direct market influence.
+
+**Inventory & Storage | Inventory Shock | Severity: Medium**  
+- **Headline:** US Crude Oil, Product Inventories Rise  
+- **What happened:** Recent updates show a rise in U.S. crude oil inventories, against expectations of a decline.  
+- **Market impact:** An increase in inventory may imply oversupply or reduced demand, influencing downward price pressures.  
+- **Sentiment contribution:** Bearish — as higher inventories signal potential for slack in demand.
+
+---
+### 3. SIGNAL SYNTHESIS
+The risk signals are somewhat contradictory, with significant geopolitical tension suggesting a bullish outlook, while the easing of immediate threats from diplomatic negotiations led to a bearish market reaction. Additionally, inventory increases do not align with the bullish sentiment from geopolitical risks, indicating mixed sentiments primarily driven by immediate news and geopolitical developments rather than solid fundamentals.
+
+---
+### 4. WATCH LIST
+- [ ] Developments in U.S.-Iran negotiations → If these succeed, it may lead to stabilization and price drops.
+- [ ] Updates on Strait of Hormuz shipping status → A blockade or significant incident would spike prices.
+- [ ] Changes in U.S. crude inventory reports → A continued rise may signal oversupply affecting prices.
+
+---
+### 5. BOTTOM LINE
+**Risk Level: Medium**  
+The situation is fluid, with geopolitical risks looming but countered by recent diplomatic progress and rising inventories. Traders should stay vigilant to shifts in diplomatic relations that could strongly influence market dynamics.

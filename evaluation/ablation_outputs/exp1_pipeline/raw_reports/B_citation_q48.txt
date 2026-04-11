@@ -1,0 +1,54 @@
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+## COMMODITY RISK REPORT
+**Commodity:** crude oil  
+**Report Date:** 2026-04-11  
+**Articles Analyzed:** 5 articles  
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+### 1. OVERALL SENTIMENT
+**Bullish**  
+The overall market sentiment is bullish as the geopolitical instability and the potential for production shortfall due to import disruptions in Australia are driving prices upward. This is compounded by the situation in the Strait of Hormuz impacting oil supply.
+
+### 2. KEY RISK SIGNALS
+
+**Supply (Production/Upstream) | Production Shortfall | Severity: High**
+- **Headline:** Australia’s Fuels Dependence Turns Into a Crisis
+- **What happened:** Australia is experiencing a crisis due to disruptions in fuel imports, leading to a scramble for fuel despite its resource-rich endowment.
+- **Market impact:** This situation indicates a significant production shortfall, which can push prices higher due to reduced supply in the face of demand.
+- **Sentiment contribution:** Bullish — the crisis elevates concerns about supply stability, thus raising prices [Article 1].
+
+---
+
+**Geopolitics & Policy | Geopolitical Conflict | Severity: High**
+- **Headline:** Brent Surges Past $110 on Iran Rejection
+- **What happened:** Tensions over the Strait of Hormuz have escalated as Iran rejects U.S. negotiation terms, which is pushing Brent crude prices above $110.
+- **Market impact:** Increased geopolitical conflict directly affects trader sentiment and market volatility, leading to potential price spikes and broader market anxiety.
+- **Sentiment contribution:** Bullish — the conflict intensifies concerns about supply routes and stability [Article 2].
+
+---
+
+**Geopolitics & Policy | Geopolitical Conflict | Severity: High**
+- **Headline:** Oil Traders Caught Between Diplomacy and Disruption Risk
+- **What happened:** Ongoing diplomatic tensions with Iran are causing significant price fluctuations and intraday trading volatility in WTI crude oil markets.
+- **Market impact:** This atmosphere of unpredictability raises risk premiums in the market, further solidifying a bullish outlook as traders brace for potential price spikes.
+- **Sentiment contribution:** Bullish — geopolitical uncertainty is forcing traders to adopt a more cautious stance that inflates prices [Article 3].
+
+---
+
+**Supply (Production/Upstream) | Production Shortfall | Severity: High**
+- **Headline:** The Cushion Is Gone and the Oil Market Is Now Exposed
+- **What happened:** The global oil market is experiencing significant stress due to the largest supply disruption in history, suggesting that previous buffers have been depleted.
+- **Market impact:** This exposure can lead to heightened price volatility and market reactions as traders respond to decreased supply resilience.
+- **Sentiment contribution:** Bullish — the lack of protective buffers in the market heightens risk perceptions and can drive prices up [Article 4].
+
+### 3. SIGNAL SYNTHESIS
+The risk signals highlight a predominant concern over supply disruptions both domestically in Australia and internationally due to geopolitical conflicts. All signals are aligned emphasizing a high-risk environment for crude oil as geopolitical tensions exacerbate supply vulnerabilities. The sentiment driving price movements appears fundamentally supported given the severity of the risks outlined.
+
+### 4. WATCH LIST
+- [ ] **Iran-U.S. negotiations** → A breakthrough could stabilize prices; failure may escalate tensions and prices further.
+- [ ] **Australian import recovery** → Any significant improvement in Australia’s fuel import situation could reduce prices.
+- [ ] **Strait of Hormuz developments** → New measures or escalations in conflict could drastically affect oil flow and prices.
+
+### 5. BOTTOM LINE
+**Risk Level: High**  
+The crude oil market is currently under significant pressure from both geopolitical tensions and domestic supply shortages in Australia, resulting in elevated prices and increased market volatility. Risk managers should monitor the evolving geopolitical landscape closely, as ongoing conflicts could lead to further strain on supply chains and price surges.

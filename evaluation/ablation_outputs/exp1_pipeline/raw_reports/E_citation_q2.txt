@@ -1,0 +1,46 @@
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+## COMMODITY RISK REPORT
+**Commodity:** LNG  
+**Report Date:** 2026-04-11  
+**Articles Analysed:** 5 articles  
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+### 1. OVERALL SENTIMENT
+**Bullish**  
+The prevailing sentiment is bullish, primarily driven by the significant growth in LNG demand as forecasted by Cheniere's CEO, alongside capacity constraints at U.S. export facilities [Article 1].
+
+---
+### 2. KEY RISK SIGNALS
+
+**LNG & Natural Gas | Supply Chain Blockage | Severity: High**
+- **Headline:** Cheniere’s CEO Sees LNG Demand Growing Exponentially, with Volatile Market Even Tighter in Future
+- **What happened:** Cheniere Energy's CEO indicated that LNG demand has surged since the COVID-19 pandemic and will continue to grow, with current capacity at U.S. export facilities fully booked through the 2040s [Article 1].
+- **Market impact:** This scenario poses a risk of supply chain blockage due to heightened demand and existing capacity limits, potentially exacerbating high gas prices in Europe.
+- **Sentiment contribution:** Bullish — the strong demand outlook offsets potential supply constraints, maintaining upward pressure on prices.
+
+**LNG & Natural Gas | No Significant Risk | Severity: Low**
+- **Headline:** Cheniere Energy inks contract to begin construction of next stage of Corpus Christi plant
+- **What happened:** Cheniere signed a contract to expand its Corpus Christi LNG facility as a response to high global energy exports demand [Article 2].
+- **Market impact:** The expansion signals proactive measures to increase supply and reduce future supply risks.
+- **Sentiment contribution:** Neutral — this development does not immediately alter the supply/demand balance but indicates future capacity enhancement.
+
+**Geopolitics & Policy | Geopolitical Conflict | Severity: High**
+- **Headline:** Shell Says It Will Stop Buying Russian Oil, Natural Gas
+- **What happened:** Shell announced it would cease purchases of Russian oil and natural gas amid the ongoing geopolitical tensions following Russia's actions in Ukraine [Article 4].
+- **Market impact:** This decision may tighten global supply further, contributing to price volatility and increasing reliance on LNG alternatives.
+- **Sentiment contribution:** Bearish — the withdrawal from Russian energy sources increases global uncertainty and can lead to inflated prices.
+
+---
+### 3. SIGNAL SYNTHESIS
+The risk signals present mixed dynamics where the strong demand growth and expansion of production capacity are countered by geopolitical tensions and supply chain concerns. While the expansion of LNG facilities suggests a future alleviation of supply constraints, geopolitical events are introducing high volatility and potential for increased costs. This creates a complex environment where risks are linked both to sentiment and fundamental constraints.
+
+---
+### 4. WATCH LIST
+- [ ] **Monitoring U.S. LNG production levels** → An increase would alleviate some supply pressures and support bearish sentiment.
+- [ ] **Geopolitical developments related to Ukraine** → Escalating tensions could heighten supply risks and contribute to price surges.
+- [ ] **European energy policy changes regarding Russian gas** → Shifts could spur increased LNG demand, enhancing bullish sentiment further.
+  
+---
+### 5. BOTTOM LINE
+**Risk Level: High**  
+Current risks are pronounced due to geopolitical conflicts and potential supply chain blockages amid a backdrop of strong demand growth for LNG. While some developments may alleviate future risks, there remains significant uncertainty influenced by geopolitical dynamics; traders should remain cautious and vigilant.

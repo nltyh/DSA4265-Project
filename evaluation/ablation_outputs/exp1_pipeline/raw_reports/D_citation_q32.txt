@@ -1,0 +1,54 @@
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+## COMMODITY RISK REPORT
+**Commodity:** crude oil  
+**Report Date:** 2026-04-11  
+**Articles Analysed:** 5 articles  
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+### 1. OVERALL SENTIMENT
+**Bullish**  
+Hess Corp.'s significant year-on-year increase in crude oil production from Guyana points towards a strengthening supply outlook, contributing to a positive market sentiment despite existing refining challenges faced by other companies.
+
+---
+
+### 2. KEY RISK SIGNALS
+
+**Supply (Production/Upstream) | Production Shortfall | Severity: High**  
+- **Headline:** Hess Doubles Guyana Oil Output  
+- **What happened:** Hess Corp. increased its net oil production in Guyana by 52% year-on-year to 195,000 bpd in Q4 2024, thus enhancing its total production capabilities and reserves [Article 1].  
+- **Market impact:** This increase in output is likely to bolster supply, potentially stabilizing or lowering prices.  
+- **Sentiment contribution:** Bullish — the growth in production suggests a replenished supply, positively influencing traders' outlook.
+
+---
+
+**Financial Flows/Positioning | No Significant Risk | Severity: Low**  
+- **Headline:** ExxonMobil Announces 2024 Results  
+- **What happened:** ExxonMobil achieved record production and robust earnings, reporting a strong financial performance in 2024 without significant risk factors affecting its operations [Article 2].  
+- **Market impact:** The strong performance of ExxonMobil reflects industry resilience and contributes to a stable market environment for crude oil.  
+- **Sentiment contribution:** Neutral — while performance is strong, it does not exert pressure on market prices either positively or negatively.
+
+---
+
+**Refining (Downstream) | Refining Outage | Severity: Medium**  
+- **Headline:** Phillips 66 Q4 profit plunges, shares fall on weak refining margins  
+- **What happened:** Phillips 66 reported a $775 million loss in its refining unit due to weak margins, leading to a significant drop in quarterly profit [Article 5].  
+- **Market impact:** The refining sector's weakness may create bottlenecks in delivering refined products, indirectly influencing crude prices.  
+- **Sentiment contribution:** Bearish — concerns over refining margins may lead to reduced demand for crude oil as refiners scale back operations.
+
+---
+
+### 3. SIGNAL SYNTHESIS
+The signals present a mixed landscape; while Hess's production increase contributes bullish sentiment towards crude supply, Phillips 66's refining losses create a bearish undertone. Overall, the market appears to lean bullish due to the substantial production increase, although the refining sector's challenges present a cautionary element.
+
+---
+
+### 4. WATCH LIST
+- [ ] Ongoing trends in refining margins → a recovery could stabilize the market and mitigate bearish sentiment.  
+- [ ] Hess's ongoing production consistency in 2025 → continued output growth will strengthen bullish sentiment.  
+- [ ] Impact of geopolitical developments on production in Guyana → disruptions can alter production forecasts.  
+
+---
+
+### 5. BOTTOM LINE
+**Risk Level: Medium**  
+The remarkable increase in production from Hess is a key bullish signal; however, the bearish influence of declining refining margins necessitates close monitoring. The market remains sensitive to changes in both supply adjustments and refining dynamics.

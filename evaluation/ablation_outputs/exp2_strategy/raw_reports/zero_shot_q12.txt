@@ -1,0 +1,62 @@
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+## COMMODITY RISK REPORT
+**Commodity:** crude oil  
+**Report Date:** 2023-02-28  
+**Articles Analyzed:** 5 articles  
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+### 1. OVERALL SENTIMENT
+**Mixed**  
+> The sentiment is mixed due to significant infrastructure risks highlighted by the Groningen inquiry, which emphasizes long-term supply challenges, and adverse weather conditions from Tropical Storm Freddy, which may impact operations.
+
+---
+
+### 2. KEY RISK SIGNALS
+
+**Geopolitics & Policy | Infrastructure Damage | Severity: High**
+- **Headline:** Dutch gov't, Shell and Exxon ignored Groningen risks for years, inquiry finds
+- **What happened:** A parliamentary inquiry revealed that the Dutch government and energy companies neglected the risks associated with gas production in Groningen, leading to infrastructure damage and community distress.
+- **Market impact:** This could create long-term supply constraints and increased regulatory scrutiny, potentially affecting price stability.
+- **Sentiment contribution:** Bearish — due to the potential negative implications for future production.
+
+---
+
+**Weather | Weather Extremity | Severity: Medium**
+- **Headline:** Storm Freddy could strike Sasol natural gas operations
+- **What happened:** Severe tropical storm Freddy is expected to impact natural gas operations in Mozambique, causing port closures and other operational disruptions.
+- **Market impact:** The storm could disrupt supply chains, leading to short-term price fluctuations and supply uncertainties.
+- **Sentiment contribution:** Bearish — as the storm threatens to worsen supply conditions.
+
+---
+
+**Supply (Production/Upstream) | Production Shortfall | Severity: Medium**
+- **Headline:** Chevron to update production targets during investor day
+- **What happened:** Chevron is set to announce its adjusted production targets amid challenges in key production areas, implying possible shortfalls.
+- **Market impact:** If production targets are lowered, it could lead to supply reductions that impact market prices.
+- **Sentiment contribution:** Bearish — uncertainty around production capacity adds to overall risks.
+
+---
+
+**Supply (Production/Upstream) | No Significant Risk | Severity: Low**
+- **Headline:** EOG Resources Says Low Natgas Prices Not Changing Drilling Plan
+- **What happened:** EOG Resources signals no change to its drilling strategy despite falling natural gas prices.
+- **Market impact:** This indicates steadiness in production levels in the face of pricing challenges, which may mitigate overall risk to supply.
+- **Sentiment contribution:** Neutral — stability from EOG counterbalances the risk from other factors.
+
+---
+
+### 3. SIGNAL SYNTHESIS
+The key signals present both aligned and contradictory risks. While the Groningen inquiry and Storm Freddy pose significant threats to supply and infrastructure, EOG Resources' stability mitigates some supply risk. The overall sentiment reflects bearish pressures amid uncertainties impacting future supply levels.
+
+---
+
+### 4. WATCH LIST
+- [ ] Monitor further developments from the Groningen inquiry → it could lead to increased regulation or operational restrictions in the area.
+- [ ] Track the impact of Tropical Storm Freddy on supply operations → significant disruption could lead to sharp short-term price spikes.
+- [ ] Observe Chevron's production updates → any cut in production targets could strain the market further.
+
+---
+
+### 5. BOTTOM LINE
+**Risk Level: Medium**  
+There are notable infrastructure and operational risks that could weigh on crude oil supply in the near term, partly due to extreme weather events. Vigilance is required, particularly regarding the outcomes from the Groningen inquiry and the effects of Storm Freddy on operations. The signals suggest a cautious approach to strategies in the current environment.

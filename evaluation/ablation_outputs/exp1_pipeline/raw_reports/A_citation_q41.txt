@@ -1,0 +1,75 @@
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  
+## COMMODITY RISK REPORT  
+**Commodity:** crude oil  
+**Report Date:** 2026-04-11  
+**Articles Analysed:** 1 article  
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  
+
+### 1. OVERALL SENTIMENT  
+**Bullish**  
+The sentiment is predominantly bullish due to increased tension in the Strait of Hormuz, pushing Brent crude prices above $110 following Iran's rejection of U.S. terms for negotiations, indicating potential supply constraints and higher prices ahead [Article 1].
+
+---  
+### 2. KEY RISK SIGNALS  
+**Geopolitics & Policy | Geopolitical Conflict | Severity: High**  
+- **Headline:** Brent Surges Past $110 on Iran Rejection  
+- **What happened:** Iran's rejection of U.S. negotiation terms has intensified the geopolitical standoff in the Strait of Hormuz, a critical shipping route for oil.  
+- **Market impact:** This situation can lead to supply disruptions and heightened prices for crude oil as tensions escalate.  
+- **Sentiment contribution:** Bullish — the market response suggests expectations of tighter supply amid geopolitical risks [Article 1].  
+
+---  
+### 3. SIGNAL SYNTHESIS  
+The risk signal from geopolitical conflict aligns with market sentiment, as the rejection of U.S. terms has led to price spikes. This sentiment is confirmed by the fundamentals of the situation, suggesting increased exposure to price volatility and potential supply chain issues.
+
+---  
+### 4. WATCH LIST  
+- [ ] Developments in U.S.-Iran negotiations → A successful agreement could ease tensions and stabilize prices.  
+- [ ] Changes in naval patrols in the Strait of Hormuz → Increased military presence could either deter disruptions or escalate conflict.  
+- [ ] Brent crude price movements above $110 → Sustained high prices may indicate ongoing supply concerns.  
+
+---  
+### 5. BOTTOM LINE  
+**Risk Level: High**  
+Traders and risk managers should be cognizant of the high-risk geopolitical landscape affecting crude oil prices, with potential volatility expected as tensions persist.  
+
+---
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  
+## COMMODITY RISK REPORT  
+**Commodity:** diesel  
+**Report Date:** 2026-04-11  
+**Articles Analysed:** 3 articles  
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  
+
+### 1. OVERALL SENTIMENT  
+**Mixed**  
+The sentiment is mixed due to the occurrence of a refinery outage which raises concerns for supply stability, while regulatory developments show no significant risk in the long-term.
+
+---  
+### 2. KEY RISK SIGNALS  
+**Regulatory Constraint | No Significant Risk | Severity: Low**  
+- **Headline:** Marathon's El Paso oil refinery air permit renewed by TCEQ over many objections  
+- **What happened:** Marathon's air permit for its El Paso refinery has been renewed for another 10 years despite public objections.  
+- **Market impact:** The renewal suggests stability for the refinery's operations in the near term, with minimal expected disruptions.  
+- **Sentiment contribution:** Neutral — the permit renewal reflects regulatory stability without positively or negatively impacting diesel supply significantly [Article 2].  
+
+**Refining (Downstream) | Refining Outage | Severity: Medium**  
+- **Headline:** PBF Energy partially restarts Martinez refinery, posts smaller-than-expected quarterly loss  
+- **What happened:** PBF Energy's Martinez refinery faces a refining outage due to a previous fire and is currently operating at reduced capacity.  
+- **Market impact:** The partial restart at reduced capacity may constrain diesel supply, affecting market prices.  
+- **Sentiment contribution:** Bearish — reduced capacity could lead to lower supply availability for diesel, impacting market dynamics negatively [Article 4].  
+
+---  
+### 3. SIGNAL SYNTHESIS  
+The mixed signals stem from the contrasting scenarios of regulatory stability versus potential supply disruptions due to refinery outages. While the renewed permit suggests stable operations, the partial restart and reduced capacity lead to concerns regarding supply adequacy, indicating an overall cautious approach to diesel risk exposure.
+
+---  
+### 4. WATCH LIST  
+- [ ] Full restart timeline for the Martinez refinery → A delay in full capacity could sustain bearish sentiment in the diesel market.  
+- [ ] Refinery capacity utilization rates → Low utilization could indicate weakening supply and rising prices.  
+- [ ] Regulatory changes impacting other diesel refineries → New regulations could either ease or tighten operational conditions for refineries.  
+
+---  
+### 5. BOTTOM LINE  
+**Risk Level: Medium**  
+Risk managers should monitor refinery operational statuses closely as the outcomes could significantly shift diesel supply dynamics, making the current sentiment fragile amid contrasting regulatory and operational landscapes.

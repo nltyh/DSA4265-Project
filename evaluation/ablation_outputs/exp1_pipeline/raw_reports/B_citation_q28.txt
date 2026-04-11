@@ -1,0 +1,52 @@
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+## COMMODITY RISK REPORT
+**Commodity:** crude oil  
+**Report Date:** 2026-04-11  
+**Articles Analysed:** 5 articles  
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+### 1. OVERALL SENTIMENT
+**Bearish**  
+The recent auction win by Elliott Investment Management for CITGO, though significant, falls short of prior valuations and indicates ongoing complexities in Venezuela's oil governance, which negatively influences market sentiment around crude oil prices.
+
+---
+### 2. KEY RISK SIGNALS
+
+**Geopolitics & Policy | Geopolitical Conflict | Severity: High**
+- **Headline:** Venezuela: Vulture Fund Elliott Chosen as Winner of CITGO Court-Mandated Auction
+- **What happened:** Elliott Investment Management secured the winning bid for CITGO at $7.286 billion, below the total claims against Venezuela and earlier valuations.
+- **Market impact:** The limited valuation may erode confidence in Venezuela's oil sector stability, potentially leading to price declines in crude oil.
+- **Sentiment contribution:** Bearish — investors view this as a sign of ongoing instability within Venezuelan oil management and governance.
+
+**Geopolitics & Policy | Geopolitical Conflict | Severity: High**
+- **Headline:** Venezuela: ConocoPhillips Targets CITGO as Opposition Authorities Try to Stall Auction
+- **What happened:** ConocoPhillips aims to participate in the CITGO auction to recover on an $8.5 billion arbitration award amidst claims of stalling by US-backed Venezuelan authorities.
+- **Market impact:** Diverse lawsuits and complicated financial scenarios around CITGO could directly impact production and export flows of Venezuelan oil, contributing to market uncertainty.
+- **Sentiment contribution:** Bearish — the legal entanglements undermine confidence in stable production and exports.
+
+**Geopolitics & Policy | Geopolitical Conflict | Severity: High**
+- **Headline:** Venezuela: ConocoPhillips Closer to Seizing CITGO Shares over Massive Award
+- **What happened:** A U.S. judicial ruling favors ConocoPhillips, providing it with a potential path to seize CITGO shares.
+- **Market impact:** This legal direction increases the potential for further fragmentation of Venezuela's oil assets, which is likely to create instability surrounding crude oil supply.
+- **Sentiment contribution:** Bearish — the continuous legal challenges signal that Venezuela's oil assets may face significant operational and financial disruptions.
+
+**Geopolitics & Policy | Geopolitical Conflict | Severity: High**
+- **Headline:** Trinidad court recognizes ConocoPhillips' $1.3 bln claim against Venezuela
+- **What happened:** A Trinidad court has acknowledged ConocoPhillips' claim for past expropriations, complicating Venezuela's offshore gas ventures.
+- **Market impact:** This decision could exacerbate tensions around Venezuela's oil and gas operations, further restricting operational capacity.
+- **Sentiment contribution:** Bearish — increased legal pressures indicate a turbulent operating environment, which may hinder oil supply.
+
+---
+### 3. SIGNAL SYNTHESIS
+The risk signals are aligned, presenting a consistent bearish outlook driven by geopolitical conflicts and ongoing legal battles surrounding CITGO and Venezuelan oil assets. The context of these risks is fundamentally rooted in the complications of oil governance in Venezuela, leading to uncertainty in supply and pricing for crude oil.
+
+---
+### 4. WATCH LIST
+- [ ] **Follow developments in CITGO's ownership** → a stable ownership structure could restore confidence and support prices.
+- [ ] **Monitor further legal actions involving ConocoPhillips and other creditors** → significant legal victories could increase market instability.
+- [ ] **Assess the impact of U.S. policy shifts on Venezuelan oil exports** → any new sanctions or permits could greatly affect supply dynamics.
+
+---
+### 5. BOTTOM LINE
+**Risk Level: High**  
+The environment surrounding Venezuelan crude oil is marked by high geopolitical risks, particularly relating to governance and legal challenges. Risk managers should be particularly vigilant as the judicial outcomes continue to shape market perceptions and operational capacities in the Venezuelan oil sector.

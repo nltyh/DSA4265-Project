@@ -1,0 +1,62 @@
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+## COMMODITY RISK REPORT
+**Commodity:** LNG  
+**Report Date:** 2026-04-11  
+**Articles Analysed:** 5 articles  
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+### 1. OVERALL SENTIMENT
+**Bearish**  
+The overall sentiment is bearish due to geopolitical conflicts impacting supply flows and a diminishing narrative of LNG abundance, which suggests a tightening of market conditions.
+
+---
+
+### 2. KEY RISK SIGNALS
+
+**LNG & natural gas | Geopolitical Conflict | Severity: High**  
+- **Headline:** Ras Laffan Attack Shatters Illusion of Global Gas Abundance  
+- **What happened:** The attack at Ras Laffan has disrupted the perception of an abundant LNG supply landscape, which has persisted for two years.  
+- **Market impact:** This could lead to elevated prices as the perception shifts from abundance to potential shortages due to geopolitical tensions.  
+- **Sentiment contribution:** Bearish — as the illusion of abundance is broken, leading to fear of supply constraints [Article 1].
+
+---
+
+**LNG & natural gas | No Significant Risk | Severity: Low**  
+- **Headline:** QatarEnergy Brings U.S. LNG Online Amid Ras Laffan Fallout  
+- **What happened:** Despite the fallout from the Ras Laffan incident, QatarEnergy successfully brought the Golden Pass LNG project online.  
+- **Market impact:** This addition to U.S. LNG supply may provide some relief to the potential tightening market.  
+- **Sentiment contribution:** Neutral — it presents a counterbalance to the bearish sentiment from previous conflicts, but the overall risk of supply instability remains [Article 2].
+
+---
+
+**LNG & natural gas | Supply Chain Blockage | Severity: Medium**  
+- **Headline:** Seasonal Demand Swings, Increasing LNG Supplies Pose Risks for U.S. Feed Gas Demand in 2026  
+- **What happened:** Increased LNG feed gas demand in the U.S. could be subject to volatility due to seasonal demand fluctuations and a wave of new supply.  
+- **Market impact:** This scenario can lead to instability in pricing as supplies may not meet the possible demand peaks.  
+- **Sentiment contribution:** Bearish — the potential for supply chain blockage amidst shifting demand trends poses risks [Article 3].
+
+---
+
+**Geopolitics & policy | Geopolitical Conflict | Severity: High**  
+- **Headline:** Middle East War Could Push West Canada’s LNG Projects Forward  
+- **What happened:** The ongoing conflict in the Middle East is leading to strategic shifts favoring increased LNG exports from Western Canada.  
+- **Market impact:** This could potentially alleviate some supply pressures in the market if Western Canada can scale up exports rapidly.  
+- **Sentiment contribution:** Bearish — while there is an opportunity for new supply, the geopolitical nature of the conflict adds significant risk to overall market stability [Article 4].
+
+---
+
+### 3. SIGNAL SYNTHESIS
+The risk signals are generally aligned in highlighting geopolitical tensions as the primary concern for LNG markets, leading to a bearish sentiment. While there are signals of new supply coming online, such as the Golden Pass LNG project, the overarching risks from geopolitical conflicts counterbalance these positive developments, indicating a fragile market environment.
+
+---
+
+### 4. WATCH LIST
+- [ ] Monitor developments in the Middle East conflict → If the situation escalates, it may lead to further supply disruptions or price spikes.
+- [ ] Track the operational status of the Golden Pass LNG project → Successful ramp-up could provide supply relief amidst geopolitical tensions.
+- [ ] Observe U.S. feed gas demand trends → Significant fluctuations could indicate supply chain vulnerabilities affecting market conditions.
+
+---
+
+### 5. BOTTOM LINE
+**Risk Level: High**  
+Risk managers should be alert to heightened geopolitical tensions affecting LNG markets, as the narrative of abundance is seriously challenged. The market is vulnerable to any new developments in the Middle East that could disrupt supply further.

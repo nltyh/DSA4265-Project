@@ -1,0 +1,34 @@
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+## COMMODITY RISK REPORT
+**Commodity:** LNG  
+**Report Date:** 2022-07-26  
+**Articles Analysed:** 1 article  
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+### 1. OVERALL SENTIMENT
+**Bullish**  
+> The market sentiment is bullish as U.S. natural gas futures surged to a seven-week high, driven by various demand factors and geopolitical concerns, indicating upward pressure on prices.
+
+---
+### 2. KEY RISK SIGNALS
+
+**LNG & Natural Gas | Demand / Macro Activity | Severity: High**
+- **Headline:** U.S. natgas up 3% after hitting 14-yr high ahead of contract rollover
+- **What happened:** U.S. natural gas futures rose by about 3% due to forecasts for hotter weather, increased demand, and concerns about Russian gas supplies to Europe, coinciding with the expiration of the August delivery contract.
+- **Market impact:** The surge in prices reflects heightened demand in the face of geopolitical tensions and supply concerns, driving U.S. LNG prices up significantly.
+- **Sentiment contribution:** Bullish — driven by increased demand and market volatility influenced by geopolitical factors [Article 1].
+
+---
+### 3. SIGNAL SYNTHESIS
+The risk signals are currently aligned, presenting a clear bullish sentiment driven by increased demand amid supply concerns from geopolitical issues. This indicates a strong market perception of upward pricing pressures.
+
+---
+### 4. WATCH LIST
+- [ ] **Weather forecasts** → A particularly hot summer could further boost demand for natural gas for cooling, potentially pushing prices higher.
+- [ ] **Russian gas supply levels** → Any disruptions or changes in Russian gas supply to Europe might elevate demand for U.S. LNG, affecting price dynamics.
+- [ ] **Freeport LNG export facility status** → Updates on the operational capacity and reliability of Freeport LNG could significantly impact export capabilities and pricing.
+
+---
+### 5. BOTTOM LINE
+**Risk Level: High**  
+Current market dynamics suggest elevated risk due to demand pressures and geopolitical influences affecting supply. Traders should be prepared for potential volatility in LNG prices, particularly as weather patterns and international developments unfold.

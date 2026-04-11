@@ -1,0 +1,48 @@
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+## COMMODITY RISK REPORT
+**Commodity:** crude oil  
+**Report Date:** 2026-04-11  
+**Articles Analysed:** 5 articles  
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+### 1. OVERALL SENTIMENT
+**Bearish**  
+The primary sentiment reflects bearish indicators due to escalating geopolitical risks, particularly Houthi attacks targeting shipping routes linked to Greek-operated vessels, which pose a threat to supply stability.
+
+### 2. KEY RISK SIGNALS
+
+**Shipping & Logistics | Geopolitical Conflict | Severity: High**
+- **Headline:** Behind Houthi Attacks on Ships Operated by Greece-Based Companies
+- **What happened:** The Houthis have intensified their attacks on vessels linked to Greece since late April, with potential implications for any shipping companies involved with Israeli ports [Article 1].
+- **Market impact:** This situation can disrupt crude oil shipping routes, increasing supply chain blockage risks, possibly leading to higher crude prices due to perceived supply instability.
+- **Sentiment contribution:** Bearish — heightened risks are likely to suppress market confidence and investor sentiment due to fears of significant disruptions.
+
+**Financial Flows/Positioning | No Significant Risk | Severity: Low**
+- **Headline:** 2024 Annual Shareholder Meeting
+- **What happened:** Exxon Mobil Corporation held its annual meeting with no significant announcements or changes impacting the market [Article 2].
+- **Market impact:** Neutral to crude oil prices since the meeting did not introduce any new risks or opportunities.
+- **Sentiment contribution:** Neutral — this does not alter market dynamics significantly.
+
+**Supply (Production/Upstream) | No Significant Risk | Severity: Low**
+- **Headline:** ADNOC, Aramco said to mull bids for Shell South Africa assets
+- **What happened:** ADNOC and Aramco are reportedly considering bids for Shell’s South Africa assets valued over $800 million, amidst industry consolidation [Article 3].
+- **Market impact:** While this indicates strategic positioning in the industry, it does not create immediate risk factors in crude oil supply.
+- **Sentiment contribution:** Neutral — the activity represents ongoing industry consolidation without impacting supply directly.
+
+**Geopolitics & Policy | Regulatory Constraint | Severity: Medium**
+- **Headline:** Another Big Oil Deal Despite Regulatory Pushback and Market Volatility
+- **What happened:** ConocoPhillips agreed to acquire Marathon Oil amid regulatory challenges [Article 4].
+- **Market impact:** The deal reflects consolidation but can contribute to supply concerns, depending on regulatory approvals which may take time to resolve.
+- **Sentiment contribution:** Bearish — regulatory constraints may hinder operational efficiencies and market fluidity.
+
+### 3. SIGNAL SYNTHESIS
+The key risk signals show a predominantly bearish outlook primarily driven by geopolitical conflict concerning Houthi attacks on shipping routes. Other signals related to financial positioning and upstream activities reflect either negligible risks or neutral impacts. Thus, the cumulative effect indicates heightened risks in supply stability, driven by current geopolitical tensions.
+
+### 4. WATCH LIST
+- [ ] Monitor developments regarding Houthi attacks on shipping; increased frequency could lead to significant supply disruptions.
+- [ ] Watch for regulatory outcomes related to the ConocoPhillips and Marathon Oil acquisition; failure to secure approvals may impact general market confidence.
+- [ ] Track announcements from Exxon Mobil that may hint at future supply changes or operational strategies that could impact prices.
+
+### 5. BOTTOM LINE
+**Risk Level: High**  
+The sharp increase in geopolitical risks—especially attacks on shipping—heightens vulnerability within crude oil supply chains, representing a significant concern for risk managers addressing potential price volatility and supply disruptions.

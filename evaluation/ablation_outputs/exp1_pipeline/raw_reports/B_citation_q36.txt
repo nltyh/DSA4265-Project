@@ -1,0 +1,36 @@
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+## COMMODITY RISK REPORT
+**Commodity:** LNG  
+**Report Date:** 2026-04-11  
+**Articles Analysed:** 5 articles  
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+### 1. OVERALL SENTIMENT
+**Bearish**  
+The sentiment is primarily bearish due to maintenance at Cheniere Energy's Sabine Pass LNG plant, which is projected to reduce U.S. LNG output and affect global prices negatively as supply tightens [Article 1].
+
+### 2. KEY RISK SIGNALS
+
+**LNG & Natural Gas | Supply Chain Blockage | Severity: High**
+- **Headline:** Cheniere Energy says maintenance work begun on Sabine Pass LNG plant  
+- **What happened:** Cheniere Energy has commenced annual maintenance at its Sabine Pass LNG plant in Texas, which is expected to significantly reduce U.S. LNG output for the coming weeks [Article 1].  
+- **Market impact:** This reduction in output may lead to higher global LNG prices due to diminished supply [Article 1].  
+- **Sentiment contribution:** Bearish — the maintenance work will limit supply, which is likely to put upward pressure on prices in a demand-focused market [Article 1].
+
+**LNG & Natural Gas | Supply Chain Blockage | Severity: Medium**
+- **Headline:** U.S. LNG exports help fill supply gap  
+- **What happened:** The ongoing geopolitical tensions, particularly due to the war in Ukraine, have resulted in heightened demand for LNG, compelling U.S. exporters to expand their operations [Article 4].  
+- **Market impact:** Increased demand may counterbalance some of the bearish effects of reduced supply, but the strained supply chain could still lead to price volatility [Article 4].  
+- **Sentiment contribution:** Neutral — while demand is increasing, the simultaneous reduction in supply due to maintenance creates a complex market scenario [Article 4, 1].
+
+### 3. SIGNAL SYNTHESIS
+The risk signals indicate a primarily bearish outlook supported by a significant supply chain blockage due to maintenance at the Sabine Pass LNG plant. While there is a concurrent increase in demand due to geopolitical factors, it does not entirely negate the impact of reduced supply. Thus, the net effect on LNG price is bearish, driven by reduced exports.
+
+### 4. WATCH LIST
+- [ ] Completion of maintenance at Sabine Pass → This would restore full U.S. LNG export capacity and likely stabilize prices.
+- [ ] Changes in geopolitical tensions affecting LNG demand → Any escalation could significantly impact pricing and export strategy.
+- [ ] New LNG agreements signed by other exporters → This could shift market dynamics and competitiveness against U.S. LNG.
+
+### 5. BOTTOM LINE
+**Risk Level: High**  
+The immediate risk to LNG supply is high due to scheduled maintenance at a key export facility. Risk managers should closely monitor the effects of this maintenance on global prices and demand levels.

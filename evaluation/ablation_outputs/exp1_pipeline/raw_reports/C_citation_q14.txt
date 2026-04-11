@@ -1,0 +1,42 @@
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+## COMMODITY RISK REPORT
+**Commodity:** diesel, crude oil  
+**Report Date:** 2023-01-31  
+**Articles Analysed:** 5 articles  
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+### 1. OVERALL SENTIMENT
+**Bullish**  
+The sentiment is primarily bullish as U.S. refiners expect the EU's ban on Russian fuel to sustain high profit margins, thereby supporting crude oil and diesel prices [Article 1]. This optimism is reinforced by Exxon's record profits attributed to strong demand and price stability in the sector [Article 4].
+
+### 2. KEY RISK SIGNALS
+
+**Refining (downstream) | No Significant Risk | Severity: Low**  
+- **Headline:** U.S. refiners expect Russian fuel sanctions to keep margins high  
+- **What happened:** U.S. oil refiners are anticipating sustained high profit margins through 2023 due to an upcoming EU ban on Russian fuel imports.  
+- **Market impact:** The expected tight fuel supply may lead to increased margins for refiners, influencing prices positively for crude oil and diesel.  
+- **Sentiment contribution:** Bullish — expectations of high margins suggest strong market confidence in the refining sector [Article 1].
+
+**LNG & natural gas | Supply Chain Blockage | Severity: Medium**  
+- **Headline:** LNG imports to China tumble 20% in 2022  
+- **What happened:** China's LNG imports dropped significantly due to strict Covid-19 restrictions and a shift toward domestic production and pipeline supplies.  
+- **Market impact:** This may indirectly affect the crude oil market by reducing overall energy demand in a major market and leading to a reallocation of energy sources.  
+- **Sentiment contribution:** Bearish — reduced LNG demand from China could cause a ripple effect on crude oil prices as market players prioritize different energy sources for consumption [Article 3].
+
+**Financial flows / positioning | No Significant Risk | Severity: Low**  
+- **Headline:** Exxon posts record $56bn profit for 2022 in historic high for western oil industry  
+- **What happened:** ExxonMobil reported record profits driven by high oil prices and demand.  
+- **Market impact:** High profits might lead to increased investments and production in the crude oil sector, supporting price stability.  
+- **Sentiment contribution:** Bullish — positive market dynamics indicate strong fundamentals in the crude oil sector [Article 4].
+
+### 3. SIGNAL SYNTHESIS
+The risk signals are largely aligned, with bullish sentiments from U.S. refiners' margins and Exxon's profits being offset slightly by bearish sentiment from decreasing LNG imports in China. The overall outlook suggests robust market fundamentals with some caution due to shifting demand patterns. The net effect indicates a favorable commodity risk exposure for crude oil and diesel.
+
+### 4. WATCH LIST
+- [ ] **Monitoring EU's enforcement of Russian fuel embargo** → If strictly enforced, it could strengthen refining margins and push crude oil prices higher.
+- [ ] **Developments in China's domestic natural gas production** → Increased domestic production might further reduce LNG imports, impacting overall energy demand.
+- [ ] **Potential changes in U.S. energy policy that affect oil taxes** → Any introduction of windfall profit taxes may affect reinvestment strategies of oil majors like Exxon.
+
+### 5. BOTTOM LINE
+**Risk Level: Medium**  
+The overall risk level is assessed as medium due to potential supply chain blockages from China affecting demand, despite bullish indicators from the refining sector and strong financial performance from major companies. The signals are somewhat fragile given the shifts in energy dynamics and market strategies.

@@ -1,0 +1,43 @@
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+## COMMODITY RISK REPORT
+**Commodity:** diesel  
+**Report Date:** 2026-04-11  
+**Articles Analysed:** 5 articles  
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+### 1. OVERALL SENTIMENT
+**Bullish**  
+The sentiment is primarily bullish due to expectations of elevated refining margins driven by the EU embargo on Russian fuel products, despite some concerns over future demand fluctuations.
+
+### 2. KEY RISK SIGNALS
+
+**Refining (downstream) | Macro-Economic Cooling | Severity: Medium**  
+- **Headline:** CRAK ETF: EU Embargo On Russian Fuel Products A Tailwind  
+- **What happened:** The EU has implemented an embargo on Russian fuel products that is expected to enhance the profitability of global oil refiners.  
+- **Market impact:** This is likely to result in improved margins for refiners, providing support for diesel prices amidst ongoing demand from exports.  
+- **Sentiment contribution:** Bullish — as the embargo boosts profit outlooks for refiners [Article 1].
+
+**Refining (downstream) | No Significant Risk | Severity: Low**  
+- **Headline:** U.S. refiners expect Russian fuel sanctions to keep margins high  
+- **What happened:** U.S. oil refiners forecast sustained high profit margins due to the EU's ban on Russian fuel imports.  
+- **Market impact:** This adds confidence to the market, although it suggests no significant immediate risks to supply availability.  
+- **Sentiment contribution:** Bullish — reflecting optimism around continued strong margins despite geopolitical issues [Article 2].
+
+**Refining (downstream) | Macro-Economic Cooling | Severity: Medium**  
+- **Headline:** U.S. oil refiners to post strong Q1 earnings, but demand outlook dims  
+- **What happened:** While U.S. refiners are expected to report strong earnings, analysts warn of potential demand issues in the second quarter due to declining exports and increased global refinery capacity.  
+- **Market impact:** This presents a conflicting view with the bullish outlook, indicating that future demand might not sustain current margins.  
+- **Sentiment contribution:** Bearish — as the diminishing domestic demand signals potential for future pricing pressure [Article 3].
+
+### 3. SIGNAL SYNTHESIS
+The risk signals present a mixed picture. While the EU embargo presents a bullish outlook by supporting refining margins, concerns about a cooling demand environment in the second quarter raise potential risks. This divergence suggests the sentiment is strongly influenced by current geopolitical developments but is tempered by apprehension about future demand dynamics.
+
+### 4. WATCH LIST
+- [ ] Monitor the EU's stance on the Russian fuel embargo → If the embargo is expanded or solidified, it could further enhance market conditions for diesel.
+- [ ] Track domestic diesel demand trends in the U.S. → A significant increase in demand would strengthen bullish sentiment.
+- [ ] Keep an eye on global refinery output rates → An unexpected surge in capacity could exacerbate demand issues and impact prices negatively.
+- [ ] Observe geopolitical escalations or sanctions on further commodities → This could further influence refining margins and overall fuel supply chains.
+
+### 5. BOTTOM LINE
+**Risk Level: Medium**  
+The most critical point for risk managers is the current bullish sentiment stemming from the EU embargo on Russian fuels, tempered by potential vulnerabilities from waning domestic demand. This situation remains fragile, as future demand trends may contradict current profitability expectations.

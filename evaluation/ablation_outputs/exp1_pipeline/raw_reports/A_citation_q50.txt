@@ -1,0 +1,46 @@
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+## COMMODITY RISK REPORT
+**Commodity:** crude oil  
+**Report Date:** 2026-04-11  
+**Articles Analysed:** 5 articles  
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+### 1. OVERALL SENTIMENT
+**Bullish**  
+> The crude oil market is facing supply chain blockages due to tanker shortages, which are expected to drive up rates and prices in the near term [Article 3].
+
+---
+### 2. KEY RISK SIGNALS
+
+**Shipping & Logistics | Supply Chain Blockage | Severity: High**  
+- **Headline:** Shortage of Oil Tankers at Hand as Red Sea Attacks Divert Trade  
+- **What happened:** Houthi attacks in the Red Sea have caused significant shortages of oil tankers, resulting in increased shipping times and rates.  
+- **Market impact:** This supply chain blockage is expected to restrict the availability of crude oil and elevate prices as tanker owners benefit from the tightening market.  
+- **Sentiment contribution:** Bullish — the attack has led to adverse impacts on logistics, suggesting reduced supply availability.
+
+**Financial Flows / Positioning | No Significant Risk | Severity: Low**  
+- **Headline:** DFLV Top Holdings List & Exposure (Dimensional US Large Cap Value ETF)  
+- **What happened:** The article discusses the holdings of the Dimensional US Large Cap Value ETF, including significant allocations to major crude oil companies.  
+- **Market impact:** This indicates a stable investment interest in crude oil-related equities, contributing positively to market perception.  
+- **Sentiment contribution:** Neutral — while it shows investment interest, it does not indicate significant risks impacting prices.
+
+**Financial Flows / Positioning | No Significant Risk | Severity: Low**  
+- **Headline:** Is It Too Late to Buy CRK?  
+- **What happened:** Comstock Resources has experienced a stock decline attributed to broader market uncertainties and rising production costs.  
+- **Market impact:** Despite the drop, it suggests potential volatility but does not indicate immediate risk to crude oil supply or pricing.  
+- **Sentiment contribution:** Neutral — this reflects individual company fluctuation rather than systemic risk.
+
+---
+### 3. SIGNAL SYNTHESIS
+The key risk signal from shipping and logistics indicates a clear risk of supply chain blockage that is likely to elevate crude oil prices, while other articles present no significant risk factors or negative impacts. The sentiments are mostly confirmed by fundamentals, with logistical issues being the major driving force behind the bullish outlook on crude oil.
+
+---
+### 4. WATCH LIST
+- [ ] **Monitor Houthi attacks** → Further escalations could worsen tanker shortages and significantly inflate prices.
+- [ ] **New tanker deliveries** → The expected delivery of new supertankers in 2024 may improve supply chain dynamics if delays are resolved.
+- [ ] **Fluctuations in global crude production** → Changes in OPEC or market production levels could shift supply equilibrium and impact prices.
+
+---
+### 5. BOTTOM LINE
+**Risk Level: High**  
+The current crude oil market is significantly impacted by supply chain blockages, particularly relating to tanker shortages. The bullish sentiment is primarily driven by logistical disruptions, and a potential escalation in conflict could exacerbate risks further.

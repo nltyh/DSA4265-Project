@@ -1,0 +1,51 @@
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+## COMMODITY RISK REPORT
+**Commodity:** crude oil  
+**Report Date:** 2026-04-11  
+**Articles Analysed:** 5 articles  
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+### 1. OVERALL SENTIMENT
+**Mixed**  
+> The mixed signals arise from regulatory constraints on clean energy projects, which could hinder future supply dynamics, while OPEC+'s decision to increase output suggests an intentional policy to drive prices lower.
+
+---
+### 2. KEY RISK SIGNALS
+
+**[Geopolitics & Policy] | [Regulatory Constraint] | Severity: High**  
+- **Headline:** Exxon's clean hydrogen project hit by Trump budget cuts  
+- **What happened:** The Trump administration cut $3.7 billion in funding for clean energy projects, significantly impacting Exxon's hydrogen complex in Baytown, Texas.  
+- **Market impact:** This decision halts advancements in clean energy, which may lead to increased reliance on conventional crude oil, potentially influencing supply and long-term market dynamics.  
+- **Sentiment contribution:** Bearish — the retreat from clean energy initiatives raises concerns about future investments in renewable technologies that could offset crude oil demand.
+
+---
+
+**[Supply (Production/Upstream)] | [No Significant Risk] | Severity: Low**  
+- **Headline:** OPEC+ Agrees on Third Oil Supply Surge Despite Russia’s Qualms  
+- **What happened:** OPEC+ announced an increase in oil output by 411,000 barrels per day for July, showcasing a shift to prioritize lower prices.  
+- **Market impact:** An increase in supply may exert downward pressure on crude oil prices, indicating a proactive approach to manage market dynamics.  
+- **Sentiment contribution:** Bearish — this decision reflects a significant strategy change towards increased oil supply, minimizing fears of tightening supply that could support price rises.
+
+---
+
+**[Supply (Production/Upstream)] | [No Significant Risk] | Severity: Low**  
+- **Headline:** Chevron to lay off approximately 200 employees in Texas in 2025  
+- **What happened:** Chevron is reducing its workforce by about 200 employees as part of a 20% global workforce reduction strategy.  
+- **Market impact:** While this could influence local operational efficiency, it does not signify immediate supply disruptions that would impact broader market conditions.  
+- **Sentiment contribution:** Neutral — the layoffs are part of a longer-term restructuring strategy and do not directly impact current production levels.
+
+---
+
+### 3. SIGNAL SYNTHESIS
+The risk signals present a complex outlook for crude oil. Regulatory challenges stemming from budget cuts to clean energy initiatives suggest an impeded transition away from oil dependence, which might bolster crude's market position in the short term. Simultaneously, OPEC+'s resolution to boost crude supply indicates a conscious effort to drive down prices, pointing to a bearish sentiment on immediate market conditions. Overall, the backdrop remains fluid and can shift based on further geopolitical developments or regulatory changes.
+
+---
+### 4. WATCH LIST
+- [ ] **Impact of future federal funding decisions** → Additional budget cuts or restorations could either impede clean energy progress or bolster traditional crude oil demand.
+- [ ] **Global oil supply shifts by OPEC+** → New output decisions could significantly affect crude prices and market dynamics.
+- [ ] **Economic data releases** → Indicators of macro-economic performance can influence crude demand predictions and market sentiment.
+
+---
+### 5. BOTTOM LINE
+**Risk Level: Medium**  
+The landscape for crude oil is currently framed by regulatory constraints on clean energy initiatives versus increasing supply commitments from OPEC+. This indicates a heightened risk environment where market dynamics may shift unpredictably, influenced by both geopolitical factors and operational decisions within major oil companies.

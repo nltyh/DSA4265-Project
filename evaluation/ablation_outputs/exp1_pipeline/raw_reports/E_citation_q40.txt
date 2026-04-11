@@ -1,0 +1,48 @@
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+## COMMODITY RISK REPORT
+**Commodity:** crude oil  
+**Report Date:** 2026-04-11  
+**Articles Analysed:** 5 articles  
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+### 1. OVERALL SENTIMENT
+**Mixed**  
+The sentiment is mixed due to conflicting signals: bearish news regarding the contraction of oil supply from Saudi Arabia due to geopolitical issues, contrasted with an unexpected commercial uptake of Russian crude by India, which could alleviate some supply pressures.
+
+### 2. KEY RISK SIGNALS
+
+**Geopolitics & Policy | Geopolitical Conflict | Severity: High**
+- **Headline:** Oil Plummets 8% as Trump Postpones Hormuz Deadline Threat
+- **What happened:** Following U.S. President Donald Trump's statement regarding diplomatic talks with Iran, Brent crude fell over 8%.
+- **Market impact:** This suggests a brief stabilization in market sentiment, but the underlying tensions remain a concern for stability in the Strait of Hormuz, a critical trade route for oil.
+- **Sentiment contribution:** Bearish — the drop in prices indicates a shift in market confidence despite the diplomatic breathing space.
+
+**Geopolitics & Policy | Geopolitical Conflict | Severity: High**
+- **Headline:** War Could Soon Force Oil Prices To Catch Up with the Massive Supply Loss
+- **What happened:** Analysts warn of rising oil prices if the Strait of Hormuz remains blocked due to ongoing geopolitical strife.
+- **Market impact:** If prolonged, this blockage could significantly reduce oil supplies from the Middle East, exerting upward pressure on prices.
+- **Sentiment contribution:** Bullish — the anticipation of a significant supply loss can result in increased prices if tensions remain high.
+
+**Supply (Production/Upstream) | Supply Chain Blockage | Severity: High**
+- **Headline:** Saudi Arabia Slashes Oil Supply to Asia as War Chokes Export Route
+- **What happened:** Saudi Arabia has reduced its crude oil exports to Asia in April due to accessibility issues created by the ongoing war affecting the Strait of Hormuz.
+- **Market impact:** This reduction in supply could exacerbate the market's existing vulnerabilities and push prices higher due to tight supply conditions.
+- **Sentiment contribution:** Bullish — lower supply against steady or increasing demand tends to elevate prices.
+
+**Inventory & Storage | Inventory Shock | Severity: Medium**
+- **Headline:** US Crude Oil, Product Inventories Rise
+- **What happened:** The American Petroleum Institute reported a rise in U.S. crude oil inventories by 2.3 million barrels in the week ending March 20.
+- **Market impact:** This rise in inventories could alleviate some immediate supply pressure on the market.
+- **Sentiment contribution:** Bearish — an increase in inventories generally suggests less urgent demand or supply surplus.
+
+### 3. SIGNAL SYNTHESIS
+The signals present a complex picture with high risks predominantly stemming from geopolitical conflict and supply chain blockages. While rising inventories could ease some market pressure, the significant cuts to exports from Saudi Arabia amidst ongoing tensions suggest a tightening supply scenario. This combination yields a net effect of heightened risk exposure for crude oil, driven primarily by geopolitical factors rather than purely market fundamentals.
+
+### 4. WATCH LIST
+- [ ] Developments in Hormuz Straits → Any resumption of normalcy would likely stabilize prices and reduce risk levels.
+- [ ] Further announcements from Saudi Arabia regarding oil exports → Additional cuts would signal potential for further price increases.
+- [ ] U.S.-Iran diplomatic interactions → Positive outcomes may ease geopolitical tensions, impacting price volatility.
+
+### 5. BOTTOM LINE
+**Risk Level: High**  
+Risk levels for crude oil are currently high due to ongoing geopolitical tensions affecting supply chains and market dynamics. The situation remains fragile; a shift in political events or production decisions could heavily influence market stability in the near term.

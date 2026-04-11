@@ -1,0 +1,66 @@
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+## COMMODITY RISK REPORT
+**Commodity:** crude oil  
+**Report Date:** 2026-04-11  
+**Articles Analysed:** 5 articles  
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+### 1. OVERALL SENTIMENT
+**Neutral**  
+> The sentiment is neutral as the market experiences mixed signals from supply-side constraints and anticipated demand growth trends.
+
+---
+### 2. KEY RISK SIGNALS
+
+**LNG & natural gas | Supply Chain Blockage | Severity: High**
+- **Headline:** News Content Hub - LNG imports to China tumble 20% in 2022
+- **What happened:** China's LNG imports dropped significantly in 2022 due to Covid-19 lockdowns and an increase in domestic production and pipeline imports.
+- **Market impact:** This decline impacts global LNG supply dynamics, potentially leading to reduced availability for foreign markets.
+- **Sentiment contribution:** Bearish — as the reduction in imports signals a possible oversupply for the LNG market, putting pressure on prices.
+
+---
+
+**LNG & natural gas | Production Shortfall | Severity: High**
+- **Headline:** As demand for US LNG booms, one plant struggles to stay online
+- **What happened:** The Freeport LNG plant in the U.S. has been underperforming due to technical issues, resulting in lower-than-expected LNG exports.
+- **Market impact:** Reduced throughput affects domestic LNG supply and may contribute to heightened price volatility on natural gas futures.
+- **Sentiment contribution:** Bearish — as operational challenges at a key facility can lead to uncertainty in production levels.
+
+---
+
+**LNG & natural gas | Demand/Macro Activity | Severity: Medium**
+- **Headline:** U.S. natgas up 3% after hitting 14-yr high ahead of contract rollover
+- **What happened:** U.S. natural gas futures rose sharply driven by weather forecasts, demand surge, and geopolitical concerns impacting supply.
+- **Market impact:** Increased demand pressure could support higher pricing, particularly amid ongoing conflicts that could affect supply from other regions.
+- **Sentiment contribution:** Bullish — the increase suggests market resilience and indicates potential upward price movements if demand remains strong.
+
+---
+
+**LNG & natural gas | No Significant Risk | Severity: Low**
+- **Headline:** 3 Natural Gas Stocks That Are Booming Because Of AI
+- **What happened:** Growing demand from AI data centers is expected to drive growth in natural gas usage.
+- **Market impact:** This anticipated demand increase could create opportunities for investment in natural gas production.
+- **Sentiment contribution:** Neutral — while this factor suggests potential growth, it does not pose any immediate risks.
+
+---
+
+**LNG & natural gas | Supply Chain Blockage | Severity: Medium**
+- **Headline:** Seasonal Demand Swings, Increasing LNG Supplies Pose Risks for U.S. Feed Gas Demand in 2026
+- **What happened:** The U.S. market is facing potential volatility due to increased LNG supplies and fluctuating seasonal demand patterns.
+- **Market impact:** This could introduce uncertainty and contribute to price swings, impacting the economics of U.S. feed gas demand.
+- **Sentiment contribution:** Bearish — the risk of oversupply may suppress prices amid fluctuating demand.
+
+---
+### 3. SIGNAL SYNTHESIS
+The risk signals exhibit both alignment and contradiction. The bearish signals from the supply chain blockages and production shortfalls challenge optimistic market conditions highlighted by rising demand pressures in certain segments. Overall, risks remain centered on the supply-side dynamics rather than strong demand fundamentals, suggesting careful monitoring is required.
+
+---
+### 4. WATCH LIST
+- [ ] **U.S. LNG export capacity recovery** → Improved performance from facilities like Freeport could stabilize prices and supply levels.
+- [ ] **China's LNG import patterns** → Changes in import strategies or policy could shift global LNG supply and demand dynamics.
+- [ ] **Geopolitical developments impacting Russian gas supply** → Macroeconomic implications could influence U.S. natural gas prices.
+
+---
+### 5. BOTTOM LINE
+**Risk Level: High**  
+Traders and risk managers should be aware of significant risks in the LNG and natural gas sectors, particularly from inconsistent production capacities and supply chain issues, which are likely to create volatility in the market.

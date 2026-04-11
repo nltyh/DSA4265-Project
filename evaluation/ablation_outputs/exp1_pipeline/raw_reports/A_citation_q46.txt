@@ -1,0 +1,36 @@
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+## COMMODITY RISK REPORT
+**Commodity:** LNG  
+**Report Date:** 2026-04-11  
+**Articles Analysed:** 5 articles  
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+### 1. OVERALL SENTIMENT
+**Mixed**  
+The sentiment is mixed due to immediate infrastructure damage from the Iran war leading to potential supply disruptions, countered by ongoing operations at Cheniere's facility which has diminished its material impact on overall supply [Article 1, 3].
+
+### 2. KEY RISK SIGNALS
+
+**LNG & Natural Gas | Infrastructure Damage | Severity: High**
+- **Headline:** The Iran War Has Already Unleashed a $25 Billion Energy Repair Bill
+- **What happened:** The conflict has caused severe damage and shutdowns affecting LNG trains, refineries, and other critical facilities in the Middle East.
+- **Market impact:** This results in potential supply disruptions and elevated repair costs, likely influencing a rise in prices.
+- **Sentiment contribution:** Bullish — expectations of tighter supply and increased repair costs could drive market prices higher [Article 1].
+
+**LNG & Natural Gas | Infrastructure Damage | Severity: Low**
+- **Headline:** Exclusive: Cheniere to fix Louisiana LNG plant equipment after failing pollution test
+- **What happened:** Cheniere announced repairs at its Louisiana terminal due to exceeding hazardous emissions limits, though the company claims this will not materially impact operations.
+- **Market impact:** Limited immediate impact on supply, maintaining operational stability and potentially dampening bullish sentiment slightly.
+- **Sentiment contribution:** Neutral — while the repairs are necessary for compliance, they are not expected to affect supply significantly [Article 3].
+
+### 3. SIGNAL SYNTHESIS
+The risk signals for LNG are mostly aligned, highlighting significant infrastructure challenges from the Iran war, which poses a considerable risk to supply and prices. However, Cheniere’s focus on repairs with no expected operational disruption offers a stabilizing effect. Despite the high-risk outlook from the conflict's fallout, the neutral sentiment from Cheniere mitigates the bearish pressure, leading to a mixed sentiment overall.
+
+### 4. WATCH LIST
+- [ ] Escalation of conflict in the Middle East → could lead to more severe disruptions in LNG supply and prices.
+- [ ] Updates from Cheniere regarding repair progress → any delays could heighten concerns over LNG availability.
+- [ ] International response to shipping security in the Strait of Hormuz → potential for increased oil and LNG prices depending on market reactions.
+
+### 5. BOTTOM LINE
+**Risk Level: High**  
+Risk levels are elevated due to the ongoing conflict causing significant infrastructure challenges in the LNG market, though Cheniere's repair status could cushion immediate supply threats. Risk managers should closely monitor the situation for any escalation or further damage that could affect supply chains.

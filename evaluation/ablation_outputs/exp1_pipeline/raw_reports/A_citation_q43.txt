@@ -1,0 +1,48 @@
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+## COMMODITY RISK REPORT
+**Commodity:** crude oil  
+**Report Date:** 2026-04-11  
+**Articles Analysed:** 5 articles  
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+### 1. OVERALL SENTIMENT
+**Bullish**  
+The prevailing sentiment is bullish due to heightened geopolitical tensions surrounding Iran, resulting in significant price surges, with Brent crude surpassing $110. This indicates strong market reactions to risks in supply chain stability. 
+
+### 2. KEY RISK SIGNALS
+**Geopolitics & Policy | Geopolitical Conflict | Severity: High**
+- **Headline:** Brent Surges Past $110 on Iran Rejection
+- **What happened:** The ongoing standoff over the Strait of Hormuz, exacerbated by Iran's rejection of U.S. terms, led to Brent prices surging past $110.
+- **Market impact:** The geopolitical tensions are likely to disrupt crude oil supplies, contributing to higher prices.
+- **Sentiment contribution:** Bullish — heightened tensions generally lead to increased risk premiums in crude oil prices [Article 1].
+
+**Geopolitics & Policy | Geopolitical Conflict | Severity: High**
+- **Headline:** Oil Traders Caught Between Diplomacy and Disruption Risk
+- **What happened:** WTI crude experienced significant price volatility influenced by geopolitical events, with traders reacting to the U.S.-Iran negotiations.
+- **Market impact:** This volatility keeps traders on alert, suggesting that prices may continue to fluctuate rapidly based on geopolitical news.
+- **Sentiment contribution:** Bullish — the instability creates upward pressure on prices, as traders factor in potential disruptions [Article 2].
+
+**Demand / Macro Activity | No Significant Risk | Severity: Low**
+- **Headline:** India Holds Fuel Prices Steady Even as Oil Basket Soars Above $155
+- **What happened:** Despite global price increases, Indian fuel prices remained stable, indicating a level of resilience in demand.
+- **Market impact:** This stability may act as a counterforce, suggesting that not all markets are responding equally to price increases.
+- **Sentiment contribution:** Neutral — India's steady approach mitigates some demand pressure despite global trends [Article 3].
+
+**Geopolitics & Policy | Geopolitical Conflict | Severity: High**
+- **Headline:** Africa Could Emerge As The Biggest Winner In Iran War
+- **What happened:** The conflict in the Middle East has disrupted about 8 million barrels of crude oil supply daily.
+- **Market impact:** A significant cut in supply directly contributes to price surges and further bolsters the bullish sentiment in crude oil markets.
+- **Sentiment contribution:** Bullish — substantial supply losses tend to result in intensifying price spikes [Article 5].
+
+### 3. SIGNAL SYNTHESIS
+The signals are predominantly aligned and point to a bullish outlook driven by geopolitical risks affecting supply stability. While the Indian market's resilience introduces a slight neutralizing factor, the overall picture remains strong for price increases in crude oil due to supply disruptions tied to the conflict in the Middle East.
+
+### 4. WATCH LIST
+- [ ] Escalation in U.S.-Iran conflict → potential for further disruptions in crude supply.
+- [ ] Stability in Indian fuel prices → ongoing resilience may indicate demand support amidst rising costs.
+- [ ] New diplomatic breakthroughs → could either mitigate supply concerns or exacerbate tensions.
+- [ ] Changes in OPEC's production policies → shifts in decisions could further impact global oil supply and pricing.
+
+### 5. BOTTOM LINE
+**Risk Level: High**  
+Crude oil markets are facing high risk due to geopolitical conflicts, notably in the Middle East, which are severely disrupting supply chains and significantly influencing prices. The overall market sentiment remains bullish; thus, traders should prepare for potential price volatility driven by these geopolitical factors.

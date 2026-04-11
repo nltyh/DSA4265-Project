@@ -1,0 +1,59 @@
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+## COMMODITY RISK REPORT
+**Commodity:** crude oil
+**Report Date:** 2026-04-11
+**Articles Analysed:** 5 articles
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+### 1. OVERALL SENTIMENT
+**Bullish**
+> The dominant signal indicates a bullish outlook due to rising oil prices driven by geopolitical tensions, particularly regarding the Strait of Hormuz, which are likely to constrict supply further.
+
+---
+### 2. KEY RISK SIGNALS
+
+**Geopolitics & Policy | Geopolitical Conflict | Severity: High**
+- **Headline:** Brent Surges Past $110 on Iran Rejection
+- **What happened:** Iran has rejected U.S. terms, exacerbating the standoff over the Strait of Hormuz, crucial for global oil shipping.
+- **Market impact:** This situation is likely to drive oil prices upward due to fears of supply disruption.
+- **Sentiment contribution:** Bullish — as geopolitical tensions raise risk perceptions around supply.
+
+**Geopolitics & Policy | Geopolitical Conflict | Severity: High**
+- **Headline:** War Could Soon Force Oil Prices To Catch Up with the Massive Supply Loss
+- **What happened:** Concerns are mounting that continued blockage of the Strait of Hormuz will lead to significant increases in oil prices.
+- **Market impact:** Supply losses from the Middle East could push prices significantly higher.
+- **Sentiment contribution:** Bullish — driven by fears of a sustained geopolitical crisis affecting oil supply.
+
+**Supply (Production/Upstream) | Production Shortfall | Severity: Medium**
+- **Headline:** The Cushion Is Gone and the Oil Market Is Now Exposed
+- **What happened:** Despite past buffers, the oil market demonstrates vulnerability due to significant supply disruptions.
+- **Market impact:** This could lead to higher prices as the available supply diminishes.
+- **Sentiment contribution:** Bearish — as the realization of exposure to production shortfalls creates anxiety in the market.
+
+**Financial Flows/Positioning | No Significant Risk | Severity: Low**
+- **Headline:** Record Oil and Gas Output Fails to Shield CNOOC from Market Volatility
+- **What happened:** Despite record output from CNOOC, lower prices impacted profits.
+- **Market impact:** Indicates a resilient production capacity but suggests market prices are not responding as expected.
+- **Sentiment contribution:** Neutral — while production is high, the market's reaction dampens the price outlook.
+
+**Financial Flows/Positioning | No Significant Risk | Severity: Low**
+- **Headline:** Washington Stress-Tests $200 Oil as War Risk Mounts
+- **What happened:** U.S. government scenarios about $200 oil reflect concerns about extreme geopolitical scenarios.
+- **Market impact:** Modeling potential disaster scenarios indicates an awareness of risk but does not alter current dynamics.
+- **Sentiment contribution:** Neutral — while signaling caution, the immediate market impact remains unfelt.
+
+---
+### 3. SIGNAL SYNTHESIS
+The risk signals predominantly indicate a bullish sentiment due to geopolitical threats impacting supply. The risks of production shortfalls and heightened conflict in the Strait of Hormuz contribute significantly to an elevated risk environment. Although some articles indicate no significant risks to production, the overriding factors lead to a net bullish sentiment on crude oil prices influenced by geopolitics and supply insecurity.
+
+---
+### 4. WATCH LIST
+- [ ] Escalation of conflict in the Strait of Hormuz → could lead to significant price spikes if oil supply is forcibly restricted.
+- [ ] Further breakdown in U.S.-Iran negotiations → may exacerbate existing geopolitical tensions and increase market volatility.
+- [ ] Reports on global oil inventory levels → significant shifts may alter supply-demand dynamics.
+- [ ] Changes in production levels from OPEC+ → could influence overall market sentiment and pricing.
+
+---
+### 5. BOTTOM LINE
+**Risk Level: High**
+The crude oil market is facing significant risks from geopolitical tensions and potential supply shortfalls. Traders should closely monitor developments in the Strait of Hormuz as they could fundamentally alter supply dynamics and lead to price surges. The current bullish sentiment reflects a growing concern among investors regarding the sustainability of oil supply.

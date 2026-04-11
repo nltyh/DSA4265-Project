@@ -1,0 +1,64 @@
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+## COMMODITY RISK REPORT
+**Commodity:** LNG, crude oil  
+**Report Date:** 2024-04-26  
+**Articles Analysed:** 5 articles  
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+### 1. OVERALL SENTIMENT
+**Mixed**  
+> The overall sentiment is mixed due to significant operational challenges at Freeport LNG indicating a bearish outlook for LNG supply, while other articles highlight steady production from companies like Range Resources, which presents a more bullish perspective.
+
+---
+
+### 2. KEY RISK SIGNALS
+
+**LNG & Natural Gas | Production Shortfall | Severity: High**  
+- **Headline:** As demand for US LNG booms, one plant struggles to stay online  
+- **What happened:** Freeport LNG has been operating below 80% capacity due to technical issues and damage from a freeze, impacting U.S. LNG exports.  
+- **Market impact:** This unreliability could lead to decreased LNG availability in the market, contributing to price volatility in natural gas futures.  
+- **Sentiment contribution:** Bearish — due to the negative impact on supply.
+
+---
+
+**LNG & Natural Gas | No Significant Risk | Severity: Low**  
+- **Headline:** Range Resources Sees Strong Natural Gas Demand, Keeps Production Steady  
+- **What happened:** Range Resources maintained steady natural gas production amid strong domestic demand and production forecasts for 2024 remain stable.  
+- **Market impact:** The consistent production supports a stable supply outlook, which may alleviate concerns raised by Freeport's issues.  
+- **Sentiment contribution:** Bullish — indicating stable supply that counters bearish signals.
+
+---
+
+**LNG & Natural Gas | Geopolitical Conflict | Severity: Medium**  
+- **Headline:** EQT says fracked gas is a climate solution, but scientists call that deceptive greenwashing  
+- **What happened:** There is an ongoing debate regarding the viability of LNG as a climate solution, coinciding with potential regulatory changes impacting LNG exports.  
+- **Market impact:** Uncertainty surrounding U.S. LNG policy could affect future investments and production strategies.  
+- **Sentiment contribution:** Bearish — the potential regulatory pause could hinder future growth in LNG supply.
+
+---
+
+**LNG & Natural Gas | No Significant Risk | Severity: Low**  
+- **Headline:** Equinor Expects Asia, LNG Competition to Drive European Natural Gas Prices  
+- **What happened:** Equinor suggests that competition for LNG in Asia will be a key determinant of European pricing rather than domestic demand.  
+- **Market impact:** While pressures exist from Asian competition, this does not indicate a direct threat to LNG supply from the U.S.  
+- **Sentiment contribution:** Neutral — as it reflects a stable but competitive market environment rather than a direct risk.
+
+---
+
+### 3. SIGNAL SYNTHESIS
+The risk signals present a mixed situation; while operational issues at Freeport LNG pose a significant bearish impact on supply, steady production levels reported by Range Resources and other signals suggest an overall stable supply environment. Furthermore, the geopolitical risk related to regulatory scrutiny on LNG and its future may also add uncertainty. The mix of bearish and bullish forces suggests that risk exposure is elevated, but not uniformly negative.
+
+---
+
+### 4. WATCH LIST
+- [ ] **Freeport LNG Recovery:** Monitor operational improvements; a return to full capacity would alleviate supply concerns and support price stability.  
+- [ ] **Regulatory Developments:** Watch for new policies affecting LNG exports; unfavorable regulations could curtail future growth and exacerbate supply issues.  
+- [ ] **Demand Fluctuations:** Keep an eye on domestic industrial demand; an increase could counterbalance Freeport's outages and support market prices.  
+- [ ] **Asian Competition:** Observe LNG price movements in Asia; heightened competition may influence European and U.S. LNG pricing dynamics.  
+- [ ] **Technical Issues Across Infrastructure:** Other LNG facilities experiencing operational challenges could lead to broader supply shocks in the market.
+
+---
+
+### 5. BOTTOM LINE
+**Risk Level: Medium**  
+The current situation indicates medium risk primarily due to operational challenges at Freeport LNG. While steady production from other companies provides some support, the backdrop of regulatory uncertainty and potential geopolitical conflicts creates a fragile environment that requires close monitoring.

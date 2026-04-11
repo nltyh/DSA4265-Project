@@ -1,0 +1,48 @@
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+## COMMODITY RISK REPORT
+**Commodity:** crude oil  
+**Report Date:** 2026-04-11  
+**Articles Analysed:** 5 articles  
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+### 1. OVERALL SENTIMENT
+**Mixed**  
+The market sentiment is mixed due to the contrasting effects of potential geopolitical conflict in the Strait of Hormuz, which could drive prices up, while the recent diplomatic statements from President Trump have eased immediate tension, resulting in a price drop.
+
+### 2. KEY RISK SIGNALS
+
+**Geopolitics & Policy | Geopolitical Conflict | Severity: High**
+- **Headline:** War Could Soon Force Oil Prices To Catch Up with the Massive Supply Loss
+- **What happened:** The oil market could significantly increase if the Strait of Hormuz remains blocked beyond March due to geopolitical tensions, leading to a loss of supply from the Middle East [Article 1].
+- **Market impact:** An extended blockage could restrict oil supply, potentially driving prices much higher as demand from Asia remains strong.
+- **Sentiment contribution:** Bullish — the expectation is that prices will rise if supply disrupts.
+
+**Geopolitics & Policy | Geopolitical Conflict | Severity: High**
+- **Headline:** Oil Plummets 8% as Trump Postpones Hormuz Deadline Threat
+- **What happened:** A recent statement from President Trump regarding improved diplomatic relations led to an 8% decline in Brent crude prices [Article 2].
+- **Market impact:** This statement alleviated immediate fears of supply disruption, resulting in a decrease in prices.
+- **Sentiment contribution:** Bearish — the easing of tensions has removed some upward pressure on prices.
+
+**Supply (Production/Upstream) | No Significant Risk | Severity: Low**
+- **Headline:** Oil Prices Ease As US Pulls Out All Stops To Secure Supply
+- **What happened:** Despite some easing in oil prices, analysts indicate that this is a tactical breather rather than a trend change, as the underlying tensions remain [Article 3].
+- **Market impact:** Prices have moderated but are not expected to shift significantly without new developments.
+- **Sentiment contribution:** Neutral — this indicates that the market is not currently facing a supply shortfall, balancing the mixed signals.
+
+**Inventory & Storage | Inventory Shock | Severity: Medium**
+- **Headline:** US Crude Oil, Product Inventories Rise
+- **What happened:** The American Petroleum Institute reported an increase of 2.3 million barrels in U.S. crude oil inventories during the week ending March 20 [Article 5].
+- **Market impact:** Rising inventories suggest a surplus, which typically puts downward pressure on prices.
+- **Sentiment contribution:** Bearish — this surplus contributes to the easing of prices.
+
+### 3. SIGNAL SYNTHESIS
+The risk signals are somewhat contradictory; geopolitical tensions are expected to drive prices higher, while current diplomatic efforts are leading to price reductions. The overall sentiment is a reflection of market dynamics, where fears of supply disruptions compete with immediate supply stability due to rising inventories and diplomatic reassurances. Overall, risk exposure is elevated primarily due to geopolitical concerns.
+
+### 4. WATCH LIST
+- [ ] Continued developments in U.S.-Iran relations → Could significantly impact geopolitical risk and pricing.
+- [ ] Further supply data releases from the American Petroleum Institute → This would indicate how the market is balancing supply and demand.
+- [ ] Potential military actions in the Strait of Hormuz → A conflict would severely disrupt oil supply and potentially drive prices higher.
+
+### 5. BOTTOM LINE
+**Risk Level: High**  
+The crude oil market remains under high risk due to geopolitical tensions, particularly around the Strait of Hormuz. Despite recent easing in tensions, developments could quickly change the outlook, evidencing a fragile balance between stability and potential conflict.

@@ -1,0 +1,51 @@
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+## COMMODITY RISK REPORT
+**Commodity:** crude oil  
+**Report Date:** 29/09/2024  
+**Articles Analysed:** 5 articles  
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+### 1. OVERALL SENTIMENT
+**Mixed**  
+> The sentiment is mixed due to conflicting developments in Venezuela's oil sector, including the successful auction of CITGO and ongoing geopolitical conflicts affecting PDVSA's operations.
+
+---
+### 2. KEY RISK SIGNALS
+
+**Geopolitics & Policy | Geopolitical Conflict | Severity: High**  
+- **Headline:** Venezuela: Vulture Fund Elliott Chosen as Winner of CITGO Court-Mandated Auction  
+- **What happened:** Elliott Investment Management secured CITGO in a court-mandated auction for $7.286 billion amidst ongoing claims against Venezuela from various creditors.  
+- **Market impact:** This outcome may lead to increased volatility in Venezuelan crude imports and global supply dynamics, influencing pricing.  
+- **Sentiment contribution:** Bullish — the acquisition signifies potential operational changes that may stabilize or alter supply.
+
+---
+
+**Geopolitics & Policy | Geopolitical Conflict | Severity: High**  
+- **Headline:** ConocoPhillips gets judge to approve seizing of payments to Venezuela's PDVSA  
+- **What happened:** A Trinidad court permitted ConocoPhillips to seize payments to PDVSA, impacting Venezuela's cash flow and operational capacity amid escalating disputes over asset expropriation.  
+- **Market impact:** This could exacerbate PDVSA's financial difficulties, hindering production and thus tightening supply.  
+- **Sentiment contribution:** Bearish — the legal challenges faced by PDVSA may lead to further production shortfalls.
+
+---
+
+**Geopolitics & Policy | Geopolitical Conflict | Severity: High**  
+- **Headline:** Chevron’s $53 billion merger with Hess moves forward but not out of woods yet as arbitration keeps suspense alive  
+- **What happened:** Chevron's merger with Hess has cleared regulatory hurdles but faces arbitration challenges due to claims about preemptive rights in Guyana.  
+- **Market impact:** Prolonged uncertainty surrounding the merger may create instability in production forecasts from Guyana, affecting global supply.  
+- **Sentiment contribution:** Bearish — the possibility of delays could prevent optimal output levels being achieved.
+
+---
+
+### 3. SIGNAL SYNTHESIS
+The risk signals are primarily aligned in highlighting geopolitical conflicts revolving around Venezuela’s oil operations. While the CITGO auction is a potentially positive development, it is offset by legal and operational challenges facing PDVSA and major stakeholders like ConocoPhillips and Chevron. These risks are confirmed by fundamental changes in operational capability and legal standings, leading to a net cautious outlook for crude oil risk exposure.
+
+---
+### 4. WATCH LIST
+- [ ] Resolution of PDVSA's asset disputes with ConocoPhillips → If ConocoPhillips successfully seizes payments, it may severely undermine PDVSA's operational capabilities.
+- [ ] Outcomes from ongoing arbitration regarding Chevron's merger with Hess → An unfavorable ruling could delay production increases from new ventures in Guyana.
+- [ ] Developments in CITGO's operational management under Elliott's control → Effective management could stabilize Venezuelan oil supply, impacting US and global markets.
+
+---
+### 5. BOTTOM LINE
+**Risk Level: High**  
+The situation in Venezuela presents a high-risk environment for crude oil due to significant geopolitical conflicts affecting both operational capability and financial stability of PDVSA. Risk managers should closely monitor legal proceedings and management shifts at CITGO, as these developments are critical in shaping future supply and pricing dynamics.

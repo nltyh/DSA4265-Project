@@ -1,0 +1,58 @@
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+## COMMODITY RISK REPORT
+**Commodity:** crude oil,LNG  
+**Report Date:** 2026-04-11  
+**Articles Analysed:** 4 articles  
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+### 1. OVERALL SENTIMENT
+**Bullish**  
+> The predominant signal is bullish due to significant price spikes in crude oil stemming from geopolitical tensions in the Middle East, which are anticipated to continue driving costs higher.
+
+---
+### 2. KEY RISK SIGNALS
+
+**Geopolitics & policy | Geopolitical Conflict | Severity: High**  
+- **Headline:** Africa Could Emerge As The Biggest Winner In Iran War  
+- **What happened:** The ongoing Middle East conflict has resulted in a substantial cut in oil supplies, notably impacting global energy markets.  
+- **Market impact:** An estimated cut of 8 million barrels of crude per day has tightened supply, propelling Brent crude prices to surge over 50%.  
+- **Sentiment contribution:** Bullish — the disruption in supply is expected to keep prices elevated.
+
+---
+
+**Geopolitics & policy | Geopolitical Conflict | Severity: High**  
+- **Headline:** Oil Set to Book Record Monthly Gain on Iran Crisis  
+- **What happened:** The current geopolitical events, including attacks on Israel and U.S. political statements on Iranian oil, have led to record gains in oil prices.  
+- **Market impact:** Prices are set for a 59% increase since the beginning of March, signaling extreme bullish sentiment in the market.  
+- **Sentiment contribution:** Bullish — the ongoing conflict continues to exert upward pressure on pricing.
+
+---
+
+**Demand / macro activity | Macro-Economic Cooling | Severity: Medium**  
+- **Headline:** Global Fuel Prices Are Surging as the Middle East War Hits Consumers  
+- **What happened:** The rise in oil prices has translated to significant increases in retail fuel costs worldwide.  
+- **Market impact:** Fuel price hikes between 5% and 80% in various countries could dampen consumer demand, potentially leading to macro-economic cooling.  
+- **Sentiment contribution:** Bearish — while prices rise, economic strain from fuel costs may reduce overall demand.
+
+---
+
+**Demand / macro activity | Macro-Economic Cooling | Severity: Medium**  
+- **Headline:** South Korea Weighs First Public Driving Restrictions in 35 Years  
+- **What happened:** With prices projected to hit $120 per barrel, South Korea is considering implementing driving restrictions.  
+- **Market impact:** Such measures could lead to reduced oil consumption if enacted, particularly in a country with significant automotive usage.  
+- **Sentiment contribution:** Bearish — restriction measures could lower demand and have wider economic implications.
+
+---
+### 3. SIGNAL SYNTHESIS
+The risk signals present a mixed picture. The geopolitical conflicts are driving prices sharply higher, posing significant bullish sentiment in the market. However, there are also indications of potential macro-economic cooling due to rising fuel costs, which could dampen demand. Overall, the upward price pressure from geopolitical risks is currently outweighing the bearish signals from demand concerns.
+
+---
+### 4. WATCH LIST
+- [ ] Escalation of the Middle East conflict → Would further disrupt supply, pushing prices even higher.
+- [ ] Breakthroughs in diplomatic negotiations involving Iran → Could stabilize prices and potentially lower them.
+- [ ] Implementation of fuel restrictions in major economies like South Korea → Could significantly impact demand and pricing dynamics.
+
+---
+### 5. BOTTOM LINE
+**Risk Level: High**  
+The current market environment reflects high-risk exposure due to geopolitical tensions affecting supply chains in crude oil. Managers should monitor developments closely, as the balance between rising prices and potential demand destruction remains fragile.

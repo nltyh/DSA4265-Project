@@ -1,0 +1,35 @@
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+## COMMODITY RISK REPORT
+**Commodity:** crude oil, diesel  
+**Report Date:** 2026-04-11  
+**Articles Analysed:** 5 articles  
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+### 1. OVERALL SENTIMENT
+**Bearish**  
+> The dominant signal is bearish due to the Argentine government's declaration of a pre-emergency in the energy sector, cutting gas supplies to industries which affects related commodities including crude oil and diesel [Article 1].
+
+### 2. KEY RISK SIGNALS
+**Supply (Production/Upstream) | Supply Chain Blockage | Severity: High**
+- **Headline:** El gobierno declaró la pre-emergencia del sector energético y cortó el gas a industrias en todo el país
+- **What happened:** The Argentine government declared a pre-emergency in the energy sector, leading to gas supply cuts to industries due to high demand and import shortages [Article 1].
+- **Market impact:** This will likely lead to increased demand for substitute fuels such as diesel and may create supply issues for crude oil as production operations are disrupted.
+- **Sentiment contribution:** Bearish — the supply chain blockage heavily impacts market dynamics and raises concerns over adequate crude oil and diesel supplies.
+
+**Supply (Production/Upstream) | Supply Chain Blockage | Severity: High**
+- **Headline:** Saudi Arabia Slashes Oil Supply to Asia as War Chokes Export Route
+- **What happened:** Saudi Arabia is reducing crude oil exports to Asia due to the ongoing geopolitical conflict affecting the Strait of Hormuz [Article 5].
+- **Market impact:** Such reductions in supply from a leading exporter could lead to tighter global crude markets, potentially increasing prices.
+- **Sentiment contribution:** Bullish — this cut in supply may result in price increases due to reduced availability, counteracting some bearish pressures.
+
+### 3. SIGNAL SYNTHESIS
+The risk signals present both bearish and bullish influences but are overshadowed by the bearish signal from Argentina's pre-emergency declaration which implies immediate supply disruptions. The Saudi oil supply cut introduces bullish pressure; however, the overall sentiment remains bearish primarily due to local energy sector issues in Argentina. While these risks are rooted in current fundamentals, the effects vary in severity.
+
+### 4. WATCH LIST
+- [ ] Monitoring gas demand in Argentina → If demand rises sharply, it may further strain crude oil and diesel supplies.
+- [ ] Developments in the Strait of Hormuz conflicts → Escalation could lead to further reductions in Saudi exports, tightening global crude supplies.
+- [ ] Changes in Argentine policy regarding energy imports → New measures may stabilize the situation but could also have unintended repercussions on diesel and crude markets.
+
+### 5. BOTTOM LINE
+**Risk Level: High**  
+The situation in Argentina poses a significant supply risk to crude oil and diesel markets, compounded by geopolitical tensions that could tighten supply further. It is crucial for risk managers to prepare for volatility derived from these intertwined risks.

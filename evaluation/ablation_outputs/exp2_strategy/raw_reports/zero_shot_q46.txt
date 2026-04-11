@@ -1,0 +1,41 @@
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+## COMMODITY RISK REPORT
+**Commodity:** LNG
+**Report Date:** 2026-04-11
+**Articles Analysed:** 5 articles
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+### 1. OVERALL SENTIMENT
+**Bearish**
+> The sentiment is primarily bearish due to significant supply disruptions and production shortfalls caused by the ongoing Iran war, leading to a substantial downgrade in LNG supply forecasts.
+
+---
+### 2. KEY RISK SIGNALS
+
+**LNG & natural gas | Infrastructure Damage | Severity: High**
+- **Headline:** The Iran War Has Already Unleashed a $25 Billion Energy Repair Bill
+- **What happened:** The war in the Middle East has triggered severe global supply disruptions affecting LNG facilities.
+- **Market impact:** This will likely result in decreased LNG availability and increased prices due to infrastructure damage.
+- **Sentiment contribution:** Bullish — concerns about supply constraints are raising prices.
+
+**LNG & natural gas | Production Shortfall | Severity: High**
+- **Headline:** The Iran War Has Upended Global LNG Markets
+- **What happened:** Analysts have revised global LNG supply down by approximately 35 million tons due to production disruptions.
+- **Market impact:** A significant production shortfall is expected to lead to tighter supply conditions and upward pressure on prices.
+- **Sentiment contribution:** Bullish — the supply shortfall suggests a more constricted market.
+
+---
+
+### 3. SIGNAL SYNTHESIS
+The risk signals are aligned in indicating severe supply disruptions and a significant production shortfall in the LNG market due to ongoing geopolitical conflict in the Middle East. Both signals contribute to a bearish sentiment, confirming that the underlying fundamentals are straining supply and elevating prices.
+
+---
+### 4. WATCH LIST
+- [ ] Monitor further developments in the Iran conflict → escalation could exacerbate supply disruptions.
+- [ ] Track updates from LNG producers on production capabilities → confirmation of reduced production forecasts could further impact prices.
+- [ ] Observe EU and global response to stability in the Middle East → any resolution may alter supply dynamics.
+
+---
+### 5. BOTTOM LINE
+**Risk Level: High**
+The situation presents a high risk due to significant infrastructure damage and production shortfalls in the LNG sector. Traders should remain vigilant as these disruptions are confirmed by multiple sources.

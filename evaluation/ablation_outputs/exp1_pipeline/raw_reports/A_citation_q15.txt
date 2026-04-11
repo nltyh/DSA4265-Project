@@ -1,0 +1,46 @@
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+## COMMODITY RISK REPORT
+**Commodity:** crude oil  
+**Report Date:** 2026-04-11  
+**Articles Analysed:** 5 articles  
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+### 1. OVERALL SENTIMENT
+**Mixed**  
+The overall sentiment is mixed due to opposing forces: BP's rejection of strong climate resolutions and protests signal bearish pressure, while their strategic partnerships signify potential bullish developments.
+
+### 2. KEY RISK SIGNALS
+
+**Energy Transition / Structural | Geopolitical Conflict | Severity: High**  
+- **Headline:** BP faces green protest over new climate goals  
+- **What happened:** BP's weakening of climate targets has led to protests from environmental activists and disappointment from shareholders.  
+- **Market impact:** This situation could hinder BP's long-term operational strategies and lead to increased scrutiny, potentially impacting crude oil supply dynamics as investors weigh environmental responsibilities against profit.  
+- **Sentiment contribution:** Bearish, as the protests and shareholder dissatisfaction may overshadow operational stability and planning.
+
+---
+
+**Geopolitics & Policy | Regulatory Constraint | Severity: Medium**  
+- **Headline:** BP shareholders reject climate activist resolution but support grows  
+- **What happened:** BP shareholders rejected an activist resolution to set tougher climate targets, though support for the resolution has grown from previous years.  
+- **Market impact:** The rejection may provide short-term operational flexibility but highlights growing pressure on BP to transition to greener practices, possibly affecting investor confidence and long-term planning.  
+- **Sentiment contribution:** Bearish, given the increasing scrutiny and potential for future regulatory constraints that could impact BP's operational strategies.
+
+---
+
+**Geopolitics & Policy | Geopolitical Conflict | Severity: High**  
+- **Headline:** ADNOC, bp form natural gas partnership to purchase Israeli energy company for $2 billion  
+- **What happened:** BP and ADNOC have formed a joint venture to acquire NewMed Energy, expanding their influence in the eastern Mediterranean gas market.  
+- **Market impact:** This acquisition could enhance BP's position in a strategically important region and offset some of the sentiment surrounding protests by potentially bolstering supply chains and future revenues.  
+- **Sentiment contribution:** Bullish, as strategic partnerships can improve BP's operational resilience amid market uncertainties.
+
+### 3. SIGNAL SYNTHESIS
+The risk signals are somewhat contradictory: while shareholder opposition and protests indicate bearish sentiment, BP's strategic joint venture suggests a proactive approach that might mitigate some risks. The sentiments are supported by fundamentals as BP navigates pressures from climate activists and regulatory constraints while seeking growth through partnerships. The net effect indicates heightened commodity risk exposure due to internal conflict and external pressures.
+
+### 4. WATCH LIST
+- [ ] Monitor BP's response to protests and changes in climate goals → This could signal shifts in their operational strategy or further investor backlash.
+- [ ] Track shareholder sentiment trends in BP into future meetings → Increased pressure could lead to significant changes in policy or strategy.
+- [ ] Watch for developments in the eastern Mediterranean gas market and ADNOC's partnership outcomes → Success here could provide BP with a stabilizing influence amid environmental criticisms.
+
+### 5. BOTTOM LINE
+**Risk Level: Medium**  
+Risk managers should closely monitor BP's evolving relationship with shareholders and climate activists, as well as its strategic initiatives in gas partnerships, to fully assess the ramifications on crude oil risk exposure. The situation is fragile, with significant risks stemming from external activism against strategic operational shifts that the market perceives.

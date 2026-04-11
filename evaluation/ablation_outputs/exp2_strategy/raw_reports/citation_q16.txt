@@ -1,0 +1,36 @@
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+## COMMODITY RISK REPORT
+**Commodity:** crude oil  
+**Report Date:** 2023-09-30  
+**Articles Analysed:** 5 articles  
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+### 1. OVERALL SENTIMENT
+**Bullish**  
+> The dominant signal is bullish due to potential disruptions in LNG supply linked to labor disputes at Chevron's facilities, which could increase demand and price pressures in the crude oil market as traders seek alternatives.
+
+### 2. KEY RISK SIGNALS
+
+**LNG & Natural Gas | Supply Chain Blockage | Severity: High**
+- **Headline:** Explainer: What's at stake in Chevron's Australia LNG labour dispute?
+- **What happened:** A potential strike at Chevron’s Gorgon and Wheatstone LNG facilities threatens the global gas supply, particularly to key Asian markets, due to labor demands for better pay and working conditions [Article 1].
+- **Market impact:** This disruption could lead to elevated global gas prices and increased reliance on crude oil as an alternative energy source during the upcoming winter [Article 1].
+- **Sentiment contribution:** Bullish — as supply interruptions could lead to higher crude oil prices.
+
+**Supply (Production/Upstream) | Production Shortfall | Severity: Medium**
+- **Headline:** Chevron readies new oil drilling push in Venezuela to boost output
+- **What happened:** Chevron plans to elevate Venezuelan oil output by adding two drilling rigs to its operations, aiming for 200,000 barrels per day by the end of 2024 [Article 3].
+- **Market impact:** This increase in production is expected to partially offset concerns about global supply from other regions, although challenges in sourcing equipment remain [Article 3].
+- **Sentiment contribution:** Neutral — while increased output may stabilize prices, ongoing labor disputes remain a concern.
+
+### 3. SIGNAL SYNTHESIS
+The risk signals exhibit a mix of bullish factors linked to potential supply chain disruptions in LNG services and moderate neutral signals from production increases planned in Venezuela. The LNG labor dispute suggests that overall tensions may lead to higher demand for crude oil, although the planned increase in production from Chevron could mitigate some concerns. The net effect indicates heightened risk exposure, primarily driven by supply disruptions.
+
+### 4. WATCH LIST
+- [ ] Outcome of Chevron’s labor negotiations → A successful resolution could stabilize LNG supply and reduce bullish pressures on crude oil.
+- [ ] Performance of Venezuelan drilling efforts → Success could increase supply, mitigating a potential price spike.
+- [ ] Weather patterns impacting LNG and crude oil demand during winter → Severe weather could further disrupt supply chains, enhancing crude oil's appeal.
+
+### 5. BOTTOM LINE
+**Risk Level: High**  
+Given the potential for labor disputes in Australia to significantly disrupt LNG supply, traders should be vigilant about short-term volatility in crude oil prices. The situation remains fragile, and any escalation in labor negotiations could sharply affect market sentiment.

@@ -1,0 +1,46 @@
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+## COMMODITY RISK REPORT
+**Commodity:** LNG  
+**Report Date:** 2022-03-09  
+**Articles Analysed:** 5 articles  
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+### 1. OVERALL SENTIMENT
+**Bullish**  
+The dominant signal is bullish due to strong growth in LNG demand driven by geopolitical tensions and supply chain limitations. Despite some positive developments in infrastructure expansion, concerns about supply chain blockages overshadow them.
+
+---
+### 2. KEY RISK SIGNALS
+
+**[LNG & Natural Gas] | [Supply Chain Blockage] | Severity: High**
+- **Headline:** Cheniere’s CEO Sees LNG Demand Growing Exponentially, with Volatile Market Even Tighter in Future
+- **What happened:** Cheniere Energy's CEO highlighted an accelerating demand for LNG post-COVID-19 alongside significant capacity constraints at U.S. export facilities due to geopolitical events, particularly the Ukraine invasion.
+- **Market impact:** This situation has resulted in a tightening LNG market and unsustainably high prices, notably in Europe.
+- **Sentiment contribution:** Bullish — the significant and growing demand juxtaposed with supply limitations indicates a hard tightening of the market.
+
+**[LNG & Natural Gas] | [No Significant Risk] | Severity: Low**
+- **Headline:** Cheniere Energy inks contract to begin construction of next stage of Corpus Christi plant
+- **What happened:** Cheniere has initiated a new expansion project at its Corpus Christi LNG facility to meet high global demand.
+- **Market impact:** While this development signals growth in supply capacity, it does not alleviate immediate concerns over existing supply blockages.
+- **Sentiment contribution:** Neutral — signifies future potential relief but does not influence current supply constraints.
+
+**[LNG & Natural Gas] | [No Significant Risk] | Severity: Low**
+- **Headline:** McNeese LNG Center of Excellence Executive Director Named
+- **What happened:** The establishment of a center aimed at education and workforce development in the LNG sector was announced.
+- **Market impact:** A long-term positive initiative for skills and safety in the industry but does not impact immediate supply or demand dynamics.
+- **Sentiment contribution:** Neutral — does not provide significant market influence currently.
+
+---
+### 3. SIGNAL SYNTHESIS
+The risk signals are largely aligned towards a bullish sentiment for LNG, primarily influenced by high demand and supply constraints. While expansion projects indicate a potential easing of future risks, they do not currently offset immediate market pressures such as supply chain blockages. As a result, the market remains sensitive to ongoing geopolitical events and their impact on supply and pricing.
+
+---
+### 4. WATCH LIST
+- [ ] **Geopolitical developments in Ukraine** → Further escalations could lead to more supply blockages and price surges.
+- [ ] **Updates on corpus christi expansion** → Construction delays or acceleration could indicate changes in future supply dynamics.
+- [ ] **Changes in global LNG demand forecasts** → Adjustments could significantly influence pricing and contract negotiations.
+
+---
+### 5. BOTTOM LINE
+**Risk Level: High**  
+LNG markets are facing a significant risk exposure primarily driven by high demand paired with supply chain challenges. Current geopolitical situations may exacerbate conditions, reinforcing the need for traders and risk managers to closely monitor developments that could disrupt supply further.

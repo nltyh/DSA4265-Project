@@ -1,0 +1,30 @@
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+## COMMODITY RISK REPORT
+**Commodity:** LNG  
+**Report Date:** 2026-04-11  
+**Articles Analysed:** 5 articles  
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+### 1. OVERALL SENTIMENT
+**Bearish**  
+The persistent operational failures at Freeport LNG have led to reduced capacity and significant impacts on U.S. LNG exports, contributing to a negative sentiment surrounding the LNG market.
+
+### 2. KEY RISK SIGNALS
+
+**LNG & Natural Gas | Production Shortfall | Severity: High**  
+- **Headline:** As demand for US LNG booms, one plant struggles to stay online  
+- **What happened:** Freeport LNG, the second-largest U.S. LNG export facility, has been operating below 80% capacity due to ongoing technical issues and damage from a January freeze.  
+- **Market impact:** This unreliability has significantly impacted U.S. LNG exports and led to volatility in Henry Hub natural gas futures prices as the average utilization rate has fallen from 80% to 72% over the past year.  
+- **Sentiment contribution:** Bearish — as operational struggles at such a significant facility lead to diminished supply in a growing demand environment, negatively impacting prices [Article 4].
+
+### 3. SIGNAL SYNTHESIS
+The predominant risk signals point towards a significant production shortfall due to Freeport LNG's ongoing operational challenges. These signals are fundamentally substantiated, suggesting that the current risk exposure in the LNG market is heightened. The negative sentiment surrounding these issues reflects concerns about supply stability against a backdrop of increasing demand.
+
+### 4. WATCH LIST
+- [ ] Monitor Freeport LNG's operational recovery → If operations improve, it could stabilize U.S. LNG exports and prices.
+- [ ] Watch for changes in LNG demand from major importing countries → Increased demand could further strain supply if production issues persist.
+- [ ] Keep an eye on regulatory changes affecting LNG exports → New regulations could impact operational capacity and expansion plans.
+
+### 5. BOTTOM LINE
+**Risk Level: High**  
+The risks associated with LNG infrastructure are heightened due to Freeport LNG's ongoing production shortfalls, which are negatively affecting market stability. Traders and risk managers should be particularly cautious and closely monitor operational developments at key facilities.

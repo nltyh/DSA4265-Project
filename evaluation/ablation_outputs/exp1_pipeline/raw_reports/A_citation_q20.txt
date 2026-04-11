@@ -1,0 +1,44 @@
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+## COMMODITY RISK REPORT
+**Commodity:** crude oil  
+**Report Date:** 2026-04-11  
+**Articles Analysed:** 5 articles  
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+### 1. OVERALL SENTIMENT
+**Bullish**  
+> The shortage of oil tankers caused by Red Sea attacks creates upward pressure on prices due to increased shipping rates and diversions, indicating a bullish outlook for crude oil in the near term.
+
+---
+
+### 2. KEY RISK SIGNALS
+
+**Shipping & logistics | Supply Chain Blockage | Severity: High**  
+- **Headline:** Shortage of Oil Tankers at Hand as Red Sea Attacks Divert Trade  
+- **What happened:** Houthi attacks in the Red Sea are resulting in significant oil tanker shortages and diversions, coupled with a low number of new supertankers expected this year.  
+- **Market impact:** The diversion and shortage are tightening the tanker market, leading to increased rates and voyage durations for crude oil transport.  
+- **Sentiment contribution:** Bullish — The tighter supply of tankers and higher shipping costs are likely to elevate crude oil prices due to increased operational challenges for traders and suppliers [Article 1].
+
+**Shipping & logistics | Infrastructure Damage | Severity: Medium**  
+- **Headline:** Second Tanker Hit in Weeks as Black Sea Drone Strikes Russian Oil Cargo  
+- **What happened:** A tanker carrying Russian oil was struck by an unmanned marine vehicle in the Black Sea, adding to shipping vulnerabilities in a critical trade route.  
+- **Market impact:** This increases risks and disruptions to oil shipments, particularly for Russian crude, which could lead to tightening supplies in international markets.  
+- **Sentiment contribution:** Bearish — While this incident adds to concerns about shipping safety, the overall bearish sentiment may be tempered as market uncertainties could lead to higher prices for secure supplies [Article 2].
+
+---
+
+### 3. SIGNAL SYNTHESIS
+The risk signals from the articles are primarily aligned, indicating a more favorable market outlook for crude oil due to significant logistical disruptions. The bullish sentiment from the tanker shortages is somewhat moderated by rising concerns regarding shipping infrastructure damage; however, the overall impact remains positive for oil prices, as the supply chain challenges outweigh the bearish signals.
+
+---
+
+### 4. WATCH LIST
+- [ ] Confirmation of further attacks in the Red Sea → Increased prices and potential long-term tanker shortages could occur.
+- [ ] Outcomes from Russia's response to the Black Sea incident → Further escalation might worsen shipping safety and increase risk premiums for Russian oil.
+- [ ] Reports on new tanker deliveries in 2024 → An increase could alleviate some supply pressure in the shipping market.
+
+---
+
+### 5. BOTTOM LINE
+**Risk Level: High**  
+The ongoing developments in the Red Sea are significantly impacting the crude oil shipping landscape, tightening supply chains and increasing operational costs, which may facilitate upward pressure on prices. Risk managers should remain vigilant regarding security developments affecting shipping routes, as these are likely to be key drivers of market volatility.

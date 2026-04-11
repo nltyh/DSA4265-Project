@@ -1,0 +1,47 @@
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+## COMMODITY RISK REPORT
+**Commodity:** crude oil  
+**Report Date:** 2026-04-11  
+**Articles Analysed:** 5 articles  
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+### 1. OVERALL SENTIMENT
+**Bearish**  
+Oil prices have fallen amid expectations of increased supply from OPEC+ and uncertainty regarding interest rate cuts from the Federal Reserve, which dampens demand outlook [Article 1].
+
+---
+### 2. KEY RISK SIGNALS
+
+**Financial Flows / Positioning | Macro-Economic Cooling | Severity: High**
+- **Headline:** Oil settles $1 down as supply set to rise, uncertainty around Fed rate cuts  
+- **What happened:** Oil prices dropped due to investor expectations of increased supply from OPEC+ and reduced hopes for significant Federal Reserve rate cuts.  
+- **Market impact:** The combination of potential oversupply and concerns about economic growth dampens demand for oil, contributing to lower price expectations.  
+- **Sentiment contribution:** Bearish — influenced by growing supply and economic uncertainties [Article 1].
+
+**Financial Flows / Positioning | No Significant Risk | Severity: Low**
+- **Headline:** Morgan Stanley, Charles Schwab, Leidos And More On CNBC's 'Final Trades'  
+- **What happened:** This article discusses various financial trades but states that there are no significant risks affecting crude oil directly.  
+- **Market impact:** Overall, this does not contribute to any notable price movement in crude oil.  
+- **Sentiment contribution:** Neutral, as it lacks any impactful risk information [Article 2].
+
+**Demand / Macro Activity | No Significant Risk | Severity: Low**
+- **Headline:** Oil rises on diesel demand boost in sparse holiday trade  
+- **What happened:** Oil prices rose due to increased diesel demand driven by cold weather forecasts.  
+- **Market impact:** This suggests a temporary uptick in demand that might support prices, although it is occurring against a backdrop of potential oversupply.  
+- **Sentiment contribution:** Neutral, as it does not greatly counteract the prevailing bearish trend [Article 5].
+
+---
+### 3. SIGNAL SYNTHESIS
+The primary risk signals indicate a bearish sentiment driven by macroeconomic factors, namely anticipated supply increases and uncertainties surrounding U.S. interest rates. While there are some instances of neutral sentiment regarding specific trades and temporary demand boosts, they do not fundamentally alter the overall bearish perspective on crude oil prices at this time.
+
+---
+### 4. WATCH LIST
+- [ ] **OPEC+ Supply Decisions** → Any announcements regarding supply cuts would likely lead to bullish sentiment in the market.
+- [ ] **Federal Reserve Rate Announcements** → Changes in expected rate cuts that could stimulate demand may shift market sentiment.
+- [ ] **U.S. Economic Data Releases** → Strong economic indicators could bolster demand, affecting both supply and price dynamics.
+- [ ] **Weather Reports** → Significant weather changes impacting diesel demand could alter short-term pricing.
+
+---
+### 5. BOTTOM LINE
+**Risk Level: Medium**  
+Current market conditions suggest a medium level of risk for crude oil, primarily due to macroeconomic cooling expectations and increased supply. Traders should closely monitor OPEC's actions and economic indicators for potential shifts in market sentiment.

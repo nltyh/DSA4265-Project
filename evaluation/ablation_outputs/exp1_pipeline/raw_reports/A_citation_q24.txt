@@ -1,0 +1,36 @@
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+## COMMODITY RISK REPORT
+**Commodity:** crude oil  
+**Report Date:** 2026-04-11  
+**Articles Analysed:** 5 articles  
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+### 1. OVERALL SENTIMENT
+**Bearish**  
+> The overall sentiment is bearish due to the geopolitical tensions affecting shipping security, particularly the recent Houthi attacks on vessels affiliated with Greece-based companies, which introduce uncertainty in supply-chain logistics and may lead to higher insurance premiums.
+
+### 2. KEY RISK SIGNALS
+
+**Shipping & Logistics | Geopolitical Conflict | Severity: High**
+- **Headline:** Behind Houthi Attacks on Ships Operated by Greece-Based Companies
+- **What happened:** The Houthis have increased attacks on ships linked to Greece, particularly targeting vessels with any recent trade with Israeli ports, signaling a broadening of their operational scope[Article 2].
+- **Market impact:** This escalation poses a heightened risk to crude oil transport routes, raising insurance costs and potentially disrupting supply chains, which may lead to upward pressure on crude oil prices.
+- **Sentiment contribution:** Bearish — the increased risk to shipping routes could result in supply constraints and a more volatile pricing environment.
+
+**Shipping & Logistics | Infrastructure Damage | Severity: Medium**
+- **Headline:** Second Tanker Hit in Weeks as Black Sea Drone Strikes Russian Oil Cargo
+- **What happened:** A tanker carrying Russian oil was damaged by an unmanned vehicle in the Black Sea, raising concerns about the safety of shipping infrastructure in the region[Article 5].
+- **Market impact:** These incidents could lead to operational outages and further instability in an already strained supply chain, thereby impacting price stability.
+- **Sentiment contribution:** Bearish — concerns over infrastructure damage contribute to uncertainty in supply capability, affecting trader confidence.
+
+### 3. SIGNAL SYNTHESIS
+The key risk signals are aligned toward increasing concerns over geopolitical conflicts affecting shipping operations. The Houthi attacks and the attack on the tanker indicate a trend that is confirmed by actual incidents rather than speculative factors. This suggests a net tightening of crude oil supply risk around shipping routes, leading to a bearish outlook.
+
+### 4. WATCH LIST
+- [ ] Escalation of Houthi attacks → If such incidents increase, it may lead to significant disruptions in oil supply and higher prices.
+- [ ] New sanctions targeting maritime shipping routes → Additional sanctions may exacerbate supply chain issues and lead to price spikes.
+- [ ] Agreements or ceasefires in the region → Any diplomatic resolution could stabilize market sentiment and potentially lower risks.
+
+### 5. BOTTOM LINE
+**Risk Level: High**  
+The most significant factor to note is the increased risk of geopolitical conflicts disrupting shipping routes for crude oil. These developments are fragile and context-dependent, meaning that trader responses may fluctuate rapidly if new incidents occur.

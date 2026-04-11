@@ -1,0 +1,51 @@
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+## COMMODITY RISK REPORT
+**Commodity:** crude oil  
+**Report Date:** 2024-08-30  
+**Articles Analysed:** 5 articles  
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+### 1. OVERALL SENTIMENT
+**Bearish**  
+> The overall sentiment is bearish due to expectations of increased supply from OPEC+ and uncertainty around U.S. Federal Reserve interest rate cuts impacting demand.
+
+---
+### 2. KEY RISK SIGNALS
+**Financial flows/positioning | Macro-Economic Cooling | Severity: Medium**  
+- **Headline:** Oil settles $1 down as supply set to rise, uncertainty around Fed rate cuts  
+- **What happened:** Oil prices fell due to expectations of increased supply from OPEC+ and diminished hopes for a significant interest rate cut by the U.S. Federal Reserve.  
+- **Market impact:** This suggests a potential oversupply scenario in the oil market, which could suppress prices further.  
+- **Sentiment contribution:** Bearish — the combination of rising supply and macroeconomic uncertainty dampens market outlook.
+
+**Demand/Macro Activity | No Significant Risk | Severity: Low**  
+- **Headline:** Exxon forecasts 2050 oil demand to match today's, 25% above BP estimate  
+- **What happened:** Exxon Mobil anticipates strong crude oil demand persisting above 100 million barrels per day through 2050, exceeding predictions from competitors.  
+- **Market impact:** While this suggests a robust long-term demand outlook, the current oversupply expectations may overshadow it.  
+- **Sentiment contribution:** Neutral — this signals future potential but lacks immediate impact with current supply dynamics.
+
+**Financial flows/positioning | No Significant Risk | Severity: Low**  
+- **Headline:** Marathon Oil receives stakeholder approval for $22.5bn ConocoPhillips merger  
+- **What happened:** Stakeholder approval of a merger might provide production efficiency and market stability post-completion.  
+- **Market impact:** The merger is likely to enhance the operational footprint of the combined entity but does not address immediate supply concerns.  
+- **Sentiment contribution:** Neutral — primarily an internal consolidation move without immediate market implications.
+
+**Financial flows/positioning | No Significant Risk | Severity: Low**  
+- **Headline:** Offshore oil drillers look like bargain stocks as the industry recovers  
+- **What happened:** Increased demand for offshore drilling has been noted despite low valuations in related companies, suggesting potential investment interest.  
+- **Market impact:** This highlights a recovering sector but does not directly impact the existing supply-demand dynamics.  
+- **Sentiment contribution:** Neutral — while presenting investment opportunities, it does not alter risk outlook.
+
+---
+### 3. SIGNAL SYNTHESIS
+The risk signals present a mostly aligned bearish sentiment primarily driven by macroeconomic conditions that suggest oversupply, further compounded by potential reduced demand due to uncertainty around interest rate cuts. A few positive signals, such as long-term demand forecasts and operational consolidations, do not currently offset the bearish inclination.
+
+---
+### 4. WATCH LIST
+- [ ] OPEC+ production decisions → An increase could exacerbate supply glut and push prices lower.
+- [ ] Further Fed announcements on interest rates → Clarity can stabilize demand projections or lead to bullish movements.
+- [ ] Any geopolitical events impacting Libya oilfields → As noted, oilfield closures resulted in volatility; renewed disruptions could spike prices.
+
+---
+### 5. BOTTOM LINE
+**Risk Level: Medium**  
+Current risks primarily indicate a bearish outlook due to supply increases and interest rate uncertainties. However, the situation remains flexible as long-term demand projections could alter sentiment if broader market conditions stabilize.

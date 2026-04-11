@@ -1,0 +1,42 @@
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+## COMMODITY RISK REPORT
+**Commodity:** crude oil  
+**Report Date:** 2026-04-11  
+**Articles Analysed:** 5 articles  
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+### 1. OVERALL SENTIMENT
+**Mixed**  
+The current sentiment is mixed due to the tensions between BP's efforts to appease shareholders with oil production increases and environmentalist backlash against its climate targets. While some shareholders support BP's strategy, there is rising concern over long-term sustainability and regulatory scrutiny from activists and lawmakers [Article 1, 2, 4].
+
+### 2. KEY RISK SIGNALS
+
+**Energy transition / structural | Geopolitical Conflict | Severity: Medium**  
+- **Headline:** BP faces green protest over new climate goals  
+- **What happened:** BP is experiencing protests and opposition from shareholders and environmental activists after weakening its climate targets, indicating a conflict between profit motives and sustainability goals.  
+- **Market impact:** This situation may induce volatility in BP's stock and potentially affect investor confidence in oil companies, influencing crude oil supply dynamics.  
+- **Sentiment contribution:** Bearish — the protests reflect a heavy cloud of concern regarding regulatory repercussions and corporate reputations impacting profitability [Article 1].
+
+**Geopolitics & policy | Regulatory Constraint | Severity: Medium**  
+- **Headline:** BP shareholders reject climate activist resolution but support grows  
+- **What happened:** BP shareholders rejected a climate resolution even as dissatisfaction with the company’s climate strategy increases among institutional investors.  
+- **Market impact:** While immediate supply remains unaffected, ongoing scrutiny may lead to future regulatory pressures that could restrict production capacities or alter strategic plans, affecting crude prices.  
+- **Sentiment contribution:** Bearish — the increasing scrutiny can result in heightened operational costs and constraints for companies in the crude oil sector [Article 2].
+
+**Geopolitics & policy | No Significant Risk | Severity: Low**  
+- **Headline:** US Lawmakers Condemn Oil Industry’s ‘Deception’ on Climate Action  
+- **What happened:** A report condemning oil companies, including BP, emerged from a U.S. House investigation into climate misinformation.  
+- **Market impact:** While this reflects a contentious political environment, it does not currently pose a direct risk to production or supply chains.  
+- **Sentiment contribution:** Neutral — the lack of immediate impact on operations or supply keeps this signal from becoming a significant risk at this time [Article 4].
+
+### 3. SIGNAL SYNTHESIS
+The risk signals identified present both bearish sentiments driven by shareholder unrest and regulatory scrutiny and a neutral observation regarding actual impacts on operational output. While BP's actions may lead to caution among investors, at this point, significant production risks remain low, producing a mixed sentiment overall.
+
+### 4. WATCH LIST
+- [ ] BP's shareholder meetings → Outcomes could dictate future climate strategies and impact prices.
+- [ ] New regulations on oil company emissions → May lead to operational constraints or increased costs affecting supply.
+- [ ] Public protests escalation → Could lead to additional reputational damage for oil companies, affecting investor sentiment.
+
+### 5. BOTTOM LINE
+**Risk Level: Medium**  
+The primary takeaway for risk managers is that while immediate crude oil supply risks are limited, BP's internal conflicts over climate strategies and shareholder expectations pose underlying vulnerabilities that could affect market stability going forward. This situation remains fragile and should be monitored closely for any emerging developments.

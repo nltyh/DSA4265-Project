@@ -1,0 +1,54 @@
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+## COMMODITY RISK REPORT
+**Commodity:** LNG  
+**Report Date:** 2026-04-11  
+**Articles Analysed:** 5 articles  
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+### 1. OVERALL SENTIMENT
+**Bullish**  
+> The strong demand for LNG from Europe, driven by geopolitical conflict, is creating a significant shift in supply dynamics that favors U.S. exports while simultaneously increasing risks associated with operational disruptions at plants like Freeport LNG.
+
+---
+
+### 2. KEY RISK SIGNALS
+
+**LNG & natural gas | Supply Chain Blockage | Severity: High**
+- **Headline:** Europe’s scramble for LNG leaves Asia starving for energy
+- **What happened:** Europe's increased demand for LNG due to the ongoing conflict in Ukraine is diverting shipments away from Asia, causing an energy shortage in countries like China, Japan, and Bangladesh [Article 1].
+- **Market impact:** This diversion is likely to tighten the global supply of LNG available to Asian markets, leading to higher prices and increased competition among buyers.
+- **Sentiment contribution:** Bullish — European demand supports higher prices for LNG as the market pivots towards U.S. exports.
+
+---
+
+**LNG & natural gas | Supply Chain Blockage | Severity: High**
+- **Headline:** News Content Hub - LNG imports to China tumble 20% in 2022
+- **What happened:** China’s LNG imports fell by 20% in 2022 due to strict COVID-19 lockdowns and a shift to domestic production and pipeline imports [Article 2].
+- **Market impact:** China’s reduced import needs may create temporary space in the global LNG market, but the long-term implications of its market dynamics can lead to volatility.
+- **Sentiment contribution:** Bearish — a significant drop in demand from one of the largest consumers could offset some of the bullish sentiment driven by European needs.
+
+---
+
+**LNG & natural gas | Production Shortfall | Severity: Medium**
+- **Headline:** As demand for US LNG booms, one plant struggles to stay online
+- **What happened:** The Freeport LNG facility is operating below 80% capacity due to technical issues, impacting U.S. LNG exports and causing volatility in natural gas futures [Article 4].
+- **Market impact:** Reliability issues at Freeport may affect the overall availability of LNG from the U.S., which could hinder efforts to meet heightened European demand.
+- **Sentiment contribution:** Bearish — operational challenges introduce uncertainty in supply that may dampen market enthusiasm.
+
+---
+
+### 3. SIGNAL SYNTHESIS
+The risk signals present both bullish and bearish factors: while Europe's increasing demand for LNG enhances its market strength and pricing power, the ongoing supply chain blockages, particularly in major production facilities like Freeport LNG, introduce vulnerabilities. Additionally, China's significant reduction in LNG imports adds a layer of uncertainty to global demand dynamics. Overall, while the sentiment is primarily bullish from European demand, it is tempered by significant production risks.
+
+---
+
+### 4. WATCH LIST
+- [ ] Monitor Freeport LNG's operational capacity → sustained low capacity could further strain U.S. market supply and pricing.
+- [ ] Observe developments in European demand metrics → increases could lead to further price rallies.
+- [ ] Keep track of China’s energy policies towards natural gas → any reversion to increased LNG imports could significantly impact market dynamics.
+
+---
+
+### 5. BOTTOM LINE
+**Risk Level: Medium**  
+There is a strong bullish sentiment from heightened European demand for LNG; however, operational challenges at key export facilities and reduced imports from China introduce notable risks. Risk managers should remain vigilant regarding supply continuity and its potential impact on pricing.

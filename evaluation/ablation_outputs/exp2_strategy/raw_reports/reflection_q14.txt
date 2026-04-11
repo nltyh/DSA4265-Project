@@ -1,0 +1,66 @@
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+## COMMODITY RISK REPORT
+**Commodity:** diesel, crude oil  
+**Report Date:** 2026-04-11  
+**Articles Analysed:** 5 articles  
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+### 1. OVERALL SENTIMENT
+**Bullish**  
+> The prevailing sentiment is bullish due to anticipated high profit margins for refiners driven by the EU's embargo on Russian fuels, which supports pricing and demand for diesel and crude oil.
+
+---
+### 2. KEY RISK SIGNALS
+
+**Refining (Downstream) | No Significant Risk | Severity: Low**
+- **Headline:** U.S. refiners expect Russian fuel sanctions to keep margins high
+- **What happened:** U.S. refiners are predicting sustained high profit margins due to the upcoming EU ban on Russian fuel imports.
+- **Market impact:** This will likely support higher prices for refined products like diesel and jet fuel.
+- **Sentiment contribution:** Bullish — the expectation of elevated margins signals strong demand.
+
+---
+
+**Energy transition / structural | No Significant Risk | Severity: Low**
+- **Headline:** bp Energy Outlook 2023 explores key trends and uncertainties surrounding the energy transition
+- **What happened:** BP's outlook highlights a decline in oil demand in the long-term but affirms significant roles for oil and gas over the next 15-20 years amidst the energy transition.
+- **Market impact:** This indicates that while long-term demand may wane, immediate demand for crude remains supported.
+- **Sentiment contribution:** Neutral — while long-term risks exist, current conditions remain stable for crude.
+
+---
+
+**Financial Flows / Positioning | No Significant Risk | Severity: Low**
+- **Headline:** PXE ETF: Positioned For Next Phase Of Energy Sector Bull Market
+- **What happened:** The PXE ETF has performed well and is expected to continue outperforming in the energy sector.
+- **Market impact:** Positive sentiment around energy investments suggests strong market interest in crude assets.
+- **Sentiment contribution:** Bullish — reflects financial optimism in the crude oil sector.
+
+---
+
+**LNG & Natural Gas | Supply Chain Blockage | Severity: Medium**
+- **Headline:** LNG imports to China tumble 20% in 2022
+- **What happened:** China’s LNG imports fell sharply due to lockdowns and a shift to domestic production.
+- **Market impact:** A decline in imports contributes to supply-side pressures in the LNG market, potentially affecting crude oil demand as fuel alternatives.
+- **Sentiment contribution:** Bearish — reduced LNG activity may hinder overall energy market dynamics.
+
+---
+### 3. SIGNAL SYNTHESIS
+The signals appear largely aligned towards a bullish sentiment for diesel and crude oil, particularly due to the favorable conditions for refiners amidst the EU sanctions. However, the bearish impact stemming from decreased LNG imports in China signals potential demand pressures, highlighting a complex interplay between supply and pricing dynamics.
+
+---
+### 4. WATCH LIST
+- [ ] Monitor EU enforcement of fuel sanctions → any delays could weaken refining margins.
+- [ ] Track developments in China's energy imports → a further drop could signal a bearish trend for crude prices.
+- [ ] Watch for changes in U.S. refining capacity → any disruptions could alter dynamics in refined products availability.
+
+---
+### 5. BOTTOM LINE
+**Risk Level: Medium**  
+Current configurations suggest a bullish outlook, but with factors like declining LNG imports complicating the demand picture. Risk managers should remain vigilant on global supply chain developments that could alter the refining landscape. 
+
+---
+
+[REFLECTION]  
+No issues found.
+
+[FINAL REPORT]  
+(The final report is the same as the draft report, as it meets all checks.)

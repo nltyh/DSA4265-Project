@@ -1,0 +1,36 @@
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+## COMMODITY RISK REPORT
+**Commodity:** crude oil  
+**Report Date:** 2023-02-28  
+**Articles Analysed:** 5 articles  
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+### 1. OVERALL SENTIMENT
+**Mixed**  
+The overall sentiment reflects a mix of bullish and bearish indicators. While the Groningen inquiry highlights significant infrastructure risks which could disrupt supply, the impact of Tropical Storm Freddy introduces weather-related risks that could exacerbate supply challenges.
+
+### 2. KEY RISK SIGNALS
+
+**Geopolitics & Policy | Infrastructure Damage | Severity: High**
+- **Headline:** Dutch gov't, Shell and Exxon ignored Groningen risks for years, inquiry finds
+- **What happened:** A parliamentary inquiry revealed that the Dutch government and major companies underestimated the risks associated with gas production in Groningen, leading to significant infrastructural damage and community distress.
+- **Market impact:** This could result in supply chain disruptions and affect overall production capacity, potentially leading to increased prices in the crude oil market.
+- **Sentiment contribution:** Bearish — concerns over regulatory scrutiny and infrastructural integrity impact confidence in consistent production.
+
+**Weather | Weather Extremity | Severity: Medium**
+- **Headline:** Storm Freddy could strike Sasol natural gas operations
+- **What happened:** Tropical Storm Freddy is making landfall in Mozambique, threatening to affect natural gas operations, which may lead to operational downtime.
+- **Market impact:** This could further tighten natural gas supplies, creating upward pressure on crude oil prices as substitutes may be required.
+- **Sentiment contribution:** Bullish — weather extremities create uncertainty, supporting potential price increases.
+
+### 3. SIGNAL SYNTHESIS
+The risk signals are somewhat aligned, with both the Groningen inquiry and Storm Freddy indicating challenges to crude oil supply. The infrastructure damage risks from the inquiry are compounded by weather events, suggesting heightened vulnerability in production. However, the sentiments around these risks are mixed; the Groningen report leans bearish due to potential regulatory impacts, while the storm's implications offer bullish potential due to exacerbated supply tightness.
+
+### 4. WATCH LIST
+- [ ] Outcome of the Groningen inquiry → If it leads to shut-ins or operational halts, supply could be significantly affected.
+- [ ] Developments from Storm Freddy → If damage is extensive, operational disruptions could increase crude price volatility.
+- [ ] Regulatory reactions to the Groningen findings → These could lead to further constraints on production or increased costs for compliance.
+
+### 5. BOTTOM LINE
+**Risk Level: High**  
+The situation is precarious, combining severe weather threats and substantial regulatory scrutiny which could trigger significant supply disruptions. Traders and risk managers should be vigilant about further developments that could affect the reliability of crude oil supply.

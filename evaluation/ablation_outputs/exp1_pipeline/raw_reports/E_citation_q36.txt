@@ -1,0 +1,54 @@
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  
+## COMMODITY RISK REPORT  
+**Commodity:** LNG  
+**Report Date:** 2026-04-11  
+**Articles Analysed:** 5 articles  
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  
+
+### 1. OVERALL SENTIMENT  
+**Bearish**  
+The overall sentiment is bearish due to Cheniere Energy's maintenance work at Sabine Pass, leading to reduced U.S. LNG output. While there are new agreements indicating future supply growth, the immediate impact on current output is expected to negatively affect prices.
+
+---
+
+### 2. KEY RISK SIGNALS  
+
+**LNG & Natural Gas | Supply Chain Blockage | Severity: High**  
+- **Headline:** Cheniere Energy says maintenance work begun on Sabine Pass LNG plant  
+- **What happened:** Cheniere Energy has started annual maintenance at Sabine Pass, the largest LNG plant in the U.S., which will reduce LNG output significantly in the coming weeks.  
+- **Market impact:** This maintenance is likely to tighten supply in the short term, affecting global LNG prices.  
+- **Sentiment contribution:** Bearish — the reduction in output leads to expectations of decreased supply, impacting immediate price levels [Article 1].
+
+---
+
+**LNG & Natural Gas | No Significant Risk | Severity: Low**  
+- **Headline:** Cheniere Buying More Natural Gas at Prices Linked to JKM in Canadian Natural Deal  
+- **What happened:** Cheniere has secured a long-term agreement for natural gas supply starting in 2030, aligning with its future expansion plans.  
+- **Market impact:** While this is a positive move for future supply capacity, it does not impact immediate supply dynamics.  
+- **Sentiment contribution:** Neutral — it indicates a potential future increase in supply but does not alleviate current supply concerns due to maintenance [Article 2, 3].
+
+---
+
+**LNG & Natural Gas | No Significant Risk | Severity: Low**  
+- **Headline:** Sempra secures LNG export permit for Phase 2 of Texas facility  
+- **What happened:** Sempra received a permit for its Port Arthur LNG Phase 2 facility, allowing for increased LNG export capacity.  
+- **Market impact:** This expansion is significant for the long-term LNG supply outlook in the U.S., but it doesn’t provide immediate relief in terms of current output reduction.  
+- **Sentiment contribution:** Neutral — while it establishes a pathway for future growth, it doesn't immediately address the supply shock anticipated from current maintenance [Article 4, 5]. 
+
+---
+
+### 3. SIGNAL SYNTHESIS  
+The risk signals are somewhat aligned, with immediate concerns primarily centered around the maintenance work at the Sabine Pass LNG facility, which causes a significant supply chain blockage. While there are developments indicating future supply increases, such as Sempra's expansions and Cheniere's long-term agreement, these do not counterbalance the current supply issues implied by the ongoing maintenance.
+
+---
+
+### 4. WATCH LIST  
+- [ ] Progress of Sabine Pass maintenance → prolonged maintenance could extend supply disruptions and increase price pressure  
+- [ ] Final investment decisions on ongoing LNG projects → positive decisions could alleviate future supply shortages  
+- [ ] Global LNG demand fluctuations → spikes in demand could exacerbate current supply issues, affecting pricing  
+
+---
+
+### 5. BOTTOM LINE  
+**Risk Level: High**  
+Traders should be aware of the high risk profile due to short-term supply disruptions from maintenance at Sabine Pass. The current bearish sentiment is amplified by the anticipated effects on U.S. LNG exports, despite potential positive long-term developments. No immediate contradictions are apparent in the data.

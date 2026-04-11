@@ -1,0 +1,42 @@
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+## COMMODITY RISK REPORT
+**Commodity:** crude oil  
+**Report Date:** 2024-08-30  
+**Articles Analysed:** 5 articles  
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+### 1. OVERALL SENTIMENT
+**Bearish**  
+> The dominant signal is bearish due to expectations of increased supply from OPEC+, alongside diminished prospects for U.S. Federal Reserve interest rate cuts, which dampens demand expectations.
+
+### 2. KEY RISK SIGNALS
+
+**Financial flows / positioning | Macro-Economic Cooling | Severity: Medium**  
+- **Headline:** Oil settles $1 down as supply set to rise, uncertainty around Fed rate cuts  
+- **What happened:** Oil prices fell as investor expectations of increased supply from OPEC+ emerged, coupled with weakened hopes for significant Fed rate cuts.  
+- **Market impact:** The expected increase in supply may lead to lower prices, and uncertainty regarding Fed policy could reduce demand as economic growth appears stable but cautious.  
+- **Sentiment contribution:** Bearish — the market anticipates softer demand due to perceived macroeconomic stability and OPEC’s supply increases [Article 1].
+
+**Demand / macro activity | No Significant Risk | Severity: Low**  
+- **Headline:** Exxon forecasts 2050 oil demand to match today's, 25% above BP estimate  
+- **What happened:** Exxon Mobil's demand forecast suggests a stable long-term demand for crude oil, significantly exceeding BP's estimates.  
+- **Market impact:** While this outlook supports Exxon's long-term investment strategies, it does not currently impact pricing or immediate supply-demand dynamics.  
+- **Sentiment contribution:** Neutral — while the demand outlook is robust, its relevance to current market conditions is limited [Article 2].
+
+**Financial flows / positioning | No Significant Risk | Severity: Low**  
+- **Headline:** Marathon Oil shareholders vote in favor of $16 billion ConocoPhillips deal  
+- **What happened:** Marathon Oil's shareholders approved a major acquisition by ConocoPhillips, pending regulatory review.  
+- **Market impact:** This merger could strengthen ConocoPhillips' market position but presently contributes no significant risk to the crude oil market.  
+- **Sentiment contribution:** Neutral — the merger has no immediate impact on market dynamics [Article 3, 4, 5].
+
+### 3. SIGNAL SYNTHESIS
+The key risk signals reveal a bearish outlook primarily driven by anticipated increased supply and macroeconomic indicators affecting demand. While long-term demand forecasts from Exxon provide a somewhat stabilizing perspective for the future, they are outweighed by current supply concerns and macroeconomic sentiment, which lean towards a bearish sentiment.
+
+### 4. WATCH LIST
+- [ ] OPEC+ Production Adjustments → If OPEC+ decides to cut production, this could reverse current bearish sentiment and impact prices positively.
+- [ ] Fed Interest Rate Decisions → An unexpected significant cut in rates may bolster demand and shift market sentiment more bullishly.
+- [ ] Regulatory Clearance of ConocoPhillips Merger → If regulatory hurdles are cleared swiftly, this could influence market confidence and investment dynamics.
+
+### 5. BOTTOM LINE
+**Risk Level: Medium**  
+A medium-level risk currently exists due to conflicting signals around macroeconomic factors and supply dynamics. The prevailing bearish sentiment is amplified by expectations of increased OPEC+ supply, while the long-term outlook remains cautiously optimistic, pending regulatory and market developments. The signals are primarily driven by current supply concerns rather than strong fundamentals, indicating a fragile market sentiment.

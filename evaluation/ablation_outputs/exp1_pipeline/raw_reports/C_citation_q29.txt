@@ -1,0 +1,40 @@
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+## COMMODITY RISK REPORT
+**Commodity:** crude oil  
+**Report Date:** 2026-04-11  
+**Articles Analysed:** 5 articles  
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+### 1. OVERALL SENTIMENT
+**Bullish**  
+> The sentiment is bullish due to the cleared merger between Chevron and Hess, which is expected to consolidate resources and potentially stabilize prices.
+
+---
+### 2. KEY RISK SIGNALS
+
+**Geopolitics & Policy | Geopolitical Conflict | Severity: High**  
+- **Headline:** FTC clears Chevron-Hess deal, bans John Hess from board  
+- **What happened:** The Federal Trade Commission approved Chevron's $53 billion merger with Hess Corp. but barred Hess CEO John Hess from joining Chevron's board due to his communications with OPEC [Article 1, 2].  
+- **Market impact:** This regulatory action reinforces scrutiny over OPEC's influence, potentially affecting production strategies and market pricing.  
+- **Sentiment contribution:** Bullish — the merger is seen as beneficial for the stability of production and prices, despite the regulatory constraints.
+
+**Geopolitics & Policy | Geopolitical Conflict | Severity: High**  
+- **Headline:** Chevron’s $53 billion merger with Hess moves forward but not out of woods yet as arbitration keeps suspense alive  
+- **What happened:** The merger's completion is still contingent on resolving an arbitration initiated by ExxonMobil and CNOOC, which could delay the deal [Article 3].  
+- **Market impact:** Uncertainty about arbitration could impact supply strategies and investor confidence, potentially increasing price volatility.  
+- **Sentiment contribution:** Bearish — the ongoing arbitration introduces risk and uncertainty, countering some of the bullish sentiment from the merger approval.
+
+---
+### 3. SIGNAL SYNTHESIS
+The risk signals reflect both bullish and bearish sentiments, primarily influenced by the regulatory actions surrounding the Chevron-Hess merger. The approval is fundamentally positive as it suggests a consolidation that could stabilize the market, while the pending arbitration introduces significant risk and uncertainty. Therefore, the net effect on commodity risk exposure indicates an overall bullish outlook tempered by immediate risks from ongoing legal challenges.
+
+---
+### 4. WATCH LIST
+- [ ] Resolve arbitration case → A settlement or decision favorable to Chevron could solidify market confidence and lead to price stabilization.
+- [ ] Monitor OPEC’s response to Hess's communications → Any changes in OPEC's production strategy in light of U.S. scrutiny could significantly impact supply.
+- [ ] Assess further FTC actions on oil mergers → New regulatory measures could influence market dynamics and investments in the oil sector.
+
+---
+### 5. BOTTOM LINE
+**Risk Level: Medium**  
+The situation remains fluid, characterized by both bullish consolidation efforts and bearish risks associated with arbitration and regulatory scrutiny. Traders and risk managers should monitor ongoing legal developments closely, as they may affect supply dynamics and market stability.

@@ -1,0 +1,48 @@
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+## COMMODITY RISK REPORT
+**Commodity:** crude oil  
+**Report Date:** 2026-04-11  
+**Articles Analysed:** 5 articles  
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+### 1. OVERALL SENTIMENT
+**Bullish**  
+> The predominant signal is bullish due to Hess's significant year-on-year increase in oil production from Guyana, which suggests enhanced supply capabilities that could stabilize or elevate market prices. 
+
+### 2. KEY RISK SIGNALS
+
+**Supply (Production/Upstream) | Production Shortfall | Severity: High**
+- **Headline:** Hess Doubles Guyana Oil Output
+- **What happened:** Hess Corp. increased its net oil production in Guyana by 52% year-on-year to 195,000 bpd in Q4 2024, indicating strong growth in total net production and earnings [Article 1].
+- **Market impact:** This substantial rise in production capacity is likely to positively affect crude oil supply, potentially exerting downward pressure on prices if demand does not increase correspondingly.
+- **Sentiment contribution:** Bullish — the increase in production is expected to supply the market more robustly.
+
+**Financial Flows/Positioning | No Significant Risk | Severity: Low**
+- **Headline:** ExxonMobil Announces 2024 Results
+- **What happened:** ExxonMobil reported strong financial results for 2024 with record production in various basins including Guyana, contributing to robust earnings [Article 2].
+- **Market impact:** The performance indicates a solid financial position but does not signal immediate risks to supply or prices.
+- **Sentiment contribution:** Neutral — while there are strong financials, they do not indicate significant changes in risk or urgency.
+
+**Financial Flows/Positioning | No Significant Risk | Severity: Low**
+- **Headline:** Altria Group (MO) Q4 2024 Earnings: Key financials and quarterly highlights
+- **What happened:** Altria reported flat net revenues but a significant earnings increase, showcasing resilience in its financial performance [Article 3].
+- **Market impact:** As this pertains to a different segment (tobacco), its implications for crude oil are minimal.
+- **Sentiment contribution:** Neutral — limited relevance to crude oil's supply or demand dynamics.
+
+**Geopolitics & Policy | No Significant Risk | Severity: Low**
+- **Headline:** Chevron Plans to Build Gas Plants to Power AI Data Centers
+- **What happened:** Chevron is expanding its infrastructure to meet increased electricity demand, indirectly indicating a shift in energy allocation toward natural gas rather than a direct impact on crude oil [Article 5].
+- **Market impact:** This might indicate a regulatory or market response to changing energy demands but has no immediate effect on crude oil risk.
+- **Sentiment contribution:** Neutral — reflects structural changes in energy but lacks direct relevance.
+
+### 3. SIGNAL SYNTHESIS
+The signals are primarily aligned as the production increase by Hess presents a strong bullish narrative for crude oil, suggesting several positive implications for supply without immediate risks arising from geopolitical or financial changes. However, the lack of significant risks in the other articles adds a layer of stability to the market sentiment.
+
+### 4. WATCH LIST
+- [ ] Monitor Hess's ongoing production rates to see if the 52% increase can be sustained → a decline could shift sentiment to bearish.
+- [ ] Track global demand trends, especially in relation to AI and technology sectors that might affect energy consumption → surge in demand could bolster prices.
+- [ ] Keep an eye on any new geopolitical developments that could impact crude oil supplies, especially in regions of high production → escalation could introduce significant risk factors.
+
+### 5. BOTTOM LINE
+**Risk Level: Low**  
+The current outlook is favorable, supported by a significant increase in production from Hess. However, the overall low risk level indicates stability, with no immediate threats or contradictions.

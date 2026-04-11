@@ -1,0 +1,68 @@
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+## COMMODITY RISK REPORT
+**Commodity:** diesel
+**Report Date:** 2026-04-11
+**Articles Analysed:** 5 articles
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+### 1. OVERALL SENTIMENT
+**Bearish**
+> The dominant sentiment is bearish due to the shutdown of Valero’s refinery following an explosion, which signals a refining outage that could negatively impact diesel supply and pricing.
+
+### 2. KEY RISK SIGNALS
+**Refining (Downstream) | Refining Outage | Severity: High**
+- **Headline:** Valero Shuts Major Refinery After Explosion as Fuel Markets Tighten
+- **What happened:** Valero has shut down its Port Arthur refinery after an explosion caused significant damage to a diesel processing unit [Article 1].
+- **Market impact:** This refining outage could lead to reduced diesel supply in the market, potentially driving prices higher if demand remains stable.
+- **Sentiment contribution:** Bullish — the shutdown poses an immediate risk to supply, potentially raising prices as markets respond.
+
+---
+
+## Commodity: crude oil
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+## COMMODITY RISK REPORT
+**Commodity:** crude oil
+**Report Date:** 2026-04-11
+**Articles Analysed:** 5 articles
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+### 1. OVERALL SENTIMENT
+**Mixed**
+> The sentiment is mixed as the geopolitical tensions around the Strait of Hormuz influence prices, but a reported increase in U.S. crude oil inventories suggests downward pressure.
+
+### 2. KEY RISK SIGNALS
+**Geopolitics & Policy | Geopolitical Conflict | Severity: High**
+- **Headline:** UAE: Weaponizing Hormuz is Economic Terrorism Against the World
+- **What happened:** The UAE has condemned Iran's actions in the Strait of Hormuz, which are seen as a threat to global energy and trade flows [Article 3].
+- **Market impact:** Heightened political tensions could lead to increased risk premiums on crude oil prices, as concerns about supply disruptions grow.
+- **Sentiment contribution:** Bullish — geopolitical risks typically drive prices higher due to supply concerns.
+
+**Geopolitics & Policy | Geopolitical Conflict | Severity: Medium**
+- **Headline:** Oil Plummets 8% as Trump Postpones Hormuz Deadline Threat
+- **What happened:** Brent crude prices fell significantly after U.S. President Trump stated productive conversations regarding the situation in Hormuz [Article 4].
+- **Market impact:** This reduction in tensions may lower risk premiums and lead to a price decline, contrary to the bullish sentiment from previous articles.
+- **Sentiment contribution:** Bearish — the abrupt price drop suggests that markets reacted favorably to reduced immediate tensions.
+
+**Inventory & Storage | Inventory Shock | Severity: Medium**
+- **Headline:** US Crude Oil, Product Inventories Rise
+- **What happened:** API data indicates a notable increase in U.S. crude oil inventories, contrary to market expectations for a drawdown [Article 2].
+- **Market impact:** Rising inventories typically signal lower demand or oversupply, putting downward pressure on prices.
+- **Sentiment contribution:** Bearish — increased inventories can lead to price declines as they indicate weaker demand relative to supply.
+
+---
+
+### 3. SIGNAL SYNTHESIS
+The risk signals for crude oil are contradictory; while geopolitical tensions create a bullish sentiment, the increase in U.S. inventories and the recent price drop indicate bearish pressures. This mixed environment suggests that market participants are balancing the risk of supply disruptions against the realities of increased inventories.
+
+---
+
+### 4. WATCH LIST
+- [ ] Monitor refinery operations at Valero → Any further outages could tighten diesel supply and push prices higher.
+- [ ] Observe diplomatic developments around the Strait of Hormuz → Increased tensions could lead to further supply risks for crude oil.
+- [ ] Track U.S. inventory reports over the next weeks → Ongoing increases could significantly impact market perceptions of oversupply and push prices downward.
+
+---
+
+### 5. BOTTOM LINE
+**Risk Level: Medium**
+The current risk exposure is moderate due to the interplay of refining outages and geopolitical tensions. Traders should be cautious given the mixed signals and ongoing inventory trends that could quickly shift market dynamics.

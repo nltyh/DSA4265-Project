@@ -1,0 +1,36 @@
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+## COMMODITY RISK REPORT
+**Commodity:** LNG  
+**Report Date:** 2026-04-11  
+**Articles Analysed:** 5 articles  
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+### 1. OVERALL SENTIMENT
+**Mixed**  
+Analysts are facing a complex situation with rising prices from geopolitical tensions countered by significant production disruptions. The uncertainty surrounding the war in the Middle East elevates risks while also stimulating bullish price movements.
+
+### 2. KEY RISK SIGNALS
+
+**LNG & natural gas | Infrastructure Damage | Severity: High**
+- **Headline:** The Iran War Has Already Unleashed a $25 Billion Energy Repair Bill
+- **What happened:** War in the Middle East has caused critical damage and shutdowns to liquefied natural gas facilities, resulting in severe global supply disruptions [Article 1].
+- **Market impact:** This damage is expected to lead to heightened prices and limited availability, pushing traders to reassess risk premiums.
+- **Sentiment contribution:** Bullish — the destruction of infrastructure increases supply concerns.
+
+**LNG & natural gas | Production Shortfall | Severity: High**
+- **Headline:** The Iran War Has Upended Global LNG Markets
+- **What happened:** LNG supply outlook has been revised down by approximately 35 million tons due to the disruptions from the conflict [Article 3].
+- **Market impact:** The anticipated shortfall suggests an increase in prices and greater competition for existing supplies.
+- **Sentiment contribution:** Bullish — a drop in supply is expected to elevate prices in the market.
+
+### 3. SIGNAL SYNTHESIS
+The key risk signals regarding LNG are aligned, indicating severe infrastructure damage and significant production shortfalls driven by the ongoing geopolitical conflict. Both risk signals contribute to a bullish sentiment as supply constraints are confirmed by tangible disruptions in facilities and production capabilities.
+
+### 4. WATCH LIST
+- [ ] Escalation of conflict in the Middle East → Potential further disruptions in LNG supply and increased price volatility.
+- [ ] Restoration efforts on damaged infrastructure → Timelines for resuming normal operations could either mitigate or exacerbate supply constraints.
+- [ ] Changes in U.S.-Iran diplomatic negotiations → New agreements could either ease geopolitical tensions or lead to further sanctions, impacting LNG markets.
+
+### 5. BOTTOM LINE
+**Risk Level: High**  
+The risk associated with LNG is significant due to ongoing infrastructure damage and a corresponding production shortfall. Traders should prepare for volatility as these risks are both pronounced and confirmed by recent analyses.

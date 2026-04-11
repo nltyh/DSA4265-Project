@@ -1,0 +1,41 @@
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+## COMMODITY RISK REPORT
+**Commodity:** LNG  
+**Report Date:** 2024-06-28  
+**Articles Analysed:** 5 articles  
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+### 1. OVERALL SENTIMENT
+**Bearish**  
+> The impact of rising labor costs on new LNG projects creates concerns about supply chain blockages, overshadowing positive developments in infrastructure and strategic agreements.
+
+### 2. KEY RISK SIGNALS
+**LNG & Natural Gas | Supply Chain Blockage | Severity: High**
+- **Headline:** Rising US labor costs threaten to derail new LNG projects
+- **What happened:** Labor costs for skilled workers on the U.S. Gulf Coast have risen by as much as 20% since 2021, threatening the financial viability of new LNG projects and leading to budget overruns and delays [Article 1].
+- **Market impact:** These labor cost increases could limit the future supply of LNG, signaling potential upward pressure on prices due to constrained supply capability.
+- **Sentiment contribution:** Bearish — the potential delay in new projects contributes negatively to market sentiment surrounding LNG supply.
+
+**LNG & Natural Gas | No Significant Risk | Severity: Low**
+- **Headline:** FERC Approves Transco's Texas to Louisiana Gas Pipeline Project
+- **What happened:** FERC approved a pipeline expansion that will increase capacity to transport LNG, aiming to improve energy infrastructure reliability [Article 2].
+- **Market impact:** This development is neutral in terms of immediate supply risk but could help alleviate long-term capacity constraints in the LNG market as it opens new transport routes.
+- **Sentiment contribution:** Neutral — while the expansion may enhance future supply capabilities, it does not immediately address current risks related to labor costs.
+
+**LNG & Natural Gas | No Significant Risk | Severity: Low**
+- **Headline:** Aramco, Sempra ink non-binding Port Arthur LNG deal
+- **What happened:** Aramco signed a non-binding agreement to purchase 5 million tonnes of LNG annually for 20 years, reflecting strategic market positioning [Article 3].
+- **Market impact:** This long-term agreement helps secure future LNG supplies but does not alleviate current supply chain risks created by labor cost inflation.
+- **Sentiment contribution:** Neutral — the agreement signifies growing interest in LNG but does not resolve existing issues.
+
+### 3. SIGNAL SYNTHESIS
+The key risk signal regarding labor cost increases indicates a significant bearish sentiment stemming from supply chain blockages for LNG projects. Although there are positive developments in pipeline expansions and long-term agreements that may support future supply, they do not negate the current risks posed by rising labor costs, reflecting a net bearish outlook on LNG at this time.
+
+### 4. WATCH LIST
+- [ ] Rising labor costs → If labor costs continue to increase, expect further delays in new LNG projects, exacerbating supply issues.
+- [ ] Progress on new LNG projects → Monitoring progress can provide insights into how quickly supply may stabilize in response to labor cost issues.
+- [ ] Changes in government policy regarding energy infrastructure → New supportive policies could mitigate labor challenges and enhance project viability.
+
+### 5. BOTTOM LINE
+**Risk Level: High**  
+The rising labor costs represent a serious threat to the integrity and timeliness of LNG project development, leading to potential supply shortages and increased prices. The signals from current projects and agreements are not sufficient to counterbalance this pressing risk.

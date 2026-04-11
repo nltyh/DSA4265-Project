@@ -1,0 +1,51 @@
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+## COMMODITY RISK REPORT
+**Commodity:** crude oil  
+**Report Date:** 2026-04-11  
+**Articles Analysed:** 5 articles  
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+### 1. OVERALL SENTIMENT
+**Bullish**  
+> The dominant signal is bullish due to reported production disruptions in the Middle East and potential supply losses that may drive oil prices higher.
+
+---
+### 2. KEY RISK SIGNALS
+
+**LNG & Natural Gas | Production Shortfall | Severity: High**
+- **Headline:** Saudi Oil Exports to China and India Set to Fall Amid War Disruptions
+- **What happened:** Saudi crude oil exports to India and China are expected to decline in April due to ongoing production disruptions caused by conflict in the Middle East.
+- **Market impact:** This affects supply capabilities significantly, potentially leading to tighter markets and higher prices.
+- **Sentiment contribution:** Bullish — the anticipated drop in exports raises prices due to lower supply.
+
+---
+
+**Geopolitics & Policy | Geopolitical Conflict | Severity: High**
+- **Headline:** War Could Soon Force Oil Prices To Catch Up with the Massive Supply Loss
+- **What happened:** The situation in the Strait of Hormuz may lead to significant oil price increases if supply loss persists.
+- **Market impact:** Extended geopolitical tensions are driving uncertainty, likely adding upward pressure on prices.
+- **Sentiment contribution:** Bullish — concerns about ongoing conflicts and supply losses are making the market wary, contributing to price increases.
+
+---
+
+**Financial Flows/Positioning | No Significant Risk | Severity: Low**
+- **Headline:** Washington Stress-Tests $200 Oil as War Risk Mounts
+- **What happened:** The U.S. government is considering the economic impact of a hypothetical crude oil price surge to $200 per barrel.
+- **Market impact:** This suggests a recognition of potential volatility but does not represent an immediate risk to supply or demand.
+- **Sentiment contribution:** Neutral — while the scenario depicts concern, it is speculative and does not indicate current market conditions.
+
+---
+
+### 3. SIGNAL SYNTHESIS
+The risk signals are largely aligned towards a bearish supply forecast due to geopolitical conflicts and production shortfalls. While the U.S. price modeling signifies the potential for high prices, it remains speculative compared to the immediate risks of actual production changes. Overall, the current sentiment reflects higher risk exposures in the crude oil market due to these escalating geopolitical conflicts and resultant supply constraints.
+
+---
+### 4. WATCH LIST
+- [ ] Continued disruptions in the Middle East → Could lead to more severe supply shortages and greater price volatility.
+- [ ] Developments in the Strait of Hormuz → A blockage would likely trigger a rapid price increase as critical oil routes are jeopardized.
+- [ ] Changes in Saudi production strategy → Any shifts in how Saudi Arabia manages its exports could impact broader oil market dynamics.
+
+---
+### 5. BOTTOM LINE
+**Risk Level: High**  
+The market is facing significant risks from geopolitical conflicts impacting oil supply, which are currently pushing prices upwards. Traders should remain vigilant regarding any developments that could exacerbate these supply constraints, as the situation is precarious and may lead to further volatility.

@@ -1,0 +1,62 @@
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+## COMMODITY RISK REPORT
+**Commodity:** LNG, crude oil  
+**Report Date:** 2024-04-26  
+**Articles Analysed:** 5 articles  
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+### 1. OVERALL SENTIMENT
+**Mixed**  
+The sentiment is mixed due to operational challenges at Freeport LNG, which are likely to create production shortfalls, while steady production reported by Range Resources and anticipated demand from Asia and Europe provide a balancing bullish factor. 
+
+---
+
+### 2. KEY RISK SIGNALS
+
+**[LNG & Natural Gas] | [Production Shortfall] | Severity: High**  
+- **Headline:** As demand for US LNG booms, one plant struggles to stay online  
+- **What happened:** Freeport LNG has been operating below 80% capacity due to technical issues and damage from earlier incidents, resulting in a utilization drop from 80% to 72%.  
+- **Market impact:** This unreliability is likely to negatively affect U.S. LNG exports, causing volatility in Henry Hub natural gas futures prices and potential supply shortages.  
+- **Sentiment contribution:** Bullish — significant operational struggles signal a potential supply shortfall, confirmed by the current price volatility.
+
+---
+
+**[LNG & Natural Gas] | [No Significant Risk] | Severity: Low**  
+- **Headline:** Range Resources Sees Strong Natural Gas Demand, Keeps Production Steady  
+- **What happened:** Range Resources maintains steady production levels, driven by robust industrial demand and anticipated LNG export growth.  
+- **Market impact:** This steadiness contributes to a balance in the overall supply-demand equation, mitigating potential price surges due to production shortfalls from Freeport LNG.  
+- **Sentiment contribution:** Neutral — the stability in production does not outweigh the fundamental risks posed by Freeport LNG's issues.
+
+---
+
+**[LNG & Natural Gas] | [Geopolitical Conflict] | Severity: Medium**  
+- **Headline:** EQT says fracked gas is a climate solution, but scientists call that deceptive greenwashing  
+- **What happened:** Amidst a broader debate on LNG's climate impact and a temporary pause on new LNG export projects by the Biden administration, concerns over North American LNG policy emerge.  
+- **Market impact:** Any regulatory constraints from the U.S. government could impact future production capabilities and LNG supply dynamics, affecting market prices.  
+- **Sentiment contribution:** Bearish — uncertainty around policy and public perception could dampen investment and market expansion.
+
+---
+
+**[LNG & Natural Gas] | [No Significant Risk] | Severity: Low**  
+- **Headline:** Equinor Expects Asia, LNG Competition to Drive European Natural Gas Prices  
+- **What happened:** Equinor forecasts that competition for LNG between Asia and Europe will predominantly influence European gas prices.  
+- **Market impact:** This competition indicates a healthy demand outlook, which may stabilize prices even in the face of production challenges elsewhere.  
+- **Sentiment contribution:** Neutral — while competition suggests strong demand, it does not alleviate the risks posed by supply-side issues in the U.S.
+
+---
+
+### 3. SIGNAL SYNTHESIS
+The risk signals highlight both severe production shortfall risks due to operational failures at Freeport LNG and a benign backdrop of steady production from other producers like Range Resources. Additionally, geopolitical uncertainties from U.S. policy on LNG introduce bearish pressure. While there are opposing forces, the high production shortfall risk currently dominates the sentiment.
+
+---
+
+### 4. WATCH LIST
+- [ ] Freeport LNG operational recovery → A successful resolution could stabilize U.S. LNG exports and prices.
+- [ ] U.S. regulatory decisions on LNG exports → New constraints could severely limit future supply potential and affect global prices.
+- [ ] Competitive dynamics between Asian and European markets → Shift in demand could influence pricing behavior and export strategies.
+
+---
+
+### 5. BOTTOM LINE
+**Risk Level: High**  
+The primary concern for risk managers is the operational fragility at Freeport LNG, which poses a significant risk of supply shortfall in the short term. This risk is currently not sufficiently mitigated by production stability from other sources, making it essential to monitor developments closely.

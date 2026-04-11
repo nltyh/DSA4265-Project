@@ -1,0 +1,36 @@
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+## COMMODITY RISK REPORT
+**Commodity:** crude oil  
+**Report Date:** 2026-04-11  
+**Articles Analysed:** 5 articles  
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+### 1. OVERALL SENTIMENT
+**Bearish**  
+> The sentiment is primarily bearish due to geopolitical tensions surrounding Russian oil purchases, underscored by Shell's exit, which highlights deteriorating supply dynamics and potential disruptions.
+
+### 2. KEY RISK SIGNALS
+
+**Geopolitics & Policy | Geopolitical Conflict | Severity: High**
+- **Headline:** Shell Says It Will Stop Buying Russian Oil, Natural Gas
+- **What happened:** Shell announced it would cease purchases of Russian oil and natural gas, a decision influenced by rising oil prices and public criticism from Ukrainian officials.
+- **Market impact:** This development indicates a potentially significant supply reduction from Russia, intensifying market concerns about oil availability, thus exerting upward pressure on prices.
+- **Sentiment contribution:** Bearish — the rejection of Russian oil contributes to fears of supply shortages, affecting overall market stability and price forecasts [Article 1].
+
+**Shipping & Logistics | Infrastructure Damage | Severity: Medium**
+- **Headline:** Second Tanker Hit in Weeks as Black Sea Drone Strikes Russian Oil Cargo
+- **What happened:** A tanker carrying Russian oil in the Black Sea was attacked, raising alarms over the safety of shipping routes for Russian oil.
+- **Market impact:** Such incidents can lead to logistics disruptions, contributing to supply chain blockages and increasing shipping costs, further straining the market.
+- **Sentiment contribution:** Bearish — increased risks to shipping logistics around Russian oil exacerbate concerns regarding supply security [Article 2].
+
+### 3. SIGNAL SYNTHESIS
+The risk signals exhibit alignment in highlighting a bearish outlook for crude oil, driven by geopolitical tensions and actual infrastructure threats. The risks are sentiment-driven, with heightened fears about supply disruptions affirming traders' bearish positions. The combined effect suggests an increasing exposure to volatility and potential price increases within the crude oil market.
+
+### 4. WATCH LIST
+- [ ] Monitor Shell's final transaction details regarding Russian oil → A complete exit could cement market perceptions of reduced supply.
+- [ ] Keep an eye on further incidents in the Black Sea involving oil tankers → Additional disruptions could lead to sharp price fluctuations.
+- [ ] Watch for shifts in EU regulations or sanctions concerning Russian oil → Changes could significantly alter the supply landscape and market sentiment.
+
+### 5. BOTTOM LINE
+**Risk Level: High**  
+Traders and risk managers should be highly vigilant about the geopolitical climate and its implications for crude oil supply dynamics. The interconnected risks of geopolitical conflict and shipping disruptions present a fragile and potentially volatile environment for crude oil investments.

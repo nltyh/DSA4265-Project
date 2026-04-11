@@ -1,0 +1,58 @@
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+## COMMODITY RISK REPORT
+**Commodity:** crude oil  
+**Report Date:** 2023-09-29  
+**Articles Analysed:** 5 articles  
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+### 1. OVERALL SENTIMENT
+**Mixed**  
+> The sentiment is mixed due to conflicting influences from a potential labor dispute affecting LNG supply and Chevron's plans to increase oil output in Venezuela. While the labor dispute has bullish implications for oil prices due to potential supply chain disruptions, the increase in output plan adds bearish pressure.
+
+---
+### 2. KEY RISK SIGNALS
+
+**LNG & Natural Gas | Supply Chain Blockage | Severity: High**  
+- **Headline:** Explainer: What's at stake in Chevron's Australia LNG labour dispute?  
+- **What happened:** A potential strike at Chevron's LNG facilities threatens supply to key Asian markets.  
+- **Market impact:** This could elevate global gas prices and indirectly affect crude oil prices as traders react to potential supply disruptions.  
+- **Sentiment contribution:** Bullish — as concerns over supply chain issues typically lead to higher prices.
+
+---
+
+**Supply (Production / Upstream) | Production Shortfall | Severity: Medium**  
+- **Headline:** Chevron readies new oil drilling push in Venezuela to boost output  
+- **What happened:** Chevron plans to add drilling rigs in Venezuela to increase oil output by the end of 2024.  
+- **Market impact:** This initiative aims to offset potential production shortfalls elsewhere, exerting a bearish influence on oil prices.  
+- **Sentiment contribution:** Bearish — the planned increase in output may alleviate tight supply conditions.
+
+---
+
+**LNG & Natural Gas | No Significant Risk | Severity: Low**  
+- **Headline:** Natural Gas Recapturing Process Promises Waste Reduction — but Questions Linger  
+- **What happened:** A new gas recapturing process is being tested, although evidence of its effectiveness is unclear.  
+- **Market impact:** While this process may reduce flaring eventually, its currently reported inefficiencies do not significantly impact the crude oil market.  
+- **Sentiment contribution:** Neutral — the lack of immediate impact means it does not alter current market expectations.
+
+---
+
+**Financial Flows / Positioning | No Significant Risk | Severity: Low**  
+- **Headline:** 2 ETFs to Play the Ebb and Flow of Oil Prices  
+- **What happened:** Discussion on the current state of oil prices and potential for volatility.  
+- **Market impact:** Highlights speculative positioning but lacks direct implications for fundamental supply and demand changes.  
+- **Sentiment contribution:** Neutral — this largely reflects market sentiments without introducing any new risks.
+
+---
+### 3. SIGNAL SYNTHESIS
+The risk signals from the articles are somewhat contradictory. The potential strike at Chevron's LNG facilities is expected to create a bullish sentiment due to supply chain risks, while the increase in oil output plans in Venezuela presents a bearish signal. This juxtaposition suggests that current risk exposure is heightened due to possible disruptions balanced by new supply efforts.
+
+---
+### 4. WATCH LIST
+- [ ] Monitor the outcome of the labor negotiations at Chevron's LNG facilities → a strike would dramatically affect LNG and support crude prices.
+- [ ] Watch for updates on Chevron's drilling activities in Venezuela → successful completion could boost crude supply and exert downward pressure on prices.
+- [ ] Keep an eye on oil price movements in relation to broader market changes → shifts could indicate volatility driven by external economic factors.
+
+---
+### 5. BOTTOM LINE
+**Risk Level: Medium**  
+Current risk exposure is moderate, primarily influenced by potential disruptions from the labor dispute and new production efforts. Risk managers should especially watch the developments surrounding Chevron's labor negotiations, as they are crucial for navigating market sentiments moving forward.

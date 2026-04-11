@@ -1,0 +1,36 @@
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+## COMMODITY RISK REPORT
+**Commodity:** crude oil  
+**Report Date:** 2026-04-11  
+**Articles Analysed:** 5 articles  
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+### 1. OVERALL SENTIMENT
+**Bullish**
+> The sentiment is bullish due to the significant shortage of oil tankers in the Red Sea, caused by geopolitical disruptions, which is expected to drive up transportation costs and tighten supply.
+
+### 2. KEY RISK SIGNALS
+
+**Shipping & Logistics | Supply Chain Blockage | Severity: High**
+- **Headline:** Shortage of Oil Tankers at Hand as Red Sea Attacks Divert Trade
+- **What happened:** The Red Sea attacks by Houthi forces are causing a shortage of oil tankers, forcing diversions and increasing voyage durations. Only two new supertankers are expected in 2024, the lowest in four decades.
+- **Market impact:** This leads to tighter supply in the market and increasing shipping rates. The disruption indicates a potential rise in crude oil prices due to constrained transportation capacity.
+- **Sentiment contribution:** Bullish — the ability to transport crude oil is compromised, which typically results in price increases due to supply constraints [Article 1].
+
+**LNG & Natural Gas | Production Shortfall | Severity: Medium**
+- **Headline:** Kosmos: BP’s Tortue project to produce first LNG in Q4
+- **What happened:** The BP-operated Greater Tortue Ahmeyim FLNG project has been delayed, now expected to produce its first LNG in Q4 2024.
+- **Market impact:** While this specifically affects LNG, delays in natural gas projects often reflect broader investment and production trends in commodity markets, potentially influencing crude oil as energy prices may rise together.
+- **Sentiment contribution:** Mixed — while this indicates a delay in production, it may not directly affect crude oil; however, the linked energy markets could react in tandem, impacting prices [Article 2].
+
+### 3. SIGNAL SYNTHESIS
+The risk signals are primarily aligned; the tanker shortage presents a clear bullish sentiment for crude oil pricing due to impending supply constraints. Although there are mixed signals from LNG-related projects, which may influence overall energy market dynamics, the direct impact on crude oil from tanker shortages is more pronounced. The risks identified are fundamentally driven by geopolitical events impacting shipping routes.
+
+### 4. WATCH LIST
+- [ ] Monitor the frequency and intensity of Houthi attacks in the Red Sea → An increase could further exacerbate shipping disruptions.
+- [ ] Track the delivery schedule of the two anticipated supertankers in 2024 → Delays in delivery would tighten the tanker market even further.
+- [ ] Watch for updates on the operational status of the Tortue project and other LNG initiatives → Production advances could affect overall energy dynamics and oil demand.
+
+### 5. BOTTOM LINE
+**Risk Level: High**
+The current tanker shortage poses a significant risk to crude oil supply dynamics and is likely to lead to price increases. Market players should be cautious and monitor developments closely, especially from geopolitical situations that might further disrupt oil trade paths.

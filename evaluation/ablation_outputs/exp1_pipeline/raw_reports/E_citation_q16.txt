@@ -1,0 +1,51 @@
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+## COMMODITY RISK REPORT
+**Commodity:** crude oil  
+**Report Date:** 2023-09-25  
+**Articles Analysed:** 5 articles  
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+### 1. OVERALL SENTIMENT
+**Mixed**  
+The overall sentiment is mixed due to contradictory forces: while the Chevron labor dispute threatens to block LNG supply and elevate prices (implying bullish sentiment), developments in Venezuela aim to boost crude oil output considerably, which suggests a bearish sentiment.
+
+---
+### 2. KEY RISK SIGNALS
+
+**LNG & Natural Gas | Supply Chain Blockage | Severity: High**
+- **Headline:** Explainer: What's at stake in Chevron's Australia LNG labour dispute?  
+- **What happened:** A potential strike at Chevron's Gorgon and Wheatstone LNG facilities threatens global gas markets due to demands for higher pay and better working conditions among workers.  
+- **Market impact:** This labor dispute could negatively impact LNG supply to key Asian markets, leading to elevated prices in an already volatile global gas market as winter approaches.  
+- **Sentiment contribution:** Bullish — The potential for reduced LNG supply raises concerns over availability and pricing, impacting broader energy markets [Article 1].
+
+---
+
+**Supply (Production/Upstream) | Production Shortfall | Severity: Medium**
+- **Headline:** Chevron readies new oil drilling push in Venezuela to boost output  
+- **What happened:** Chevron plans to increase oil output in Venezuela, adding two drilling rigs to aim for 200,000 barrels per day by the end of 2024.  
+- **Market impact:** This initiative could alleviate some supply concerns within the crude oil market, potentially offsetting any negative impacts from other regions.  
+- **Sentiment contribution:** Bearish — Increased output from Venezuela aims to stabilize supply and meet growing demand, suggesting downward pressure on prices [Article 2].
+
+---
+
+**Supply (Production/Upstream) | No Significant Risk | Severity: Low**
+- **Headline:** Recapturing natural gas in the Permian Basin  
+- **What happened:** Oil and gas producers are implementing a new process to reduce natural gas flaring, contributing to potential improvements in resource management.  
+- **Market impact:** These efforts are unlikely to result in any significant impact on crude oil supply.  
+- **Sentiment contribution:** Neutral — This development does not alter supply significantly or impact overall market conditions [Article 3].
+
+---
+
+### 3. SIGNAL SYNTHESIS
+The key risk signals present both opportunities and challenges for the crude oil market. The looming labor dispute at Chevron threatens supply in the LNG market but is countered by the anticipated increase in Venezuelan oil output. The risks are driven by fundamental supply dynamics rather than purely sentiment, with the net effect suggesting a cautious outlook as traders weigh potential supply outages against anticipated increases in production.
+
+---
+### 4. WATCH LIST
+- [ ] **Outcome of Chevron's labor dispute** → If a strike occurs, expect significant volatility in LNG and potentially related crude oil prices.
+- [ ] **Progress on Venezuelan drilling initiatives** → Successful implementation could lead to increased production and bear pressure on crude oil prices.
+- [ ] **Global winter demand spikes** → An increase in demand for heating could elevate crude prices if supply constraints persist.
+
+---
+### 5. BOTTOM LINE
+**Risk Level: Medium**  
+The current environment presents moderate risks primarily due to the labor dispute in Australia which threatens supply and could elevate prices, while simultaneously, initiatives in Venezuela might offset some of these risks. The overall market is sensitive to developments in both production initiatives and potential supply outages.

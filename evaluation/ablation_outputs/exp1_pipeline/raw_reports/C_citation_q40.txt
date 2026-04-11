@@ -1,0 +1,49 @@
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+## COMMODITY RISK REPORT
+**Commodity:** crude oil  
+**Report Date:** 2026-04-11  
+**Articles Analysed:** 5 articles  
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+### 1. OVERALL SENTIMENT
+**Bearish**  
+The dominant sentiment is bearish due to significant movements in oil prices following geopolitical developments and rising inventories, despite some supply concerns stemming from Saudi Arabia's export cuts and potential market shifts to Russian crude.
+
+### 2. KEY RISK SIGNALS
+
+**Geopolitics & Policy | Geopolitical Conflict | Severity: High**  
+- **Headline:** Oil Plummets 8% as Trump Postpones Hormuz Deadline Threat  
+- **What happened:** Brent crude prices fell over 8% after President Trump's statement about productive conversations with Iran regarding the Strait of Hormuz situation [Article 1].  
+- **Market impact:** This easing of immediate conflict risk has led to a bearish market reaction, suggesting reduced fear of escalated tensions impacting supply.  
+- **Sentiment contribution:** Bearish — traders are reacting negatively to the initial spike in uncertainty.
+
+**Geopolitics & Policy | Geopolitical Conflict | Severity: High**  
+- **Headline:** War Could Soon Force Oil Prices To Catch Up with the Massive Supply Loss  
+- **What happened:** Analysts warn of a potential significant rise in oil prices if the Strait of Hormuz remains blocked past March, citing substantial supply loss from the Middle East [Article 2].  
+- **Market impact:** Continued fear of supply disruptions could lead to increased price volatility.  
+- **Sentiment contribution:** Bearish — despite previous gains, future risks signal a need for caution.
+
+**Supply (Production/Upstream) | Supply Chain Blockage | Severity: High**  
+- **Headline:** Saudi Arabia Slashes Oil Supply to Asia as War Chokes Export Route  
+- **What happened:** Saudi Arabia is reducing crude oil exports to Asia for the second consecutive month due to the ongoing conflict closing the Strait of Hormuz [Article 3].  
+- **Market impact:** This supply cut indicates potential tightness in the market, which might support higher prices if demand remains stable.  
+- **Sentiment contribution:** Bearish — significant supply cuts generally pressure prices downward, especially amidst high inventories.
+
+**Inventory & Storage | Inventory Shock | Severity: Medium**  
+- **Headline:** US Crude Oil, Product Inventories Rise  
+- **What happened:** U.S. crude oil inventories rose by 2.3 million barrels for the week ending March 20, with previous week showing a rise of 6.556 million barrels [Article 5].  
+- **Market impact:** Rising inventories typically signal oversupply, contributing to downward pressure on prices.  
+- **Sentiment contribution:** Bearish — growing inventories contrast with the supply chain issues considered previously.
+
+### 3. SIGNAL SYNTHESIS
+The key risk signals indicate a complex interplay between geopolitical developments and inventory dynamics. While geopolitical tension and supply cuts from Saudi Arabia create an environment for potential price spikes, the reported rise in inventories delivers a bearish counterpoint. The overall sentiment is leaning bearish primarily due to the extent of the inventory increase, despite high risks associated with supply disruptions.
+
+### 4. WATCH LIST
+- [ ] Resolution of the Strait of Hormuz blockade → A resolution could stabilize supplies and potentially lower prices.
+- [ ] Further inventory reports from the U.S. → Continued increases may solidify bearish sentiments.
+- [ ] Updates on Russia's crude oil exports to India → This could alter the balance of crude supplies and influence market prices.
+- [ ] Statements from Saudi Arabia regarding future export levels → Changes in export policy could greatly affect global supply conditions.
+
+### 5. BOTTOM LINE
+**Risk Level: High**  
+The crude oil market is currently exposed to high risks stemming from geopolitical conflicts and rising inventories, leading to bearish sentiments. Market participants should remain vigilant to adapt strategies promptly in response to rapid changes within this volatile landscape.

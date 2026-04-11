@@ -1,0 +1,66 @@
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+## COMMODITY RISK REPORT
+**Commodity:** crude oil  
+**Report Date:** 2026-04-11  
+**Articles Analysed:** 5 articles  
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+### 1. OVERALL SENTIMENT
+**[Mixed]**  
+> There are strong bullish signals from geopolitical tensions and supply disruptions, but conflicting reports about pricing impacts and no significant immediate risk from internal markets like India's indicate mixed market dynamics. 
+
+---
+### 2. KEY RISK SIGNALS
+
+**[Supply (Production/Upstream)] | [Production Shortfall] | Severity: High**  
+- **Headline:** Australia’s Fuels Dependence Turns Into a Crisis  
+- **What happened:** Australia faces a significant fuel crisis despite its resource abundance due to disruptions in imports.  
+- **Market impact:** This situation raises concerns regarding local supply adequacy and potentially drives prices upward as competition for remaining supplies intensifies.  
+- **Sentiment contribution:** Bullish — the production shortfall signals potential price increases due to limited availability.
+
+---
+
+**[Supply (Production/Upstream)] | [Production Shortfall] | Severity: High**  
+- **Headline:** The Cushion Is Gone and the Oil Market Is Now Exposed  
+- **What happened:** The global oil market is experiencing substantial supply disruptions, leading to a decline in previously buffered reserves.  
+- **Market impact:** A diminished safety net may lead to heightened volatility and potential for price surges if production challenges continue.  
+- **Sentiment contribution:** Bullish — reveals vulnerabilities in supply that could impact prices significantly.
+
+---
+
+**[Geopolitics & Policy] | [Geopolitical Conflict] | Severity: High**  
+- **Headline:** Brent Surges Past $110 on Iran Rejection  
+- **What happened:** Oil prices surged as tensions over the Strait of Hormuz escalate with Iran rejecting U.S. proposals affecting potential route blockages.  
+- **Market impact:** Heightened geopolitical risk could restrict oil flow, contributing to rising prices and further supply instability.  
+- **Sentiment contribution:** Bullish — strong association with immediate market reactions to geopolitical threats.
+
+---
+
+**[Demand/Macro Activity] | [No Significant Risk] | Severity: Low**  
+- **Headline:** Inside India’s Petrol Pricing System and the Tax Divide Driving State Gaps  
+- **What happened:** India’s oil markets are sending mixed signals amid price surges without significant local disruption.  
+- **Market impact:** While prices are rising, there appears to be no imminent risk of disruption from within the Indian market itself, potentially stabilizing local demand.  
+- **Sentiment contribution:** Neutral — doesn't change overall market conditions but contextualizes the complexity of price mechanisms.
+
+---
+
+**[Financial Flows/Positioning] | [No Significant Risk] | Severity: Low**  
+- **Headline:** Washington Stress-Tests $200 Oil as War Risk Mounts  
+- **What happened:** U.S. scenarios are modeling the implications of oil potentially reaching $200/barrel due to geopolitical tensions.  
+- **Market impact:** While this points to a heightened awareness of risks, it represents a speculative condition rather than an immediate threat to supply.  
+- **Sentiment contribution:** Neutral — any scenario modeling is inherently speculative without concrete immediate implications on current supply chains.
+
+---
+### 3. SIGNAL SYNTHESIS
+The signals primarily indicate a bullish sentiment due to conflicts and actual production shortfalls, highlighting the potential for significant price volatility. However, the neutral signals from India and U.S. financial modeling suggest that while there are pronounced risks, there are also some counterbalancing factors that could moderate completely bullish expectations. Currently, the risk exposure in the crude oil market appears heightened due to fundamental supply constraints exacerbated by geopolitical factors.
+
+---
+### 4. WATCH LIST
+- [ ] Ongoing developments in U.S.-Iran relations → could influence supply routes and pricing dynamics.  
+- [ ] Any new data on Australian production capabilities → critical for assessing local and global supply adequacy.  
+- [ ] Market responses to potential geopolitical escalations around the Strait of Hormuz → would affect market sentiment and price spikes.
+
+---
+### 5. BOTTOM LINE
+**Risk Level: High**  
+Significant risks revolve around supply disruptions due to geopolitical tensions and national crises. Risk managers should closely monitor developments to respond proactively to increasing volatility in pricing. The current conditions present a fragile state where even minor escalations could lead to dramatic price movements.

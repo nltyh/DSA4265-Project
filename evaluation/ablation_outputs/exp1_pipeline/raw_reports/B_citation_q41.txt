@@ -1,0 +1,34 @@
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+## COMMODITY RISK REPORT
+**Commodity:** crude oil  
+**Report Date:** 2026-04-11  
+**Articles Analysed:** 5 articles  
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+### 1. OVERALL SENTIMENT
+**Bullish**  
+> The sentiment is primarily bullish due to the positive impact of geopolitical tensions surrounding the Strait of Hormuz, which has caused Brent crude prices to surge above $110 amidst Iran’s rejection of U.S. terms for negotiations [Article 1].
+
+---
+### 2. KEY RISK SIGNALS
+
+**Geopolitics & Policy | Geopolitical Conflict | Severity: High**
+- **Headline:** Brent Surges Past $110 on Iran Rejection
+- **What happened:** The closure of the Strait of Hormuz stems from escalating tensions between Iran and the U.S., which has driven oil prices up significantly [Article 1].
+- **Market impact:** This geopolitical conflict directly enhances concerns over supply security, likely pushing prices higher amid fears of supply disruptions.
+- **Sentiment contribution:** Bullish — heightened geopolitical risks typically result in increased prices due to concerns over potential supply shortages.
+
+---
+### 3. SIGNAL SYNTHESIS
+The risk signals appear aligned, with the geopolitical conflict resulting in a bullish sentiment due to rising crude prices. This geopolitical tension confirms fundamental supply risks, which are heightened by the strategic importance of the Strait of Hormuz for global oil transit. Currently, the risk exposure reflects a situation where traders should prepare for potential volatility in crude oil prices.
+
+---
+### 4. WATCH LIST
+- [ ] Monitor negotiations between the U.S. and Iran → A breakthrough or escalation could significantly impact oil supply and prices.
+- [ ] Observe military activities in the Strait of Hormuz → Increased military presence could threaten shipping routes and thus global oil supply.
+- [ ] Track OPEC's response to rising prices → OPEC's decisions on production quotas could further influence supply dynamics.
+
+---
+### 5. BOTTOM LINE
+**Risk Level: High**  
+The geopolitical instability surrounding the Strait of Hormuz presents a high risk for crude oil markets, as continued tensions may lead to increased prices and supply disruptions. Traders should remain vigilant to changes in the geopolitical landscape that could escalate the situation.

@@ -1,0 +1,43 @@
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+## COMMODITY RISK REPORT
+**Commodity:** crude oil  
+**Report Date:** 2026-04-11  
+**Articles Analysed:** 5 articles  
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+### 1. OVERALL SENTIMENT
+**Mixed**  
+> The overall market sentiment is mixed due to contradictions between production disruptions and record outputs, alongside geopolitical tensions that are influencing prices.
+
+### 2. KEY RISK SIGNALS
+
+**LNG & Natural Gas | Production Shortfall | Severity: High**  
+- **Headline:** Saudi Oil Exports to China and India Set to Fall Amid War Disruptions  
+- **What happened:** Saudi crude oil exports to China and India are expected to decline in April due to production disruptions in the Middle East [Article 1].  
+- **Market impact:** The decline in exports signals a potential reduction in supply amidst heightened geopolitical tensions, likely leading to price increases.  
+- **Sentiment contribution:** Bullish — the expectation of reduced supply puts upward pressure on oil prices.
+
+**Geopolitics & Policy | Geopolitical Conflict | Severity: High**  
+- **Headline:** War Could Soon Force Oil Prices To Catch Up with the Massive Supply Loss  
+- **What happened:** Ongoing conflict in the Middle East may lead to significant oil price increases if the Strait of Hormuz remains blocked beyond March [Article 3].  
+- **Market impact:** A blockade would severely affect supply routes, potentially causing substantial price spikes in the oil market.  
+- **Sentiment contribution:** Bullish — geopolitical uncertainty is pushing prices higher due to fears of prolonged supply disruptions. 
+
+**Financial Flows/Positioning | No Significant Risk | Severity: Low**  
+- **Headline:** Record Oil and Gas Output Fails to Shield CNOOC from Market Volatility  
+- **What happened:** Despite record high production, CNOOC's financial performance was adversely affected by low oil prices [Article 2].  
+- **Market impact:** Excess supply amidst low prices signals weak demand, which may mitigate upward price movements from supply constraints.  
+- **Sentiment contribution:** Bearish — lower price conditions may offset localized supply disruptions.
+
+### 3. SIGNAL SYNTHESIS
+The risk signals show both alignment and contradiction; production shortfalls and geopolitical conflicts suggest bullish sentiment, while record production coupled with low prices introduces bearish influences. The net effect indicates heightened volatility with potential for price increases due to geopolitical risks, but tempered by supply saturation concerns.
+
+### 4. WATCH LIST
+- [ ] **Strait of Hormuz blockade** → Continued blockage could lead to sharp price increases due to significantly reduced oil flows.
+- [ ] **Saudi production recovery** → If Saudi Arabia stabilizes and increases production, it may alleviate some supply concerns and moderate prices.
+- [ ] **CNOOC financial recovery** → Positive signs from CNOOC could indicate a broader recovery in oil demand paving the way for price stability.
+- [ ] **Geopolitical developments** → Further escalation or resolution in the Middle East conflict could directly impact oil supply and pricing dynamics.
+
+### 5. BOTTOM LINE
+**Risk Level: High**  
+Traders should be cautious, as geopolitical tensions are likely to cause significant volatility in crude oil prices. The current risk signals indicate fragile conditions, exacerbated by conflicting production data and market sentiment.

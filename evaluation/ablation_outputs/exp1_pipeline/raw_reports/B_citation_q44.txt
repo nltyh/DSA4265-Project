@@ -1,0 +1,42 @@
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+## COMMODITY RISK REPORT
+**Commodity:** crude oil, LNG  
+**Report Date:** 2026-04-11  
+**Articles Analysed:** 5 articles  
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+### 1. OVERALL SENTIMENT
+**Bullish**  
+The crude oil market sentiment is predominantly bullish due to significant price increases driven by the ongoing geopolitical conflict in the Middle East, particularly the Iran situation, which has severely affected supply.
+
+### 2. KEY RISK SIGNALS
+
+**Geopolitics & Policy | Geopolitical Conflict | Severity: High**  
+- **Headline:** Africa Could Emerge As The Biggest Winner In Iran War  
+- **What happened:** The conflict in the Middle East has disrupted global energy supply, halting approximately 8 million barrels of crude oil per day and 20% of LNG supply.  
+- **Market impact:** The disruption is likely to elevate crude oil prices due to reduced available supply in the global market.  
+- **Sentiment contribution:** Bullish — the reduced supply alongside geopolitical tension has lifted prices significantly, benefiting other markets.
+
+**Geopolitics & Policy | Geopolitical Conflict | Severity: High**  
+- **Headline:** Brent Surges Past $110 on Iran Rejection  
+- **What happened:** The ongoing standoff regarding the Strait of Hormuz resulted in Brent crude oil prices surpassing $110 due to supply fears.  
+- **Market impact:** Elevated prices signal strong bullishness in the market as fears of ongoing disruptions persist.  
+- **Sentiment contribution:** Bullish — this price surge reflects heightened anxiety over potential supply chain issues.
+
+**Geopolitics & Policy | Geopolitical Conflict | Severity: High**  
+- **Headline:** Oil Set to Book Record Monthly Gain on Iran Crisis  
+- **What happened:** Brent crude oil prices are projected to show a record monthly increase amidst the ongoing international crisis involving Iran.  
+- **Market impact:** Such a record monthly gain indicates mounting concerns around oil supply stability, likely resulting in sustained high prices.  
+- **Sentiment contribution:** Bullish — the dramatic rise in prices demonstrates strong market reaction to geopolitical developments.
+
+### 3. SIGNAL SYNTHESIS
+The risk signals are aligned, all pointing towards a significant bullish sentiment in the crude oil market due to the geopolitical conflict affecting supply chains. The upward price movements are confirmed by underlying supply disruptions, rather than speculative sentiment alone.
+
+### 4. WATCH LIST
+- [ ] Closure of the Strait of Hormuz → would drastically impact oil supply and likely push prices even higher.
+- [ ] Further escalation in the Iran conflict → could lead to wider supply chain disruptions across the Middle East.
+- [ ] Changes in OPEC+ production quotas → might alter global supply dynamics and affect pricing.
+  
+### 5. BOTTOM LINE
+**Risk Level: High**  
+The crude oil market is currently under high risk due to significant geopolitical tensions hindering supply, with prices expected to remain elevated. Traders should evaluate exposure to these risks throughout the evolving situation.

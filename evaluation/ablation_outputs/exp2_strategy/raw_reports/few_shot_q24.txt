@@ -1,0 +1,70 @@
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+## COMMODITY RISK REPORT
+**Commodity:** crude oil  
+**Report Date:** 2024-05-31  
+**Articles Analysed:** 5 articles  
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+### 1. OVERALL SENTIMENT
+**Mixed**  
+> The overall sentiment is mixed due to conflicting signals from geopolitical risks arising from Houthi attacks on shipping, which may disrupt crude oil supply, and ongoing M&A activities indicating bullish confidence in the oil market.
+
+---
+
+### 2. KEY RISK SIGNALS
+
+**[Shipping & Logistics] | [Geopolitical Conflict] | Severity: High**  
+- **Headline:** Behind Houthi Attacks on Ships Operated by Greece-Based Companies  
+- **What happened:** Houthi forces have intensified their attacks on vessels operated by Greek companies, claiming links to Israel, which raises the risk of further disruptions in shipping routes.  
+- **Market impact:** The increasing targeting of these ships heightens supply disruption fears for crude oil. If shipping operations are impeded, it could lead to significant price volatility.  
+- **Sentiment contribution:** Bullish — as the risk of supply shocks grows, driven by tangible threats to key maritime routes.
+
+---
+
+**[Geopolitics & Policy] | [Regulatory Constraint] | Severity: Medium**  
+- **Headline:** Another Big Oil Deal Despite Regulatory Pushback and Market Volatility  
+- **What happened:** ConocoPhillips has moved to acquire Marathon Oil for $22.5 billion amidst ongoing regulatory scrutiny.  
+- **Market impact:** This consolidation could improve profitability and operational efficiencies in the oil sector, but regulatory challenges may create uncertainty about the deal's finalization.  
+- **Sentiment contribution:** Neutral — market confidence stems from growth prospects but is tempered by regulatory concerns.
+
+---
+
+**[Financial Flows/Positioning] | [No Significant Risk] | Severity: Low**  
+- **Headline:** 2024 Annual Shareholder Meeting  
+- **What happened:** Exxon Mobil held its annual shareholder meeting, presenting documents showcasing its financial stability and company performance.  
+- **Market impact:** This indicates robust financial health within major oil companies, likely sustaining investor interest without directly affecting crude oil prices.  
+- **Sentiment contribution:** Neutral — though it reflects stability, it does not generate significant market movement.
+
+---
+
+**[Geopolitics & Policy] | [Regulatory Constraint] | Severity: Medium**  
+- **Headline:** Marathon deal brings ConocoPhillips assets in multiple basins  
+- **What happened:** Continued consolidation in the U.S. energy sector increases focus on regulatory scrutiny, particularly due to the resultant market dominance.  
+- **Market impact:** Elevated regulatory risks may hinder efficiency improvements, affecting long-term crude oil supply strategies.  
+- **Sentiment contribution:** Neutral — while it reflects positive strategic moves, the regulatory risks contribute to uncertainty.
+
+---
+
+**[Financial Flows/Positioning] | [No Significant Risk] | Severity: Low**  
+- **Headline:** ConocoPhillips buying Marathon Oil for $17.1 billion  
+- **What happened:** ConocoPhillips' acquisition underscores the firm’s strategy to capitalize on rising oil prices and its intention for immediate shareholder returns post-acquisition.  
+- **Market impact:** While this indicates healthy commodity demand, it does not create immediate market shocks.  
+- **Sentiment contribution:** Neutral — similar to prior signals; financial maneuvers express confidence but lack immediate risk implications.
+
+---
+
+### 3. SIGNAL SYNTHESIS
+The risk signals present a mixed view of the crude oil market. The high severity risk from Houthi attacks contrasts with moderate regulatory constraints surrounding industry M&A activities. While geopolitical risks suggest potential supply disruptions, the consolidation trends indicate a robust market structure, albeit with regulatory uncertainties. Thus, the current risk exposure carries both bullish and neutral elements, making it crucial for risk managers to balance immediate threats with longer-term sector developments.
+
+---
+
+### 4. WATCH LIST
+- [ ] **Houthi escalation** → any increase in attacks on shipping could point to immediate supply disruptions and resultant price spikes.
+- [ ] **Regulatory outcomes on mergers** → successful navigation of regulatory hurdles by ConocoPhillips could stabilize oil supply and enhance market confidence.
+- [ ] **Crude oil price fluctuations** → observe market reaction to geopolitical tensions and M&A developments, which could influence trading strategies.
+
+---
+
+### 5. BOTTOM LINE
+**Risk Level: Medium**  
+The most critical takeaway is that while immediate geopolitical risks threaten supply chains, the broader sentiment remains mixed due to strong financial moves in the oil sector. Monitoring shipping security and regulatory developments will be essential for safeguarding against potential market volatility.

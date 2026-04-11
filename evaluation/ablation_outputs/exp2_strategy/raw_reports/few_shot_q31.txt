@@ -1,0 +1,62 @@
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+## COMMODITY RISK REPORT
+**Commodity:** LNG, Crude Oil  
+**Report Date:** 2026-04-11  
+**Articles Analysed:** 5 articles  
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+### 1. OVERALL SENTIMENT
+**[Mixed]**  
+The sentiment is influenced by regulatory pressures on refining and LNG production challenges, indicating potential supply disruptions. Valero's consideration of options due to regulatory constraints contrasts with EQT's anticipated production increase, creating a complex risk landscape.
+
+---
+
+### 2. KEY RISK SIGNALS
+
+**[LNG & natural gas] | [Production Shortfall] | Severity: High**  
+- **Headline:** Woodside Retiring North West Shelf LNG Train Amid Declining Feed Gas  
+- **What happened:** Woodside Energy is retiring Train 2 at its North West Shelf LNG facility due to declining feed gas availability and the need to manage costs.  
+- **Market impact:** This action signals a potential reduction in LNG supply, which could lead to upward pressure on prices due to diminished output capacity in a market that might already be tight.  
+- **Sentiment contribution:** Bullish — the retirement of an LNG train indicates that supply will tighten, affecting market balances.
+
+---
+
+**[Refining (downstream)] | [Regulatory Constraint] | Severity: High**  
+- **Headline:** Valero Considers All Options, Including Sale, for California Refineries Amid Regulatory Pressure  
+- **What happened:** Valero Energy is contemplating the sale of its California refineries as they face increasing regulatory pressures within the state.  
+- **Market impact:** Regulatory constraints could lead to refinery closures, heightening dependence on gasoline imports and potentially driving up gasoline prices.  
+- **Sentiment contribution:** Bearish — regulatory risks introduce uncertainty in the refining sector, adversely affecting supply forecasts for diesel and gasoline.
+
+---
+
+**[Geopolitics & policy] | [Regulatory Constraint] | Severity: Medium**  
+- **Headline:** Scrutiny of EQT fracking likely to shift in 2025  
+- **What happened:** Anticipated changes in the regulatory landscape post-elections could impact EQT’s operations, which are currently under federal investigation.  
+- **Market impact:** The shift towards deregulation may alleviate current pressures on natural gas production, potentially increasing output, which could stabilize prices.  
+- **Sentiment contribution:** Neutral — while the prospect of deregulation might support production increases, ongoing investigations introduce uncertainty.
+
+---
+
+**[LNG & natural gas] | [No Significant Risk] | Severity: Low**  
+- **Headline:** EQT’s Natural Gas Production Trending Higher Despite Strategic Curtailments  
+- **What happened:** EQT Corp. is set to increase natural gas production due to improved prices and reduced curtailments, reflecting an optimistic operational outlook.  
+- **Market impact:** Anticipated higher output could mitigate fears of a pronounced supply shortfall in the natural gas market.  
+- **Sentiment contribution:** Bullish — anticipated production increases provide support for market fundamentals despite other risks.
+
+---
+
+### 3. SIGNAL SYNTHESIS
+The risk signals present a mixed outlook for the commodities involved. While Woodside's LNG train retirement signals a tightening in LNG supply, regulatory pressures faced by Valero create uncertainties that may impact refining outputs. EQT's anticipated production increases offset some of the bearish regulatory sentiment. Thus, while specific risks are heightened, others suggest stabilization, resulting in a mixed overall sentiment.
+
+---
+
+### 4. WATCH LIST
+- [ ] **Completion of further LNG retirements** → This would mean a tighter supply outlook and likely price increases in the LNG market.
+- [ ] **Regulatory decisions in California affecting Valero** → A critical ruling could lead to either enhanced operational flexibility or further constraints.
+- [ ] **Forecast changes regarding EQT’s natural gas production** → Adjustments could significantly inform market expectations and price stability.
+
+---
+
+### 5. BOTTOM LINE
+**Risk Level: Medium**  
+Risk managers should closely monitor the regulatory landscape and production dynamics as they present high potential impacts on supply. While the current signals are mixed, there is a notable risk stemming from regulatory pressures in California that could exacerbate supply constraints.

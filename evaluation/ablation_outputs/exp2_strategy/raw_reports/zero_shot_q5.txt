@@ -1,0 +1,50 @@
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+## COMMODITY RISK REPORT
+**Commodity:** LNG  
+**Report Date:** 2022-04-29  
+**Articles Analysed:** 5 articles  
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+### 1. OVERALL SENTIMENT
+**Mixed**  
+> The current sentiment is mixed due to high demand in Europe causing a supply chain blockage for Asian nations, while new LNG export approvals from the U.S. aim to alleviate some of these supply pressures.
+
+---
+
+### 2. KEY RISK SIGNALS
+
+**LNG & natural gas | Supply Chain Blockage | Severity: High**  
+- **Headline:** Europe’s scramble for LNG leaves Asia starving for energy  
+- **What happened:** Europe's increasing demand for LNG, influenced by the Ukraine conflict, is diverting shipments from Asia, leading to an energy shortage for countries like China and Japan.  
+- **Market impact:** This situation could result in increased prices and force Asian nations to resort to alternative energy sources, potentially tightening global supply further.  
+- **Sentiment contribution:** Bullish — European demand is pushing prices up, while Asian supply challenges could lead to increased competition for LNG supplies.  
+
+**LNG & natural gas | Supply Chain Blockage | Severity: Medium**  
+- **Headline:** QatarEnergy’s US LNG project approved for gas exports  
+- **What happened:** The U.S. Energy Department approved LNG exports for two new projects aimed at bolstering supply to European nations amidst the ongoing energy crisis.  
+- **Market impact:** Although this aims to support European supply, these projects will not provide immediate relief, contributing to a sustained tight market situation.  
+- **Sentiment contribution:** Bearish — While it signals potential future supply increases, immediate supply issues remain unresolved.
+
+**LNG & natural gas | No Significant Risk | Severity: Low**  
+- **Headline:** QMRV Research Focuses on Transco  
+- **What happened:** A partnership is underway to enhance emissions monitoring in natural gas operations.  
+- **Market impact:** Although beneficial for regulatory compliance and environmental performance, this does not currently affect market supply or demand significantly.  
+- **Sentiment contribution:** Neutral — This is a technical development and does not directly impact market conditions.
+
+---
+
+### 3. SIGNAL SYNTHESIS  
+The risk signals are somewhat aligned, indicating supply chain issues due to high demand in Europe, which is affecting Asian markets. Although the new U.S. LNG projects signify potential future relief for Europe, they do not address immediate shortages. Thus, the current exposure for LNG remains tight and precarious.
+
+---
+
+### 4. WATCH LIST
+- [ ] Monitor LNG shipment allocations → Changes could indicate shifts in supply dynamics between Europe and Asia.
+- [ ] Watch for further regulatory approvals for LNG projects in the U.S. → New approvals could alleviate pressure but also indicate sustained demand in Europe.
+- [ ] Track Asian responses to energy shortages → Measures taken could impact LNG demand and prices.
+
+---
+
+### 5. BOTTOM LINE
+**Risk Level: High**  
+The key takeaway for risk managers is to prepare for a high-risk environment due to ongoing supply chain blockages affecting LNG availability on a global scale. The sentiment is fragile as the market awaits new developments in U.S. LNG projects and Asian energy strategies.

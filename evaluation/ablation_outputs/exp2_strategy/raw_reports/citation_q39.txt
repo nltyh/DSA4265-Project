@@ -1,0 +1,50 @@
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+## COMMODITY RISK REPORT
+**Commodity:** LNG  
+**Report Date:** 2026-04-11  
+**Articles Analysed:** 5 articles  
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+### 1. OVERALL SENTIMENT
+**Bearish**  
+The current geopolitical tensions and disruptions in LNG supply, particularly due to the war in the Middle East, have led to a significant downward revision in supply forecasts and increased prices, contributing to a bearish sentiment in the market [Article 3, 4].
+
+---
+
+### 2. KEY RISK SIGNALS
+
+**LNG & natural gas | Geopolitical Conflict | Severity: High**
+- **Headline:** Ras Laffan Attack Shatters Illusion of Global Gas Abundance
+- **What happened:** The attack at Ras Laffan has led to a reevaluation of the global LNG supply narrative, which previously suggested an abundance of gas resources [Article 1].
+- **Market impact:** This may lead to heightened prices as the market adjusts to expectations of reduced availability, countering the previous forecasts of surplus.
+- **Sentiment contribution:** Bearish — the shift in narrative indicates potential supply issues, putting upward pressure on prices.
+
+**LNG & natural gas | Production Shortfall | Severity: High**
+- **Headline:** The Iran War Has Upended Global LNG Markets
+- **What happened:** Ongoing conflicts in the Middle East are expected to reduce global LNG supply by approximately 35 million tons [Article 3].
+- **Market impact:** A significant reduction in supply could lead to tighter market conditions and increased prices.
+- **Sentiment contribution:** Bearish — the production shortfall directly impacts overall market balance, pushing prices higher.
+
+**LNG & natural gas | Supply Chain Blockage | Severity: Medium**
+- **Headline:** Soaring Prices Set to Crash China’s LNG Imports to 8-Year Low
+- **What happened:** The surging LNG prices are projected to cause China's LNG imports to drop to the lowest levels in eight years due to limited supply from Qatar and UAE [Article 4].
+- **Market impact:** A decline in imports could lead to further regional price increases as buyers seek alternative sources.
+- **Sentiment contribution:** Bearish — this signals a constriction in demand driven by price, but also reflects limited international supply capabilities.
+
+---
+
+### 3. SIGNAL SYNTHESIS
+The risk signals are aligned, indicating a predominantly bearish sentiment due to heightened geopolitical risks disrupting supply chains and resulting in potential production shortfalls. The evidence suggests that the market is reacting to confirmed fundamentals rather than speculative sentiments. The collective impact emphasizes a tightening supply situation and potential upward price pressures.
+
+---
+
+### 4. WATCH LIST
+- [ ] **Escalation of conflict in the Middle East** → Further disruptions in energy supply could exacerbate the bearish price trend.
+- [ ] **Changes in China's LNG import policy** → A shift in import strategy could alter demand dynamics and impact price levels.
+- [ ] **New sanctions or regulations affecting LNG exports** → This could further restrict supply, contributing to market tightening and increasing price volatility.
+
+---
+
+### 5. BOTTOM LINE
+**Risk Level: High**  
+The LNG market currently faces significant risks from geopolitical conflicts and production shortfalls, leading to increased price volatility. Traders and risk managers should be aware that these conditions are confirmed by multiple sources and could lead to ongoing market instability.

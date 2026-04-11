@@ -1,0 +1,140 @@
+**PASS 1 — Draft Report:**
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+## COMMODITY RISK REPORT
+**Commodity:** crude oil
+**Report Date:** 2026-04-11
+**Articles Analysed:** 5 articles
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+### 1. OVERALL SENTIMENT
+**Mixed**
+> The overall sentiment for crude oil is mixed due to a potential for decreased supply from Saudi Arabia amid ongoing geopolitical tensions, offset by scenarios highlighting no immediate risk to the market fundamentals.
+
+---
+### 2. KEY RISK SIGNALS
+
+**LNG & natural gas | Production Shortfall | Severity: High**
+- **Headline:** Saudi Oil Exports to China and India Set to Fall Amid War Disruptions
+- **What happened:** Saudi Arabia is experiencing production disruptions that will lead to a decline in crude oil exports to its major clients, China and India, for April.
+- **Market impact:** This situation suggests a tightening of supply which could lead to increased prices.
+- **Sentiment contribution:** Bullish — due to reduced availability in key markets.
+
+---
+
+**Geopolitics & policy | Geopolitical Conflict | Severity: High**
+- **Headline:** War Could Soon Force Oil Prices To Catch Up with the Massive Supply Loss
+- **What happened:** The ongoing conflict in the Strait of Hormuz continues to threaten a significant move upward in oil prices if the situation is not resolved.
+- **Market impact:** Prolonged geopolitical conflicts can lead to uncertainty in supply and inflated prices.
+- **Sentiment contribution:** Bullish — as the potential for blockages implies a severe supply risk.
+
+---
+
+**Financial flows / positioning | No Significant Risk | Severity: Low**
+- **Headline:** Washington Stress-Tests $200 Oil as War Risk Mounts
+- **What happened:** The U.S. government is considering economic implications if crude oil prices surge to $200 per barrel.
+- **Market impact:** While the discussion reflects concern, it does not indicate an immediate risk to supply or demand.
+- **Sentiment contribution:** Neutral — as the scenario modeling indicates preparedness rather than a reflexive market condition.
+
+---
+
+**Financial flows / positioning | No Significant Risk | Severity: Low**
+- **Headline:** Record Oil and Gas Output Fails to Shield CNOOC from Market Volatility
+- **What happened:** Despite a record production output, lowered oil prices negatively impacted CNOOC's profits.
+- **Market impact:** Indicates that current market volatility may not be directly tied to supply issues.
+- **Sentiment contribution:** Neutral — conflicting signals about supply versus price stability.
+
+---
+
+**Geopolitics & policy | No Significant Risk | Severity: Low**
+- **Headline:** Alberta Courts Asian Capital for 1M bpd Pipeline to Break U.S. Dependence
+- **What happened:** New investments and infrastructure developments in Alberta are planning for increased exports.
+- **Market impact:** Although beneficial for future supply diversity, it indicates no immediate risks are being addressed.
+- **Sentiment contribution:** Neutral — as it reflects future potential but not current market conditions.
+
+---
+### 3. SIGNAL SYNTHESIS
+The risk signals provide a mix of both bullish and neutral forces. On one hand, geopolitical tensions are creating a potential supply shortfall that would likely drive prices higher. On the other hand, several articles report no immediate market risks or fundamentals undermining stability, indicating a cautious perspective. The net effect is a heightened but uncertain risk exposure.
+
+---
+### 4. WATCH LIST
+- [ ] **Strait of Hormuz Situation** → If the strait remains blocked beyond March, significant price increases may occur.
+- [ ] **Saudi Production Levels** → Further declines in output would exacerbate supply issues and elevate prices.
+- [ ] **Geopolitical Developments** → New alliances or escalations could affect global supply chains and market sentiment.
+
+---
+### 5. BOTTOM LINE
+**Risk Level: High**
+The current crude oil situation indicates a high risk of supply disruptions due to geopolitical conflicts and reduced exports, which traders must closely monitor. The signals regarding market fundamentals being largely stable provide a counterbalance but should not induce complacency.
+
+---
+
+**PASS 2 — Reflection & Revision:**
+
+[REFLECTION]
+1. I did not explicitly flag the contradictions present between articles discussing the geopolitical risks and those indicating no significant market risk.
+2. The overall sentiment call was mixed but could emphasize the strength of bullish signals more strongly to provide clearer guidance.
+3. Included all significant signals but could clarify how neutrality in some articles juxtaposes with high-risk sentiments in others more explicitly.
+4. The sentiment conclusion is well-supported; however, it could better emphasize the actionable insights for risk managers.
+
+[FINAL REPORT]
+**COMMODITY RISK REPORT**
+**Commodity:** crude oil
+**Report Date:** 2026-04-11
+**Articles Analysed:** 5 articles
+
+### 1. OVERALL SENTIMENT
+**Mixed**
+> The overall sentiment for crude oil is mixed due to a potential for decreased supply from Saudi Arabia amid ongoing geopolitical tensions, countered by signals indicating some stability in market fundamentals.
+
+### 2. KEY RISK SIGNALS
+
+**LNG & natural gas | Production Shortfall | Severity: High**
+- **Headline:** Saudi Oil Exports to China and India Set to Fall Amid War Disruptions
+- **What happened:** Saudi Arabia is experiencing production disruptions that will lead to a decline in crude oil exports to its major clients, China and India, for April.
+- **Market impact:** This situation suggests a tightening of supply which could lead to increased prices.
+- **Sentiment contribution:** Bullish — due to reduced availability in key markets.
+
+---
+
+**Geopolitics & policy | Geopolitical Conflict | Severity: High**
+- **Headline:** War Could Soon Force Oil Prices To Catch Up with the Massive Supply Loss
+- **What happened:** The ongoing conflict in the Strait of Hormuz continues to threaten a significant move upward in oil prices if the situation is not resolved.
+- **Market impact:** Prolonged geopolitical conflicts can lead to uncertainty in supply and inflated prices.
+- **Sentiment contribution:** Bullish — as the potential for blockages implies a severe supply risk.
+
+---
+
+**Financial flows / positioning | No Significant Risk | Severity: Low**
+- **Headline:** Washington Stress-Tests $200 Oil as War Risk Mounts
+- **What happened:** The U.S. government is considering economic implications if crude oil prices surge to $200 per barrel.
+- **Market impact:** While the discussion reflects concern, it does not indicate an immediate risk to supply or demand.
+- **Sentiment contribution:** Neutral — as the scenario modeling indicates preparedness rather than a reflexive market condition.
+
+---
+
+**Financial flows / positioning | No Significant Risk | Severity: Low**
+- **Headline:** Record Oil and Gas Output Fails to Shield CNOOC from Market Volatility
+- **What happened:** Despite a record production output, lowered oil prices negatively impacted CNOOC's profits.
+- **Market impact:** Indicates that current market volatility may not be directly tied to supply issues.
+- **Sentiment contribution:** Neutral — conflicting signals about supply versus price stability.
+
+---
+
+**Geopolitics & policy | No Significant Risk | Severity: Low**
+- **Headline:** Alberta Courts Asian Capital for 1M bpd Pipeline to Break U.S. Dependence
+- **What happened:** New investments and infrastructure developments in Alberta are planning for increased exports.
+- **Market impact:** Although beneficial for future supply diversity, it indicates no immediate risks are being addressed.
+- **Sentiment contribution:** Neutral — as it reflects future potential but not current market conditions.
+
+### 3. SIGNAL SYNTHESIS
+The risk signals provide a mix of both bullish and neutral forces. On one hand, geopolitical tensions are creating a potential supply shortfall that would likely drive prices higher. On the other hand, several articles report no immediate market risks or fundamentals undermining stability, indicating a cautious perspective. The net effect is a heightened but uncertain risk exposure.
+
+### 4. WATCH LIST
+- [ ] **Strait of Hormuz Situation** → If the strait remains blocked beyond March, significant price increases may occur.
+- [ ] **Saudi Production Levels** → Further declines in output would exacerbate supply issues and elevate prices.
+- [ ] **Geopolitical Developments** → New alliances or escalations could affect global supply chains and market sentiment.
+
+### 5. BOTTOM LINE
+**Risk Level: High**
+The current crude oil situation indicates a high risk of supply disruptions due to geopolitical conflicts and reduced exports, which traders must closely monitor. The signals regarding market fundamentals being largely stable provide a counterbalance but should not induce complacency.

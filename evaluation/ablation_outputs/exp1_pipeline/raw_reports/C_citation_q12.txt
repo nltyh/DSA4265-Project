@@ -1,0 +1,44 @@
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  
+## COMMODITY RISK REPORT  
+**Commodity:** crude oil  
+**Report Date:** 2026-04-11  
+**Articles Analysed:** 5 articles  
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  
+
+### 1. OVERALL SENTIMENT  
+**Bearish**  
+> The findings from the Groningen inquiry indicate potential long-term impacts on production and risks related to infrastructure damage, coupled with weather-related disruptions from Tropical Storm Freddy affecting natural gas operations. These factors are likely to suppress confidence in crude oil supply reliability.
+
+---
+
+### 2. KEY RISK SIGNALS  
+
+**Geopolitics & Policy | Infrastructure Damage | Severity: High**  
+- **Headline:** Dutch gov't, Shell and Exxon ignored Groningen risks for years, inquiry finds  
+- **What happened:** A parliamentary inquiry revealed that the Dutch government and Shell and Exxon Mobil failed to address the risks associated with gas production in Groningen, leading to significant infrastructure damage.  
+- **Market impact:** This could affect oil extraction operations in the region, leading to concerns about the sustainability of supply and increased operational costs.  
+- **Sentiment contribution:** Bearish — the findings suggest potential long-term regulatory and operational hurdles that may impact supply stability [Article 1].  
+
+**Weather | Weather Extremity | Severity: Medium**  
+- **Headline:** Storm Freddy could strike Sasol natural gas operations  
+- **What happened:** Tropical Storm Freddy is forecast to hit the Mozambique region, potentially disrupting Sasol’s natural gas operations, which can indirectly impact crude oil supply due to interlinked energy markets.  
+- **Market impact:** Severe weather events can disrupt production and logistics, leading to supply shortages and price fluctuations in crude markets.  
+- **Sentiment contribution:** Bearish — disruption from natural disasters typically creates uncertainty in supply chains, contributing to negative sentiment [Article 2].  
+
+---
+
+### 3. SIGNAL SYNTHESIS  
+The risk signals regarding infrastructure damage from the Groningen inquiry and the impacts of Tropical Storm Freddy are aligned in their bearish sentiment towards crude oil supply. Both signals suggest a risk of reduced supply reliability, either from regulatory constraints or weather-induced disruptions. The overall sentiment appears to be driven by confirmed fundamentals pertaining to negative operational impacts.
+
+---
+
+### 4. WATCH LIST  
+- [ ] **Regulatory responses to Groningen inquiry** → If new regulations or restrictions are imposed, it could further constrain production capabilities and escalate supply challenges.  
+- [ ] **Damages from Storm Freddy** → Should Sasol's operations suffer extensive damages, this could lead to significant disruptions in both natural gas and crude oil markets, impacting prices.  
+- [ ] **Global oil demand trends** → A decline in global oil demand due to economic factors or shifts to alternative energy could exacerbate the bearish sentiment on crude oil.
+
+---
+
+### 5. BOTTOM LINE  
+**Risk Level: High**  
+The current environment suggests heightened risks to crude oil supply due to both infrastructure issues stemming from the Groningen inquiry and potential disruptions from severe weather. Risk managers should closely monitor developments for any regulatory changes or disaster impacts that could affect supply dynamics.

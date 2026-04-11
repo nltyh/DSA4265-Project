@@ -1,0 +1,57 @@
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+## COMMODITY RISK REPORT
+**Commodity:** crude oil  
+**Report Date:** 2026-04-11  
+**Articles Analyzed:** 5 articles  
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+### 1. OVERALL SENTIMENT
+**Bullish**  
+> The overall sentiment is bullish, primarily driven by reported production shortfalls in the Middle East and potential for increased prices due to supply constraints as Saudi Arabia reduces exports to its major clients, India and China [Article 1, 3].
+
+---
+
+### 2. KEY RISK SIGNALS
+
+**LNG & Natural Gas | Production Shortfall | Severity: High**  
+- **Headline:** Saudi Oil Exports to China and India Set to Fall Amid War Disruptions  
+- **What happened:** Saudi crude oil exports are expected to decline due to production disruptions in the Middle East [Article 1].  
+- **Market impact:** This sends a signal of tightening supply in crucial markets, likely resulting in higher prices.  
+- **Sentiment contribution:** Bullish — the anticipated reduction in exports raises concerns about supply availability.
+
+**Geopolitics & Policy | Geopolitical Conflict | Severity: High**  
+- **Headline:** War Could Soon Force Oil Prices To Catch Up with the Massive Supply Loss  
+- **What happened:** Ongoing conflicts threaten to block key trade routes such as the Strait of Hormuz, causing significant supply loss from the Middle East [Article 3].  
+- **Market impact:** Potential blockade of a major shipping route adds upward pressure on oil prices due to further supply constraints.  
+- **Sentiment contribution:** Bullish — fears of geopolitical instability typically stimulate higher prices.
+
+**Financial Flows / Positioning | No Significant Risk | Severity: Low**  
+- **Headline:** Record Oil and Gas Output Fails to Shield CNOOC from Market Volatility  
+- **What happened:** Despite increased production, lower oil prices have impacted profits for CNOOC due to market volatility [Article 2].  
+- **Market impact:** This indicates that high production alone does not guarantee stable pricing, limiting bullish momentum.  
+- **Sentiment contribution:** Neutral — reflects existing market volatility but does not indicate increasing or decreasing prices directly.
+
+**Financial Flows / Positioning | No Significant Risk | Severity: Low**  
+- **Headline:** Washington Stress-Tests $200 Oil as War Risk Mounts  
+- **What happened:** The U.S. government is evaluating risks associated with a potential spike in oil prices to $200 per barrel [Article 5].  
+- **Market impact:** This scenario emphasizes concerns over extreme price sensitivity due to geopolitical tensions but does not ascertain a definitive price movement.  
+- **Sentiment contribution:** Neutral — while it highlights risks, it does not provide a clear bullish or bearish signal.
+
+---
+
+### 3. SIGNAL SYNTHESIS
+The risk signals are primarily aligned in suggesting heightened risk for supply constraint due to political instability and reduced exports. The bearish signals related to market volatility and moderate production levels do not outweigh the bullish concerns stemming from geopolitical conflicts and export reductions. Overall, the net effect tilts towards increased risk exposure in the crude oil market, underpinning bullish price expectations.
+
+---
+
+### 4. WATCH LIST
+- [ ] Monitor developments in the Strait of Hormuz for possible blockades → A blockage would significantly disrupt oil supply and drive prices higher.
+- [ ] Track updates on Saudi export volumes over the next month → A continued decline in exports would maintain upward pressure on international oil prices.
+- [ ] Evaluate global market responses if U.S. price modeling predicts oil at $200/barrel → A confirmed increase could lead to heightened market speculation and volatility.
+- [ ] Keep watch on geopolitical developments in the Middle East, especially in conflict zones → Escalation could directly affect supply routes and pricing.
+
+---
+
+### 5. BOTTOM LINE
+**Risk Level: High**  
+The current market dynamics indicate a high risk level for crude oil due to production shortfalls and geopolitical instability. Traders and risk managers should remain vigilant and prepared for potential price escalations, especially with supply disruptions anticipated in the near future.

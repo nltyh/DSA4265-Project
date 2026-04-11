@@ -1,0 +1,46 @@
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+## COMMODITY RISK REPORT
+**Commodity:** crude oil  
+**Report Date:** 2026-04-11  
+**Articles Analysed:** 5 articles  
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+### 1. OVERALL SENTIMENT
+**Mixed**  
+> The sentiment reflects rising geopolitical tensions due to Houthi attacks on shipping, alongside strong corporate actions in the oil sector like acquisitions, which counterbalance potential supply disruptions.
+
+---
+### 2. KEY RISK SIGNALS
+
+**Shipping & Logistics | Geopolitical Conflict | Severity: High**
+- **Headline:** Behind Houthi Attacks on Ships Operated by Greece-Based Companies
+- **What happened:** Houthis have intensified attacks on ships linked to Greece-based companies, indicating a broader targeting of vessels even with no direct ties to Israel.
+- **Market impact:** This could lead to increased shipping risks, possible disruptions in crude oil supply routes, and subsequent price volatility.
+- **Sentiment contribution:** Bearish — heightened geopolitical tensions may discourage trading activities and raise shipping costs.
+
+**Geopolitics & Policy | Regulatory Constraint | Severity: Medium**
+- **Headline:** Another Big Oil Deal Despite Regulatory Pushback and Market Volatility
+- **What happened:** ConocoPhillips announced its acquisition of Marathon Oil amidst regulatory challenges, reflecting robust activities in the oil sector.
+- **Market impact:** While consolidation indicates rising confidence in oil prices, regulatory scrutiny may affect future investments and projects in the sector.
+- **Sentiment contribution:** Neutral — while consolidation efforts are affirming, potential regulatory hurdles might temper immediate market enthusiasm.
+
+**Financial Flows / Positioning | No Significant Risk | Severity: Low**
+- **Headline:** 2024 Annual Shareholder Meeting
+- **What happened:** Information shared during Exxon Mobil's annual meeting provided insight into corporate management with no significant findings impacting risk.
+- **Market impact:** Limited to no immediate effect on crude oil markets.
+- **Sentiment contribution:** Neutral — primarily informational with no major implications for risk exposure indicated.
+
+---
+### 3. SIGNAL SYNTHESIS
+The risks present in the report are largely aligned, with significant concerns regarding geopolitical threats to shipping increasing exposure to supply chain risks. Meanwhile, consolidation in the oil sector suggests a bullish undertone driven by corporate confidence. The impact of these factors creates a mixed sentiment where geopolitical risks potentially overshadow market confidence stemming from M&A activities.
+
+---
+### 4. WATCH LIST
+- [ ] Escalation of Houthi attacks → heightened shipping costs and potential supply disruptions.
+- [ ] Outcomes from pending regulatory reviews of ConocoPhillips' acquisition → might influence market stability and investment confidence.
+- [ ] Changes in shipping insurance rates due to increased risks → could signal changes in market sentiment around crude oil transportation safety.
+
+---
+### 5. BOTTOM LINE
+**Risk Level: Medium**  
+While the market exhibits actions that suggest confidence due to acquisitions, prevailing geopolitical risks and the potential for disrupted shipping routes inject uncertainty into the outlook. Monitor geopolitical developments closely, as they could significantly alter the risk landscape.

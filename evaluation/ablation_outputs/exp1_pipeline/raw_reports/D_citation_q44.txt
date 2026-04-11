@@ -1,0 +1,48 @@
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+## COMMODITY RISK REPORT
+**Commodity:** crude oil, LNG  
+**Report Date:** 2026-04-11  
+**Articles Analysed:** 4 articles  
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+### 1. OVERALL SENTIMENT
+**Bullish**
+> The ongoing geopolitical conflicts and significant hikes in crude oil prices signal strong bullish sentiment in the market. The conflict has cut off substantial oil supply, pushing prices upward.
+
+### 2. KEY RISK SIGNALS
+
+**Geopolitics & Policy | Geopolitical Conflict | Severity: High**
+- **Headline:** Africa Could Emerge As The Biggest Winner In Iran War
+- **What happened:** The Middle East conflict has disrupted global energy markets, resulting in a loss of approximately 8 million barrels of crude per day and 20% of LNG supplies [Article 1].
+- **Market impact:** This significant reduction in supply has led to a surge in crude oil prices, which is set to create upward pressure in global markets.
+- **Sentiment contribution:** Bullish — the substantial cut in supply amidst geopolitical tensions is driving prices higher.
+
+**Geopolitics & Policy | Geopolitical Conflict | Severity: High**
+- **Headline:** Oil Set to Book Record Monthly Gain on Iran Crisis
+- **What happened:** Due to the crisis, oil prices are anticipated to experience a record rise, with a reported 59% increase since the beginning of March [Article 2].
+- **Market impact:** The expected record gain in prices indicates strong bullish momentum for crude oil.
+- **Sentiment contribution:** Bullish — the mounting international concern surrounding oil supplies is contributing to soaring prices.
+
+**Demand / Macro Activity | Macro-Economic Cooling | Severity: Medium**
+- **Headline:** Global Fuel Prices Are Surging as the Middle East War Hits Consumers
+- **What happened:** Fuel prices have increased globally due to rising crude oil prices, with gasoline and diesel price hikes ranging from 5% to 80% [Article 3].
+- **Market impact:** This could lead to an economic strain on consumers and reduce overall fuel demand over time.
+- **Sentiment contribution:** Bearish — increasing prices for consumers may dampen economic activity and reduce demand for crude oil in the long term.
+
+**Demand / Macro Activity | Macro-Economic Cooling | Severity: Medium**
+- **Headline:** South Korea Weighs First Public Driving Restrictions in 35 Years
+- **What happened:** South Korea is considering implementing driving restrictions if oil prices exceed $120 per barrel [Article 4].
+- **Market impact:** Such restrictions could lead to decreased demand for crude oil and fuel in the region, exacerbating overall demand loss.
+- **Sentiment contribution:** Bearish — potential driving restrictions indicate anticipated demand reductions as prices rise.
+
+### 3. SIGNAL SYNTHESIS
+The risk signals present both bullish and bearish sentiment. On one hand, geopolitical tensions are significantly restricting supply, driving prices up and contributing to a bullish outlook. Conversely, rising fuel costs are leading to potential macroeconomic cooling effects, with concerns over reduced consumer demand. The conflicting narratives indicate a complex risk landscape, where supply disruptions are counterbalanced by possible demand shocks.
+
+### 4. WATCH LIST
+- [ ] Increased geopolitical tensions or escalations in the Middle East → could lead to further supply disruptions and price spikes.
+- [ ] Official announcements of driving restrictions in South Korea → would signal a significant reduction in demand and potentially suppress prices.
+- [ ] Monitoring fuel price increases globally → continued upward price pressure may lead to wider economic impacts and influence demand negatively.
+
+### 5. BOTTOM LINE
+**Risk Level: High**
+The crude oil market is highly sensitive to escalations in geopolitical conflicts and rising prices affecting consumer behavior. Managers should closely monitor supply-side disturbances alongside potential demand-side repercussions as prices elevate. The current signals suggest strong price increases but with growing risks of demand reduction.

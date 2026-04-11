@@ -1,0 +1,42 @@
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+## COMMODITY RISK REPORT
+**Commodity:** crude oil  
+**Report Date:** 2026-04-11  
+**Articles Analysed:** 5 articles  
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+### 1. OVERALL SENTIMENT
+**Mixed**  
+The mixed sentiment arises from robust earnings anticipated in Q1 for U.S. refiners, which suggests a short-term demand resilience, contrasted with growing shareholder dissatisfaction at BP regarding climate goals, indicating potential long-term geopolitical tensions affecting oil production and policy.
+
+### 2. KEY RISK SIGNALS
+
+**Energy transition / structural | Geopolitical Conflict | Severity: Medium**  
+- **Headline:** BP faces green protest over new climate goals  
+- **What happened:** BP is encountering protests and shareholder opposition due to reduced emissions goals, reflecting complaints from environmental activists and pension funds.  
+- **Market impact:** This may undermine BP's operational stability and future production strategies, potentially leading to supply disruption.  
+- **Sentiment contribution:** Bearish — as it reflects growing tensions between climate policy and oil production goals [Article 1].
+
+**Geopolitics & policy | Regulatory Constraint | Severity: Medium**  
+- **Headline:** BP shareholders reject climate activist resolution but support grows  
+- **What happened:** BP's decision to maintain existing climate targets was supported by shareholders, but increased scrutiny and protests indicate rising regulatory pressure.  
+- **Market impact:** Heightened regulatory risks could limit BP's operational flexibility and affect overall crude oil supply dynamics.  
+- **Sentiment contribution:** Bearish — due to increased scrutiny and potential for stricter regulations against oil companies [Article 2].
+
+**Refining (downstream) | Macro-Economic Cooling | Severity: Medium**  
+- **Headline:** U.S. oil refiners to post strong Q1 earnings, but demand outlook dims  
+- **What happened:** Analysts predict strong Q1 earnings for U.S. refiners, but there are expectations of weaker performance in Q2 due to declining exports and demand concerns.  
+- **Market impact:** While immediate financial performance might be positive, a dimmed demand outlook could stifle growth in crude oil consumption, affecting prices negatively.  
+- **Sentiment contribution:** Bullish — due to strong performance indications, but tempered by a cautionary outlook [Article 4].
+
+### 3. SIGNAL SYNTHESIS
+The various risk signals highlight a complex landscape for crude oil, with geopolitical risks and regulatory pressures emerging from corporate governance issues at BP, which could affect operational stability. Meanwhile, strong earnings reports from refiners provide a short-term bullish indicator, although a cooling demand outlook raises concerns about future requirements for crude oil. Overall, these elements combine to create a moderate risk exposure.
+
+### 4. WATCH LIST
+- [ ] **BP's response to shareholder protests** → If BP implements more drastic changes in its climate strategy, this could mitigate some risks but may also lead to supply constraints.
+- [ ] **Further regulatory actions on emissions** → New regulations could impact production levels and operational costs, affecting crude oil supply forecasts.
+- [ ] **Refiner earnings reports for Q2** → If earnings decline more than expected, it would signal a downturn in demand and could weaken crude prices.
+
+### 5. BOTTOM LINE
+**Risk Level: Medium**  
+Traders should be particularly attentive to BP's response to growing shareholder pressures and any resulting changes in production strategy. The mixed signals arising from the earnings outlook for refiners and BP's geopolitical conflicts indicate a fragile balance in the crude oil market that could shift quickly under new regulatory developments or market conditions.

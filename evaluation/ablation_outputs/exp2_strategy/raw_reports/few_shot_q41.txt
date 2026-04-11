@@ -1,0 +1,52 @@
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+## COMMODITY RISK REPORT
+**Commodity:** crude oil
+**Report Date:** 2026-04-11
+**Articles Analysed:** 5 articles
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+### 1. OVERALL SENTIMENT
+**Mixed**
+> The sentiment is mixed due to opposing signals: bullish factors arising from a refinery outage and supply reductions versus bearish influences from rising inventories and geopolitical developments suggesting stabilized communication.
+
+---
+### 2. KEY RISK SIGNALS
+
+**[Supply (Production/Upstream)] | [Supply Chain Blockage] | Severity: High**
+- **Headline:** Saudi Arabia Slashes Oil Supply to Asia as War Chokes Export Route
+- **What happened:** Saudi Arabia has reduced crude oil exports to Asia for the second month due to the impact of the conflict and restrictions on the Strait of Hormuz.
+- **Market impact:** This is expected to tighten supply and could lead to increased prices in the Asian market, as demand may remain unchanged while supply diminishes.
+- **Sentiment contribution:** Bullish — the reduction in supply creates upward pressure on prices due to potential scarcity.
+
+**[Inventory & Storage] | [Inventory Shock] | Severity: Medium**
+- **Headline:** US Crude Oil, Product Inventories Rise
+- **What happened:** Crude oil inventories in the U.S. have increased by 2.3 million barrels, following a previous rise of 6.556 million barrels.
+- **Market impact:** An unexpected rise in stocks signals potential oversupply, which could lead to downward price adjustments.
+- **Sentiment contribution:** Bearish — increased inventories suggest that demand may not be keeping pace with supply.
+
+**[Geopolitics & Policy] | [Geopolitical Conflict] | Severity: Medium**
+- **Headline:** Oil Plummets 8% as Trump Postpones Hormuz Deadline Threat
+- **What happened:** Following a statement by President Trump indicating diplomatic progress with Iran, oil prices dropped over 8%.
+- **Market impact:** The easing of tensions reduces risk premiums in the market, bringing prices down.
+- **Sentiment contribution:** Bearish — perceived resolution in geopolitical tensions can stabilize supply expectations.
+
+**[Refining (Downstream)] | [Refining Outage] | Severity: High**
+- **Headline:** Valero Shuts Major Refinery After Explosion as Fuel Markets Tighten
+- **What happened:** The Valero Port Arthur refinery was shut down due to an explosion that impacted its diesel processing capabilities.
+- **Market impact:** This reduces diesel supply at a time when fuel markets are already tight, creating upward pressure on diesel prices.
+- **Sentiment contribution:** Bullish — refinery outages can significantly impact supply availability, fueling price increases.
+
+---
+### 3. SIGNAL SYNTHESIS
+The signals present a mixed outlook. The bearish pressure from rising inventories conflicts with bullish indicators from supply cuts and refining outages. While geopolitical tensions seemingly eased with Trump's statements, the refinery shutdown adds uncertainty to product availability. The resultant market scenarios highlight a complex interplay influenced by both fundamental supply concerns and sentiment surrounding geopolitical developments.
+
+---
+### 4. WATCH LIST
+- [ ] **Potential resolution of tensions in the Strait of Hormuz** → A clear resolution could stabilize oil prices but may also release upward pressure if supply returns swiftly.
+- [ ] **Further updates on Valero refinery status** → Any prolonged outages or further incidents could exacerbate fuel market tightness.
+- [ ] **US inventory reports in the coming weeks** → Continued increases in inventory would reinforce bearish sentiment and potentially impact trader positioning.
+
+---
+### 5. BOTTOM LINE
+**Risk Level: Medium**
+The situation is characterized by significant volatility due to opposing factors — refining outages and supply cuts support bullish factors, while rising inventories introduce bearish pressures. Monitoring the developments closely is essential as the signals show fragility and potential for rapid change based on geopolitical events.

@@ -1,0 +1,51 @@
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+## COMMODITY RISK REPORT
+**Commodity:** crude oil
+**Report Date:** 2026-04-11
+**Articles Analysed:** 5 articles
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+### 1. OVERALL SENTIMENT
+**Mixed**
+> The overall sentiment is mixed due to inventory increases and Saudi Arabia’s reduced supplies combining with geopolitical tensions that created volatility in prices.
+
+---
+### 2. KEY RISK SIGNALS
+
+**Inventory & storage | Inventory Shock | Severity: Medium**
+- **Headline:** US Crude Oil, Product Inventories Rise
+- **What happened:** The American Petroleum Institute reported a rise in US crude oil inventories by 2.3 million barrels, following a prior increase of 6.556 million barrels.
+- **Market impact:** This increase in inventories suggests a potential oversupply that may exert downward pressure on prices.
+- **Sentiment contribution:** Bearish — due to the prospect of oversupply against demand expectations.
+
+---
+
+**Geopolitics & policy | Geopolitical Conflict | Severity: High**
+- **Headline:** Oil Plummets 8% as Trump Postpones Hormuz Deadline Threat
+- **What happened:** Brent crude prices decreased by over 8% following a statement from President Trump indicating diplomatic progress with Iran.
+- **Market impact:** Speculation about reduced risk in the region temporarily softens prices, countering supply concerns.
+- **Sentiment contribution:** Bullish — as a de-escalation of potential conflict can stabilize supply sources.
+
+---
+
+**Supply (production/upstream) | Supply Chain Blockage | Severity: High**
+- **Headline:** Saudi Arabia Slashes Oil Supply to Asia as War Chokes Export Route
+- **What happened:** Saudi Arabia has cut crude oil exports to Asia as conflicts impact supply routes through the Strait of Hormuz.
+- **Market impact:** This reduction in exports tightens global supply, supporting price increases.
+- **Sentiment contribution:** Bullish — as lower supply from a major exporter may lead to price spikes.
+
+---
+
+### 3. SIGNAL SYNTHESIS
+The risk signals present mix opposing dynamics; while increased inventories and geopolitical tensions suggest downward pressure on prices, supply cuts and potential de-escalation of conflict bolster a bullish outlook. The net effect indicates heightened uncertainty in the market.
+
+---
+### 4. WATCH LIST
+- [ ] Continued updates on diplomatic talks between the US and Iran → A peaceful resolution could stabilize prices and improve supply conditions.
+- [ ] Further inventory reports from the API → An additional increase may deepen bearish sentiment regarding oversupply.
+- [ ] Monitoring of Valero's refinery operations post-explosion → Restoration of operations could impact diesel supply and influence crude prices.
+
+---
+### 5. BOTTOM LINE
+**Risk Level: Medium**
+There are significant risks tied to geopolitical events and supply chain disruptions that traders should closely monitor. The current supply dynamics are fragile, with potential for price shifts based on new developments in conflict and inventory changes.

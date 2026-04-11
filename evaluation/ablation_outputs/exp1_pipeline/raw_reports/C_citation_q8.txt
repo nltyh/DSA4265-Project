@@ -1,0 +1,52 @@
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+## COMMODITY RISK REPORT
+**Commodity:** LNG  
+**Report Date:** 2022-07-27  
+**Articles Analysed:** 5 articles  
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+### 1. OVERALL SENTIMENT
+**Bullish**  
+> The sentiment is dominated by strong demand for U.S. LNG exports and increased market prices, despite temporary supply disruptions. This bullish stance is supported by expanding export capacity and long-term agreements being signed.
+
+---
+### 2. KEY RISK SIGNALS
+
+**LNG & natural gas | Supply Chain Blockage | Severity: Medium**
+- **Headline:** U.S. becomes top LNG exporter in first half of 2022 - EIA
+- **What happened:** The U.S. increased its LNG exports to Europe by 12% in H1 2022, becoming the leading global exporter amid the Ukraine conflict. A fire at the Freeport LNG facility had temporarily reduced exports.
+- **Market impact:** While the fire caused short-term disruptions, the long-term outlook for U.S. LNG supply remains positive due to increasing export capacity.
+- **Sentiment contribution:** Bullish — strong export performance indicates robust demand.
+
+**LNG & natural gas | Demand/Macro Activity | Severity: High**
+- **Headline:** U.S. natgas up 3% after hitting 14-yr high ahead of contract rollover
+- **What happened:** U.S. natural gas futures surged by about 3% to a seven-week high, driven by hot weather forecasts and concerns over Russian gas supplies to Europe.
+- **Market impact:** The increase in futures prices reflects heightened demand and concerns over supply stability, further driving market volatility.
+- **Sentiment contribution:** Bullish — heightened demand and price spikes indicate strong market conditions.
+
+**LNG & natural gas | No Significant Risk | Severity: Low**
+- **Headline:** Cheniere and PTT Sign Long-Term LNG Sale and Purchase Agreement
+- **What happened:** Cheniere Energy signed a 20-year contract with PTT Global LNG for 1 million tonnes per annum, starting in 2026.
+- **Market impact:** This reinforces the commitment to a stable long-term supply without immediate risks.
+- **Sentiment contribution:** Neutral — while it's a positive development, it does not significantly alter the current market landscape.
+
+**LNG & natural gas | No Significant Risk | Severity: Low**
+- **Headline:** Cheniere, NextDecade Each Clinch LNG Contracts for Asian Deliveries
+- **What happened:** Long-term contracts secured for LNG deliveries to Asian partners indicate sustained interest in American LNG.
+- **Market impact:** Similar to the PTT agreement, this reflects ongoing demand but does not introduce immediate risks to the market.
+- **Sentiment contribution:** Neutral — stable contracts support demand but lack immediate impact on volatility.
+
+---
+### 3. SIGNAL SYNTHESIS
+The risk signals present a generally bullish outlook for the LNG market in late July 2022, with strong demand and increasing prices overshadowing temporary disruptions from supply chain blockages. The news supports a narrative of rising prices driven by heightened demand amid geopolitical tensions, particularly in relation to Russian gas supplies. Although some agreements for future deliveries signal stability, the current market remains volatile.
+
+---
+### 4. WATCH LIST
+- [ ] Monitor U.S. LNG export capacity developments → any new capacity additions could bolster supply and affect pricing.
+- [ ] Watch for changes in weather forecasts affecting natural gas demand → hot weather could further increase demand and prices.
+- [ ] Keep an eye on geopolitical developments in relation to Russia → heightened tensions could cause further supply disruptions.
+
+---
+### 5. BOTTOM LINE
+**Risk Level: Medium**  
+Traders should be aware of the strong market demand and price volatility driven by both geopolitical concerns and weather forecasts. Amid temporary supply disruptions, the long-term outlook remains bullish but is subject to fluctuations based on external factors.

@@ -1,0 +1,62 @@
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+## COMMODITY RISK REPORT
+**Commodity:** crude oil  
+**Report Date:** 2026-04-11  
+**Articles Analysed:** 5 articles  
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+### 1. OVERALL SENTIMENT
+**Bullish**  
+> The crude oil market is primarily influenced by geopolitical conflicts, particularly concerning the Strait of Hormuz and U.S.-Iran relations, which have driven prices above $110 [Article 1]. Additional stabilization in fuel prices in different regions contributes to a mixed but ultimately bullish sentiment.
+
+---
+
+### 2. KEY RISK SIGNALS
+
+**Geopolitics & policy | Geopolitical Conflict | Severity: High**  
+- **Headline:** Brent Surges Past $110 on Iran Rejection  
+- **What happened:** Iran’s rejection of U.S. terms related to negotiations has led to increasing tensions, impacting oil supply through the Strait of Hormuz, a critical shipping lane [Article 1].  
+- **Market impact:** This geopolitical tension suggests potential supply disruptions, driving crude prices upwards.  
+- **Sentiment contribution:** Bullish, as rising conflict escalates the risk of supply shortages.
+
+---
+
+**Geopolitics & policy | Geopolitical Conflict | Severity: High**  
+- **Headline:** Oil Traders Caught Between Diplomacy and Disruption Risk  
+- **What happened:** The ongoing U.S.-Iran negotiations resulted in volatility in nearby WTI crude prices, affecting trading behavior in the oil market [Article 4].  
+- **Market impact:** Traders are factoring in risks of sudden price swings due to geopolitical events, maintaining a high risk premium on oil prices.  
+- **Sentiment contribution:** Bullish, driven by the continuous uncertainty surrounding diplomatic relations.
+
+---
+
+**Demand / macro activity | No Significant Risk | Severity: Low**  
+- **Headline:** India Holds Fuel Prices Steady Even as Oil Basket Soars Above $155  
+- **What happened:** India has kept its retail fuel prices stable despite a significant increase in crude oil prices [Article 3].  
+- **Market impact:** This stability suggests resistance to inflating domestic prices, which may dampen excessive demand fluctuations.  
+- **Sentiment contribution:** Neutral, as this action does not signal a bullish or bearish shift.
+
+---
+
+**Refining (downstream) | No Significant Risk | Severity: Low**  
+- **Headline:** Petrobras lowers diesel prices for first time in more than a year  
+- **What happened:** Petrobras announced a reduction in diesel and jet fuel prices amid international pricing adjustments [Article 2].  
+- **Market impact:** This could slightly relieve pressure on local consumers but does not significantly alter crude oil supply dynamics.  
+- **Sentiment contribution:** Neutral, indicating controlled pricing without major impact on crude oil fundamentals.
+
+---
+
+### 3. SIGNAL SYNTHESIS
+The risk signals are largely aligned towards a bullish outlook, primarily driven by geopolitical tensions affecting supply dynamics. However, the presence of neutral signals regarding stable fuel prices in India and reduced prices in Brazil suggests that global demand is not uniformly affected. The net effect indicates increased exposure to geopolitical risks amidst a backdrop of controlled demand factors.
+
+---
+
+### 4. WATCH LIST
+- [ ] **U.S.-Iran Negotiation Outcomes** → Monitor any breakthroughs or escalations that could lead to significant shifts in oil supply.
+- [ ] **Strait of Hormuz Developments** → A closure or conflict in this area would have a substantial impact on global oil flows.
+- [ ] **Demand Trends in Emerging Markets** → Pay attention to shifts in fuel pricing and demand elasticity in large markets like India.
+
+---
+
+### 5. BOTTOM LINE
+**Risk Level: High**  
+Traders should remain vigilant with the geopolitical climate surrounding oil, particularly the tensions between the U.S. and Iran, which pose significant risks to supply. The signals are confirmed by current market conditions, but be prepared for volatility as market sentiment responds to unfolding geopolitical events.

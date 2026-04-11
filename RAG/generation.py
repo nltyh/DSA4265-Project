@@ -50,7 +50,7 @@ REPORT_TEMPLATE = """
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ### 1. OVERALL SENTIMENT
-**[Bullish / Bearish / Neutral / Mixed]**
+**{sentiment}**
 > One sentence explaining the dominant signal and why.
 > If Mixed: explain which forces are pulling in opposite directions.
 
@@ -120,12 +120,12 @@ def extract_commodity(reranked_docs: list[dict]) -> str:
 # Prompt builders  (one per strategy)
 # ───────────────────────────────────────────────
 def _prompt_zero_shot(context: str, query: str, commodity: str,
-                      date: str, n: int, graph_context: list) -> str:
+                      date: str, n: int, graph_context: list, sentiment: str) -> str:
     graph_note = (
         f"\n\n## Related Entities (Graph Context):\n{', '.join(graph_context)}"
         if graph_context else ""
     )
-    report_shell = REPORT_TEMPLATE.format(commodity=commodity, date=date, n=n)
+    report_shell = REPORT_TEMPLATE.format(commodity=commodity, date=date, n=n, sentiment=sentiment)
     return (
         f"## Retrieved News Articles:\n{context}"
         f"{graph_note}\n\n"
@@ -137,7 +137,7 @@ def _prompt_zero_shot(context: str, query: str, commodity: str,
 
 
 def _prompt_few_shot(context: str, query: str, commodity: str,
-                     date: str, n: int, graph_context: list) -> str:
+                     date: str, n: int, graph_context: list, sentiment: str) -> str:
     example = """## Example — well-structured KEY RISK SIGNAL block:
 
 **[Geopolitics & Policy] | [Geopolitical Conflict] | Severity: High**
@@ -157,7 +157,7 @@ source; confirmed by physical price action, not just headlines.
         f"\n\n## Related Entities (Graph Context):\n{', '.join(graph_context)}"
         if graph_context else ""
     )
-    report_shell = REPORT_TEMPLATE.format(commodity=commodity, date=date, n=n)
+    report_shell = REPORT_TEMPLATE.format(commodity=commodity, date=date, n=n, sentiment=sentiment)
     return (
         f"{example}"
         f"## Retrieved News Articles:\n{context}"
@@ -170,7 +170,7 @@ source; confirmed by physical price action, not just headlines.
 
 
 def _prompt_citation(context: str, query: str, commodity: str,
-                     date: str, n: int, graph_context: list) -> str:
+                     date: str, n: int, graph_context: list, sentiment: str) -> str:
     citation_rules = """## CITATION RULES (mandatory — no exceptions):
 - Every factual claim must end with [Article N] citing its source.
 - If a claim draws on multiple articles: [Article 1, 2].
@@ -183,7 +183,7 @@ def _prompt_citation(context: str, query: str, commodity: str,
         f"\n\n## Related Entities (Graph Context):\n{', '.join(graph_context)}"
         if graph_context else ""
     )
-    report_shell = REPORT_TEMPLATE.format(commodity=commodity, date=date, n=n)
+    report_shell = REPORT_TEMPLATE.format(commodity=commodity, date=date, n=n, sentiment=sentiment)
     return (
         f"{citation_rules}"
         f"## Retrieved News Articles:\n{context}"
@@ -196,12 +196,12 @@ def _prompt_citation(context: str, query: str, commodity: str,
 
 
 def _prompt_reflection(context: str, query: str, commodity: str,
-                       date: str, n: int, graph_context: list) -> str:
+                       date: str, n: int, graph_context: list, sentiment: str) -> str:
     graph_note = (
         f"\n\n## Related Entities (Graph Context):\n{', '.join(graph_context)}"
         if graph_context else ""
     )
-    report_shell = REPORT_TEMPLATE.format(commodity=commodity, date=date, n=n)
+    report_shell = REPORT_TEMPLATE.format(commodity=commodity, date=date, n=n, sentiment=sentiment)
     return (
         f"## Retrieved News Articles:\n{context}"
         f"{graph_note}\n\n"
@@ -289,6 +289,7 @@ class Generator:
         query: str,
         reranked_docs: list[dict],
         graph_context: list[str] | None = None,
+        finbert_consensus: str | None = None,
     ) -> str:
         """
         Parameters
@@ -300,6 +301,8 @@ class Generator:
             Each dict must have: text, score, date, commodity.
         graph_context : list[str], optional
             Entity list from GraphRAG.retrieve_subgraph().
+        finbert_consensus : str, optional
+            If provided, overrides the LLM's own sentiment deduction.
 
         Returns
         -------
@@ -313,15 +316,26 @@ class Generator:
         n = len(docs)
         graph_context = graph_context or []
 
+        sentiment = finbert_consensus if finbert_consensus else "[Bullish / Bearish / Neutral / Mixed]"
+
         prompt = PROMPT_BUILDERS[self.strategy](
-            context, query, commodity, date, n, graph_context
+            context, query, commodity, date, n, graph_context, sentiment
         )
+
+        sys_prompt = SYSTEM_PROMPT
+        if finbert_consensus:
+            sys_prompt += (
+                "\n\nCRITICAL OVERRIDE: The explicit MARKET SENTIMENT is strictly bounded "
+                f"to the provided quantitative consensus: '{finbert_consensus}'. "
+                "You must use this provided sentiment as fact in the report. Do not formulate "
+                "your own contradictory sentiment."
+            )
 
         response = self.client.chat.completions.create(
             model=self.model,
             max_tokens=self.max_tokens,
             messages=[
-                {"role": "system", "content": SYSTEM_PROMPT},
+                {"role": "system", "content": sys_prompt},
                 {"role": "user", "content": prompt},
             ],
         )

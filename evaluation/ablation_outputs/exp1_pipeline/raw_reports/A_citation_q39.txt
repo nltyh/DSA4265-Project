@@ -1,0 +1,42 @@
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+## COMMODITY RISK REPORT
+**Commodity:** LNG  
+**Report Date:** 2026-04-11  
+**Articles Analysed:** 5 articles  
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+### 1. OVERALL SENTIMENT
+**Mixed**  
+The geopolitical tensions surrounding LNG supply, especially post-Ras Laffan attack, are creating a bearish sentiment due to concerns over supply shortages. However, the successful commencement of LNG production from Golden Pass LNG provides a counterbalance, suggesting potential supply support.
+
+### 2. KEY RISK SIGNALS
+
+**LNG & Natural Gas | Geopolitical Conflict | Severity: High**  
+- **Headline:** Ras Laffan Attack Shatters Illusion of Global Gas Abundance  
+- **What happened:** The Ras Laffan attack has raised concerns about the stability of global LNG supply, contradicting previous narratives of an impending LNG abundance.  
+- **Market impact:** The attack may disrupt global LNG flows, leading to heightened prices and supply uncertainties.  
+- **Sentiment contribution:** Bearish — due to fears surrounding potential future disruptions and decreased supply availability [Article 1].
+
+**LNG & Natural Gas | Geopolitical Conflict | Severity: High**  
+- **Headline:** Middle East War Could Push West Canada’s LNG Projects Forward  
+- **What happened:** Ongoing conflicts in the Middle East are prompting discussions around increasing LNG exports from Western Canada to meet supply demands following disruptions.  
+- **Market impact:** This could lead to a ramp-up in Canadian LNG exports, potentially alleviating some of the supply concerns raised by geopolitical events.  
+- **Sentiment contribution:** Bullish — as this suggests a possible increase in supply from an alternative source [Article 5].
+
+**LNG & Natural Gas | No Significant Risk | Severity: Low**  
+- **Headline:** QatarEnergy Brings U.S. LNG Online Amid Ras Laffan Fallout  
+- **What happened:** QatarEnergy's joint venture has commenced production at Golden Pass LNG, transitioning it into a major export facility.  
+- **Market impact:** This development may help offset supply losses from the Ras Laffan attack, contributing to overall supply stability in the LNG market.  
+- **Sentiment contribution:** Bullish — as increased production capability can provide a cushion against potential shortfalls from other regions [Article 2].
+
+### 3. SIGNAL SYNTHESIS
+The risk signals present a mixed picture. The geopolitical concerns stemming from the Ras Laffan attack and increased Middle Eastern tensions (signaling potential supply disruption) are strong and bearish. Conversely, the opening of new production capacity in the U.S. and potential increases in Canadian exports acts as a stabilizing force with a bullish sentiment. Overall, the risks appear to be primarily sentiment-driven, reflecting traders' fears and motivations in an uncertain geopolitical landscape.
+
+### 4. WATCH LIST
+- [ ] Monitor further developments in the Middle East conflict → escalation could lead to significant supply disruptions affecting LNG prices.
+- [ ] Track the ongoing performance of Golden Pass LNG → consistent production levels could stabilize market sentiment.
+- [ ] Watch for announcements from Canadian LNG projects → any significant expansions could greatly influence supply dynamics.
+
+### 5. BOTTOM LINE
+**Risk Level: High**  
+With significant geopolitical risks affecting LNG supply and market sentiment, traders should remain cautious. The signals indicate a fragile balance influenced by external factors, with ongoing developments meriting close observation.

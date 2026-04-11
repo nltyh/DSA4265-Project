@@ -1,0 +1,42 @@
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+## COMMODITY RISK REPORT
+**Commodity:** crude oil  
+**Report Date:** 2026-04-11  
+**Articles Analysed:** 5 articles  
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+### 1. OVERALL SENTIMENT
+**Bearish**  
+The overall sentiment is bearish due to growing opposition to BP's climate goals and increasing regulatory constraints that could impact production strategies.
+
+### 2. KEY RISK SIGNALS
+
+**Energy Transition / Structural | Geopolitical Conflict | Severity: Medium**
+- **Headline:** BP faces green protest over new climate goals
+- **What happened:** BP is dealing with protests and shareholder opposition after weakening its climate targets, which sparked concerns among pension funds and environmental activists [Article 1].
+- **Market impact:** The conflict could lead to a delay or retraction of BP's plans to increase oil production, thereby impacting supply dynamics.
+- **Sentiment contribution:** Bearish — as increasing scrutiny may limit operational flexibility for oil producers.
+
+**Geopolitics & Policy | Regulatory Constraint | Severity: High**
+- **Headline:** BP shareholders reject climate activist resolution but support grows
+- **What happened:** BP shareholders rejected an activist resolution to set tougher climate targets but showed increased support for it compared to the previous year [Article 2]. 
+- **Market impact:** Continued shareholder activism could result in regulatory constraints, affecting BP's production strategies.
+- **Sentiment contribution:** Bearish — regulatory risks are likely to limit BP's future operational strategy and its ability to respond to market demand.
+
+**Geopolitics & Policy | Regulatory Constraint | Severity: Medium**
+- **Headline:** Norway's Wealth Fund Sides With Activists Against Exxon, Chevron
+- **What happened:** Norway's sovereign wealth fund backed shareholder proposals at ExxonMobil and Chevron that aim to enforce emissions targets, reflecting strong institutional support for environmental accountability [Article 3].
+- **Market impact:** This adds pressure on oil companies to comply with stringent climate goals, potentially constraining supply.
+- **Sentiment contribution:** Bearish — as institutional pressures may lead to reduced production rates amidst rising demands.
+
+### 3. SIGNAL SYNTHESIS
+The risk signals are aligned in their bearish outlook for crude oil specifically tied to BP's shareholder confrontations over climate targets. Increasing regulatory scrutiny is also confirmed by multiple sources, indicating an uncertain production outlook. The dominant sentiment reflects concerns over future operational flexibility amid growing climate activism.
+
+### 4. WATCH LIST
+- [ ] Monitor BP's response to shareholder pressures → if BP decides to delay or scale back production plans, it could exacerbate supply issues.
+- [ ] Track developments on the climate goals of major oil companies → movements toward stringent emissions targets could affect production rates and investor confidence.
+- [ ] Observe broader market sentiment regarding energy transition policies → any shifts in investor sentiment towards sustainable investments could impact oil demand projections.
+
+### 5. BOTTOM LINE
+**Risk Level: Medium**  
+Traders should be cautious of regulatory constraints arising from the current climate debate, as they could influence production capabilities and market dynamics in the crude oil sector. The signals currently indicate a fragile environment regarding BP’s operational strategies, placing additional pressure on supply management.

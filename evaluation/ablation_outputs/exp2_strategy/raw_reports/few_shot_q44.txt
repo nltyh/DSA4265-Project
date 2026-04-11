@@ -1,0 +1,62 @@
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+## COMMODITY RISK REPORT
+**Commodity:** crude oil, LNG  
+**Report Date:** 2026-04-11  
+**Articles Analysed:** 4 articles  
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+### 1. OVERALL SENTIMENT
+**[Bullish]**  
+The market sentiment is predominantly bullish due to significant upward pressure on crude oil prices stemming from geopolitical conflict in the Middle East, which has resulted in global supply disruptions.
+
+---
+
+### 2. KEY RISK SIGNALS
+
+**[Geopolitics & Policy] | [Geopolitical Conflict] | Severity: High**  
+- **Headline:** Africa Could Emerge As The Biggest Winner In Iran War  
+- **What happened:** The ongoing conflict in the Middle East has led to the disruption of approximately 8 million barrels of crude oil per day and 20% of liquefied natural gas supplies.  
+- **Market impact:** With such large volumes affected, Brent crude prices surged by more than 50%, reaching around $110/barrel. This creates immediate concerns over supply shortages.  
+- **Sentiment contribution:** Bullish — the substantial supply disruption is driving prices higher, indicating a strong market reaction.
+
+---
+
+**[Geopolitics & Policy] | [Geopolitical Conflict] | Severity: High**  
+- **Headline:** Oil Set to Book Record Monthly Gain on Iran Crisis  
+- **What happened:** Following Houthi attacks and political statements regarding Iranian oil, prices were projected to rise by 59% since the beginning of March.  
+- **Market impact:** This rising trend reflects fears of further disruption and a scarcer market, creating upward price pressure.  
+- **Sentiment contribution:** Bullish — the potential for escalation in conflict reinforces the bullish sentiment evident in the market moves.
+
+---
+
+**[Demand/Macro Activity] | [Macro-Economic Cooling] | Severity: Medium**  
+- **Headline:** Global Fuel Prices Are Surging as the Middle East War Hits Consumers  
+- **What happened:** Fuel prices have experienced significant hikes worldwide, with retail prices for gasoline and diesel increasing between 5% and 80%.  
+- **Market impact:** Such increases in fuel prices can dampen demand as higher consumer costs may lead to a reduction in fuel consumption, posing risks to overall demand.  
+- **Sentiment contribution:** Bearish — while prices are soaring, the potential for demand destruction from inflated consumer prices introduces a counterbalancing risk.
+
+---
+
+**[Demand/Macro Activity] | [Macro-Economic Cooling] | Severity: Medium**  
+- **Headline:** South Korea Weighs First Public Driving Restrictions in 35 Years  
+- **What happened:** South Korea is considering driving restrictions if oil prices cross $120/barrel, indicating a serious response to high prices.  
+- **Market impact:** This could lead to reduced oil consumption and impact demand negatively, which may stabilize or lower prices if enacted.  
+- **Sentiment contribution:** Bearish — an official response to soften consumption suggests the potential for reduced demand in response to high prices.
+
+---
+
+### 3. SIGNAL SYNTHESIS
+The risk signals are primarily aligned in that the geopolitical tensions are creating severe supply disruptions leading to bullish sentiment. However, the potential macroeconomic cooling from rising fuel prices and government intervention poses a contrasting bearish pressure. While the bullish sentiment is strong due to supply shortages, the risk of demand destruction remains an important factor to monitor.
+
+---
+
+### 4. WATCH LIST
+- [ ] **Escalation of military conflict in the Middle East** → Increased disruptions could further spike prices.
+- [ ] **Official imposition of demand-reducing measures like driving restrictions** → Could significantly impact consumption patterns and prices.
+- [ ] **Global economic indicators showing a downturn** → This could indicate potential for reduced demand in response to high prices.
+
+---
+
+### 5. BOTTOM LINE
+**Risk Level: High**  
+The current geopolitical situation combined with rampant price increases makes the crude oil and LNG markets highly volatile. Traders and risk managers should remain vigilant of demand-side responses that could mitigate the impact of supply disruptions, as these may introduce price corrections.

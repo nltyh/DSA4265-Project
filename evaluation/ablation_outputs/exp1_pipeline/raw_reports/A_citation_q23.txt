@@ -1,0 +1,49 @@
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+## COMMODITY RISK REPORT
+**Commodity:** crude oil  
+**Report Date:** 2026-04-11  
+**Articles Analysed:** 5 articles  
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+### 1. OVERALL SENTIMENT
+**Bullish**  
+Despite concerns over regulatory scrutiny following the acquisition, the overall sentiment remains bullish due to the potential for cost savings and increased capital returns from ConocoPhillips' acquisition of Marathon Oil.
+
+---
+
+### 2. KEY RISK SIGNALS
+**Financial Flows/Positioning | Regulatory Constraint | Severity: Medium**  
+- **Headline:** ConocoPhillips Acquires Marathon Oil for $22.5 Billion in Landmark Deal  
+- **What happened:** ConocoPhillips announced its acquisition of Marathon Oil for $22.5 billion, which is anticipated to encounter regulatory scrutiny due to Conoco's dominant position in the Eagle Ford basin.  
+- **Market impact:** Regulatory reviews could slow the integration process or alter planned efficiencies, but the deal may also promise significant savings and increased market capitalization.  
+- **Sentiment contribution:** Neutral — while regulatory concerns exist, the expected savings contribute to a bullish outlook.
+
+**Geopolitics & Policy | Regulatory Constraint | Severity: Medium**  
+- **Headline:** ConocoPhillips To Acquire Marathon Oil In All-Stock Deal At 14.7% Premium: Details  
+- **What happened:** The deal includes a 14.7% premium for Marathon shareholders and aims for substantial synergies in capital and costs, enhancing ConocoPhillips' position in the market.  
+- **Market impact:** This acquisition could signal a continuation of industry consolidation which may stabilize or enhance crude oil prices amid strong commodity values.  
+- **Sentiment contribution:** Bullish — due to the anticipated accretive effects on earnings and cash flow post-acquisition.
+
+**Financial Flows/Positioning | No Significant Risk | Severity: Low**  
+- **Headline:** Marathon Oil Receives Stockholder Approval for Proposed Merger with ConocoPhillips  
+- **What happened:** Marathon Oil's stockholders approved the merger with ConocoPhillips, heading for regulatory clearance.  
+- **Market impact:** Approval suggests that operational integration is on track, which is generally positive for future pricing stability.  
+- **Sentiment contribution:** Bullish — stockholder approval removes uncertainty around the deal's progression.
+
+---
+
+### 3. SIGNAL SYNTHESIS
+The risk signals identified are largely aligned, indicating a medium risk associated with regulatory constraints amidst an overall bullish sentiment regarding the acquisition's potential benefits. Risks appear to be sentiment-driven with solid fundamentals suggesting increased capital efficiency and share buybacks after the merger. The net effect indicates a cautious optimism in the crude oil market.
+
+---
+
+### 4. WATCH LIST
+- [ ] Regulatory approval process completion → If expedited, this would indicate a smoother transition for ConocoPhillips that could stabilize crude prices.
+- [ ] Market reaction to planned $500 million savings → If achieved, this would likely reinforce bullish sentiment around the merger's benefits.
+- [ ] Monitoring of consolidation trends in the oil sector → Strong consolidation could lead to price stability and enhanced competitive dynamics.
+
+---
+
+### 5. BOTTOM LINE
+**Risk Level: Medium**  
+Traders and risk managers should be aware of the potential regulatory hurdles facing the merger, which could impact the timeline for realizing benefits. The overall sentiment remains bullish owing to expected efficiencies and integration strategies, but the regulatory landscape poses an ongoing risk.

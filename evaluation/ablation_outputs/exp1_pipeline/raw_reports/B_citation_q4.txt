@@ -1,0 +1,36 @@
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+## COMMODITY RISK REPORT
+**Commodity:** LNG  
+**Report Date:** 2026-04-11  
+**Articles Analysed:** 5 articles  
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+### 1. OVERALL SENTIMENT
+**Bullish**  
+The announcement of increased LNG exports from the U.S. to Europe amid geopolitical tensions provides a strong bullish signal for the LNG market, as it is expected to enhance supply resilience.
+
+### 2. KEY RISK SIGNALS
+
+**LNG & natural gas | Supply Chain Blockage | Severity: High**  
+- **Headline:** U.S., E.U. Announce New Partnership To Undercut Russian Energy  
+- **What happened:** The U.S. and the EU announced a partnership to increase LNG exports to Europe by 15 billion cubic meters in 2022 in response to the ongoing conflict involving Russia.  
+- **Market impact:** This initiative is anticipated to bolster LNG supplies to Europe, thereby increasing market stability and potentially lifting prices due to heightened demand.  
+- **Sentiment contribution:** Bullish — increased exports are expected to support European energy needs.
+
+**LNG & natural gas | Supply Chain Blockage | Severity: High**  
+- **Headline:** U.S. becomes top LNG exporter in first half of 2022 - EIA  
+- **What happened:** The U.S. became the world's leading exporter of LNG in the first half of 2022, with a 12% increase in exports driven by strong European demand.  
+- **Market impact:** The growth in U.S. LNG exports significantly enhances the supply landscape, positively impacting prices as Europe seeks alternatives to Russian gas.  
+- **Sentiment contribution:** Bullish — this reinforces the notion of a stable, expanded supply.
+
+### 3. SIGNAL SYNTHESIS
+The signals from the articles are aligned, indicating a bullish outlook due to the U.S.'s efforts to increase LNG exports to Europe at a time of geopolitical tension. These risk signals suggest resilience in the supply chain, confirmed by increased export commitments. The overall net effect is a stronger price outlook for LNG as market dynamics shift towards bolstered supply amidst rising demand.
+
+### 4. WATCH LIST
+- [ ] Monitor LNG export levels to Europe → A significant drop could indicate supply chain issues.
+- [ ] Watch Freeport LNG operational capacity → Continued struggles could impact overall U.S. supply and prices.
+- [ ] Observe geopolitical developments in Europe and Russia → Any escalation could dramatically affect gas supply and demand.
+
+### 5. BOTTOM LINE
+**Risk Level: Medium**  
+While the overall sentiment for LNG remains bullish due to increased exports, underlying risks exist related to operational challenges at key facilities. Monitoring operational capacity is crucial for risk management in this volatile environment.

@@ -1,0 +1,62 @@
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+## COMMODITY RISK REPORT
+**Commodity:** crude oil  
+**Report Date:** 2026-04-11  
+**Articles Analysed:** 5 articles  
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+### 1. OVERALL SENTIMENT
+**Mixed**  
+> The sentiment reflects mixed forces; while the nationalization of ExxonMobil's assets by Chad raises geopolitical concerns suggesting bearish pressures, the market's ongoing dividend growth and stability in energy companies signal bullish potential.
+
+---
+
+### 2. KEY RISK SIGNALS
+
+**Geopolitics & policy | Geopolitical Conflict | Severity: High**  
+- **Headline:** Chad approves bill to nationalise assets ExxonMobil sold to Savannah Energy  
+- **What happened:** Chad's parliament approved a bill nationalizing ExxonMobil's assets sold to Savannah Energy, citing threats to public order from these companies.  
+- **Market impact:** This could disrupt crude oil supply from the region, leading to increased price volatility and potential supply constraints.  
+- **Sentiment contribution:** Bearish — due to potential supply disruptions and heightened geopolitical tensions.
+
+---
+
+**Financial flows / positioning | No Significant Risk | Severity: Low**  
+- **Headline:** 4 Energy Stocks With Fast-Growing Dividends  
+- **What happened:** Energy companies are expected to continue dividend growth, as seen in 2022, signaling potential stability in financial health.  
+- **Market impact:** Positive sentiment for investors in the sector could maintain market interest and investment.  
+- **Sentiment contribution:** Bullish — consistent performance from energy stocks can indicate strong underlying fundamentals despite external pressures.
+
+---
+
+**Energy transition / structural | No Significant Risk | Severity: Low**  
+- **Headline:** Schlumberger Rebrands as SLB to Drive the Future of Energy  
+- **What happened:** Schlumberger is shifting focus towards new technology and energy transition strategies while maintaining engagement in oil and gas sectors.  
+- **Market impact:** This may support future innovations and investments in oil, impacting long-term supply and price stability.  
+- **Sentiment contribution:** Neutral — the rebranding signals adaptation but does not directly affect immediate market conditions.
+
+---
+
+**LNG & Natural Gas | No Significant Risk | Severity: Low**  
+- **Headline:** Baker Hughes wins MRC supply contract for Sempra’s Port Arthur LNG  
+- **What happened:** Baker Hughes secured a contract for LNG infrastructure, signaling ongoing investment in gas projects despite crude oil focus.  
+- **Market impact:** This indicates healthy liquidity and investment in energy sectors that may alleviate some pressures on crude oil, particularly in gas markets.  
+- **Sentiment contribution:** Neutral — the contract highlights diversification in energy investments, mitigating risks to crude oil.
+
+---
+
+### 3. SIGNAL SYNTHESIS
+The risk signals present a mixed but predominantly bearish outlook due to the significant geopolitical risk posed by Chad's asset nationalization. However, the financial stability reflected in dividend growth and ongoing investments in energy transition strategies contribute moderately to positive sentiment. Thus, while supply risks intensify, the overall outlook is tempered by a broader view of stability in energy investment.
+
+---
+
+### 4. WATCH LIST
+- [ ] **Chad’s response to Savannah Energy’s challenge** → If Savannah successfully contests the nationalization, it may stabilize supply and alleviate tensions.  
+- [ ] **Global oil demand forecasts for Q2 2023** → A decline in demand would deepen bearish influences on crude prices.  
+- [ ] **Developments in the energy transition investments by key players** → Strong initiatives could bolster confidence in long-term crude demand.
+
+---
+
+### 5. BOTTOM LINE
+**Risk Level: Medium**  
+The principal risk is geopolitical tension surrounding Chad's nationalization of ExxonMobil's assets, which may disrupt supply. While some financial fundamentals remain robust, the potential for instability underscores a cautious approach from risk managers.

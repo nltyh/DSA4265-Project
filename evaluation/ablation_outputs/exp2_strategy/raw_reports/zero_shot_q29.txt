@@ -1,0 +1,54 @@
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+## COMMODITY RISK REPORT
+**Commodity:** crude oil  
+**Report Date:** 2024-09-30  
+**Articles Analysed:** 5 articles  
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+### 1. OVERALL SENTIMENT
+**Mixed**  
+> While the approval of the Chevron-Hess deal indicates regulatory progress, the ongoing arbitration with Exxon Mobil injects uncertainty into future production control, creating conflicting signals about market stability.
+
+---
+
+### 2. KEY RISK SIGNALS
+
+**Geopolitics & Policy | Geopolitical Conflict | Severity: High**  
+- **Headline:** FTC clears Chevron-Hess deal, bans John Hess from board  
+- **What happened:** The U.S. Federal Trade Commission has approved Chevron's acquisition of Hess with conditions aimed at preventing potential collusion with OPEC.  
+- **Market impact:** This regulatory condition raises concerns about potential production alignment with OPEC, which could impact global oil prices.  
+- **Sentiment contribution:** Bearish — due to fears of increased OPEC influence on Chevron's operations, potentially suppressing output.
+
+---
+
+**Geopolitics & Policy | Geopolitical Conflict | Severity: High**  
+- **Headline:** Chevron’s $53 billion merger with Hess moves forward but not out of woods yet as arbitration keeps suspense alive  
+- **What happened:** The merger has cleared antitrust review but faces uncertainty due to an arbitration involving ExxonMobil and CNOOC regarding Hess's assets.  
+- **Market impact:** The ongoing arbitration process could delay the merger's final approval and affect production capabilities, heightening supply risk.  
+- **Sentiment contribution:** Bearish — as the arbitration threatens to complicate Chevron's strategic plans and overall market supply.
+
+---
+
+**Financial Flows/Positioning | No Significant Risk | Severity: Low**  
+- **Headline:** Chevron Agrees Hess CEO Won’t Join Board in Deal With US FTC  
+- **What happened:** Chevron accepted a condition to address FTC concerns, allowing the merger to proceed and largely mitigating immediate regulatory hurdles.  
+- **Market impact:** This aspect indicates some stability in the merger process, suggesting improved investor sentiment in the short term.  
+- **Sentiment contribution:** Neutral — while it represents a step toward completion, it does not alleviate broader market uncertainties.
+
+---
+
+### 3. SIGNAL SYNTHESIS
+The risk signals indicate a complicated landscape for crude oil markets marked by regulatory approvals juxtaposed with ongoing legal challenges. The dual pressures from the FTC's conditions and arbitration results introduce high stakes, most notably affecting perceptions of supply stability and market manipulation risks. Thus, while some factors hint at potential growth arising from the merger, the prevailing sentiment remains cautious to bearish due to the geopolitical complexities involved.
+
+---
+
+### 4. WATCH LIST
+- [ ] Outcome of the Exxon Mobil arbitration → A ruling in favor of Exxon could delay or prevent the Chevron-Hess merger, impacting oil supply management.
+- [ ] Further regulatory feedback from U.S. agencies → Additional scrutiny could complicate the merger and influence public sentiment regarding oil pricing.
+- [ ] Oil price movements in response to OPEC announcements → Any new production quotas or statements from OPEC could significantly alter crude oil prices.
+
+---
+
+### 5. BOTTOM LINE
+**Risk Level: High**  
+The approval of the Chevron-Hess merger is offset by significant uncertainty stemming from ongoing arbitration, leading to increased risk for producers and traders. Focused monitoring of the arbitration's outcome will be crucial for gauging potential market disruptions.

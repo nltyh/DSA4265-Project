@@ -1,0 +1,40 @@
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+## COMMODITY RISK REPORT
+**Commodity:** Crude Oil
+**Report Date:** 2026-04-11
+**Articles Analysed:** 5 articles
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+### 1. OVERALL SENTIMENT
+**Bearish**
+> The overall sentiment is bearish due to a combination of reduced imports from China and increasing supply concerns, which are expected to weigh on demand and price stability in the crude oil market.
+
+---
+### 2. KEY RISK SIGNALS
+
+**LNG & Natural Gas | Supply Chain Blockage | Severity: Medium**
+- **Headline:** LNG imports to China tumble 20% in 2022
+- **What happened:** China's LNG imports dropped significantly due to strict Covid-19 lockdowns and a shift towards domestic natural gas production [Article 4].
+- **Market impact:** This reduction indicates decreased import demand for LNG, which may divert investment and focus away from associated crude oil markets. 
+- **Sentiment contribution:** Bearish — as lower demand for LNG can lead to lower crude oil consumption in the region.
+
+**LNG & Natural Gas | Production Shortfall | Severity: High**
+- **Headline:** Tellurian chief Charif Souki is selling new style LNG business, but so far no one's buying it
+- **What happened:** Tellurian is struggling to attract investment for its $13.6 billion Driftwood LNG project, which raises concerns about potential supply shortfalls in the LNG market [Article 1].
+- **Market impact:** A failed LNG project could lead to an oversupply in LNG markets while curtailing associated production needs in the crude oil segment, creating price volatility.
+- **Sentiment contribution:** Bearish — skepticism surrounding LNG investment can negatively affect crude oil market perceptions as interdependence grows.
+
+---
+### 3. SIGNAL SYNTHESIS
+The risk signals are aligned in a bearish sentiment towards the crude oil market, primarily driven by decreased LNG import levels from China and potential production shortfalls linked to unfulfilled LNG developments. Both signals indicate a risk of reduced demand from key markets, reflecting a broader correlation between LNG and crude oil demand that reinforces negative price pressures.
+
+---
+### 4. WATCH LIST
+- [ ] Continued monitoring of China's demand for LNG → If demand rises, it could spur increased crude oil consumption.
+- [ ] Investment movements regarding Tellurian's Driftwood LNG project → Success may stabilize nearby energy markets; failure may amplify bearish scenarios.
+- [ ] Global changes in OPEC+ production strategies → Adjustments could impact crude oil supply dynamics significantly.
+
+---
+### 5. BOTTOM LINE
+**Risk Level: High**
+The crude oil market faces substantial risk from reduced LNG demand and potential project failures affecting supply chains. This bearish outlook is currently underscored by fundamental shifts in consumption patterns and investment dynamics, suggesting a fragile environment without strong signals of recovery.

@@ -1,0 +1,44 @@
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+## COMMODITY RISK REPORT
+**Commodity:** LNG  
+**Report Date:** 2026-04-11  
+**Articles Analysed:** 5 articles  
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+### 1. OVERALL SENTIMENT
+**Bearish**  
+The maintenance work scheduled at Cheniere's Sabine Pass LNG plant is expected to reduce U.S. LNG output significantly, which likely leads to a bearish sentiment in LNG prices due to lower immediate supply availability [Article 1].
+
+---
+
+### 2. KEY RISK SIGNALS
+
+**LNG & Natural Gas | Supply Chain Blockage | Severity: High**  
+- **Headline:** Cheniere Energy says maintenance work begun on Sabine Pass LNG plant  
+- **What happened:** Cheniere Energy has begun annual maintenance work at its Sabine Pass LNG plant, leading to a significant reduction in U.S. LNG output for the coming weeks [Article 1].  
+- **Market impact:** The reduction in output is expected to limit supply in the global market, potentially driving up prices due to the decreased availability of U.S. LNG.  
+- **Sentiment contribution:** Bearish, as the anticipation of limited supply tends to pressure prices down in the short term.
+
+**LNG & Natural Gas | Infrastructure Damage | Severity: Medium**  
+- **Headline:** Exclusive: Cheniere to fix Louisiana LNG plant equipment after failing pollution test  
+- **What happened:** Cheniere announced it would repair equipment at its Louisiana terminal to comply with new emissions standards, although it stated this will not materially affect operations [Article 3].  
+- **Market impact:** While the repairs may not directly impact operations now, ongoing regulatory issues could raise concerns about future operational efficiency and reliability.  
+- **Sentiment contribution:** Neutral, as the repairs are expected not to significantly disrupt current output.
+
+---
+
+### 3. SIGNAL SYNTHESIS
+The key risk signals are primarily aligned as they both focus on supply-side constraints due to maintenance and repairs. While the infrastructure damage risk does present concerns, it does not appear to be as prominent given its limited immediate impact on operations. The dominant bearish sentiment stems from the upcoming supply reduction due to maintenance work at the Sabine Pass facility.
+
+---
+
+### 4. WATCH LIST
+- [ ] Monitor the duration of maintenance at the Sabine Pass facility → A longer maintenance period could exacerbate supply shortages.
+- [ ] Watch for any unexpected disruptions or equipment failures during repairs → This could elevate supply concerns and strengthen bearish sentiment.
+- [ ] Track global LNG price movements linked to the decline in U.S. exports → Significant price increases could indicate heightened demand for LNG from alternative sources.
+
+---
+
+### 5. BOTTOM LINE
+**Risk Level: High**  
+Current risks from supply chain blockage are significant due to scheduled maintenance. Traders and risk managers should remain vigilant regarding supply dynamics and potential price fluctuations as global markets react to the reduced output from the U.S. LNG sector.

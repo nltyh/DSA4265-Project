@@ -1,0 +1,62 @@
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+## COMMODITY RISK REPORT
+**Commodity:** crude oil  
+**Report Date:** 2026-04-11  
+**Articles Analysed:** 5 articles  
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+### 1. OVERALL SENTIMENT
+**Mixed**  
+The crude oil market shows a mixed sentiment, primarily bullish due to heightened geopolitical tensions surrounding Iran and the Strait of Hormuz, which has pushed prices above $110. However, there is also bearish sentiment stemming from speculation that peace could soon be achieved, potentially leading to price declines.
+
+### 2. KEY RISK SIGNALS
+
+**Geopolitics & Policy | Geopolitical Conflict | Severity: High**
+- **Headline:** Brent Surges Past $110 on Iran Rejection
+- **What happened:** The ongoing standoff between the U.S. and Iran has contributed to Brent crude prices increasing above $110 per barrel as Iran rejected U.S. negotiation terms [Article 1].
+- **Market impact:** This geopolitical tension creates significant upside pressure on prices, resulting in increased volatility and risk premium in the market.
+- **Sentiment contribution:** Bullish — heightened tensions typically drive oil prices higher.
+
+---
+
+**Geopolitics & Policy | Geopolitical Conflict | Severity: High**
+- **Headline:** Oil Traders Caught Between Diplomacy and Disruption Risk
+- **What happened:** Oil prices are influenced by fluctuating sentiments around U.S.-Iran diplomatic efforts, maintaining a high risk premium in the market [Article 2].
+- **Market impact:** Traders are navigating a volatile market dynamic with intraday price swings likely to continue.
+- **Sentiment contribution:** Bullish — ongoing geopolitical developments suggest persistent market uncertainty.
+
+---
+
+**Geopolitics & Policy | Geopolitical Conflict | Severity: High**
+- **Headline:** Africa Could Emerge As The Biggest Winner In Iran War
+- **What happened:** The conflict has curtailed global supply, affecting approximately 8 million barrels of crude per day and 20% of LNG [Article 3].
+- **Market impact:** Such supply disruptions significantly tighten the market and inflate prices even further.
+- **Sentiment contribution:** Bullish — reduced supply leads to increased prices.
+
+---
+
+**Geopolitics & Policy | Macro-Economic Cooling | Severity: Medium**
+- **Headline:** Oil Markets Price In Peace, but the Upside Risk Remains
+- **What happened:** Despite ongoing hostilities, traders are betting on potential peace, which could result in lower prices [Article 4].
+- **Market impact:** If peace is achieved, there could be a sharp downward adjustment in prices.
+- **Sentiment contribution:** Bearish — expectations of peace may counteract current price increases.
+
+---
+
+**Supply (Production/Upstream) | Supply Chain Blockage | Severity: High**
+- **Headline:** Asia Begins Pricing U.S. Oil Against Brent as Dubai Volatility Spikes
+- **What happened:** Pricing dynamics in Asia are shifting due to supply challenges from the Persian Gulf, prompting refiners to adjust how they price U.S. crude [Article 5].
+- **Market impact:** Such adjustments suggest that existing supply constraints are impacting pricing mechanisms and regional markets.
+- **Sentiment contribution:** Bullish — supply challenges support upward price pressure.
+
+### 3. SIGNAL SYNTHESIS
+The risk signals present a mixed picture; while geopolitical conflicts create substantial bullish pressure on prices due to supply disruptions, the speculation surrounding potential peace agreements introduces bearish sentiment. The signals indicate that while immediate risks are heightened and primarily sentiment-driven, the long-term outlook remains uncertain as traders grapple with potential future scenarios.
+
+### 4. WATCH LIST
+- [ ] Monitoring U.S.-Iran diplomatic relations → an agreement could lead to increased supply and lower prices.
+- [ ] Observing developments in the Strait of Hormuz → any military escalation could exacerbate supply constraints.
+- [ ] Tracking Brent crude price fluctuations compared to WTI → significant divergence may indicate regional supply issues.
+
+### 5. BOTTOM LINE
+**Risk Level: High**  
+Currently, the crude oil market is under significant risk pressure due to geopolitical tensions causing supply disruptions, pushing prices above $110. Market dynamics are fragile, with the potential for sudden shifts based on unfolding events in Iran and diplomatic negotiations.

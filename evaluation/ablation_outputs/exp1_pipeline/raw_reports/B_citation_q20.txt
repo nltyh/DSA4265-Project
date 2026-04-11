@@ -1,0 +1,36 @@
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+## COMMODITY RISK REPORT
+**Commodity:** crude oil  
+**Report Date:** 2026-04-11  
+**Articles Analysed:** 5 articles  
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+### 1. OVERALL SENTIMENT
+**Bullish**  
+> The current sentiment leans bullish primarily due to the shortage of oil tankers caused by reduced fleet capacity and geopolitical disruptions, which are tightening the market for crude oil shipping and potentially driving prices up.
+
+### 2. KEY RISK SIGNALS
+
+**Shipping & logistics | Supply Chain Blockage | Severity: High**
+- **Headline:** Shortage of Oil Tankers at Hand as Red Sea Attacks Divert Trade
+- **What happened:** Houthi attacks in the Red Sea have led to a significant shortage of oil tankers, which is increasing voyage durations and impacting the supply chain for crude oil [Article 1].
+- **Market impact:** This disruption is likely to drive shipping rates higher and reduce the effective shipping capacity for crude oil, tightening the overall market conditions [Article 1].
+- **Sentiment contribution:** Bullish — due to the adverse impact on supply leading to potential price increases.
+
+**Shipping & logistics | Infrastructure Damage | Severity: Medium**
+- **Headline:** Second Tanker Hit in Weeks as Black Sea Drone Strikes Russian Oil Cargo
+- **What happened:** An unmanned marine vehicle struck a tanker carrying Russian oil in the Black Sea, raising concerns over the safety and security of shipping routes for crude oil [Article 3].
+- **Market impact:** The incident adds to the risks associated with transporting crude oil, which could further restrict supply and enhance uncertainties in shipping logistics [Article 3].
+- **Sentiment contribution:** Bearish — as infrastructure damage can lead to additional disruptions in the supply chain.
+
+### 3. SIGNAL SYNTHESIS
+The risk signals predominantly indicate a tightening supply situation for crude oil, mainly driven by shipping challenges due to geopolitical factors. While the primary sentiment is bullish because of shipping disruptions leading to higher prices, the incident in the Black Sea introduces a bearish sentiment due to potential risks to shipping safety and infrastructure. Overall, these risks seem more fundamental than sentiment-driven, revealing a complex landscape for crude oil supply stability.
+
+### 4. WATCH LIST
+- [ ] **Escalation of Houthi attacks** → Further disruptions in the Red Sea could exacerbate tanker shortages and drastically increase shipping costs.
+- [ ] **Additional incidents involving tankers** → More infrastructure damage could lead to significant interruptions in crude oil transport.
+- [ ] **Increase in new tanker construction** → A rise in the number of new supertankers ordered could alleviate some supply chain pressures in the medium term.
+
+### 5. BOTTOM LINE
+**Risk Level: High**  
+The crude oil market currently faces significant risks due to disruptions in shipping caused by geopolitical tensions and attacks on tankers. Risk managers should remain vigilant of escalations in these areas, as they could significantly impact supply dynamics and pricing in the near future.

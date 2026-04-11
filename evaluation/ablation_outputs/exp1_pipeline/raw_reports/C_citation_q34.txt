@@ -1,0 +1,50 @@
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+## COMMODITY RISK REPORT
+**Commodity:** crude oil  
+**Report Date:** 2026-04-11  
+**Articles Analysed:** 5 articles  
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+### 1. OVERALL SENTIMENT
+**Bearish**  
+The overall sentiment is bearish primarily due to the geopolitical conflict surrounding Venezuela's oil exports, exacerbated by Trump’s decision to revoke Chevron’s license, which diminishes potential supply from Venezuela.
+
+---
+
+### 2. KEY RISK SIGNALS
+
+**Geopolitics & Policy | Geopolitical Conflict | Severity: High**
+- **Headline:** Trump cuts financial lifeline for Venezuela by ending permit to export oil to U.S.
+- **What happened:** Trump announced the termination of a permit previously allowing Chevron to pump and export Venezuelan oil, citing Venezuela's political issues as the reason for this decision [Article 1].
+- **Market impact:** This move is anticipated to severely restrict Venezuelan oil supply to the U.S. market, likely increasing upward pressure on global oil prices due to reduced supply.
+- **Sentiment contribution:** Bullish — the restriction of Venezuelan oil is expected to tighten global supply, hence pushing prices up.
+
+**Geopolitics & Policy | Geopolitical Conflict | Severity: High**
+- **Headline:** FACTBOX | Summary of US licenses and authorizations for Venezuela's oil sector
+- **What happened:** The article summarizes U.S. actions regarding Venezuela's oil sector, confirming the reversal of key licenses, similar to the events noted in Article 1 [Article 2].
+- **Market impact:** Continued geopolitical tensions and regulatory constraints related to Venezuela will likely add to supply uncertainties and volatility in oil prices.
+- **Sentiment contribution:** Bullish — consistent restrictions signal a tighter environment for oil supply.
+
+**Demand/Macro Activity | No Significant Risk | Severity: Low**  
+- **Headline:** Oil falls on White House spat, tariffs, Iraq exports  
+- **What happened:** Oil prices have recently decreased due to a public disagreement between U.S. and Ukrainian leaders, new tariffs from the Trump administration, and Iraq resuming oil exports, which all point to increased supply concerns [Article 4].
+- **Market impact:** These factors may counteract some bullish sentiment but are assessed as having a low impact on immediate crude oil supply dynamics.
+- **Sentiment contribution:** Bearish — recent conditions suggest a potential for decreased demand.
+
+---
+
+### 3. SIGNAL SYNTHESIS
+The risk signals regarding geopolitical conflict are aligned, indicating a tightening supply outlook due to U.S. policy changes on Venezuela. However, bearish pressures are present from macroeconomic activities and increased supply from Iraq. This duality suggests a complex risk landscape, where regulatory actions are creating upward price pressures, counteracted slightly by external supply dynamics.
+
+---
+
+### 4. WATCH LIST
+- [ ] **U.S. administration changes** → A new U.S. administration might reconsider its approach to Venezuela, impacting oil supply dynamics.
+- [ ] **OPEC+ production decisions** → Any shifts by OPEC+ in response to U.S. policy could heavily influence oil price stability.
+- [ ] **Iraq’s export levels** → A drastic increase in Iraqi exports may further moderate price increases fueled by Venezuelan constraints.
+
+---
+
+### 5. BOTTOM LINE
+**Risk Level: High**  
+The geopolitical developments stemming from the U.S. revoking Chevron's license pose a significant risk to crude oil supply from Venezuela, creating upward pricing pressures. Additionally, external factors could introduce volatility, emphasizing the importance of closely monitoring the changing geopolitical climate.

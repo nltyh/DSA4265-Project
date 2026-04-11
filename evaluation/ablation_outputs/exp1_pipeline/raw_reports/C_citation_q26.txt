@@ -1,0 +1,42 @@
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+## COMMODITY RISK REPORT
+**Commodity:** crude oil  
+**Report Date:** 2026-04-11  
+**Articles Analysed:** 5 articles  
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+### 1. OVERALL SENTIMENT
+**Bearish**  
+The overall sentiment is bearish primarily due to the delays in Chevron's acquisition of Hess Corp, which adds uncertainty to the market and negatively impacted share prices of involved companies [Article 1]. 
+
+### 2. KEY RISK SIGNALS
+
+**Geopolitics & Policy | Geopolitical Conflict | Severity: High**
+- **Headline:** Chevron’s Hess Deal Suffers New Blow as Arbitration Drags On
+- **What happened:** The arbitration hearing regarding a right-of-first-refusal claim by Exxon Mobil Corp. on Chevron's acquisition of Hess has been postponed to May 2025, delaying the resolution of this significant merger related to the Guyana oil project [Article 1].
+- **Market impact:** This prolongs uncertainty surrounding supply from the Guyana project and creates potential for supply chain disruptions, impacting crude oil prices negatively.
+- **Sentiment contribution:** Bearish — the postponement and related share price drops indicate a lack of confidence in smooth market operations.
+
+**Supply (Production/Upstream) | No Significant Risk | Severity: Low**
+- **Headline:** BP Holding Natural Gas Output Steady, with Aim to Build Cash Flow Over Volumes
+- **What happened:** BP has shifted its focus from increasing natural gas output to enhancing cash flow, with plans for new LNG projects and renewable production [Article 3].
+- **Market impact:** While it indicates a strategy shift, it does not signal any immediate risk to crude production levels.
+- **Sentiment contribution:** Neutral.
+
+**Supply (Production/Upstream) | No Significant Risk | Severity: Low**
+- **Headline:** Occidental to sell some Delaware Basin assets to Permian Resources for $818 mln
+- **What happened:** Occidental Petroleum's asset sale aims to reduce debt and is expected to close in Q3 2024, with no immediate risks to overall supply indicated [Article 4].
+- **Market impact:** This divestiture may streamline operations but shows a focus on debt management rather than expansion or risk.
+- **Sentiment contribution:** Neutral.
+
+### 3. SIGNAL SYNTHESIS
+The key risk signals are primarily aligned with the geopolitical context impacting crude oil, while other production-related articles present a stable front without immediate risks. The bearish sentiment from delayed mergers introduces uncertainty, contrasting with no significant emerging risks detected from upstream production strategies. This suggests a cautious approach is warranted given current sentiment-driven risks.
+
+### 4. WATCH LIST
+- [ ] Monitor the outcome of the arbitration hearing scheduled for May 2025 → a resolution could stabilize share prices and market confidence.
+- [ ] Track major announcements from BP on new LNG projects → successful advancements might shift market perceptions positively.
+- [ ] Watch for further news regarding Occidental's debt reduction progress → a smooth sales process could indicate stability in production capabilities.
+
+### 5. BOTTOM LINE
+**Risk Level: High**  
+Risk managers should closely monitor the geopolitical dynamics surrounding Chevron's Hess acquisition, as the arbitration delays represent significant uncertainty in the crude oil market. Given the current bearish sentiment and potential impacts on crude oil supply, the situation is fragile and requires attentive management.

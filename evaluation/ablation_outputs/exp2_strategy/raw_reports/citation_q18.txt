@@ -1,0 +1,36 @@
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+## COMMODITY RISK REPORT
+**Commodity:** crude oil  
+**Report Date:** 2023-10-28  
+**Articles Analysed:** 5 articles  
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+### 1. OVERALL SENTIMENT
+**Bullish**  
+The recent easing of U.S. sanctions on Venezuelan oil has the potential to increase supply, which is expected to exert upward pressure on prices as demand remains robust.
+
+### 2. KEY RISK SIGNALS
+
+**Geopolitics & Policy | Geopolitical Conflict | Severity: Medium**
+- **Headline:** United States Eases Sanctions on Venezuelan Oil and Gas, Gold, and Securities
+- **What happened:** The Biden administration has significantly relaxed U.S. sanctions on Venezuela's oil sector, allowing for increased production, contingent on the Maduro regime upholding commitments for democratic reforms [Article 1].
+- **Market impact:** This easing is likely to increase Venezuelan oil supply to the global market, which could stabilize or lower crude oil prices depending on demand dynamics.
+- **Sentiment contribution:** Bullish — the potential for increased supply from Venezuela is expected to positively impact price levels as traders adjust for new availability.
+
+**Geopolitics & Policy | Regulatory Constraint | Severity: Medium**
+- **Headline:** Is ConocoPhillips Looking to Expand its Controversial Arctic Oil Project?
+- **What happened:** ConocoPhillips is seeking to expand its Arctic oil project, which has faced legal challenges and scrutiny due to environmental concerns, potentially causing regulatory delays [Article 3].
+- **Market impact:** Regulatory constraints may lead to production shortfalls in the Arctic, which can tighten supply if expansion projects are hindered.
+- **Sentiment contribution:** Bearish — concerns over regulatory impacts on production may dampen market sentiment regarding future oil supply.
+
+### 3. SIGNAL SYNTHESIS
+The easing of sanctions on Venezuela presents a bullish signal for crude oil due to the potential increase in supply. However, ongoing concerns regarding regulatory risks associated with U.S. oil projects introduce a bearish sentiment that could counteract the bullish momentum. The net effect suggests a mixed but slightly positive outlook for crude oil given the significant potential supply increase from Venezuela.
+
+### 4. WATCH LIST
+- [ ] **U.S. Government Actions** → Further changes in sanction policies could redefine market expectations and pricing.
+- [ ] **Venezuelan Oil Output** → Monitoring actual production levels post-sanction easing will indicate the immediate impact on the market.
+- [ ] **Legal Developments in Arctic Projects** → Any substantial rulings that impact ConocoPhillips' operations could influence future supply scenarios in the U.S. oil market.
+
+### 5. BOTTOM LINE
+**Risk Level: Medium**  
+The easing of sanctions on Venezuela presents a bullish opportunity for crude oil supply, but it is coupled with regulatory challenges that could mitigate this effect. Risk managers should remain cautious of the evolving geopolitical landscape that could influence both production capabilities and market sentiment.

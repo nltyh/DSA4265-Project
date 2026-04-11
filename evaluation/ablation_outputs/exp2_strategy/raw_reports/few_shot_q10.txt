@@ -1,0 +1,46 @@
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+## COMMODITY RISK REPORT
+**Commodity:** crude oil  
+**Report Date:** 2026-04-11  
+**Articles Analysed:** 2 articles  
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+### 1. OVERALL SENTIMENT
+**[Mixed]**  
+> The sentiment is mixed due to contrasting signals regarding geopolitical impacts and the absence of significant risks from domestic legal matters affecting related businesses.
+
+---
+
+### 2. KEY RISK SIGNALS
+
+**[Geopolitics & Policy] | [Geopolitical Conflict] | Severity: High**
+- **Headline:** Procter & Gamble continues sponsoring Russia’s war with two giant factories
+- **What happened:** Procter & Gamble operates factories in Russia, providing substantial tax contributions to the Russian government, which is involved in military activities abroad.
+- **Market impact:** This ongoing support could exacerbate geopolitical tensions, potentially leading to sanctions that could impact oil supply from Russia, which is a major player in global crude markets.
+- **Sentiment contribution:** Bullish — fears of supply disruptions and potential sanctions heighten the risk profile of the crude oil market.
+
+---
+
+**[Financial Flows/Positioning] | [No Significant Risk] | Severity: Low**
+- **Headline:** BNY Mellon Dismissed, Alight, Colgate-Palmolive Remain in Retirement Theft Lawsuit
+- **What happened:** A U.S. District Court dismissed claims against BNY Mellon but allowed other claims against Colgate-Palmolive to proceed, which reflects the challenges faced by some companies but does not have a direct impact on crude oil.
+- **Market impact:** This legal situation does not perturb the crude oil market directly; hence, it is deemed to have no significant risk implications for crude oil.
+- **Sentiment contribution:** Neutral — it does not affect the supply-demand dynamics or market sentiment regarding crude oil.
+
+---
+
+### 3. SIGNAL SYNTHESIS
+The risk signals are somewhat aligned in their geopolitical theme; however, the legal issues surrounding Colgate-Palmolive are not a significant contributor to crude oil market risks. The strong signal from geopolitical conflict indicates an elevated risk of supply disruptions that could lead to bullish market sentiments. The mixed results demonstrate that while geopolitical tensions remain a concern, domestic financial issues do not impact oil prices significantly.
+
+---
+
+### 4. WATCH LIST
+- [ ] **Escalation of geopolitical tensions** → If tensions involving Russia escalate further, it could trigger new sanctions impacting crude oil supplies.
+- [ ] **Changes in multinational corporate strategies** → A shift by major corporations away from Russian operations could affect the market sentiment and global crude supply chains.
+- [ ] **Responses from oil-producing countries** → Monitoring how major oil producers react to sanctions or market volatility will help gauge future price movements.
+
+---
+
+### 5. BOTTOM LINE
+**Risk Level: High**  
+Current geopolitical tensions pose a significant risk to crude oil supply stability, heightening market uncertainty. While legal matters affecting other companies are stable, traders should closely monitor the broader geopolitical landscape and potential sanctions that may impact crude oil supply.

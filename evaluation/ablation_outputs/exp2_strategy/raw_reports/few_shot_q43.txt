@@ -1,0 +1,66 @@
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+## COMMODITY RISK REPORT
+**Commodity:** crude oil  
+**Report Date:** 2026-04-11  
+**Articles Analysed:** 5 articles  
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+### 1. OVERALL SENTIMENT
+**Bullish**  
+> The dominant signal is bullish as Brent crude's surge past $110 is driven by heightened geopolitical tensions involving Iran and supply chain disruptions in the Persian Gulf, despite bearish indications of potential macro-economic cooling.
+
+---
+### 2. KEY RISK SIGNALS
+
+**[Geopolitics & Policy] | [Geopolitical Conflict] | Severity: High**
+- **Headline:** Brent Surges Past $110 on Iran Rejection
+- **What happened:** Iran's rejection of U.S. terms amid the ongoing standoff over the Strait of Hormuz has pushed Brent prices above $110.
+- **Market impact:** The significant geopolitical tension raises concerns over supply disruptions, leading to upward price pressure.
+- **Sentiment contribution:** Bullish — the rejection of terms escalates the likelihood of conflict, disrupting supply.
+
+---
+
+**[Supply (Production/Upstream)] | [Supply Chain Blockage] | Severity: Medium**
+- **Headline:** Asia Begins Pricing U.S. Oil Against Brent as Dubai Volatility Spikes
+- **What happened:** Asian refiners are shifting to price U.S. crude against the more volatile Brent benchmark due to disrupted physical supplies from the Persian Gulf.
+- **Market impact:** The increased reliance on Brent pricing indicates supply issues and can lead to higher U.S. crude prices if the trend continues.
+- **Sentiment contribution:** Bullish — supply chain blockages in the Middle East are enhancing Brent's market status.
+
+---
+
+**[Geopolitics & Policy] | [Macro-Economic Cooling] | Severity: Medium**
+- **Headline:** Oil Markets Price In Peace, but the Upside Risk Remains
+- **What happened:** While there are signals for a potential decline in crude prices due to optimism about resolving conflicts, traders remain cautious.
+- **Market impact:** The optimism could lead to reduced risk premiums, but market participants are torn due to ongoing geopolitical factors.
+- **Sentiment contribution:** Neutral — the possibility of a resolution keeps immediate price decreases in check but depends heavily on geopolitical developments.
+
+---
+
+**[Geopolitics & Policy] | [Geopolitical Conflict] | Severity: High**
+- **Headline:** Macquarie: Two More Months of War Could Send Oil to $200
+- **What happened:** Analysts warn that a prolonged conflict could push prices to unprecedented highs.
+- **Market impact:** Sustained conflict increases risk premiums drastically, which could escalate prices significantly.
+- **Sentiment contribution:** Bullish — the threat of extended conflict raises price forecasts dramatically.
+
+---
+
+**[Geopolitics & Policy] | [Geopolitical Conflict] | Severity: High**
+- **Headline:** Oil Traders Caught Between Diplomacy and Disruption Risk
+- **What happened:** Market volatility persists due to fluctuating reports on diplomacy and conflict risks in the Middle East.
+- **Market impact:** This ongoing uncertainty is keeping prices elevated and implies a risk premium in trading activity.
+- **Sentiment contribution:** Bullish — persisting geopolitical risks support elevated oil prices.
+
+---
+### 3. SIGNAL SYNTHESIS
+The risk signals present a generally bullish outlook driven by geopolitical tensions and supply chain disruptions. However, potential macro-economic cooling introduces uncertainty that could temper price increases. Overall, the sentiments are primarily bullish due to heightened conflict risks dominating the narrative, but traders remain cautious amid macroeconomic signals.
+
+---
+### 4. WATCH LIST
+- [ ] Developments in U.S.-Iran negotiations → If diplomacy succeeds, it could stabilize prices and reduce risk premiums.
+- [ ] Further conflict escalation in the Persian Gulf → Could lead to a significant supply disruption and potential price surges beyond current levels.
+- [ ] Economic data releases indicating macroeconomic cooling → Could dampen demand signals, impacting price forecasts.
+
+---
+### 5. BOTTOM LINE
+**Risk Level: High**  
+The most critical takeaway for risk managers is the high risk of price hikes due to geopolitical conflicts in the Middle East. The current market sentiment is driven by genuine supply concerns, though it remains sensitive to any positive developments in diplomatic relations or macroeconomic indicators.

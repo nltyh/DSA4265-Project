@@ -1,0 +1,42 @@
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+## COMMODITY RISK REPORT
+**Commodity:** crude oil  
+**Report Date:** 2026-04-11  
+**Articles Analysed:** 5 articles  
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+### 1. OVERALL SENTIMENT
+**Bearish**  
+The overall sentiment is bearish due to downward pressure on oil prices stemming from ongoing discussions about potential supply increases from OPEC+, which could lead to a market surplus in late 2025 and 2026 [Article 1]. 
+
+### 2. KEY RISK SIGNALS
+
+**Supply (production / upstream) | Supply Chain Blockage | Severity: High**
+- **Headline:** The Commodities Feed: Oil under pressure amid noise over more OPEC+ supply hikes
+- **What happened:** OPEC+ discussions around possible supply increases are exerting downward pressure on prices, with an anticipated market surplus expected by late 2025.
+- **Market impact:** This could lead to a further drop in oil prices as increasing supply meets uncertain demand.
+- **Sentiment contribution:** Bearish — as the market sentiment is influenced by fears of oversupply.
+
+**Financial flows / positioning | No Significant Risk | Severity: Low**
+- **Headline:** Why Occidental Petroleum Stock Rose In After-Hours Today?
+- **What happened:** Occidental Petroleum's stock price rose as Berkshire Hathaway considers acquiring its petrochemical business despite declining oil prices.
+- **Market impact:** This relatively positive corporate news does not have significant implications for the overall crude oil market.
+- **Sentiment contribution:** Neutral — as it reflects a company-specific event rather than macro market dynamics.
+
+**Financial flows / positioning | No Significant Risk | Severity: Low**
+- **Headline:** Exxon Mobil (XOM): Company Profile, Stock Price, News, Rankings
+- **What happened:** Exxon Mobil is highlighted for its core businesses and focus on lower-emission opportunities without significant market-moving news.
+- **Market impact:** This profile does not impact the broader crude oil market dynamics.
+- **Sentiment contribution:** Neutral — reflecting stability rather than volatility.
+
+### 3. SIGNAL SYNTHESIS
+The risk signals are primarily aligned towards a bearish outlook on crude oil prices, driven by potential oversupply from OPEC+ and market dynamics suggesting a surplus in the near future. The corporate news related to Occidental and Exxon Mobil indicates some company-specific positive movements but lacks broader implications for the oil market. Thus, the net effect on commodity risk exposure is a cautious bearish stance, reflecting pressures from oversupply discussions.
+
+### 4. WATCH LIST
+- [ ] Monitor OPEC+ meeting outcomes regarding supply decisions → Could significantly impact market perception and prices.
+- [ ] Watch for changes in Asian LNG demand → A shift could influence oil price dynamics.
+- [ ] Track US government policies affecting oil exports or production → Regulatory changes could shift supply and thus market conditions.
+
+### 5. BOTTOM LINE
+**Risk Level: High**  
+Traders and risk managers should be particularly cautious of the bearish pressure from OPEC+ supply increases, which could lead to a market surplus. The overall sentiment is strongly influenced by discussions around supply, making this a critical period for monitoring further developments.

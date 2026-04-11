@@ -1,0 +1,56 @@
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+## COMMODITY RISK REPORT
+**Commodity:** crude oil  
+**Report Date:** 2026-04-11  
+**Articles Analysed:** 5 articles  
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+### 1. OVERALL SENTIMENT
+**Bearish**  
+The prevailing sentiment in the crude oil market is bearish, primarily driven by discussions around increased supply from OPEC+, which is likely to contribute to a market oversupply.
+
+---
+
+### 2. KEY RISK SIGNALS
+
+**Supply (Production/Upstream) | Supply Chain Blockage | Severity: Medium**  
+- **Headline:** The Commodities Feed: Oil under pressure amid noise over more OPEC+ supply hikes  
+- **What happened:** The article highlights that oil prices are experiencing downward pressure due to potential additional supply increases from OPEC+ and an anticipated market surplus into 2026.  
+- **Market impact:** This scenario could lead to a decrease in prices as supply may outpace demand, softening the market further.  
+- **Sentiment contribution:** Bearish — the expected surplus is weighing down prices and market confidence.
+
+**Supply (Production/Upstream) | No Significant Risk | Severity: Low**  
+- **Headline:** OPEC+ Agrees on Third Oil Supply Surge Despite Russia’s Qualms  
+- **What happened:** OPEC+ has agreed to increase oil output by 411,000 barrels a day, showing a shift towards increasing supply rather than price support.  
+- **Market impact:** While this could lead to more available oil, which typically drives prices down, the lack of significant immediate risk to supply is noted.  
+- **Sentiment contribution:** Neutral — while increased supply can lead to bearish sentiment, the market is calibrated to these changes.
+
+**Financial Flows/Positioning | Macro-Economic Cooling | Severity: High**  
+- **Headline:** Oil settles $1 down as supply set to rise, uncertainty around Fed rate cuts  
+- **What happened:** Oil prices fell due to expectations of increased supply from OPEC+ colliding with diminished expectations for Federal Reserve rate cuts amid robust consumer spending.  
+- **Market impact:** The combination of rising supply amidst strong economic indicators suggests a potential oversupply situation, causing prices to decrease.  
+- **Sentiment contribution:** Bearish — economic factors indicate a cooling outlook for oil demand.
+
+**Financial Flows/Positioning | No Significant Risk | Severity: Low**  
+- **Headline:** Exxon Mobil (XOM) Stock: What to Watch Before the December 1, 2025 Market Open  
+- **What happened:** Discussion points include Exxon Mobil's strong cash flows and its resilience amidst generally softer oil prices following OPEC+ decisions.  
+- **Market impact:** While Exxon’s position appears stable, the overall oil market sentiment remains subdued due to broader price trends.  
+- **Sentiment contribution:** Neutral — specific company performance does not alter the prevailing bearish market outlook.
+
+---
+
+### 3. SIGNAL SYNTHESIS
+The risk signals are primarily aligned in projecting a bearish outlook for crude oil driven by increased supply from OPEC+ discussions and macroeconomic factors indicating cooling demand. While some articles suggest no significant immediate risk, the overall market sentiment leans towards caution given the anticipated surplus and deteriorating price conditions.
+
+---
+
+### 4. WATCH LIST
+- [ ] **Upcoming OPEC+ announcement** → A confirmation or alteration of supply strategy could significantly shift market sentiment.
+- [ ] **Federal Reserve interest rate decision** → Clarity on rate cuts could influence demand expectations and oil pricing.
+- [ ] **Geopolitical developments in major oil-producing regions**, particularly in Libya, which could affect supply stability.
+
+---
+
+### 5. BOTTOM LINE
+**Risk Level: Medium**  
+The risk environment for crude oil remains moderately high due to the potential for a supply surplus and macroeconomic pressures. Market participants should be prepared for volatility linked to OPEC+ decisions and broader economic indicators. Signals from the articles related to supply increases suggest a fragile equilibrium that could shift quickly.

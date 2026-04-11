@@ -1,0 +1,36 @@
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+## COMMODITY RISK REPORT
+**Commodity:** LNG  
+**Report Date:** 2026-04-11  
+**Articles Analysed:** 5 articles  
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+### 1. OVERALL SENTIMENT
+**Bullish**  
+The overall sentiment is bullish due to strong demand forecasts, as indicated by Cheniere's CEO regarding the surging LNG demand since the COVID-19 pandemic and the tightness in the LNG market, which suggest upward pressure on prices [Article 5].
+
+### 2. KEY RISK SIGNALS
+
+**LNG & natural gas | Supply Chain Blockage | Severity: High**  
+- **Headline:** Cheniere’s CEO Sees LNG Demand Growing Exponentially, with Volatile Market Even Tighter in Future  
+- **What happened:** Cheniere Energy's CEO noted that LNG demand growth has accelerated and is expected to continue with U.S. export facilities sold out through the 2040s [Article 5].  
+- **Market impact:** This suggests that supply may not keep pace with demand in the long term, likely leading to higher prices and market volatility.  
+- **Sentiment contribution:** Bullish — the tight supply situation coupled with high demand is likely to push prices upward.
+
+**LNG & natural gas | Supply Chain Blockage | Severity: High**  
+- **Headline:** Seasonal Demand Swings, Increasing LNG Supplies Pose Risks for U.S. Feed Gas Demand in 2026  
+- **What happened:** There is a risk introduced by seasonal demand fluctuations and a growing global supply of LNG [Article 3].  
+- **Market impact:** This could create volatility in the U.S. feed gas market, as demand may not stabilize despite increased supply levels.  
+- **Sentiment contribution:** Bearish — the potential for demand to erratically fluctuate with increasing supply raises concerns about price stability.
+
+### 3. SIGNAL SYNTHESIS
+The primary risk signals are somewhat contradictory: while robust demand forecasts lead to a bullish sentiment, the risks associated with potential supply chain blockages and seasonal demand volatility introduce bearish influences. Overall, demand growth driven by market fundamentals suggests a net bullish outlook, though trade dynamics may cause fluctuations.
+
+### 4. WATCH LIST
+- [ ] Monitor U.S. LNG export capacity expansions → An increase could further strain supply against high demand, potentially elevating prices.
+- [ ] Watch for changes in China's LNG import policies → China’s purchasing decisions affect global supply and price dynamics.
+- [ ] Track fluctuations in seasonal demand for LNG → Significant swings could indicate price volatility in the market.
+
+### 5. BOTTOM LINE
+**Risk Level: Medium**  
+The most significant risk to monitor is the balance between increasing supply and volatile demand, as these elements can impact price stability. The signal is somewhat fragile due to the mixed influences of demand growth versus potential supply chain issues.

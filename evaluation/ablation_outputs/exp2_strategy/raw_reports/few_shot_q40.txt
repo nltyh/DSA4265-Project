@@ -1,0 +1,58 @@
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+## COMMODITY RISK REPORT
+**Commodity:** crude oil  
+**Report Date:** 2026-04-11  
+**Articles Analysed:** 5 articles  
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+### 1. OVERALL SENTIMENT
+**Mixed**  
+> The crude oil market sentiment is mixed due to opposing signals from geopolitical tensions over the Strait of Hormuz, which suggest potential supply shortages, and a diplomatic pause hinted by U.S. President Trump, contributing to a recent price pullback.
+
+---
+### 2. KEY RISK SIGNALS
+
+**[Geopolitics & Policy] | [Geopolitical Conflict] | Severity: High**
+- **Headline:** War Could Soon Force Oil Prices To Catch Up with the Massive Supply Loss
+- **What happened:** Concerns are escalating regarding the potential for sustained blockage of the Strait of Hormuz, which is critical for oil supply, particularly affecting Asia.
+- **Market impact:** The fear of significant supply loss could drive oil prices sharply higher if tensions continue, pushing traders to react preemptively to disruptions.
+- **Sentiment contribution:** Bullish — the threat of a supply shock is real, influencing market expectations and pricing strategies.
+
+**[Geopolitics & Policy] | [Geopolitical Conflict] | Severity: Medium**
+- **Headline:** Oil Plummets 8% as Trump Postpones Hormuz Deadline Threat
+- **What happened:** Brent crude experienced an 8% drop after President Trump indicated active diplomatic conversations regarding the Strait of Hormuz tensions.
+- **Market impact:** This has temporarily alleviated immediate fears of a geopolitical crisis, leading to a decrease in oil prices as traders recalibrate expectations.
+- **Sentiment contribution:** Bearish — the diplomatic pause signaled reduced immediacy of risks, impacting market pricing negatively.
+
+**[Supply (Production/Upstream)] | [No Significant Risk] | Severity: Low**
+- **Headline:** Oil Prices Ease As US Pulls Out All Stops To Secure Supply
+- **What happened:** Despite tensions, oil prices eased as the U.S. indicates it's taking measures to secure supply.
+- **Market impact:** This is viewed as a tactical response rather than an indication of a stable market, leading to a temporary price retreat.
+- **Sentiment contribution:** Neutral — while easing concerns are present, the overall geopolitical climate remains turbulent.
+
+**[Financial Flows/Positioning] | [No Significant Risk] | Severity: Low**
+- **Headline:** Washington Stress-Tests $200 Oil as War Risk Mounts
+- **What happened:** U.S. government models potential fallout from extreme price scenarios, indicating serious concerns.
+- **Market impact:** Although it reflects caution and proactive measures, it does not present an immediate risk to current supply or demand dynamics.
+- **Sentiment contribution:** Neutral — this scenario planning does not change the existing market, as it is speculative.
+
+**[Inventory & Storage] | [Inventory Shock] | Severity: Medium**
+- **Headline:** US Crude Oil, Product Inventories Rise
+- **What happened:** Recent inventory data showed an increase in U.S. crude oil stocks.
+- **Market impact:** Rising inventories suggest that supply is currently stable, which could lead to price stabilization amid geopolitical fears.
+- **Sentiment contribution:** Bearish — increasing inventories typically cool price expectations.
+
+---
+### 3. SIGNAL SYNTHESIS
+The risk signals reflect a complex interplay between geopolitical tensions in the Middle East and U.S. diplomatic efforts that temporarily alleviate concerns. While the geopolitical risks are significant and signal potential upward price momentum, the recent inventory increases and diplomatic pauses are exerting bearish pressure on prices. Therefore, the overall risk exposure is elevated but tempered by current inventory stability.
+
+---
+### 4. WATCH LIST
+- [ ] Continued diplomatic negotiations progress → if successful, potential for price stabilization or decline.
+- [ ] Developments regarding the Strait of Hormuz blockage → prolonged issues could lead to significant price increases.
+- [ ] Upcoming U.S. inventory reports → if inventories begin to fall, it could signal tightening supply and push prices higher.
+
+---
+### 5. BOTTOM LINE
+**Risk Level: Medium**  
+The crude oil market is experiencing heightened risk from geopolitical tensions juxtaposed with some easing due to diplomatic efforts and rising U.S. inventories. Traders should remain cautious and monitor geopolitical developments closely as they could lead to rapid price fluctuations.

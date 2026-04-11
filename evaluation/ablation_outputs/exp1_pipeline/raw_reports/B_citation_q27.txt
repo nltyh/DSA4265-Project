@@ -1,0 +1,54 @@
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+## COMMODITY RISK REPORT
+**Commodity:** crude oil  
+**Report Date:** 2026-04-11  
+**Articles Analysed:** 5 articles  
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+### 1. OVERALL SENTIMENT
+**Bearish**  
+The overall market sentiment is bearish due to expectations of increased supply from OPEC+, economic resilience dampening hopes for significant interest rate cuts, and discussions around potential market surpluses. Collectively, these factors are contributing to downward price pressure on crude oil.
+
+---
+
+### 2. KEY RISK SIGNALS
+
+**Financial flows/positioning | Macro-Economic Cooling | Severity: Medium**  
+- **Headline:** Oil settles $1 down as supply set to rise, uncertainty around Fed rate cuts  
+- **What happened:** Oil prices fell as investors anticipated increased supply from OPEC+ and a lack of significant interest rate cuts by the U.S. Federal Reserve.  
+- **Market impact:** This situation dampens demand prospects, contributing to a bearish market outlook.  
+- **Sentiment contribution:** Bearish — the combination of rising supply forecasts and interest rate uncertainty is leading investors to lower their price expectations [Article 1].
+
+---
+
+**Supply (production/upstream) | Supply Chain Blockage | Severity: High**  
+- **Headline:** The Commodities Feed: Oil under pressure amid noise over more OPEC+ supply hikes  
+- **What happened:** Oil prices are facing additional downward pressure due to discussions about potential supply increases from OPEC+ and an anticipated surplus in future periods.  
+- **Market impact:** Rising supply fears contribute to expectations of lower prices in both the short and long term.  
+- **Sentiment contribution:** Bearish — the looming surplus is expected to worsen an already weakening market environment for oil [Article 2].
+
+---
+
+**Demand/macro activity | No Significant Risk | Severity: Low**  
+- **Headline:** Oil rises on diesel demand boost in sparse holiday trade  
+- **What happened:** Oil prices increased due to colder weather forecasts boosting diesel demand, although this was in the context of overall sparse trading.  
+- **Market impact:** This factor had a minor bullish impact amid broader bearish pressures.  
+- **Sentiment contribution:** Neutral — while there was a spark in prices, it is insufficient to counter the overall bearish sentiment established by other factors [Article 3].
+
+---
+
+### 3. SIGNAL SYNTHESIS
+The risk signals are predominantly aligned in a bearish direction, focusing on rising supply and macroeconomic factors that may dampen demand. Although there is a minor bullish signal from weather-related demand for diesel, it is overshadowed by concerns over increased supply and market expectations of economic cooling. Overall, risks are defined by confirmed fundamentals rather than sentiment fluctuations.
+
+---
+
+### 4. WATCH LIST
+- [ ] Upcoming OPEC+ meeting outcomes → if OPEC+ decides to increase supply further, it could exacerbate bearish sentiment significantly.
+- [ ] U.S. Federal Reserve interest rate decisions → any changes in rates or economic forecasts could sway investor sentiment considerably.
+- [ ] Weather forecasts influencing energy demand → unexpected weather patterns could impact consumption levels and alter short-term price dynamics.
+
+---
+
+### 5. BOTTOM LINE
+**Risk Level: Medium**  
+The current market presents a medium-risk exposure for crude oil, primarily driven by expectations of increased supply and macroeconomic uncertainties. Traders should remain vigilant of potential shifts, particularly from OPEC+ decisions and economic indicators, which could influence market sentiment significantly.

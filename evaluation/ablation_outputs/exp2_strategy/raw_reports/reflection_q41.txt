@@ -1,0 +1,58 @@
+## COMMODITY RISK REPORT
+**Commodity:** crude oil  
+**Report Date:** 2026-04-11  
+**Articles Analysed:** 5 articles  
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+### 1. OVERALL SENTIMENT
+**Bearish**  
+> The overall sentiment is bearish primarily due to the substantial increases in U.S. crude oil inventories which signal reduced demand and potential oversupply, while geopolitical tensions and disruptions contribute to uncertainty.
+
+---
+### 2. KEY RISK SIGNALS
+
+**Inventory & Storage | Inventory Shock | Severity: High**
+- **Headline:** US Crude Oil, Product Inventories Rise
+- **What happened:** U.S. crude oil inventories rose by 2.3 million barrels in the week ending March 20, continuing an upward trend from the prior week's 6.556 million barrel increase.
+- **Market impact:** This rising inventory can indicate a surplus in supply, potentially placing downward pressure on prices.
+- **Sentiment contribution:** Bearish — as increased inventories reflect weaker demand signals.
+
+---
+
+**Geopolitics & Policy | Geopolitical Conflict | Severity: High**
+- **Headline:** Oil Plummets 8% as Trump Postpones Hormuz Deadline Threat
+- **What happened:** Following President Trump’s remarks on U.S.-Iran conversations, Brent crude prices dropped sharply by 8%.
+- **Market impact:** The decrease in tensions may lead to market perceptions of a stabilized supply route, although underlying tensions remain.
+- **Sentiment contribution:** Bearish — heightened uncertainty often leads to price volatility.
+
+---
+
+**Supply (Production/Upstream) | Supply Chain Blockage | Severity: High**
+- **Headline:** Saudi Arabia Slashes Oil Supply to Asia as War Chokes Export Route
+- **What happened:** Saudi Arabia announced significant cuts to crude oil exports to Asia due to supply chain disruptions caused by geopolitical conflicts.
+- **Market impact:** These cuts may tighten supply in the Asian markets, leading to potential price spikes.
+- **Sentiment contribution:** Bearish — supply reductions contrast with rising inventories, which complicates pricing dynamics.
+
+---
+
+### 3. SIGNAL SYNTHESIS
+The risk signals indicate aligned bearish sentiment driven by increased inventories and production cuts. High inventory levels suggest weak demand, exacerbated by geopolitical tensions that also affect supply routes. While there is potential for increased prices due to geopolitical concerns, the overall bearish picture remains dominant due to the significant inventory increases.
+
+---
+### 4. WATCH LIST
+- [ ] **U.S. inventory levels** → If inventories continue to rise, prices may drop further.
+- [ ] **Developments in U.S.-Iran relations** → Any resolution could stabilize oil prices.
+- [ ] **Monitoring Saudi crude export levels** → Further cuts could tighten supply and influence pricing.
+
+---
+### 5. BOTTOM LINE
+**Risk Level: High**  
+Traders and risk managers should be cautious as rising inventories and geopolitical factors create a complex risk environment. While tensions might elevate prices temporarily, the underlying data suggests oversupply and bearish trends. 
+
+---
+
+[REFLECTION]  
+No issues found. 
+
+[FINAL REPORT]  
+(revised report remains the same as above)

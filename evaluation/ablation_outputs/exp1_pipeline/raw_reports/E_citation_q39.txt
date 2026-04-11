@@ -1,0 +1,56 @@
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+## COMMODITY RISK REPORT
+**Commodity:** LNG  
+**Report Date:** 2026-04-11  
+**Articles Analysed:** 5 articles  
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+### 1. OVERALL SENTIMENT
+**Bearish**  
+The sentiment is bearish primarily due to the significant disruptions in LNG supply caused by geopolitical conflicts and specific events like the Ras Laffan attack and the wider implications of the war in the Middle East, which have collectively contributed to production shortfalls and supply chain blockages [Article 1, 2, 4, 5].
+
+### 2. KEY RISK SIGNALS
+
+**LNG & natural gas | Geopolitical Conflict | Severity: High**
+- **Headline:** Ras Laffan Attack Shatters Illusion of Global Gas Abundance
+- **What happened:** An attack in Ras Laffan disrupted the perception of an abundant LNG supply, highlighting vulnerabilities in the market [Article 1].
+- **Market impact:** This raises concerns over potential further disruptions and contributes to upward pressure on prices amid perceived shortages.
+- **Sentiment contribution:** Bearish — due to heightened geopolitical risks impacting supply expectations.
+
+---
+
+**Geopolitics & Policy | Geopolitical Conflict | Severity: High**
+- **Headline:** Middle East War Could Push West Canada’s LNG Projects Forward
+- **What happened:** Ongoing war conditions in the Middle East have hindered about 20% of global LNG trade, prompting potential acceleration of LNG projects in Western Canada [Article 2].
+- **Market impact:** Although this suggests some potential supply increase from Canada, it underscores the heavy dependence on Middle Eastern supply and the associated risks.
+- **Sentiment contribution:** Bearish — as it indicates urgency due to supply disruptions elsewhere.
+
+---
+
+**LNG & natural gas | Production Shortfall | Severity: High**
+- **Headline:** The Iran War Has Upended Global LNG Markets
+- **What happened:** Analysts have downgraded forecasts for global LNG supply by 35 million tons due to production and export disruptions from the war [Article 4].
+- **Market impact:** This production shortfall indicates significant strain on global LNG availability, leading to price volatility.
+- **Sentiment contribution:** Bearish — as reduced supply forecasts negatively impact market dynamics.
+
+---
+
+**LNG & natural gas | Supply Chain Blockage | Severity: High**
+- **Headline:** LNG Exports Plunge to 6-Month Low as War Throttles Supply
+- **What happened:** Global LNG exports dropped to a six-month low due to halted supply from the Middle East, particularly affecting Qatar's LNG complex [Article 5].
+- **Market impact:** Such a drastic decrease signals a critical supply chain issue, threatening global liquidity in LNG markets and pushing prices higher.
+- **Sentiment contribution:** Bearish — this indicates acute risks in sourcing LNG.
+
+---
+
+### 3. SIGNAL SYNTHESIS
+The risk signals are aligned and consistently point to heightened bearish sentiment surrounding the LNG market due to geopolitical conflicts and significant disruptions in supply chains. The accumulated evidence suggests that both supply-side constraints and geopolitical tensions are firmly rooted in the fundamentals of the market. As a result, overall risk exposure for LNG is currently high.
+
+### 4. WATCH LIST
+- [ ] **Further conflict escalation in the Middle East** → It could exacerbate supply shortages and spike prices further.
+- [ ] **Developments in Western Canada’s LNG projects** → Successful advancements could mitigate some supply issues but would depend on geopolitical stability.
+- [ ] **Restoration of supply routes through the Strait of Hormuz** → An improved situation could stabilize supplies and potentially reduce prices.
+
+### 5. BOTTOM LINE
+**Risk Level: High**  
+Current geopolitical tensions and production disruptions are causing significant strain on the LNG market. Traders should be particularly cautious as these signals represent a fragile balance of risk that could lead to more pronounced supply challenges and price increases if conditions do not stabilize.

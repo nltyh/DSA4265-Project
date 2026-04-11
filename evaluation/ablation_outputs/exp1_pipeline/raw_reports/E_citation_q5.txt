@@ -1,0 +1,46 @@
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+## COMMODITY RISK REPORT
+**Commodity:** LNG  
+**Report Date:** 2026-04-11  
+**Articles Analysed:** 5 articles  
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+### 1. OVERALL SENTIMENT
+**Bullish**  
+> The sentiment is bullish due to Europe's intensified demand for LNG, which is diverting flows from Asia and driving prices higher, despite some supply chain blockages noted. 
+
+### 2. KEY RISK SIGNALS
+
+**LNG & natural gas | Supply Chain Blockage | Severity: High**  
+- **Headline:** Europe’s scramble for LNG leaves Asia starving for energy  
+- **What happened:** Europe’s increased demand for LNG due to the war in Ukraine is diverting shipments away from Asia, leading to energy shortages in countries like China, Japan, and Bangladesh.  
+- **Market impact:** This diversion is likely to increase prices in Asian markets while Europe struggles to secure adequate supply.  
+- **Sentiment contribution:** Bullish — as decreased supply in Asia may lead to price spikes.
+
+---
+
+**LNG & natural gas | Supply Chain Blockage | Severity: High**  
+- **Headline:** QatarEnergy’s US LNG project approved for gas exports  
+- **What happened:** The US Energy Department has approved gas exports for new LNG projects, allowing shipments to European nations amid ongoing energy supply issues.  
+- **Market impact:** Although these projects are not immediate solutions, they indicate a strategic move to alleviate Europe's current supply challenges, potentially stabilizing or increasing demand in the future.  
+- **Sentiment contribution:** Bullish — as this indicates future supply support for Europe, although implementation timelines are long.
+
+---
+
+**LNG & natural gas | No Significant Risk | Severity: Low**  
+- **Headline:** Williams Joins Forces With Cheniere to Quantify, Report GHG Emissions  
+- **What happened:** A partnership to monitor greenhouse gas emissions in natural gas systems aims to enhance understanding of cleaner energy supply technologies.  
+- **Market impact:** This development has no immediate risk or positive impact on LNG supply or pricing.  
+- **Sentiment contribution:** Neutral — as it does not significantly affect current market conditions.
+
+### 3. SIGNAL SYNTHESIS
+The risk signals are largely aligned, indicating a high risk of supply chain blockages due to Europe's demands impacting Asian LNG availability. While there are new projects approved that may alleviate some pressure in the long term, immediate supply issues could lead to further price hikes in Asia. The sentiment appears confirmed by fundamentals given the current geopolitical context impacting supply channels.
+
+### 4. WATCH LIST
+- [ ] **Monitor European gas consumption levels** → A decrease could suggest potential mitigation of current supply shocks and might affect prices.
+- [ ] **Watch for developments on new US LNG project timelines** → Timely execution could help stabilize European markets.
+- [ ] **Check for Asian governmental responses to energy shortages** → Actions taken by governments could alter demand dynamics and market prices.
+
+### 5. BOTTOM LINE
+**Risk Level: High**  
+The LNG market faces significant risk due to supply chain blockages driven by geopolitical tensions, particularly affecting Asia. Traders and risk managers should closely monitor developments and timelines related to new US LNG exports to Europe as they present a potential future stabilizing factor amidst current demand pressures.

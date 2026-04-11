@@ -1,0 +1,59 @@
+## COMMODITY RISK REPORT
+**Commodity:** crude oil  
+**Report Date:** 2026-04-11  
+**Articles Analysed:** 5 articles  
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+### 1. OVERALL SENTIMENT
+**Neutral**  
+> The market sentiment for crude oil remains neutral as two opposing forces are at play: regulatory constraints from budget cuts impacting clean energy initiatives, while a sustained increase in OPEC+ oil output alleviates immediate supply concerns.
+
+---
+### 2. KEY RISK SIGNALS
+
+**Geopolitics & Policy | Regulatory Constraint | Severity: Medium**  
+- **Headline:** Exxon's clean hydrogen project hit by Trump budget cuts  
+- **What happened:** The Trump administration's decision to cut $3.7 billion in federal funding impacts clean energy, including $330 million for Exxon's hydrogen complex, which is seen as a setback for sustainable energy projects.  
+- **Market impact:** The cuts may signal reduced future investment in cleaner technologies, indirectly affecting long-term demand for crude oil.  
+- **Sentiment contribution:** Bearish — due to concerns around future regulatory support for clean energy projects.
+
+**Supply (Production/Upstream) | No Significant Risk | Severity: Low**  
+- **Headline:** OPEC+ Agrees on Third Oil Supply Surge Despite Russia’s Qualms  
+- **What happened:** OPEC+ has decided to increase oil output by 411,000 barrels per day for July, moving away from a strategy focused on maintaining higher prices.  
+- **Market impact:** This increase boosts supply in the market, potentially maintaining lower price levels.  
+- **Sentiment contribution:** Neutral — as the supply increase offsets bearish sentiment from regulatory constraints.
+
+**Supply (Production/Upstream) | No Significant Risk | Severity: Low**  
+- **Headline:** Texas plant in limbo after Eastman loses DOE grant  
+- **What happened:** A federal grant loss for Eastman's methanolysis plant jeopardizes its project, which previously was intended to reduce reliance on crude by converting plastic waste.  
+- **Market impact:** The delay in this project may keep demand for crude oil stable in the short term, but this situation may be more negative for long-term market dynamics if clean alternatives struggle to gain momentum.  
+- **Sentiment contribution:** Bearish — due to diminished prospects for transitioning from crude oil to alternative energy sources.
+
+**Supply (Production/Upstream) | No Significant Risk | Severity: Low**  
+- **Headline:** Chevron to lay off approximately 200 employees in Texas in 2025  
+- **What happened:** Chevron’s layoffs are part of a broader workforce reduction plan aimed at long-term competitiveness.  
+- **Market impact:** While layoffs can indicate cost-cutting measures, this does not present an immediate risk to crude oil supply.  
+- **Sentiment contribution:** Neutral — as layoffs do not currently impact operational capacity or oil production levels.
+
+---
+### 3. SIGNAL SYNTHESIS
+The risk signals present a mixed picture for crude oil; regulatory constraints from governmental budget cuts pose challenges for clean energy and could affect the future landscape of energy consumption. On the opposite side, OPEC+ output increases mitigate current supply risks, promoting stable pricing. Thus, while short-term risks appear controlled, long-term sentiment is weakened by regulatory uncertainties.
+
+---
+### 4. WATCH LIST
+- [ ] **Monitoring Exxon's hydrogen project** → Its future could indicate how serious the government is regarding supporting alternative energy transitions.
+- [ ] **OPEC+ output changes** → Any alterations in output decisions could significantly affect market prices and supply levels.
+- [ ] **Eastman's project progress** → Updates on this plant's development will be crucial for understanding the transition from crude oil dependency.
+
+---
+### 5. BOTTOM LINE
+**Risk Level: Medium**  
+While current market conditions indicate manageable risks, regulatory updates concerning clean energy funding and OPEC+ production levels will be critical for future pricing and demand dynamics. The situation remains nuanced with ongoing adjustments impacting market sentiment.
+
+---
+
+[REFLECTION]
+No issues found. The draft report accurately incorporates the articles’ content without hallucinations, properly acknowledges mixed signals, and maintains concise analysis.
+
+[FINAL REPORT]
+**(No changes were needed for the final report, as the draft was solid and aligned with the requirements.)**

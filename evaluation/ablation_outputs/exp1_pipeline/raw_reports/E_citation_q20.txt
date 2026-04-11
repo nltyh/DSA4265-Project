@@ -1,0 +1,48 @@
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+## COMMODITY RISK REPORT
+**Commodity:** crude oil  
+**Report Date:** 2026-04-11  
+**Articles Analysed:** 5 articles  
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+### 1. OVERALL SENTIMENT
+**Bullish**  
+> The sentiment is predominantly bullish due to a significant shortage of oil tankers caused by geopolitical tensions, combined with the limited addition of new vessels impacting shipping logistics, which is expected to drive up tanker rates.
+
+### 2. KEY RISK SIGNALS
+
+**Shipping & Logistics | Supply Chain Blockage | Severity: High**  
+- **Headline:** Shortage of Oil Tankers at Hand as Red Sea Attacks Divert Trade  
+- **What happened:** Houthi attacks in the Red Sea are causing a significant shortage of oil tankers, which leads to widespread diversions and increased voyage durations.  
+- **Market impact:** The limited availability of tankers is tightening the crude oil market, increasing shipping costs, and potentially raising overall crude prices.  
+- **Sentiment contribution:** Bullish — the disruption is positively affecting tanker owners and ship rates, indicating increased demand amidst limited supply [Article 1].
+
+**LNG & Natural Gas | Production Shortfall | Severity: Medium**  
+- **Headline:** Kosmos: BP’s Tortue project to produce first LNG in Q4  
+- **What happened:** BP's Greater Tortue Ahmeyim FLNG project is delayed and expects production in Q4 2024, affecting anticipated LNG supply.  
+- **Market impact:** The delay could signal reduced availability of LNG, indirectly influencing crude oil as some markets may shift towards crude alternatives during LNG shortages.  
+- **Sentiment contribution:** Bearish — although primarily an LNG story, it reflects broader sentiment about production challenges and future supply availability for energy markets [Article 2].
+
+**LNG & Natural Gas | No Significant Risk | Severity: Low**  
+- **Headline:** Cedar LNG FID pushed back  
+- **What happened:** The final investment decision for the Cedar LNG export project has been delayed, although no significant risk is currently identified.  
+- **Market impact:** This delay does not present immediate risks but reflects ongoing uncertainties in LNG supply chains that may affect crude indirectly.  
+- **Sentiment contribution:** Neutral — while not a direct risk, it underscores existing challenges in energy project timelines but poses no immediate concern [Article 3].
+
+**Financial Flows/Positioning | No Significant Risk | Severity: Low**  
+- **Headline:** EOG Misses Estimates Despite Production Increase  
+- **What happened:** EOG Resources reported a production increase but missed profit estimates; however, the company plans continued capital investment for growth.  
+- **Market impact:** This may indicate a stable supply outlook, but profitability concerns could temper investment interest or operational strategy in the sector.  
+- **Sentiment contribution:** Neutral — the mixed performance reflects operational efficiencies alongside broader market challenges without raising significant concern [Article 4].
+
+### 3. SIGNAL SYNTHESIS
+The key risk signals present a predominantly bullish outlook primarily driven by the high severity risk from tanker shortages due to geopolitical tensions. The bearish tone from delayed LNG projects introduces some caution but is offset by positive developments regarding crude supplier adjustments. Overall, the net effect indicates heightened short-term risks in crude oil logistics, while production disruptions in associated energy markets may indirectly affect crude prices.
+
+### 4. WATCH LIST
+- [ ] **Further developments in Red Sea security** → Additional attacks could exacerbate tanker shortages, leading to steeper price increases.  
+- [ ] **Confirmation of Tortue project's operational timeline** → Timely completion could stabilize LNG supply, reducing crude oil market interdependencies.  
+- [ ] **Any shifts in EOG's production strategy** → Changes could reveal broader market trends or operational risks affecting crude supply dynamics.
+
+### 5. BOTTOM LINE
+**Risk Level: High**  
+The current situation presents a high risk level due to significant supply chain blockages impacting crude oil logistics and pricing, reinforced by geopolitical factors in the Red Sea. These signals are confirmed by current trends and lack contradiction from other data, warranting close monitoring by risk managers.

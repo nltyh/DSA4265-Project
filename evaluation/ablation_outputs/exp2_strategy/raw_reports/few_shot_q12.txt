@@ -1,0 +1,52 @@
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+## COMMODITY RISK REPORT
+**Commodity:** crude oil  
+**Report Date:** 2026-04-11  
+**Articles Analysed:** 5 articles  
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+### 1. OVERALL SENTIMENT
+**Mixed**  
+> The sentiment is mixed due to contrasting influences: the significant infrastructure damage risks identified in the Groningen inquiry suggest potential supply disruptions, while the tropical storm's projected impacts on operations indicate immediate threats, but uncertainty around their long-term effects.
+
+---
+### 2. KEY RISK SIGNALS
+
+**[Geopolitics & Policy] | [Infrastructure Damage] | Severity: High**  
+- **Headline:** Dutch gov't, Shell and Exxon ignored Groningen risks for years, inquiry finds  
+- **What happened:** A parliamentary inquiry revealed that the Dutch government and energy companies neglected the risks associated with gas production in Groningen, leading to severe damage and public distress.  
+- **Market impact:** This negligence raises concerns over potential regulatory changes or increased operational costs that may impede production, affecting crude oil supply from the region.  
+- **Sentiment contribution:** Bullish — the inquiry raises fears around supply chain stability, which may lead to increased prices in anticipation of a potential disruption.
+
+**[Weather] | [Weather Extremity] | Severity: Medium**  
+- **Headline:** Storm Freddy could strike Sasol natural gas operations  
+- **What happened:** Tropical Storm Freddy, set to impact Mozambique, threatens Sasol's natural gas operations, halting port activities and causing extensive flooding.  
+- **Market impact:** Disruptions in operations could lead to a short-term supply outage, raising prices due to fears of reduced availability.  
+- **Sentiment contribution:** Bearish — while the immediate supply impact could raise prices, the ongoing nature of gas supply operations may cushion the impact on crude oil market sentiment.
+
+**[Supply (Production/Upstream)] | [Production Shortfall] | Severity: Low**  
+- **Headline:** Chevron to update production targets during investor day  
+- **What happened:** Chevron plans to announce its operational plans and production targets, highlighting its goals amid challenges such as inflation and geopolitical risks.  
+- **Market impact:** While initial speculation might lead to price fluctuations, the overall production strategy's alignment with long-term growth goals may assuage fears of an immediate production shortfall.  
+- **Sentiment contribution:** Neutral — there’s insufficient immediate risk discerned from this update regarding crude oil supply.
+
+**[Supply (Production/Upstream)] | [No Significant Risk] | Severity: Low**  
+- **Headline:** EOG Resources Says Low Natgas Prices Not Changing Drilling Plan  
+- **What happened:** EOG Resources stated it remains committed to its natural gas drilling strategy despite a price decline in the sector.  
+- **Market impact:** The company's commitment suggests stability in production levels, which might counterbalance other risks perceived in the articles.  
+- **Sentiment contribution:** Neutral — the decision not to alter their drilling strategy stands independent of the higher risks presented by the inquiry and storm.
+
+---
+### 3. SIGNAL SYNTHESIS
+The risk signals highlight both infrastructure and environmental threats to production. The Groningen inquiry presents a substantial risk to supply stability, while the potential impact of Storm Freddy reflects immediate operational vulnerabilities. Chevron's production updates and EOG's stability plans do not undermine these risks, suggesting that while there may be fluctuations in sentiment, the overall risk profile leans towards caution regarding the crude supply landscape.
+
+---
+### 4. WATCH LIST
+- [ ] **Regulatory updates following the Groningen inquiry** → Significant changes could lead to operational restrictions impacting supply.
+- [ ] **Development and aftermath of Storm Freddy** → This could reveal major operational impacts on natural gas which may spill over into crude oil price dynamics.
+- [ ] **Chevron's production target revisions** → Changes in planned output could indicate shifts in market availability, affecting price; monitoring sentiments around investor day announcements will be crucial.
+
+---
+### 5. BOTTOM LINE
+**Risk Level: Medium**  
+There are significant risks to crude oil supply stemming from the Groningen inquiry and Tropical Storm Freddy; however, the broader picture is nuanced as certain operational strategies remain unchanged. Risk managers should stay vigilant regarding potential regulatory shifts and immediate weather impacts that could lead to price volatility.

@@ -1,0 +1,54 @@
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+## COMMODITY RISK REPORT
+**Commodity:** crude oil  
+**Report Date:** 2026-04-11  
+**Articles Analysed:** 5 articles  
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+### 1. OVERALL SENTIMENT
+**Mixed**  
+The overall sentiment is mixed due to geopolitical conflicts from the nationalization in Chad clashing with ongoing significant dividend strategies and acquisitions in the energy sector that support stability in financial flows.
+
+### 2. KEY RISK SIGNALS
+
+**Geopolitics & Policy | Geopolitical Conflict | Severity: High**
+- **Headline:** Chad approves bill to nationalise assets ExxonMobil sold to Savannah Energy
+- **What happened:** Chad's parliament approved nationalization of oil assets from ExxonMobil to Savannah Energy, backed by 172 lawmakers. This move challenges the stability of the deal and has raised public order concerns [Article 1].
+- **Market impact:** This may disrupt oil supplies from Chad, increasing geopolitical risks associated with crude oil that could drive prices higher.
+- **Sentiment contribution:** Bearish — due to uncertainty and potential disruption in oil supply.
+
+---
+
+**Geopolitics & Policy | Geopolitical Conflict | Severity: High**
+- **Headline:** ADNOC, bp form natural gas partnership to purchase Israeli energy company for $2 billion
+- **What happened:** BP and ADNOC are pursuing a joint venture to acquire NewMed Energy, expanding BP's footprint in the eastern Mediterranean, a region of increasing gas supply importance [Article 5].
+- **Market impact:** By securing strategic gas assets, this may add competitive pressure on oil prices if natural gas increasingly appeals as an alternative energy source.
+- **Sentiment contribution:** Bearish — as it signifies a shift towards natural gas over crude oil.
+
+---
+
+**Financial Flows/Positioning | No Significant Risk | Severity: Low**
+- **Headline:** 4 Energy Stocks With Fast-Growing Dividends
+- **What happened:** Despite declining oil prices anticipated for 2023, energy companies continue to prioritize cash returns, reflecting resilience in dividend strategies [Article 2].
+- **Market impact:** This signals a proactive approach within the industry, suggesting stable financial health and long-term investor confidence.
+- **Sentiment contribution:** Bullish — as it enhances investor confidence in the crude oil sector.
+
+---
+
+**Refining (Downstream) | No Significant Risk | Severity: Low**
+- **Headline:** Par Pacific to take over Montana refinery on June 1
+- **What happened:** Par Pacific Holdings will acquire ExxonMobil's refinery, increasing its capacity and reflecting changes in the downstream operations but not impacting crude oil directly [Article 4].
+- **Market impact:** This may consolidate refining operations and slightly stabilize downstream supply but does not indicate significant disruption.
+- **Sentiment contribution:** Neutral — no direct effect on crude oil prices anticipated.
+
+### 3. SIGNAL SYNTHESIS
+The risk signals reveal a precarious balance; while geopolitical risks from Chad's nationalization threaten supply and lean bearish, strategic acquisitions by major firms suggest a focus on securing and enhancing operational positions that are generally bullish. The effects of these contrasting signals result in heightened overall risk exposure for crude oil.
+
+### 4. WATCH LIST
+- [ ] **Global response to Chad's nationalization** → Lack of international support may exacerbate tensions and disrupt oil supply further.
+- [ ] **Market reaction to ADNOC and BP's acquisition** → Increased focus on gas could continue to shift investment away from crude.
+- [ ] **Economic indicators affecting dividend strategies** → Changes in macro-economic conditions could affect ongoing financial strategies in energy sectors.
+
+### 5. BOTTOM LINE
+**Risk Level: High**  
+The risk environment for crude oil remains high, primarily due to geopolitical tensions. The recent legislative actions in Chad are creating significant uncertainty, and while financial strategies show resilience, the overall sentiment remains fragile due to the influence of geopolitical conflicts and potential supply disruptions.

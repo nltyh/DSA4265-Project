@@ -1,0 +1,38 @@
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+## COMMODITY RISK REPORT
+**Commodity:** crude oil  
+**Report Date:** 2023-02-24  
+**Articles Analysed:** 5 articles  
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+### 1. OVERALL SENTIMENT
+**Bearish**  
+The overall sentiment is bearish due to concerns over adverse weather impacting operations and political scrutiny of gas production, potentially affecting supply dynamics in the crude oil market. 
+
+### 2. KEY RISK SIGNALS
+
+**Weather | Weather Extremity | Severity: High**
+- **Headline:** Storm Freddy could strike Sasol natural gas operations
+- **What happened:** Tropical storm Freddy is forecast to make landfall in Mozambique, potentially impacting Sasol's natural gas operations and causing widespread flooding in the region [Article 1].
+- **Market impact:** Disruptions like these could lead to reduced gas production and delivery, affecting overall energy supply chains, including crude oil, as it relates to energy pricing dynamics.
+- **Sentiment contribution:** Bearish — heightened risks of operational disruptions can negatively influence investor sentiment towards the crude oil market.
+
+---
+
+**Geopolitics & Policy | Infrastructure Damage | Severity: Medium**
+- **Headline:** Dutch gov't, Shell and Exxon ignored Groningen risks for years, inquiry finds
+- **What happened:** An inquiry concluded that the Dutch government and energy firms undervalued the risks associated with gas extraction in Groningen, leading to infrastructure damage and distress among local residents [Article 2].
+- **Market impact:** Growing regulatory scrutiny on gas production may introduce uncertainties for crude oil supply as companies might shift operational focus or incur unexpected costs.
+- **Sentiment contribution:** Bearish — increased geopolitical risk and regulatory concerns can create a negative sentiment towards crude oil investments.
+
+### 3. SIGNAL SYNTHESIS
+The risk signals are aligned in portraying a bearish outlook. Both weather-related disruptions and geopolitical concerns indicate potential challenges to crude oil supply chains. These risks are fundamentally supported by the severe impacts from climate and regulatory landscapes that could inhibit production or operational efficiency.
+
+### 4. WATCH LIST
+- [ ] Monitor the impact of Storm Freddy on Sasol’s operations → A significant disruption could lead to immediate supply constraints in the energy markets.
+- [ ] Follow developments in the Groningen inquiry outcomes → Further regulatory actions could create additional compliance costs or operational limitations for oil companies.
+- [ ] Track crude oil inventory levels post-storm impact → Changes in inventory could indicate shifts in supply availability and pricing dynamics.
+
+### 5. BOTTOM LINE
+**Risk Level: High**  
+Crude oil remains under high-risk exposure due to imminent weather threats and political scrutiny surrounding energy production. Risk managers should closely monitor weather patterns and regulatory developments to anticipate supply chain impacts.

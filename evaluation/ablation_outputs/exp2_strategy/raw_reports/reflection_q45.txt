@@ -1,0 +1,137 @@
+## COMMODITY RISK REPORT
+**Commodity:** LNG  
+**Report Date:** 2026-04-11  
+**Articles Analysed:** 5 articles  
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+### 1. OVERALL SENTIMENT
+**Bearish**  
+> Rising prices and geopolitical tensions are significantly constraining supply, leading to expectations of lower imports and production disruptions in the LNG market.
+
+---
+### 2. KEY RISK SIGNALS
+
+**LNG & Natural Gas | Supply Chain Blockage | Severity: High**
+- **Headline:** Soaring Prices Set to Crash China’s LNG Imports to 8-Year Low
+- **What happened:** Due to surging LNG prices driven by the ongoing war in the Middle East, China is expected to experience its lowest LNG imports in eight years.
+- **Market impact:** This significant decline in imports suggests a tightening LNG market, likely leading to increased domestic gas production in China.
+- **Sentiment contribution:** Bearish — the expectation of lower imports is negative for market demand.
+
+---
+
+**LNG & Natural Gas | Supply Chain Blockage | Severity: High**
+- **Headline:** LNG Exports Plunge to 6-Month Low as War Throttles Supply
+- **What happened:** Global LNG exports have dropped to a six-month low as supply from the Middle East has been disrupted by geopolitical conflicts.
+- **Market impact:** A decrease in exports indicates a critical supply shortage on a global scale, placing upward pressure on prices.
+- **Sentiment contribution:** Bearish — decreased exports heighten concerns about global supply shortages.
+
+---
+
+**Supply (Production/Upstream) | Production Shortfall | Severity: High**
+- **Headline:** Asia Burns More Coal as Middle East War Sends LNG Prices to 3-Year Highs
+- **What happened:** The conflict has pushed LNG prices to three-year highs, prompting Asian countries to revert to coal for power generation.
+- **Market impact:** This shift indicates an acute supply shortage of LNG, as countries adjust their energy sources in response to rising prices.
+- **Sentiment contribution:** Bearish — the transition to coal signals severe supply constraints in LNG.
+
+---
+
+**LNG & Natural Gas | Geopolitical Conflict | Severity: High**
+- **Headline:** Ras Laffan Attack Shatters Illusion of Global Gas Abundance
+- **What happened:** An attack on the Ras Laffan facility has disrupted expectations for abundant gas supply, particularly impacting LNG markets.
+- **Market impact:** This attack has led to fears of ongoing instability in supply chains, further constraining availability.
+- **Sentiment contribution:** Bearish — the geopolitical tension signals profound challenges ahead for LNG supplies.
+
+---
+
+**LNG & Natural Gas | Production Shortfall | Severity: High**
+- **Headline:** The Iran War Has Upended Global LNG Markets
+- **What happened:** The ongoing war has prompted a downward revision in forecasted LNG supply by about 35 million tons.
+- **Market impact:** This reduction in expected supply exacerbates the prevailing tightness in the LNG market.
+- **Sentiment contribution:** Bearish — the substantial decrease in forecasts underscores critical supply vulnerabilities.
+
+---
+### 3. SIGNAL SYNTHESIS
+The risk signals are aligned and point towards a significant bearish outlook for LNG. Supply disruptions due to geopolitical conflicts are confirmed by multiple articles, leading to a tightening market. The overall sentiment is largely driven by confirmed fundamentals rather than speculative concerns.
+
+---
+### 4. WATCH LIST
+- [ ] Monitor developments in the Middle East conflict → escalation may lead to further supply disruptions.
+- [ ] Track LNG pricing trends closely → continued increases can further constrain demand.
+- [ ] Observe China's domestic gas production adjustments → significant shifts could impact global LNG demand.
+
+---
+### 5. BOTTOM LINE
+**Risk Level: High**  
+The LNG market is currently facing significant risks due to geopolitical tensions and supply shortages, leading to a constrained global market. Risk managers should be aware of the high level of uncertainty and potential volatility in pricing and supply dynamics. 
+
+---
+
+[REFLECTION]
+No issues found. The draft aligns with the provided articles, properly reflects the signals and sentiment, and identifies potential risks effectively.
+
+[FINAL REPORT]
+## COMMODITY RISK REPORT
+**Commodity:** LNG  
+**Report Date:** 2026-04-11  
+**Articles Analysed:** 5 articles  
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+### 1. OVERALL SENTIMENT
+**Bearish**  
+> Rising prices and geopolitical tensions are significantly constraining supply, leading to expectations of lower imports and production disruptions in the LNG market.
+
+---
+### 2. KEY RISK SIGNALS
+
+**LNG & Natural Gas | Supply Chain Blockage | Severity: High**
+- **Headline:** Soaring Prices Set to Crash China’s LNG Imports to 8-Year Low
+- **What happened:** Due to surging LNG prices driven by the ongoing war in the Middle East, China is expected to experience its lowest LNG imports in eight years.
+- **Market impact:** This significant decline in imports suggests a tightening LNG market, likely leading to increased domestic gas production in China.
+- **Sentiment contribution:** Bearish — the expectation of lower imports is negative for market demand.
+
+---
+
+**LNG & Natural Gas | Supply Chain Blockage | Severity: High**
+- **Headline:** LNG Exports Plunge to 6-Month Low as War Throttles Supply
+- **What happened:** Global LNG exports have dropped to a six-month low as supply from the Middle East has been disrupted by geopolitical conflicts.
+- **Market impact:** A decrease in exports indicates a critical supply shortage on a global scale, placing upward pressure on prices.
+- **Sentiment contribution:** Bearish — decreased exports heighten concerns about global supply shortages.
+
+---
+
+**Supply (Production/Upstream) | Production Shortfall | Severity: High**
+- **Headline:** Asia Burns More Coal as Middle East War Sends LNG Prices to 3-Year Highs
+- **What happened:** The conflict has pushed LNG prices to three-year highs, prompting Asian countries to revert to coal for power generation.
+- **Market impact:** This shift indicates an acute supply shortage of LNG, as countries adjust their energy sources in response to rising prices.
+- **Sentiment contribution:** Bearish — the transition to coal signals severe supply constraints in LNG.
+
+---
+
+**LNG & Natural Gas | Geopolitical Conflict | Severity: High**
+- **Headline:** Ras Laffan Attack Shatters Illusion of Global Gas Abundance
+- **What happened:** An attack on the Ras Laffan facility has disrupted expectations for abundant gas supply, particularly impacting LNG markets.
+- **Market impact:** This attack has led to fears of ongoing instability in supply chains, further constraining availability.
+- **Sentiment contribution:** Bearish — the geopolitical tension signals profound challenges ahead for LNG supplies.
+
+---
+
+**LNG & Natural Gas | Production Shortfall | Severity: High**
+- **Headline:** The Iran War Has Upended Global LNG Markets
+- **What happened:** The ongoing war has prompted a downward revision in forecasted LNG supply by about 35 million tons.
+- **Market impact:** This reduction in expected supply exacerbates the prevailing tightness in the LNG market.
+- **Sentiment contribution:** Bearish — the substantial decrease in forecasts underscores critical supply vulnerabilities.
+
+---
+### 3. SIGNAL SYNTHESIS
+The risk signals are aligned and point towards a significant bearish outlook for LNG. Supply disruptions due to geopolitical conflicts are confirmed by multiple articles, leading to a tightening market. The overall sentiment is largely driven by confirmed fundamentals rather than speculative concerns.
+
+---
+### 4. WATCH LIST
+- [ ] Monitor developments in the Middle East conflict → escalation may lead to further supply disruptions.
+- [ ] Track LNG pricing trends closely → continued increases can further constrain demand.
+- [ ] Observe China's domestic gas production adjustments → significant shifts could impact global LNG demand.
+
+---
+### 5. BOTTOM LINE
+**Risk Level: High**  
+The LNG market is currently facing significant risks due to geopolitical tensions and supply shortages, leading to a constrained global market. Risk managers should be aware of the high level of uncertainty and potential volatility in pricing and supply dynamics.

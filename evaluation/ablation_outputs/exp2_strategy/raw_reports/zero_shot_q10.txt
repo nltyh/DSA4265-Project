@@ -1,0 +1,40 @@
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+## COMMODITY RISK REPORT
+**Commodity:** crude oil  
+**Report Date:** 2026-04-11  
+**Articles Analysed:** 2 articles  
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+### 1. OVERALL SENTIMENT
+**Mixed**  
+> The report reflects a mixed sentiment for crude oil due to the geopolitical conflict signals from Article 1 indicating potential supply pressures contrasted with the absence of significant risks from Article 2.
+
+---
+### 2. KEY RISK SIGNALS
+
+**Geopolitics & Policy | Geopolitical Conflict | Severity: High**
+- **Headline:** Procter & Gamble continues sponsoring Russia’s war with two giant factories
+- **What happened:** Procter & Gamble continues to operate in Russia, thereby financially supporting the Russian economy amidst ongoing military actions.
+- **Market impact:** This situation may contribute to increased tension and uncertainty in global crude oil markets, potentially driving prices higher due to perceived geopolitical risks.
+- **Sentiment contribution:** Bullish — as geopolitical risks often elevate market prices amid fears of supply disruption.
+
+**Financial Flows / Positioning | No Significant Risk | Severity: Low**
+- **Headline:** BNY Mellon Dismissed, Alight, Colgate-Palmolive Remain in Retirement Theft Lawsuit
+- **What happened:** A court dismissed a lawsuit against BNY Mellon, with ongoing legal issues concerning Alight Solutions and Colgate-Palmolive.
+- **Market impact:** This legal situation has no direct ramifications on crude oil markets or supply-demand dynamics.
+- **Sentiment contribution:** Neutral — as it does not affect the broader crude oil market directly.
+
+---
+### 3. SIGNAL SYNTHESIS
+The geopolitical risk posed by P&G's operations in Russia introduces a bullish sentiment due to potential implications for crude supply stability. Conversely, the lack of significant risks highlighted in the financial context contributes a neutral sentiment. Overall, the net effect points towards heightened caution in risk exposure due to geopolitical tensions.
+
+---
+### 4. WATCH LIST
+- [ ] Developments in the Russia-Ukraine conflict → escalation could further impact crude supply and prices.
+- [ ] International sanctions on Russia → new sanctions may lead to further constraints on crude oil supply.
+- [ ] Changes in P&G's operational status in Russia → a withdrawal could signal a shift in corporate stances, affecting market sentiment.
+  
+---
+### 5. BOTTOM LINE
+**Risk Level: Medium**  
+The most pressing concern for risk managers is the geopolitical tensions surrounding crude oil markets, which could lead to volatility. The situation remains sensitive to international developments; hence, it is crucial to monitor further actions and sanctions related to Russia.

@@ -1,0 +1,62 @@
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+## COMMODITY RISK REPORT
+**Commodity:** crude oil, LNG  
+**Report Date:** 2026-04-11  
+**Articles Analysed:** 4 articles  
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+### 1. OVERALL SENTIMENT
+**Bullish**  
+The crude oil market is experiencing significant upward pressure due to rising geopolitical tensions in the Middle East, which have led to supply disruptions and soaring prices. The escalation in the region has resulted in substantial price increases, indicating a strong bullish sentiment across the market.
+
+---
+
+### 2. KEY RISK SIGNALS
+
+**Geopolitics & Policy | Geopolitical Conflict | Severity: High**
+- **Headline:** Africa Could Emerge As The Biggest Winner In Iran War
+- **What happened:** The ongoing conflict in the Middle East has disrupted global energy markets, resulting in a shortage of approximately 8 million barrels of crude oil per day and 20% of liquefied natural gas (LNG) supply.
+- **Market impact:** The significant cut in oil supply has led to a surge in crude prices, with Brent crude increasing over 50% to around $110 per barrel.
+- **Sentiment contribution:** Bullish — due to the substantial supply disruptions driving prices higher [Article 1].
+
+---
+
+**Geopolitics & Policy | Geopolitical Conflict | Severity: High**
+- **Headline:** Oil Set to Book Record Monthly Gain on Iran Crisis
+- **What happened:** Recent events surrounding Houthi attacks and statements from political leaders have escalated tensions, contributing to a planned record monthly increase in oil prices, projected at 59% since the beginning of March.
+- **Market impact:** Continued escalations will likely drive prices up further, affecting traders and consumers alike.
+- **Sentiment contribution:** Bullish — as the political dynamics indicate continued upward pressure on oil prices [Article 2].
+
+---
+
+**Demand / Macro Activity | Macro-Economic Cooling | Severity: Medium**
+- **Headline:** Global Fuel Prices Are Surging as the Middle East War Hits Consumers
+- **What happened:** The recent jump in oil prices has led to widespread increases in retail fuel prices globally, impacting consumers' spending and economic conditions.
+- **Market impact:** Higher fuel prices could reduce consumer demand, potentially leading to macroeconomic cooling effects.
+- **Sentiment contribution:** Bearish — consumer financial strain may inhibit further price rises despite supply issues [Article 3].
+
+---
+
+**Demand / Macro Activity | Macro-Economic Cooling | Severity: Medium**
+- **Headline:** South Korea Weighs First Public Driving Restrictions in 35 Years
+- **What happened:** South Korea is considering implementing driving curbs if oil prices surge to $120 per barrel, a move that would have significant economic implications.
+- **Market impact:** Such restrictions could reduce overall demand for crude oil, potentially dampening prices if widely adopted.
+- **Sentiment contribution:** Bearish — as it reflects government intervention in response to high prices, which could mitigate demand [Article 4].
+
+---
+
+### 3. SIGNAL SYNTHESIS
+The risk signals presented are largely aligned but with some contradictory elements. The geopolitical tensions are driving strong bullish sentiments due to supply disruptions, while rising consumer prices and potential demand-reducing measures in major markets introduce bearish pressures. This creates a mixed but predominantly bullish environment, as supply concerns currently outweigh potential demand destruction.
+
+---
+
+### 4. WATCH LIST
+- [ ] **Further geopolitical developments** → Any escalation or resolution could significantly alter supply dynamics and market sentiment.
+- [ ] **Monthly price trends** → A record monthly gain could reaffirm bullish sentiment or trigger a market correction depending on consumer reactions.
+- [ ] **Consumer response to fuel prices** → If consumers reduce spending due to high fuel costs, this could lead to a broader economic slowing, influencing demand for crude oil.
+
+---
+
+### 5. BOTTOM LINE
+**Risk Level: High**  
+Current market conditions indicate a high risk level for crude oil, driven predominantly by geopolitical conflicts impacting supply. Traders should be vigilant of potential contradictions in demand trends as macroeconomic signals emerge, which could lead to adjustments in strategy.

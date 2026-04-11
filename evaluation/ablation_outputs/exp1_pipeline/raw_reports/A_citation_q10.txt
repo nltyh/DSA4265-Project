@@ -1,0 +1,50 @@
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+## COMMODITY RISK REPORT
+**Commodity:** crude oil  
+**Report Date:** 2026-04-11  
+**Articles Analysed:** 5 articles  
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+### 1. OVERALL SENTIMENT
+**Bearish**  
+The market is facing bearish signals primarily due to a significant decline in LNG imports to China and concerns around feed gas demand fluctuations in the U.S., which indirectly suggest weaker demand for crude oil as a result of reduced natural gas demand.
+
+---
+
+### 2. KEY RISK SIGNALS
+
+**LNG & natural gas | Supply Chain Blockage | Severity: High**  
+- **Headline:** News Content Hub - LNG imports to China tumble 20% in 2022  
+- **What happened:** China's LNG imports dropped by 20% in 2022 due to stringent Covid-19 lockdowns and a shift toward domestic gas production, indicating a potential reduction in crude oil demand.  
+- **Market impact:** This decline points toward less reliance on oil as a fuel source, contributing to bearish sentiment regarding crude prices.  
+- **Sentiment contribution:** Bearish — the significant reduction in LNG imports suggests a shift away from crude oil demand.
+
+**LNG & natural gas | Supply Chain Blockage | Severity: High**  
+- **Headline:** Seasonal Demand Swings, Increasing LNG Supplies Pose Risks for U.S. Feed Gas Demand in 2026  
+- **What happened:** U.S. LNG feed gas demand is expected to fluctuate as new supply comes online, which may result in reduced operating rates for gas production and related crude oil consumption.  
+- **Market impact:** This can introduce volatility in both LNG and crude oil markets due to anticipated changes in demand dynamics.  
+- **Sentiment contribution:** Bearish — indications of a volatile supply environment influence market sentiment negatively.
+
+**LNG & natural gas | No Significant Risk | Severity: Low**  
+- **Headline:** Baker Hughes wins MRC supply contract for Sempra’s Port Arthur LNG  
+- **What happened:** Baker Hughes was awarded a contract to supply equipment for the Port Arthur LNG project, set for operations in 2027 and 2028.  
+- **Market impact:** While this indicates future growth for LNG, it does not pose an immediate risk to crude oil supply.  
+- **Sentiment contribution:** Neutral — does not significantly impact current market sentiment.
+
+---
+
+### 3. SIGNAL SYNTHESIS
+The risk signals pointed towards a consistent bearish outlook for crude oil primarily driven by the decline in Chinese LNG imports and expected fluctuations in U.S. feed gas demand. These supply dynamics indicate reduced crude oil demand relevance as as markets pivot towards alternative energy sources. The signals align in their negative implications for crude oil pricing, suggesting that sentiment is confirmed by current market fundamentals rather than speculation.
+
+---
+
+### 4. WATCH LIST
+- [ ] Monitor China's LNG import trends → a continual decline may indicate a structural shift in energy reliance, impacting crude oil demand significantly.
+- [ ] Watch U.S. LNG supply developments → unexpected changes could lead to increased volatility in crude prices.
+- [ ] Assess OPEC+ production decisions → any alterations in production quotas could shift the supply-demand balance and affect prices.
+
+---
+
+### 5. BOTTOM LINE
+**Risk Level: High**  
+Current risks indicate a fragile demand environment for crude oil, influenced by significant reductions in LNG imports and anticipated volatility in feed gas supply. Traders should remain cautious and closely monitor developments in LNG dynamics, as these will heavily influence crude oil demand trends.

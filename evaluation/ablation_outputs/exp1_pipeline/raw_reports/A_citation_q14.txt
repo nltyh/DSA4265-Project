@@ -1,0 +1,41 @@
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+## COMMODITY RISK REPORT
+**Commodity:** crude oil  
+**Report Date:** 2026-04-11  
+**Articles Analysed:** 5 articles  
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+### 1. OVERALL SENTIMENT
+**Mixed**  
+The crude oil sentiment is mixed due to strong operational performance reported by refiners amidst declining domestic and global demand. While geopolitical tensions and an EU embargo indicate potential for higher prices, concerns over long-term demand may suppress growth.
+
+### 2. KEY RISK SIGNALS
+**Geopolitics & Policy | Geopolitical Conflict | Severity: High**  
+- **Headline:** Upstream aluminium recap: EU seeks stricter sanctions on Russia; Japan’s Q1 shipment premiums remain high after negotiations  
+- **What happened:** Ten EU states are pushing for stricter sanctions on Russian metals, especially aluminium. This adds geopolitical tension which could disrupt oil supplies.  
+- **Market impact:** Heightened geopolitical conflict leads to potential supply disruptions, impacting prices negatively.  
+- **Sentiment contribution:** Bearish — due to potential supply shortages and volatility.
+
+**Refining (Downstream) | Macro-Economic Cooling | Severity: Medium**  
+- **Headline:** U.S. oil refiners to post strong Q1 earnings, but demand outlook dims  
+- **What happened:** U.S. fuelmakers are set to report strong Q1 earnings driven by fuel exports, yet analysts forecast a weaker second half due to declining demand and increased capacity.  
+- **Market impact:** This suggests profitability in the short term, but long-term demand concerns could pressure prices going forward.  
+- **Sentiment contribution:** Bearish — reflects weakening demand outlook.
+
+**Refining (Downstream) | Macro-Economic Cooling | Severity: Medium**  
+- **Headline:** CRAK ETF: EU Embargo On Russian Fuel Products A Tailwind  
+- **What happened:** Anticipated EU embargo on Russian fuel is expected to positively impact global refiners by increasing crack spreads.  
+- **Market impact:** While beneficial for refiners, the embargo could result in supply constraints, contributing to volatility.  
+- **Sentiment contribution:** Bullish — suggests potential for higher refining margins.
+
+### 3. SIGNAL SYNTHESIS
+The risk signals are somewhat contradictory; geopolitical pressures suggest potential disruptions, while refiners are performing well and may benefit from the EU embargo. However, the overall outlook is clouded by dimming demand projections, indicating that risk sentiment is a blend of short-term profitability against long-term uncertainties.
+
+### 4. WATCH LIST
+- [ ] **EU sanctions enforcement** → If implemented more stringently, could lead to severe supply disruptions impacting prices.
+- [ ] **Demand recovery signals** → Indicators of rising global demand could shift the market trajectory positively.
+- [ ] **Refinery utilization rates** → If refinery output increases markedly, this could add downward pressure on prices.
+
+### 5. BOTTOM LINE
+**Risk Level: Medium**  
+Currently, the crude oil market faces moderate risk largely due to geopolitical tensions and mixed demand forecasts. Risk managers should closely watch external geopolitical developments and refinery performance as key indicators of market health. The mixed signals indicate underlying volatility that is yet unconfirmed.

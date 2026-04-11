@@ -1,0 +1,36 @@
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+## COMMODITY RISK REPORT
+**Commodity:** LNG  
+**Report Date:** 2026-04-11  
+**Articles Analysed:** 5 articles  
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+### 1. OVERALL SENTIMENT
+**Bearish**  
+The overall sentiment indicates bearish conditions for the LNG market, primarily driven by Europe's demand diversion leading to energy shortages in Asia, which is projected to reduce LNG imports due to high prices and limited supply options.
+
+### 2. KEY RISK SIGNALS
+
+**LNG & Natural Gas | Supply Chain Blockage | Severity: High**  
+- **Headline:** Europe’s scramble for LNG leaves Asia starving for energy  
+- **What happened:** Due to the war in Ukraine, Europe has significantly increased its LNG demand, diverting shipments from Asia and creating a critical energy shortage in nations like China, Japan, and Bangladesh.  
+- **Market impact:** This diversion threatens to squeeze supply in Asia, leading to heightened prices and forcing countries to consider alternative energy solutions such as restarting nuclear plants or increasing coal usage.  
+- **Sentiment contribution:** Bearish — high competition for limited LNG supplies in Asia combined with skyrocketing prices indicates a negative outlook.
+
+**LNG & Natural Gas | Supply Chain Blockage | Severity: High**  
+- **Headline:** Soaring Prices Set to Crash China’s LNG Imports to 8-Year Low  
+- **What happened:** Surging LNG prices, exacerbated by geopolitical tensions in the Middle East, are anticipated to result in the lowest LNG imports into China in eight years.  
+- **Market impact:** If China continues to import significantly less LNG, it may lead to further price increases globally as pressure on supplies mounts.  
+- **Sentiment contribution:** Bearish — decreased imports are indicative of a struggling market capacity to meet existing demands, reflecting negative market conditions.
+
+### 3. SIGNAL SYNTHESIS
+The risk signals are aligned in portraying a bearish scenario for the LNG market due to significant supply chain disruptions and high prices driven by both geopolitical and economic factors. The primary concerns stem from the diversion of resources to Europe, limiting availability for Asian markets. This situation is confirmed by market fundamentals, indicating an increase in volatility and potential further price spikes.
+
+### 4. WATCH LIST
+- [ ] Monitor European LNG import levels → a drop may signify further supply constraints for Asia.
+- [ ] Track developments in geopolitical tensions, especially in Ukraine and the Middle East → escalation could exacerbate supply shortages.
+- [ ] Observe China’s domestic production and import adjustments → any increase may indicate an attempt to compensate for reduced LNG imports.
+
+### 5. BOTTOM LINE
+**Risk Level: High**  
+The current conditions suggest a high-risk environment in the LNG market with significant supply constraints and high prices leading to bearish sentiment. Risk managers should closely monitor geopolitical developments and import/export dynamics to anticipate further volatility.

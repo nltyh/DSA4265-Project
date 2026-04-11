@@ -1,0 +1,62 @@
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+## COMMODITY RISK REPORT
+**Commodity:** crude oil  
+**Report Date:** 2026-04-11  
+**Articles Analysed:** 5 articles  
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+### 1. OVERALL SENTIMENT
+**Bullish**  
+> The current sentiment is predominantly bullish due to rising Brent crude prices above $110 driven by geopolitical tensions related to Iran's rejection of U.S. terms, which suggest ongoing instability in the market.
+
+---
+
+### 2. KEY RISK SIGNALS
+
+**Geopolitics & policy | Geopolitical Conflict | Severity: High**
+- **Headline:** Brent Surges Past $110 on Iran Rejection
+- **What happened:** Oil prices surged as Iran rejected U.S. diplomatic terms, exacerbating tensions in the Strait of Hormuz.
+- **Market impact:** This situation indicates potential disruptions in oil supply through a critical shipping route, likely keeping prices elevated.
+- **Sentiment contribution:** Bullish — heightened geopolitical tensions generally lead to increased risk premiums, pushing prices up [Article 1].
+
+---
+
+**Geopolitics & policy | Geopolitical Conflict | Severity: High**
+- **Headline:** Macquarie: Two More Months of War Could Send Oil to $200
+- **What happened:** Analysts warn that prolonged conflict in the Middle East could push prices to unprecedented levels.
+- **Market impact:** If the conflict continues, there could be severe supply constraints, significantly affecting global oil prices.
+- **Sentiment contribution:** Bullish — the prospect of escalating conflict suggests that traders may factor in high future prices [Article 5].
+
+---
+
+**Supply (Production/Upstream) | Supply Chain Blockage | Severity: Medium**
+- **Headline:** Asia Begins Pricing U.S. Oil Against Brent as Dubai Volatility Spikes
+- **What happened:** Asian refiners are now using the ICE Brent benchmark for pricing due to fluctuations in Dubai crude linked to supply concerns.
+- **Market impact:** This shift indicates concerns about the reliability of supplies from the Persian Gulf, likely supporting higher prices.
+- **Sentiment contribution:** Bullish — changes in pricing mechanisms due to supply chain issues generally foster upward pressure on price [Article 4].
+
+---
+
+**Geopolitics & policy | Macro-Economic Cooling | Severity: Medium**
+- **Headline:** Oil Markets Price In Peace, but the Upside Risk Remains
+- **What happened:** Despite ongoing hostilities, some traders anticipate a possible resolution, potentially leading to lower prices.
+- **Market impact:** A shift towards peace could reduce risk premiums but remains uncertain given current tensions.
+- **Sentiment contribution:** Bearish — expectations of peace could dampen the bullish sentiment previously driven by conflict news [Article 3].
+
+---
+
+### 3. SIGNAL SYNTHESIS
+The risk signals indicate both alignment and contradiction. While geopolitical tensions have introduced significant bullish pressure on prices due to fears of supply disruptions, there remains a bearish sentiment stemming from hopes of de-escalation. This conflicting sentiment could lead to market volatility, but the overall exposure appears weighted towards bullish forces.
+
+---
+
+### 4. WATCH LIST
+- [ ] **Continued hostilities in the Middle East** → Prolonged conflict could push prices significantly higher, potentially reaching $200 per barrel, as warned by analysts.
+- [ ] **Negotiation developments between the U.S. and Iran** → A diplomatic resolution could alleviate fears and lead to price reductions.
+- [ ] **Physical supply issues from the Persian Gulf** → Any disruptions or closures in this region would likely exacerbate price increases.
+
+---
+
+### 5. BOTTOM LINE
+**Risk Level: High**  
+Current risks are elevated due to geopolitical tensions and potential supply disruptions. Traders should remain vigilant, as existing bullish sentiments may be fragile, tempered by uncertain prospects for peace.

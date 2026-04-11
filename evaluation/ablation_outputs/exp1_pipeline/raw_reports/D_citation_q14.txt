@@ -1,0 +1,36 @@
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+## COMMODITY RISK REPORT
+**Commodity:** diesel, crude oil  
+**Report Date:** 2026-04-11  
+**Articles Analysed:** 5 articles  
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+### 1. OVERALL SENTIMENT
+**Bullish**  
+The overall market sentiment is bullish for both crude oil and diesel as U.S. refiners expect high profit margins due to the EU's impending ban on Russian fuel imports, which is anticipated to tighten supplies and support elevated margins throughout the year [Article 1].
+
+### 2. KEY RISK SIGNALS
+
+**Refining (Downstream) | No Significant Risk | Severity: Low**
+- **Headline:** U.S. refiners expect Russian fuel sanctions to keep margins high
+- **What happened:** U.S. refiners predict that the EU's ban on Russian fuel imports will maintain high profit margins, as demonstrated by strong financial results in 2022 and expectations for tight fuel supplies [Article 1].
+- **Market impact:** This ban is expected to enhance refining profitability and sustain high demand for diesel and jet fuel, supporting overall prices.
+- **Sentiment contribution:** Bullish — tighter supplies from Russia will likely bolster U.S. refinery margins and prices.
+
+**LNG & Natural Gas | Supply Chain Blockage | Severity: Medium**
+- **Headline:** LNG imports to China tumble 20% in 2022
+- **What happened:** China's LNG imports fell significantly in 2022 due to strict Covid-19 lockdowns and a shift to increased domestic production [Article 5].
+- **Market impact:** This reduction suggests China may remain out of the spot LNG market for most of 2023, thereby impacting global LNG pricing dynamics and crude oil demand indirectly.
+- **Sentiment contribution:** Bearish — reduced imports may signal lower overall energy demand from China, putting downward pressure on crude oil prices.
+
+### 3. SIGNAL SYNTHESIS
+The risk signals present an overall bullish sentiment for crude oil and diesel, primarily driven by the anticipated reduction of Russian fuel imports, which is likely to tighten supply and sustain high refinery margins. However, the bearish outlook stemming from decreased LNG imports into China introduces a level of uncertainty surrounding overall energy demand, creating a mixed influence which may affect the broader crude oil market dynamics.
+
+### 4. WATCH LIST
+- [ ] Monitor the impact of the EU's ban on Russian fuel imports → a successful implementation could significantly bolster U.S. refinery margins.
+- [ ] Watch for changes in China's LNG import policies or demand → further decreases could lead to lower crude oil demand and affect global pricing.
+- [ ] Pay attention to U.S. economic indicators → a deterioration could impact demand for refined products and crude oil prices.
+
+### 5. BOTTOM LINE
+**Risk Level: Medium**  
+While the sentiment is largely bullish due to refining margins being supported by reduced Russian imports, the potential for lower demand from China and general economic factors presents a nuanced risk landscape. Traders should remain vigilant to evolving conditions that may shift this sentiment.

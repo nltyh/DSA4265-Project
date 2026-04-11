@@ -1,0 +1,38 @@
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+## COMMODITY RISK REPORT
+**Commodity:** crude oil  
+**Report Date:** 2026-04-11  
+**Articles Analysed:** 5 articles  
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+### 1. OVERALL SENTIMENT
+**Bullish**  
+The sentiment is predominantly bullish due to a significant regulatory approval concerning Chevron's acquisition of Hess, despite the conditional bar on Hess CEO John Hess from joining Chevron's board, which suggests an expectation of consolidated power in the oil market.
+
+---
+
+### 2. KEY RISK SIGNALS
+
+**Geopolitics & Policy | Geopolitical Conflict | Severity: Medium**  
+- **Headline:** FTC clears Chevron-Hess deal, bans John Hess from board  
+- **What happened:** The FTC approved Chevron's $53 billion acquisition of Hess with the condition that CEO John Hess is barred from joining Chevron's board due to concerns over his communications with OPEC [Article 1, 2, 3, 4, 5].  
+- **Market impact:** This regulation indicates that key executives may face scrutiny for potential collusion, leading to a more regulated environment but also assuring market participants of the merger's progression.  
+- **Sentiment contribution:** Bullish — investors perceive this as a stabilizing factor in the oil sector.
+
+---
+
+### 3. SIGNAL SYNTHESIS
+The risk signals are primarily aligned, all pointing towards the consolidation of power in the crude oil sector through regulatory approval. The geopolitical aspect of regulating executives’ interactions with OPEC contributes to a market environment that could foster higher prices, though with oversight, which may dampen extreme price volatility. Currently, the bullish sentiment reflects a general confidence in the industry despite existing regulatory challenges.
+
+---
+
+### 4. WATCH LIST
+- [ ] **Completion of arbitration with ExxonMobil** → A favorable resolution could bolster Chevron's market positioning, enhancing bullish sentiment.
+- [ ] **Market response to Hess's barred board participation** → Monitoring investor reactions could provide insights into market confidence regarding Chevron's strategic direction.
+- [ ] **Further actions by the FTC towards oil executives** → Any regulatory disruptions could signal increased volatility in the sector.
+
+---
+
+### 5. BOTTOM LINE
+**Risk Level: Medium**  
+While the current sentiment leans bullish due to regulatory clarity regarding the Chevron-Hess merger, the ongoing arbitration and scrutiny of executive communications present factors that require careful monitoring. The situation is currently stable but could shift if unexpected regulatory actions or arbitration outcomes arise.

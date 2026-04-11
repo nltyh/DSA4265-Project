@@ -1,0 +1,54 @@
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+## COMMODITY RISK REPORT
+**Commodity:** crude oil  
+**Report Date:** 2026-04-11  
+**Articles Analysed:** 5 articles  
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+### 1. OVERALL SENTIMENT
+**Bearish**  
+The sentiment is primarily bearish due to significant regulatory constraints imposed by the Trump administration's funding cuts affecting clean energy projects, which may negatively impact future investments in the sector and confidence in transitioning energy strategies.
+
+### 2. KEY RISK SIGNALS
+
+**Geopolitics & Policy | Regulatory Constraint | Severity: High**
+- **Headline:** Exxon's clean hydrogen project hit by Trump budget cuts
+- **What happened:** The Trump administration cut $3.7 billion in federal funding for clean energy projects, including over $330 million for Exxon Mobil's hydrogen complex in Baytown, indicating a step back for clean energy initiatives [Article 1].
+- **Market impact:** This could result in reduced investment in alternative energy sources, thus keeping reliance on crude oil higher and potentially denting future demand for cleaner energy alternatives.
+- **Sentiment contribution:** Bearish — the cuts signal broader regulatory constraints that might hinder the transition away from crude oil.
+
+**Geopolitics & Policy | Regulatory Constraint | Severity: High**
+- **Headline:** BP to Focus More on Oil and Gas in Strategy ‘Reset’
+- **What happened:** BP announced a strategy shift to focus more on oil and gas production by increasing spending in these areas while cutting back on renewables, reflecting pressure for higher returns [Article 3].
+- **Market impact:** Increased investment in oil suggests a continued reliance on crude oil, which may stabilize prices but indicate a lack of shift towards diversification of energy sources.
+- **Sentiment contribution:** Neutral — while it indicates sustained demand for crude oil, it also reflects a negative view on the energy transition.
+
+**Geopolitics & Policy | Regulatory Constraint | Severity: Low**
+- **Headline:** Trump suggests to oil donors he will fast-track their merger deals
+- **What happened:** Former President Trump indicated he would fast-track M&A within the oil industry, suggesting a potential easing of regulatory scrutiny if he is re-elected [Article 5].
+- **Market impact:** This may lead to increased consolidation and possibly higher prices through greater market control, but it also reflects uncertainty about future regulatory frameworks.
+- **Sentiment contribution:** Neutral — the pledge could be supportive of industry growth but remains speculative.
+
+**Financial Flows / Positioning | No Significant Risk | Severity: Low**
+- **Headline:** Exxon Mobil (XOM) Stock: What to Watch Before the December 1, 2025 Market Open
+- **What happened:** The article noted Exxon's strong cash flows and increased dividends amid a softer oil-price backdrop, implying stability in financial health despite adverse market conditions [Article 2].
+- **Market impact:** While Exxon remains a strong player, challenges in moving forward with clean energy initiatives may temper growth prospects.
+- **Sentiment contribution:** Neutral — indicates short-term financial stability despite long-term regulatory challenges.
+
+**Geopolitics & Policy | No Significant Risk | Severity: Low**
+- **Headline:** Chevron to buy Hess Corp for $53 billion in all-stock deal
+- **What happened:** Chevron's acquisition of Hess Corp for $53 billion will expand its U.S. oil footprint and potentially enhance production capabilities [Article 4].
+- **Market impact:** This merger reflects ongoing consolidation in the industry, potentially stabilizing supply but may result in reduced competition.
+- **Sentiment contribution:** Neutral — while it is a positive move for Chevron, industry consolidation does not directly influence the broader crude oil market immediately.
+
+### 3. SIGNAL SYNTHESIS
+The risk signals are somewhat aligned, indicating high regulatory constraints affecting the crude oil sector's shift towards clean energy. While BP's decision to focus on oil and gas signifies potential stability in demand, regulatory challenges from recent funding cuts create bearish sentiment. The net effect tilts toward a cautious outlook given the various constraints at play.
+
+### 4. WATCH LIST
+- [ ] **Outcome of Trump's regulatory pledges** → If Trump is re-elected and follows through on fast-tracking mergers, there could be increased consolidation, impacting market dynamics.
+- [ ] **BP’s investment outcomes in oil and gas** → Should BP's strategy yield higher returns, it could influence other energy companies to follow suit.
+- [ ] **Exxon's performance amidst funding cuts** → Monitoring Exxon’s adaptation to reduced funding for clean projects will be crucial in assessing long-term viability.
+
+### 5. BOTTOM LINE
+**Risk Level: High**  
+The crude oil market is currently facing significant regulatory constraints that could impede transition and investment into alternative energy sources, creating a bearish outlook. Risk managers should be aware that these signals are driven by political developments that may fragily alter with future administrations.

@@ -1,0 +1,54 @@
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+## COMMODITY RISK REPORT
+**Commodity:** crude oil  
+**Report Date:** 2023-04-28  
+**Articles Analysed:** 5 articles  
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+### 1. OVERALL SENTIMENT
+**Mixed**  
+There is a split sentiment as BP faces pushback from shareholders and protests over its weakening climate goals, leading to concerns about regulatory constraints. Meanwhile, the ability of U.S. refiners to post strong earnings in Q1 offers a bullish counterpoint, despite declining diesel demand outlook.
+
+---
+
+### 2. KEY RISK SIGNALS
+
+**[Energy transition / structural] | [Geopolitical Conflict] | Severity: High**  
+- **Headline:** BP faces green protest over new climate goals  
+- **What happened:** BP is experiencing protests and shareholder dissatisfaction after reducing its climate targets.  
+- **Market impact:** This may lead to increased regulatory pressure and potential disruptions in operations, elevating the uncertainty around crude oil supply.  
+- **Sentiment contribution:** Bearish — the protests indicate rising concerns about BP's sustainability strategy, which could affect its operational decisions negatively.
+
+---
+
+**[Geopolitics & policy] | [Regulatory Constraint] | Severity: Medium**  
+- **Headline:** BP shareholders reject climate activist resolution but support grows  
+- **What happened:** Shareholders rejected a harsh climate proposal, but increasing support for tougher targets indicates growing pressures.  
+- **Market impact:** Regulatory constraints may tighten if investor sentiment drives BP towards more stringent environmental practices, potentially impacting its production capabilities.  
+- **Sentiment contribution:** Bearish — while the rejection of the resolution may provide immediate stability, the growing demand for stricter controls could lead to long-term challenges.
+
+---
+
+**[Refining (downstream)] | [Macro-Economic Cooling] | Severity: Medium**  
+- **Headline:** U.S. oil refiners to post strong Q1 earnings, but demand outlook dims  
+- **What happened:** U.S. refiners project strong earnings due to robust exports; however, there's an anticipated slump in domestic diesel demand.  
+- **Market impact:** A weakened demand outlook could lead to a reduction in crude oil purchasing, impacting overall crude prices negatively.  
+- **Sentiment contribution:** Bearish — while current earnings are strong, the outlook suggests potential oversupply issues leading to price declines.
+
+---
+
+### 3. SIGNAL SYNTHESIS
+The overall sentiment regarding crude oil reflects mixed conditions. While BP's shareholder confrontation suggests increasing regulatory pressures that are bearish for long-term supply stability, the temporary profitability among U.S. refiners provides a counter balance. The risks are confirmed by both market sentiment and production forecasts, suggesting a cautious approach as structural changes unfold.
+
+---
+
+### 4. WATCH LIST
+- [ ] BP's response to shareholder concerns → A concession or strategy shift could influence investor confidence and regulatory framework.
+- [ ] Changes in domestic diesel demand forecasts → Significant declines would suggest diminished crude oil purchases and downward price pressure.
+- [ ] Adoption of stricter climate policies by shareholders → This could impose new operational limits on oil production, impacting supply dynamics.
+
+---
+
+### 5. BOTTOM LINE
+**Risk Level: Medium**  
+The immediate focus should be on the implications of BP's shareholder actions and the impacts on regulatory constraints. Continued scrutiny over climate commitments alongside declining demand forecasts would elevate the risk environment; hence close monitoring is essential.

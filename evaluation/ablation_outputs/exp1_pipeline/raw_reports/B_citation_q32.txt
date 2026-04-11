@@ -1,0 +1,42 @@
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+## COMMODITY RISK REPORT
+**Commodity:** crude oil  
+**Report Date:** 2026-04-11  
+**Articles Analysed:** 5 articles  
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+### 1. OVERALL SENTIMENT
+**Bullish**
+> The overall sentiment is bullish due to Hess Corp’s significant year-on-year increase in oil production in Guyana, which contributes to a positive outlook for supply growth and company performance despite challenges from lower energy prices.
+
+### 2. KEY RISK SIGNALS
+
+**Supply (Production/Upstream) | Production Shortfall | Severity: Medium**
+- **Headline:** Hess Doubles Guyana Oil Output
+- **What happened:** Hess Corp increased its net oil production in Guyana by 52% year-on-year to 195,000 bpd in Q4 2024, resulting in improved earnings [Article 1].
+- **Market impact:** This increase solidifies Hess's capacity to boost supply, which may stabilize or increase prices due to enhanced market confidence.
+- **Sentiment contribution:** Bullish — Increased production suggests robust supply and growth potential in a strategic oil field.
+
+**Supply (Production/Upstream) | Production Shortfall | Severity: Medium**
+- **Headline:** Oil producer Hess beats profit estimates on U.S. production boost
+- **What happened:** Hess reported a significant production forecast increase, predicting an output of 385,000 to 390,000 barrels of oil equivalent per day [Article 2].
+- **Market impact:** An enhanced production forecast indicates robust supply dynamics for crude oil.
+- **Sentiment contribution:** Bullish — Supportive of growing market supply.
+
+**Financial Flows/Positioning | No Significant Risk | Severity: Low**
+- **Headline:** Hess beats first-quarter profit estimate despite weak oil prices
+- **What happened:** Despite a drop in profits due to lower oil prices, Hess reported stable production expectations and significant earnings surpassing predictions [Article 4].
+- **Market impact:** While indicating resilience, the profit drop signifies possible price pressure.
+- **Sentiment contribution:** Neutral — Maintaining production amidst price fluctuation shows a stabilizing market.
+
+### 3. SIGNAL SYNTHESIS
+The risk signals are mostly aligned, indicating a bullish outlook for crude oil largely due to Hess's increased production capabilities in Guyana and positive earnings reports. However, the presence of price pressures from lower oil prices introduces some caution, suggesting that while supply is strong, market prices may still be influenced negatively by external factors. The overall net effect on commodity risk exposure seems moderately optimistic but may require monitoring due to price volatility.
+
+### 4. WATCH LIST
+- [ ] **Hess production levels in Q2 2025** → An increase would bolster bullish sentiment further, while a decrease could trigger bearish sentiment.
+- [ ] **Regulatory changes impacting Hess’s merger with Chevron** → Any approvals or setbacks could affect production scaling and market dynamics.
+- [ ] **Global oil price fluctuations** → Significant drops could reduce Hess's production profitability and market sentiment negatively.
+
+### 5. BOTTOM LINE
+**Risk Level: Medium**  
+The current risk level for crude oil is medium due to stable production forecasts and enhanced supply from Hess Corp, balanced by potential price volatility. Monitoring regulatory developments and oil price impacts is crucial, as they could introduce fluctuations in market perception and commodity value.

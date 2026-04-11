@@ -1,0 +1,46 @@
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+## COMMODITY RISK REPORT
+**Commodity:** LNG  
+**Report Date:** 2026-04-11  
+**Articles Analysed:** 5 articles  
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+### 1. OVERALL SENTIMENT
+**Bearish**  
+The overall sentiment is bearish due to significant supply chain blockages caused by Europe's increased demand for LNG, which diverts resources away from Asia, creating an energy shortage in that region [Article 1]. This situation exerts downward pressure on prices, with implications for Asian energy security.
+
+---
+### 2. KEY RISK SIGNALS
+
+**LNG & Natural Gas | Supply Chain Blockage | Severity: High**  
+- **Headline:** Europe's scramble for LNG leaves Asia starving for energy  
+- **What happened:** Increased demand for LNG in Europe due to the war in Ukraine is causing a diversion of shipments away from Asian countries like China, Japan, and Bangladesh [Article 1].  
+- **Market impact:** This diversion results in energy shortages in Asia, potentially driving up prices due to limited supply.  
+- **Sentiment contribution:** Bearish — the limitation in available LNG for Asian markets indicates a supply constraint, leading to potentially higher costs for Asian consumers [Article 1].
+
+**LNG & Natural Gas | Supply Chain Blockage | Severity: Medium**  
+- **Headline:** QatarEnergy’s US LNG project approved for gas exports  
+- **What happened:** The US Energy Department approved gas exports for several LNG projects, including those by QatarEnergy and Glenfarne Group LLC, aimed at supporting European gas supply [Article 2].  
+- **Market impact:** While this initiative seeks to address European needs, it does not provide immediate solutions to ongoing supply challenges.  
+- **Sentiment contribution:** Neutral — the approval of projects could bolster long-term supply but does not resolve current constraints immediately.
+
+**LNG & Natural Gas | No Significant Risk | Severity: Low**  
+- **Headline:** Williams Joins Forces With Cheniere to Quantify, Report GHG Emissions  
+- **What happened:** Williams is partnering with Cheniere Energy to enhance emission monitoring in natural gas systems [Article 4, 5].  
+- **Market impact:** While this project aims to improve environmental practices, it does not directly impact LNG supply or pricing.  
+- **Sentiment contribution:** Neutral — this initiative does not pose immediate risks or benefits to the market.
+
+---
+### 3. SIGNAL SYNTHESIS
+The primary risk signal of supply chain blockage is reinforced by the geopolitical tensions affecting the LNG market. While new projects may offer potential future supply, they do not alleviate current shortages created by the demand for LNG in Europe, contributing to a bearish sentiment. Overall, the net effect on commodity risk exposure indicates heightened vulnerability for Asian markets, potentially leading to increased prices and supply constraints.
+
+---
+### 4. WATCH LIST
+- [ ] Monitoring LNG shipment patterns to Asia → An increase in shipments could reduce shortages and create a more balanced market.
+- [ ] Progress on QatarEnergy and Glenfarne Group projects → Timely completion could potentially alleviate European import challenges and affect pricing dynamics in the region.
+- [ ] Geopolitical developments in Ukraine and Eastern Europe → Escalation could further strain LNG supplies and affect global pricing strategies.
+
+---
+### 5. BOTTOM LINE
+**Risk Level: High**  
+The LNG market is facing significant risk due to supply chain blockages that result from Europe's escalating demand, creating shortages for Asian consumers. Risk managers should closely observe shipping dynamics and geopolitical developments, as these factors are crucial in understanding potential price movements.

@@ -1,0 +1,46 @@
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+## COMMODITY RISK REPORT
+**Commodity:** LNG
+**Report Date:** 2026-04-11
+**Articles Analysed:** 5 articles
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+### 1. OVERALL SENTIMENT
+**Bullish**  
+The market is experiencing a bullish sentiment driven by surging natural gas futures, which reached a 14-year high, influenced by hot weather forecasts, increased demand, and geopolitical tensions over Russian gas supplies to Europe [Article 1]. 
+
+---
+### 2. KEY RISK SIGNALS
+
+**LNG & Natural Gas | Demand/Macro Activity | Severity: High**
+- **Headline:** U.S. natgas up 3% after hitting 14-yr high ahead of contract rollover
+- **What happened:** U.S. natural gas futures surged by 3% to a seven-week high, reaching $8.993 per mmBtu, amidst forecasts for hotter weather and recovering demand, compounded by concerns over Russian gas supplies to Europe [Article 1].
+- **Market impact:** This surge reflects increasing demand for LNG in the U.S. and higher prices anticipated in the market.
+- **Sentiment contribution:** Bullish — the combination of rising demand and pricing pressures supports positive market sentiment.
+
+**LNG & Natural Gas | Production Shortfall | Severity: Medium**
+- **Headline:** As demand for US LNG booms, one plant struggles to stay online
+- **What happened:** The Freeport LNG facility has been operating below 80% capacity due to technical issues stemming from previous damage and a fire, affecting U.S. LNG export reliability [Article 2].
+- **Market impact:** The operational struggles of this major facility could lead to supply constraints, increasing price volatility.
+- **Sentiment contribution:** Bearish — the uncertainty surrounding production capabilities could dampen the overall bullish sentiment.
+
+**LNG & Natural Gas | Supply Chain Blockage | Severity: Medium**
+- **Headline:** LNG imports to China tumble 20% in 2022
+- **What happened:** China's LNG imports fell by 20% last year due to Covid-19 lockdowns and a shift to domestic production and pipeline supplies, impacting global LNG trade dynamics [Article 3].
+- **Market impact:** Reduced demand from one of the largest consumers of LNG could create oversupply in the global market.
+- **Sentiment contribution:** Bearish — the notable decline in imports adds downward pressure on prices and could affect global demand dynamics.
+
+---
+### 3. SIGNAL SYNTHESIS
+The risk signals present a mixed view. While demand for LNG remains strong in the U.S., driven by weather and geopolitical concerns, there are significant negative indicators related to production capacity and demand reductions from China. The persistent operational issues at Freeport LNG introduce volatility, complicating the overall demand picture. The net effect highlights both bullish and bearish forces that traders must carefully navigate.
+
+---
+### 4. WATCH LIST
+- [ ] Monitor Freeport LNG's operational status → Recovery could stabilize or enhance U.S. LNG exports.
+- [ ] Watch for changes in European gas prices influenced by geopolitical developments → Price spikes could reshape market dynamics.
+- [ ] Assess China's LNG import policies and market behavior post-Covid-19 lockdowns → Any significant shift towards increased imports could substantially change demand forecasts.
+
+---
+### 5. BOTTOM LINE
+**Risk Level: Medium**  
+Traders should be aware of the mixed signals in the LNG market: while current conditions suggest a bullish trend, underlying production challenges and changes in major consumer demand remain significant risks. The sentiment can quickly shift based on geopolitical developments or plant operations, necessitating close monitoring of the situation.

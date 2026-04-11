@@ -1,0 +1,57 @@
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+## COMMODITY RISK REPORT
+**Commodity:** crude oil  
+**Report Date:** 2026-04-11  
+**Articles Analysed:** 5 articles  
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+### 1. OVERALL SENTIMENT
+**Bullish**  
+The dominant signal is bullish as Hess Corp's significant increase in oil production in Guyana, along with forecasts for future production growth, supports a positive sentiment in the market amid stronger supply expectations.
+
+---
+
+### 2. KEY RISK SIGNALS
+
+**Supply (Production/Upstream) | Production Shortfall | Severity: Medium**  
+- **Headline:** Hess Doubles Guyana Oil Output  
+- **What happened:** Hess Corp increased its net oil production in Guyana by 52% year-on-year to 195,000 bpd in Q4 2024, which contributes positively to overall production and earnings growth.  
+- **Market impact:** This strong increase in production mitigates concerns over a potential supply shortfall, indicating a robust supply side.  
+- **Sentiment contribution:** Bullish — the significant production increase suggests stability in supply.
+
+**Supply (Production/Upstream) | Production Shortfall | Severity: Medium**  
+- **Headline:** Oil producer Hess beats profit estimates on U.S. production boost  
+- **What happened:** Hess reported an 82% year-on-year decline in profit but exceeded expectations due to increased U.S. production and an anticipated higher production from Guyana in the fourth quarter.  
+- **Market impact:** The successful expansion in production forecasts raises expectations for crude oil supply resilience.  
+- **Sentiment contribution:** Bullish — additional production from U.S. and Guyana reinforces market confidence in supply.
+
+**Financial Flows/Positioning | No Significant Risk | Severity: Low**  
+- **Headline:** Hess beats first-quarter profit estimate despite weak oil prices  
+- **What happened:** Hess surpassed Wall Street expectations despite declining oil prices and is pending arbitration related to its Guyana assets, which presents minimal risk to immediate production.  
+- **Market impact:** The overall operational stability signals that production is not at immediate risk despite the ongoing arbitration.  
+- **Sentiment contribution:** Neutral — lacks significant risk impact, supporting overall stability.
+
+**Financial Flows/Positioning | No Significant Risk | Severity: Low**  
+- **Headline:** Ford Motor Company (F) Q2 adj. earnings drop despite higher revenues  
+- **What happened:** While not directly related to crude production, this article reflects broader market trends suggesting mixed impacts on demand related to consumer goods, which can indirectly influence oil markets.  
+- **Market impact:** Signals potential headwinds for demand affecting crude prices indirectly.  
+- **Sentiment contribution:** Bearish — reflects potential consumer weakness affecting demand.
+
+---
+
+### 3. SIGNAL SYNTHESIS
+The risk signals are primarily aligned with a bullish outlook due to Hess's production increases in Guyana and the U.S., bolstering supply confidence. However, the bearish sentiment from Ford’s performance hints at potential demand weaknesses that could temper the bullish outlook. The net effect on commodity risk exposure is leaning towards bullish due to strong production forecasts, yet concerns about demand variability remain.
+
+---
+
+### 4. WATCH LIST
+- [ ] Monitor Hess's upcoming production figures for Q1 2025 → A decrease could indicate supply instability.
+- [ ] Observe developments in the arbitration case regarding Hess's assets → Negative outcomes might impact production visibility.
+- [ ] Track global oil demand metrics, particularly from major consumers like the U.S. → A decline could hinder price stability.
+- [ ] Check for any geopolitical developments affecting oil supply routes → Sudden disruptions could create significant volatility.
+
+---
+
+### 5. BOTTOM LINE
+**Risk Level: Medium**  
+Hess's robust production increase offers a bullish sentiment, though potential consumer demand concerns may present challenges. It's vital to keep an eye on both Hess’s performance and overarching market demand indicators in the near term.

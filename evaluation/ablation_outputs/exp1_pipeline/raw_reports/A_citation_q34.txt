@@ -1,0 +1,55 @@
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+## COMMODITY RISK REPORT
+**Commodity:** crude oil  
+**Report Date:** 2026-04-11  
+**Articles Analysed:** 5 articles  
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+### 1. OVERALL SENTIMENT
+**Bearish**  
+The sentiment is primarily bearish due to the revocation of Chevron's license to export oil from Venezuela, which is poised to significantly reduce Venezuela's oil output and financial viability, especially while ConocoPhillips proceeds with its claims against Venezuela's assets.
+
+### 2. KEY RISK SIGNALS
+
+**Geopolitics & Policy | Geopolitical Conflict | Severity: High**  
+- **Headline:** Trump cuts financial lifeline for Venezuela by ending permit to export oil to U.S.  
+- **What happened:** Former President Trump terminated a permit allowing Chevron to pump and export Venezuelan oil, citing political reasons and slow progress on democracy.  
+- **Market impact:** This action will severely limit Venezuela's oil exporting capacity, exacerbating an already critical economic situation and potentially increasing global crude oil prices due to lower supply.  
+- **Sentiment contribution:** Bearish — the loss of Chevron's operations diminishes Venezuela's oil output, which is detrimental for the already strained supply chain [Article 1].
+
+**Geopolitics & Policy | Geopolitical Conflict | Severity: High**  
+- **Headline:** Trinidad court recognizes ConocoPhillips' $1.3 bln claim against Venezuela  
+- **What happened:** A court has validated ConocoPhillips' claim against Venezuela, allowing the company to seize compensation from joint gas projects.  
+- **Market impact:** This complicates Venezuela’s financial recovery from oil exports and their participation in international gas ventures, limiting operational capabilities.  
+- **Sentiment contribution:** Bearish — the legal battles contribute uncertainty and hinder Venezuela's oil sector revitalization [Article 2].
+
+**Geopolitics & Policy | Geopolitical Conflict | Severity: High**  
+- **Headline:** Venezuela: Vulture Fund Elliott Chosen as Winner of CITGO Court-Mandated Auction  
+- **What happened:** Elliott Investment Management won an auction for CITGO with a bid that does not cover total claims, reflecting the limited viability of Venezuelan assets.  
+- **Market impact:** This outcome signifies further complications for the Venezuelan government, potentially reducing their operational capacity in the global oil market.  
+- **Sentiment contribution:** Bearish — the pressure from creditors and auction results diminish foreign investment appeal in Venezuela's oil sector [Article 3].
+
+**Supply (Production/Upstream) | Production Shortfall | Severity: Medium**  
+- **Headline:** Chevron to update production targets during investor day  
+- **What happened:** Chevron plans to balance its oil output and shareholder returns with its environmental objectives, including challenges from inflation and political risks.  
+- **Market impact:** Depending on Chevron's capacity to implement production targets without the Venezuelan operations, total U.S. output could face shortfalls, influencing prices.  
+- **Sentiment contribution:** Neutral — while challenges exist, Chevron's commitment may mitigate some risks, though compounded with other bearish signals [Article 4].
+
+**Supply (Production/Upstream) | Production Shortfall | Severity: Medium**  
+- **Headline:** Chevron readies new oil drilling push in Venezuela to boost output  
+- **What happened:** Chevron plans to increase its drilling operations by adding rigs in Venezuela, aiming for a significant output boost.  
+- **Market impact:** This effort might improve production, but the revocation of the export license complicates actual output reaching markets.  
+- **Sentiment contribution:** Bearish — while the intent to increase output exists, the geopolitical and operational barriers present significant hurdles [Article 5].
+
+### 3. SIGNAL SYNTHESIS
+The risk signals indicate a predominantly bearish outlook due to the combination of geopolitical conflicts and legal claims against Venezuela, correlating with fundamentals that suggest constrained supply. Each risk is confirmed by factual events, collectively exacerbating Venezuela's already tenuous position in the oil market.
+
+### 4. WATCH LIST
+- [ ] **Effectiveness of reinstating Chevron's export permit** → A reversal could stabilize Venezuela’s output and funding.
+- [ ] **Further developments on ConocoPhillips' claims** → If enforcement action accelerates, it could further restrict Venezuela's assets.
+- [ ] **Venezuelan political changes** → A shift in political stance could either alleviate tensions or worsen the current crisis.
+- [ ] **Court outcomes related to CITGO** → Positive outcomes could enhance investor confidence or vice versa for Venezuela's financial prospects.
+
+### 5. BOTTOM LINE
+**Risk Level: High**  
+The imminent revocation of Chevron's export license and ongoing legal challenges pose significant risks to Venezuela's crude oil production and revenue generation. These developments present a fragile market situation, warranting close monitoring of related geopolitical and legal developments.

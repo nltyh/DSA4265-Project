@@ -1,0 +1,36 @@
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+## COMMODITY RISK REPORT
+**Commodity:** Diesel
+**Report Date:** 2026-04-11
+**Articles Analysed:** 5 articles
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+### 1. OVERALL SENTIMENT
+**Bearish**
+> The current sentiment is predominantly bearish due to ongoing regulatory pressures on California refineries and disruptions such as refinery outages.
+
+### 2. KEY RISK SIGNALS
+
+**Refining (Downstream) | Regulatory Constraint | Severity: High**
+- **Headline:** Valero Considers All Options, Including Sale, for California Refineries Amid Regulatory Pressure
+- **What happened:** Valero Energy is considering selling its two California refineries due to increasing regulatory challenges and high gasoline prices. This situation raises concerns over future refinery operations and supply capability in California [Article 3].
+- **Market impact:** Regulatory pressure may lead to refinery closures, which could lower diesel supply in the region and subsequently raise prices.
+- **Sentiment contribution:** Bearish — reflects concerns over regulatory impacts on refining capacity.
+
+**Refining (Downstream) | Refining Outage | Severity: High**
+- **Headline:** Valero Shuts Major Refinery After Explosion as Fuel Markets Tighten
+- **What happened:** Valero has shut down its Port Arthur refinery following an explosion that affected a diesel processing unit, leading to reduced refining capacity [Article 5].
+- **Market impact:** The immediate loss of processing capability in an important facility can tighten diesel fuel markets and potentially drive up prices.
+- **Sentiment contribution:** Bearish — highlights supply constraints resulting from operational disruptions.
+
+### 3. SIGNAL SYNTHESIS
+The risk signals identified are aligned in indicating a bearish outlook for the diesel market. Both the regulatory constraints affecting Valero's California refineries and the significant supply disruption from the Port Arthur refinery shutdown suggest tightening supply and increased prices for diesel. These risks are confirmed by fundamentals rather than sentiment alone.
+
+### 4. WATCH LIST
+- [ ] **California Refinery Sales** → If Valero proceeds with selling its refineries, this could lead to reduced capacity and further fuel market implications in the region.
+- [ ] **Regulatory Changes** → Any new regulations affecting refinery operations could exacerbate supply issues and price volatility.
+- [ ] **Operational Updates from Valero** → Monitoring Valero's response and recovery efforts post-explosion could provide insights into future supply stability.
+
+### 5. BOTTOM LINE
+**Risk Level: High**
+The diesel market faces significant risk due to regulatory pressures and operational disruptions at key refining facilities, which could lead to reduced supply and increased prices. This situation is fragile, as ongoing developments could change the dynamics rapidly.

@@ -1,0 +1,51 @@
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+## COMMODITY RISK REPORT
+**Commodity:** crude oil
+**Report Date:** 2026-04-11
+**Articles Analysed:** 5 articles
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+### 1. OVERALL SENTIMENT
+**[Mixed]**
+> Current crude oil market sentiment is mixed, driven by supply disruptions and production challenges from U.S. LNG facilities and China's reduced import activity, which create bearish pressures, while strong domestic demand for natural gas linked to external factors provides some bullish signals.
+
+---
+### 2. KEY RISK SIGNALS
+
+**[LNG & natural gas] | [Supply Chain Blockage] | Severity: High**
+- **Headline:** News Content Hub - LNG imports to China tumble 20% in 2022
+- **What happened:** China's LNG imports dropped by 20% due to stringent Covid-19 measures and a shift towards domestic production.
+- **Market impact:** This decline in imports raises concerns over international LNG demand, which can indirectly affect crude oil pricing, especially with China being a major global player.
+- **Sentiment contribution:** Bearish — reduced LNG imports from a key consumer could lead to lower overall energy demand, impacting crude oil.
+
+---
+
+**[LNG & natural gas] | [Production Shortfall] | Severity: High**
+- **Headline:** As demand for US LNG booms, one plant struggles to stay online
+- **What happened:** Freeport LNG has been operating below its capacity due to technical issues affecting U.S. LNG exports.
+- **Market impact:** Persistent operational challenges at this facility can lead to reduced U.S. LNG availability, increasing competition for remaining gas supplies, and potentially raising crude oil prices.
+- **Sentiment contribution:** Bullish — a supply shortfall in the LNG sector can heighten crude oil's attractiveness as an energy source.
+
+---
+
+**[LNG & natural gas] | [Demand / macro activity] | Severity: Medium**
+- **Headline:** U.S. natgas up 3% after hitting 14-yr high ahead of contract rollover
+- **What happened:** U.S. natural gas futures surged due to hotter weather forecasts, increased demand, and concerns over Russian gas supplies.
+- **Market impact:** Short-term demand spikes may bolster natural gas prices, which can lead to associated price increases in crude oil as energy markets react to overall energy supply concerns.
+- **Sentiment contribution:** Bullish — heightened demand in one sector can support prices in related energy markets.
+
+---
+
+### 3. SIGNAL SYNTHESIS
+The signals reflect both bearish and bullish drivers. Reduced LNG imports from China suggest lower overall energy demand, while production challenges in U.S. LNG increase crude oil attractiveness. The effects appear fundamentally grounded, indicating a volatile risk exposure profile for crude oil prices due to varied demand factors.
+
+---
+### 4. WATCH LIST
+- [ ] Continued monitoring of Freeport LNG operations → If the plant can improve its output, it may stabilize natural gas and crude prices.
+- [ ] Changes in China's Covid-19 restrictions → An easing could lead to a rebound in LNG imports, influencing crude demand positively.
+- [ ] Weather forecasts for the upcoming months → Extreme weather can significantly alter both LNG and crude oil demand patterns.
+
+---
+### 5. BOTTOM LINE
+**Risk Level: Medium**
+Current sentiment reflects upward pressure on crude oil prices due to potential supply constraints in the LNG market, offset by overall reduced demand from major consumers like China. Traders should stay alert to shifts in weather forecasts and production reliability.

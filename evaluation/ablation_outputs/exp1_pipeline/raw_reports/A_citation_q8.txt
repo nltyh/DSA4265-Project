@@ -1,0 +1,46 @@
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+## COMMODITY RISK REPORT
+**Commodity:** LNG  
+**Report Date:** 2026-04-11  
+**Articles Analysed:** 5 articles  
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+### 1. OVERALL SENTIMENT
+**Bullish**  
+The sentiment is generally bullish due to the U.S. achieving the status of the world's top LNG exporter, demonstrating strong demand from Europe amid the energy crisis and rising exports that bolster prices.
+
+---
+
+### 2. KEY RISK SIGNALS
+
+**LNG & Natural Gas | Supply Chain Blockage | Severity: Medium**  
+- **Headline:** U.S. becomes top LNG exporter in first half of 2022 - EIA  
+- **What happened:** In the first half of 2022, U.S. LNG exports rose by 12% despite a temporary reduction in exports caused by a fire at the Freeport LNG facility.  
+- **Market impact:** The growth in export capacity and demand is likely to strengthen market prices, although the supply chain blockage from the fire poses a risk of short-term supply disruptions.  
+- **Sentiment contribution:** Bearish — the fire represents a supply chain risk which could impact exports in the near term amid high global demand [Article 2].
+
+---
+
+**LNG & Natural Gas | No Significant Risk | Severity: Low**  
+- **Headline:** US becomes world’s top LNG exporter for first time ever  
+- **What happened:** The U.S. surpassed Qatar for the first time as the world's leading LNG exporter in late 2021, driven by increased production and demand from Europe.  
+- **Market impact:** This position enhances the competitiveness of U.S. LNG in global markets, supporting higher prices.  
+- **Sentiment contribution:** Bullish — the achievement suggests strong market fundamentals favoring the U.S. as a reliable supplier [Article 1].
+
+---
+
+### 3. SIGNAL SYNTHESIS
+The signals are mixed; while the U.S. has successfully positioned itself as a leading LNG exporter, the fire at the Freeport facility signifies a potential supply chain blockade that could undermine overall supply. The bullish sentiment from increased exports and demand contrasts with the bearish implications of operational disruptions. Fundamentals seem to support a strong market, but operational risks loom.
+
+---
+
+### 4. WATCH LIST
+- [ ] Monitor the recovery timeline for the Freeport LNG facility → A faster recovery could mitigate bearish impacts from supply disruptions.
+- [ ] Track developments in Qatar's LNG export projects → Increased competition may challenge U.S. market share in the future.
+- [ ] Observe European demand trends for LNG → Sustained high demand could support price increases, especially during winter months.
+
+---
+
+### 5. BOTTOM LINE
+**Risk Level: Medium**  
+The current risk exposure in the LNG market should be considered medium due to operational risks that could impact supply from the U.S. despite strong overall demand and export capabilities. The bullish sentiment from high exports is somewhat fragile, contingent on the resolution of the supply issues related to the Freeport LNG facility.

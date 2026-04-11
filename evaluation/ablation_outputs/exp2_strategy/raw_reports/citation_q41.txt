@@ -1,0 +1,46 @@
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+## COMMODITY RISK REPORT
+**Commodity:** crude oil
+**Report Date:** 2026-04-11
+**Articles Analysed:** 5 articles
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+### 1. OVERALL SENTIMENT
+**Mixed**
+> The crude oil market experiences opposing signals: a significant inventory increase suggests bearish sentiment, while geopolitical tensions adding to supply chain blockages contribute to a bullish outlook.
+
+---
+### 2. KEY RISK SIGNALS
+
+**Geopolitics & Policy | Geopolitical Conflict | Severity: High**
+- **Headline:** Oil Plummets 8% as Trump Postpones Hormuz Deadline Threat
+- **What happened:** Brent crude oil prices dropped over 8% following comments by U.S. President Trump regarding productive talks with Iran, which reduced immediate fears of conflict in the Strait of Hormuz [Article 3].
+- **Market impact:** The reduced threat of immediate conflict could stabilize prices in the short term, but uncertainty remains over future tensions.
+- **Sentiment contribution:** Bearish — due to the immediate drop in prices.
+
+**Supply (Production/Upstream) | Supply Chain Blockage | Severity: High**
+- **Headline:** Saudi Arabia Slashes Oil Supply to Asia as War Chokes Export Route
+- **What happened:** Saudi Arabia announced cuts to crude oil exports to Asia as a consequence of the ongoing conflict that is impacting the Strait of Hormuz [Article 5].
+- **Market impact:** Reduced Saudi supply could lead to higher prices in Asia, tightening global supply.
+- **Sentiment contribution:** Bullish — scarcity due to supply cuts tends to exert upward pressure on prices.
+
+**Inventory & Storage | Inventory Shock | Severity: High**
+- **Headline:** US Crude Oil, Product Inventories Rise
+- **What happened:** The API reported a rise in U.S. crude oil inventories by 2.3 million barrels, following a previous large increase [Article 1].
+- **Market impact:** The significant rise in inventories indicates weak demand or excess supply, further adding bearish pressure to prices.
+- **Sentiment contribution:** Bearish — higher inventories suggest oversupply, which is not supportive of high prices.
+
+---
+### 3. SIGNAL SYNTHESIS
+The risk signals present a mixed picture, with geopolitical conflicts and supply chain blockages suggesting upward pressure on prices, while rising inventories indicate weakening demand. This divergence means the market is reacting to mixed signals; traders should closely monitor geopolitical developments as they could shift market sentiment rapidly.
+
+---
+### 4. WATCH LIST
+- [ ] **Strait of Hormuz tensions** → Escalation could severely disrupt oil transport and amplify prices.
+- [ ] **Valero refinery status** → Further developments from the Port Arthur refinery explosion could lead to additional shortages in the diesel market.
+- [ ] **Global inventory levels** → Ongoing trends in oil stock levels in the U.S. could dictate near-term price adjustments.
+
+---
+### 5. BOTTOM LINE
+**Risk Level: High**
+The crude oil market faces significant risks stemming from geopolitical tensions and rising inventories. The balance of these factors creates heightened volatility, necessitating careful management of exposure and positioning.

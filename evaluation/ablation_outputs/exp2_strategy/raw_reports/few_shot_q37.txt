@@ -1,0 +1,52 @@
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+## COMMODITY RISK REPORT
+**Commodity:** crude oil  
+**Report Date:** 2026-04-11  
+**Articles Analysed:** 5 articles  
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+### 1. OVERALL SENTIMENT
+**[Bearish]**
+> The dominant signal is bearish due to the anticipated increase in supply from OPEC+, leading to fears of a market surplus, which exerts downward pressure on prices.
+
+---
+### 2. KEY RISK SIGNALS
+
+**[Supply (Production/Upstream)] | [Supply Chain Blockage] | Severity: Medium**
+- **Headline:** The Commodities Feed: Oil under pressure amid noise over more OPEC+ supply hikes
+- **What happened:** Discussions around additional OPEC+ supply hikes have led to downward pressure on oil prices as a market surplus is expected from late 2025.
+- **Market impact:** Increased supply from OPEC+ could lead to significant price drops as demand fails to keep pace with this surge, potentially saturating the market.
+- **Sentiment contribution:** Bearish — market participants are concerned about future oversupply scenarios despite current pricing levels.
+
+**[Financial Flows/Positioning] | [No Significant Risk] | Severity: Low**
+- **Headline:** Why Occidental Petroleum Stock Rose In After-Hours Today?
+- **What happened:** Occidental Petroleum's stock experienced a rise due to reports of potential acquisition interests from Berkshire Hathaway amidst the declining oil prices.
+- **Market impact:** While OXY's positive news could boost certain investor sentiments, it does not indicate broader support for crude prices.
+- **Sentiment contribution:** Neutral — the stock movement is driven by corporate developments rather than fundamental changes in the oil market.
+
+**[Financial Flows/Positioning] | [No Significant Risk] | Severity: Low**
+- **Headline:** Exxon Mobil (XOM): Company Profile, Stock Price, News, Rankings
+- **What happened:** This profile features Exxon Mobil's business operations, emphasizing its focus on lower-emission opportunities.
+- **Market impact:** The article provides no immediate implications for oil prices or risk, as it is largely informational.
+- **Sentiment contribution:** Neutral — no significant influence on market dynamics.
+
+**[Supply (Production/Upstream)] | [No Significant Risk] | Severity: Low**
+- **Headline:** 34 Drilling rigs at work in Saskatchewan on Monday
+- **What happened:** The article details the count of active drilling rigs, signaling steady exploration and production activity.
+- **Market impact:** This underscores ongoing production capabilities, but does not significantly alter supply forecasts or pricing.
+- **Sentiment contribution:** Neutral — serves as a standard update but lacks implications for market trends.
+
+---
+### 3. SIGNAL SYNTHESIS
+The risk signals are predominantly aligned in suggesting bearish sentiment stemming from anticipated supply increases from OPEC+. Financial positioning articles present no significant risks or immediate counter-signals. The concern around supply exceeding demand is further validated by market fundamentals, creating a net bearish outlook for crude oil.
+
+---
+### 4. WATCH LIST
+- [ ] **OPEC+ Meeting Outcomes** → Direct implications on production levels and pricing; any surprise cuts could shift sentiment bullish.
+- [ ] **U.S. Economic Data Releases** → Could show demand trends; stronger data might support increased consumption against the backdrop of supply increases.
+- [ ] **Geopolitical Developments** → Escalations or resolutions could impact supply disruptions; positive news could lead to upward price adjustments.
+
+---
+### 5. BOTTOM LINE
+**Risk Level: Medium**  
+Current bearish sentiment drives concerns over prospective excess supply from OPEC+, possibly leading to price declines. While the overall market environment is stable, the anticipated supply chain challenges introduce a medium level of risk to commodity holdings.

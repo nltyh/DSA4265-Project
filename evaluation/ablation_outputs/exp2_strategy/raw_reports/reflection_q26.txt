@@ -1,0 +1,94 @@
+## COMMODITY RISK REPORT
+**Commodity:** crude oil  
+**Report Date:** 2026-04-11  
+**Articles Analysed:** 5 articles  
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+### 1. OVERALL SENTIMENT
+**Mixed**  
+> The sentiment is mixed due to conflicting impacts from geopolitical risks surrounding acquisitions and operational challenges in refining. While a geopolitical delay negatively affects market feelings, refinery operational issues provide a bearish outlook.
+
+---
+### 2. KEY RISK SIGNALS
+
+**Geopolitics & Policy | Geopolitical Conflict | Severity: High**
+- **Headline:** Chevron’s Hess Deal Suffers New Blow as Arbitration Drags On  
+- **What happened:** The arbitration hearing regarding Chevron's acquisition of Hess Corp. has been postponed to May 2025.  
+- **Market impact:** This uncertainty may dampen investor confidence and affect the supply outlook from future projects associated with this acquisition.  
+- **Sentiment contribution:** Bearish — the delay and uncertainty introduce risk that could depress market sentiment in the near term.
+
+---
+
+**Refining (Downstream) | Refining Outage | Severity: Medium**
+- **Headline:** Cenovus Energy Inc: Analysis of Shutdown of Lima Refinery  
+- **What happened:** A key unit at Cenovus's Lima refinery has been shut down, impacting its refining capacity.  
+- **Market impact:** This could lead to reduced supply levels in the short term and potential increases in prices if demand remains stable.  
+- **Sentiment contribution:** Bearish — refinery outages typically create constraints that affect supply dynamics negatively.
+
+---
+
+### 3. SIGNAL SYNTHESIS
+The risk signals are somewhat aligned in indicating a bearish sentiment for crude oil primarily driven by a significant political risk and operational issues in refining. While the overall supply situation may still stabilize, the geopolitical uncertainty surrounding Chevron's Hess deal is a dominant and negative factor. These risks appear primarily sentiment-driven, influenced by investor perceptions rather than concrete supply constraints at this time. 
+
+---
+### 4. WATCH LIST
+- [ ] Resolution of Chevron's arbitration → Successful resolution could restore market confidence in future crude supplies.
+- [ ] Restart timeline for Cenovus's Lima refinery → A quick resolution to the shutdown could stabilize crude prices.
+- [ ] Global oil demand trends → Any notable changes could significantly impact market sentiment.
+
+---
+### 5. BOTTOM LINE
+**Risk Level: Medium**  
+Crude oil faces medium risk levels, predominantly shaped by geopolitical uncertainties and refinery operational challenges. Risk managers should closely monitor the developments surrounding the Chevron-Hess deal and the operational status of refining facilities, as these elements appear fragile and could lead to market volatility.
+
+---
+
+[REFLECTION]
+- The overall sentiment was adequately supported by the articles reviewed.
+- No contradictions were observed among the future impacts; however, different risk factors (geopolitical vs. operational) may exert conflicting pressure on market sentiment.
+- All key signals from the articles were included and accurately reflected.
+- The triggers in the watch list effectively address pertinent developments in the sector.
+
+[FINAL REPORT]
+## COMMODITY RISK REPORT
+**Commodity:** crude oil  
+**Report Date:** 2026-04-11  
+**Articles Analysed:** 5 articles  
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+### 1. OVERALL SENTIMENT
+**Mixed**  
+> The sentiment is mixed due to conflicting impacts from geopolitical risks surrounding acquisitions and operational challenges in refining. While a geopolitical delay negatively affects market feelings, refinery operational issues provide a bearish outlook.
+
+---
+### 2. KEY RISK SIGNALS
+
+**Geopolitics & Policy | Geopolitical Conflict | Severity: High**
+- **Headline:** Chevron’s Hess Deal Suffers New Blow as Arbitration Drags On  
+- **What happened:** The arbitration hearing regarding Chevron's acquisition of Hess Corp. has been postponed to May 2025.  
+- **Market impact:** This uncertainty may dampen investor confidence and affect the supply outlook from future projects associated with this acquisition.  
+- **Sentiment contribution:** Bearish — the delay and uncertainty introduce risk that could depress market sentiment in the near term.
+
+---
+
+**Refining (Downstream) | Refining Outage | Severity: Medium**
+- **Headline:** Cenovus Energy Inc: Analysis of Shutdown of Lima Refinery  
+- **What happened:** A key unit at Cenovus's Lima refinery has been shut down, impacting its refining capacity.  
+- **Market impact:** This could lead to reduced supply levels in the short term and potential increases in prices if demand remains stable.  
+- **Sentiment contribution:** Bearish — refinery outages typically create constraints that affect supply dynamics negatively.
+
+---
+
+### 3. SIGNAL SYNTHESIS
+The risk signals are somewhat aligned in indicating a bearish sentiment for crude oil primarily driven by a significant political risk and operational issues in refining. While the overall supply situation may still stabilize, the geopolitical uncertainty surrounding Chevron's Hess deal is a dominant and negative factor. These risks appear primarily sentiment-driven, influenced by investor perceptions rather than concrete supply constraints at this time. 
+
+---
+### 4. WATCH LIST
+- [ ] Resolution of Chevron's arbitration → Successful resolution could restore market confidence in future crude supplies.
+- [ ] Restart timeline for Cenovus's Lima refinery → A quick resolution to the shutdown could stabilize crude prices.
+- [ ] Global oil demand trends → Any notable changes could significantly impact market sentiment.
+
+---
+### 5. BOTTOM LINE
+**Risk Level: Medium**  
+Crude oil faces medium risk levels, predominantly shaped by geopolitical uncertainties and refinery operational challenges. Risk managers should closely monitor the developments surrounding the Chevron-Hess deal and the operational status of refining facilities, as these elements appear fragile and could lead to market volatility.

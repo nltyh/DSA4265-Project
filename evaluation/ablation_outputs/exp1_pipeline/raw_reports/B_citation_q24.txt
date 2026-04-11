@@ -1,0 +1,42 @@
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+## COMMODITY RISK REPORT
+**Commodity:** crude oil  
+**Report Date:** 2026-04-11  
+**Articles Analysed:** 5 articles  
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+### 1. OVERALL SENTIMENT
+**Bullish**  
+The overall sentiment is bullish due to heightened geopolitical tensions from Houthi attacks on vessels, which could lead to supply disruptions and increased prices.
+
+### 2. KEY RISK SIGNALS
+
+**Shipping & logistics | Geopolitical Conflict | Severity: High**
+- **Headline:** Behind Houthi Attacks on Ships Operated by Greece-Based Companies  
+- **What happened:** The Houthis have escalated their attacks on ships, particularly those linked to Greece, suggesting they may target any shipping company with recent trade connections to Israeli ports, increasing risks for crude oil transport in the area [Article 1].  
+- **Market impact:** This behavior heightens the risk of supply disruptions for crude oil transport, potentially leading to elevated prices.  
+- **Sentiment contribution:** Bullish — Investors may perceive increased risk in oil transportation routes, driving prices higher.
+
+**Shipping & logistics | Infrastructure Damage | Severity: High**
+- **Headline:** Second Tanker Hit in Weeks as Black Sea Drone Strikes Russian Oil Cargo  
+- **What happened:** A tanker carrying Russian oil was struck by a drone near Istanbul, highlighting vulnerabilities in maritime infrastructure [Article 4].  
+- **Market impact:** Such incidents contribute to uncertainty and risk, which can cause spikes in crude oil prices as traders factor in potential supply shortages.  
+- **Sentiment contribution:** Bullish — Concerns about infrastructure damage and attack risks further elevate perceptions of crude oil supply risks.
+
+**Financial flows / positioning | No Significant Risk | Severity: Low**
+- **Headline:** 2024 Annual Shareholder Meeting  
+- **What happened:** Exxon Mobil's meeting provided no new significant risks or information affecting crude oil supply or pricing [Article 2].  
+- **Market impact:** This indicates stability in corporate operations for Exxon, reducing panic in markets but may not affect overall crude oil pricing directly.  
+- **Sentiment contribution:** Neutral — This adds nothing significant to bullish or bearish sentiment.
+
+### 3. SIGNAL SYNTHESIS
+The risk signals are largely aligned towards increased geopolitical conflict and potential for infrastructure damage disrupting crude oil transport. The threat from Houthi attacks contributes significantly to bullish sentiment regarding crude oil prices, while the infrastructure damage risk reinforces these concerns. The signal from Exxon’s meeting does not counter these risks but also does not contribute substantially to sentiment.
+
+### 4. WATCH LIST
+- [ ] Monitor further escalation of Houthi attacks → A significant uptick could lead to immediate transport disruptions and price surges.
+- [ ] Watch for retaliation by nations affected by attacks → This could exacerbate regional tensions and further threaten oil supply.
+- [ ] Keep track of shipping routes through sensitive areas like the Strait of Hormuz → Any blockade or threat of blockade could significantly impact oil prices and availability.
+
+### 5. BOTTOM LINE
+**Risk Level: High**  
+Crude oil shipping faces heightened risks from geopolitical conflict and potential infrastructure damage, leading to an elevated risk profile for traders and risk managers. The persistent threat of Houthi attacks creates a fragile situation for oil shipments, demanding close monitoring and strategic preparedness.

@@ -1,0 +1,54 @@
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+## COMMODITY RISK REPORT
+**Commodity:** crude oil  
+**Report Date:** 2026-04-11  
+**Articles Analysed:** 5 articles  
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+### 1. OVERALL SENTIMENT
+**[Mixed]**  
+> The overall sentiment around crude oil is mixed due to significant upward pressure from the Chevron labor dispute in Australia, creating supply chain risks, but tempered by Chevron's plans to boost production in Venezuela which may alleviate some pressure.
+
+---
+
+### 2. KEY RISK SIGNALS
+
+**[LNG & natural gas] | [Supply Chain Blockage] | Severity: High**  
+- **Headline:** Explainer: What's at stake in Chevron's Australia LNG labour dispute?  
+- **What happened:** A potential strike at Chevron's LNG facilities in Australia threatens to disrupt global gas supply and elevate prices.  
+- **Market impact:** This situation could lead to reduced LNG supplies to key markets in Asia, resulting in upward price volatility in natural gas and crude oil due to interlinked pricing structures.  
+- **Sentiment contribution:** Bullish — anticipated supply disruptions point towards a hard supply shock as winter approaches.
+
+---
+
+**[Supply (Production/Upstream)] | [Production Shortfall] | Severity: Medium**  
+- **Headline:** Chevron readies new oil drilling push in Venezuela to boost output  
+- **What happened:** Chevron plans to increase Venezuelan oil output significantly, aiming for an additional 200,000 barrels per day by the end of 2024.  
+- **Market impact:** This initiative could counteract some of the production shortfall fears exacerbated by the labor dispute in Australia, potentially stabilizing oil supply.  
+- **Sentiment contribution:** Neutral — although planned increases may alleviate supply fears, the ongoing labor dispute casts uncertainty on the overall supply landscape.
+
+---
+
+**[LNG & natural gas] | [No Significant Risk] | Severity: Low**  
+- **Headline:** Natural Gas Recapturing Process Promises Waste Reduction — but Questions Linger  
+- **What happened:** A new natural gas capture technology is being tested to reduce flaring, although it has raised regulatory and effectiveness concerns in New Mexico.  
+- **Market impact:** The efforts could lead to a more sustainable production environment, but current implementations do not pose significant immediate risks or benefits to the crude oil market.  
+- **Sentiment contribution:** Neutral — while innovative, this development does not currently indicate a material impact on crude oil supplies.
+
+---
+
+### 3. SIGNAL SYNTHESIS
+The risk signals provide a somewhat contradictory picture for crude oil. On one hand, the Chevron labor dispute creates significant concerns regarding potential supply chain blockages, while on the other hand, Chevron's planned production increase in Venezuela offers a counterbalance that might ease some fears. Although the labor dispute suggests a bullish sentiment, the neutral signal from new gas recapturing processes mitigates immediate concerns about production capacities. Overall, the crude oil supply risk exposure is heightened by geopolitical and operational uncertainties.
+
+---
+
+### 4. WATCH LIST
+- [ ] Monitor developments in the Chevron labor dispute → a confirmed strike would likely escalate supply disruptions and price rallies.
+- [ ] Track Chevron's production progress in Venezuela → successful implementation could help stabilize prices amid ongoing uncertainties.
+- [ ] Observe regulatory developments regarding the gas recapturing technology → improvements that lead to reduced flaring could change long-term supply dynamics.
+
+---
+
+### 5. BOTTOM LINE
+**Risk Level: Medium**  
+The most crucial takeaway for risk managers is the heightened risk from the Chevron labor dispute affecting Australian LNG supplies, which may drive prices higher; however, production expansions in Venezuela could offset these pressures. The overall sentiment remains fragile, underscoring the importance of closely monitoring these developments for updated positioning.

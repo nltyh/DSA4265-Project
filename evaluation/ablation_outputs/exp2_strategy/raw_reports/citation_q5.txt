@@ -1,0 +1,36 @@
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+## COMMODITY RISK REPORT
+**Commodity:** LNG  
+**Report Date:** 2026-04-11  
+**Articles Analysed:** 5 articles  
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+### 1. OVERALL SENTIMENT
+**Bearish**  
+> The dominant signal is bearish, driven by Europe's increased demand for LNG diverting shipments away from Asia, leading to a potential energy crisis in Asian markets due to supply challenges.
+
+### 2. KEY RISK SIGNALS
+
+**LNG & natural gas | Supply Chain Blockage | Severity: High**  
+- **Headline:** Europe’s scramble for LNG leaves Asia starving for energy  
+- **What happened:** The war in Ukraine has prompted a surge in European demand for LNG, causing a diversion of global shipments from Asia, resulting in energy shortages for countries like China, Japan, and Bangladesh.  
+- **Market impact:** This leads to a potential increase in LNG prices due to tight supply for Asia, forcing countries to consider alternative energy sources like nuclear and coal.  
+- **Sentiment contribution:** Bearish — the supply constraints resulting from this diversion strongly impact Asian markets and contribute to higher vulnerability.
+
+**LNG & natural gas | Supply Chain Blockage | Severity: High**  
+- **Headline:** QatarEnergy’s US LNG project approved for gas exports  
+- **What happened:** Approval of gas exports from QatarEnergy's projects aims to support European markets facing gas supply issues but will not provide immediate relief to current shortages.  
+- **Market impact:** While it may help mitigate future supply challenges in Europe, actual benefits will be delayed until 2024, thus failing to address the acute current demand in Asia.  
+- **Sentiment contribution:** Bearish — the lack of immediate solutions underscores ongoing supply constraints that can exacerbate price pressures in Asia.
+
+### 3. SIGNAL SYNTHESIS
+The risk signals presented are aligned, indicating a significant supply chain blockage for LNG primarily affecting Asia as Europe ramps up its demand amidst geopolitical pressures. This sentiment is confirmed by the underlying fundamentals, notably the war in Ukraine and the subsequent redirection of LNG supplies which compromise energy security for Asian nations. The net effect highlights a high-risk exposure in the LNG market.
+
+### 4. WATCH LIST
+- [ ] Monitor LNG prices in Asia → A spike could indicate extreme supply shortages and rising geopolitical tensions.
+- [ ] Track developments in European energy policy → Changes might influence additional pressures on Asian supply.
+- [ ] Observe the timeline for QatarEnergy’s and Golden Pass LNG projects → Delays could exacerbate current supply difficulties.
+
+### 5. BOTTOM LINE
+**Risk Level: High**  
+The current risk levels for LNG are high due to considerable supply chain blockages impacting Asia, driven by escalating European demand. It is crucial for risk managers to monitor geopolitical developments and their implications on supply pathways and pricing dynamics, as current signals are robust and deeply rooted in ongoing events.

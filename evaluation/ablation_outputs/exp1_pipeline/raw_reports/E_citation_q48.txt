@@ -1,0 +1,54 @@
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+## COMMODITY RISK REPORT
+**Commodity:** crude oil  
+**Report Date:** 2026-04-11  
+**Articles Analysed:** 5 articles  
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+### 1. OVERALL SENTIMENT
+**Mixed**  
+The crude oil market is experiencing mixed signals. While geopolitical tensions surrounding the Strait of Hormuz suggest a bullish sentiment due to potential supply disruptions, rising crude oil inventories in the U.S. contribute a bearish outlook by indicating ample supply.
+
+---
+
+### 2. KEY RISK SIGNALS
+
+**Geopolitics & Policy | Geopolitical Conflict | Severity: High**  
+- **Headline:** Brent Surges Past $110 on Iran Rejection  
+- **What happened:** Ongoing tensions over the Strait of Hormuz, as Iran has rejected U.S. terms, have reinstated a high risk of conflict.  
+- **Market impact:** This has pushed Brent crude prices above $110, indicating fears of supply disruptions from this key shipping lane.  
+- **Sentiment contribution:** Bullish — the escalating conflict heightens concerns over supply security [Article 2].
+
+---
+
+**Geopolitics & Policy | Geopolitical Conflict | Severity: High**  
+- **Headline:** War Could Soon Force Oil Prices To Catch Up with the Massive Supply Loss  
+- **What happened:** Experts warn that prolonged closure of the Strait of Hormuz could lead to significant supply loss, particularly affecting Asia's oil supply.  
+- **Market impact:** Anticipated supply losses could drive prices higher, as markets react to potential disruptions.  
+- **Sentiment contribution:** Bullish — the impending threat of military conflict adds to the already heightened risk premiums in the market [Article 5].
+
+---
+
+**Inventory & Storage | Inventory Shock | Severity: Medium**  
+- **Headline:** US Crude Oil, Product Inventories Rise  
+- **What happened:** U.S. crude oil inventories increased by 2.3 million barrels in the week ending March 20, adding to the previous week's rise of 6.556 million barrels.  
+- **Market impact:** Rising inventories suggest that the supply side remains somewhat stable, countering fears of immediate shortages.  
+- **Sentiment contribution:** Bearish — increasing stockpiles imply less urgency in the market despite geopolitical tensions [Article 4].
+
+---
+
+### 3. SIGNAL SYNTHESIS
+The risk signals indicate a complex situation where geopolitical tensions elevate the risk of supply shortages, particularly from the Middle East. Conversely, the increase in U.S. inventories acts as a counterbalance to these risks, resulting in overall mixed sentiment in the crude oil market. The bullish implications from geopolitical conflict are somewhat tempered by bearish inventory data, confirming this dual sentiment.
+
+---
+
+### 4. WATCH LIST
+- [ ] Monitor developments in U.S.-Iran negotiations → A breakdown could enhance supply disruption risks, leading to higher prices.
+- [ ] Observe any military escalations in the Strait of Hormuz → A conflict could significantly impede oil shipments, greatly increasing premiums.
+- [ ] Track U.S. crude oil inventory reports → Persistent increases may solidify bearish sentiment, indicating a more stable market supply.
+
+---
+
+### 5. BOTTOM LINE
+**Risk Level: Medium**  
+Traders should be aware of the heightened geopolitical risks that could spur price increases, while also considering the bearish influences from rising inventories. The situation is fragile, as the bullish sentiment from geopolitical risks is partly countered by solid supply indicators.

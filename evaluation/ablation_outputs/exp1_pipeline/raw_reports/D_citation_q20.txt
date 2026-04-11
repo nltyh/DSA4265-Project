@@ -1,0 +1,42 @@
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+## COMMODITY RISK REPORT
+**Commodity:** crude oil  
+**Report Date:** 2024-02-29  
+**Articles Analysed:** 5 articles  
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+### 1. OVERALL SENTIMENT
+**Bullish**  
+> The overall sentiment is bullish, primarily due to the supply chain blockage caused by Red Sea attacks leading to a tanker shortage, which is expected to tighten the oil market and drive up rates. 
+
+### 2. KEY RISK SIGNALS
+
+**Shipping & logistics | Supply Chain Blockage | Severity: High**
+- **Headline:** Shortage of Oil Tankers at Hand as Red Sea Attacks Divert Trade
+- **What happened:** Houthi attacks in the Red Sea are disrupting oil tanker routes, resulting in a shortage of available tankers and increased voyage durations [Article 1].
+- **Market impact:** This blockage is tightening the oil market, increasing tanker rates, and creating a more favorable environment for tanker owners amid existing fleet aging and low new capacity expected in 2024 [Article 1].
+- **Sentiment contribution:** Bullish — As the supply chain is effectively constrained, this situation is anticipated to lead to increasing prices.
+
+**Financial flows/positioning | No Significant Risk | Severity: Low**
+- **Headline:** EOG Misses Estimates Despite Production Increase
+- **What happened:** EOG Resources reported a net income miss despite increased production, citing operational efficiencies and capital allocation plans [Article 2].
+- **Market impact:** This indicates strong operational health but does not contribute to immediate risk, as EOG plans modest growth [Article 2].
+- **Sentiment contribution:** Neutral — While production increases are positive, the earnings miss and cautious outlook temper sentiment.
+
+**LNG & natural gas | Production Shortfall | Severity: Medium**
+- **Headline:** Kosmos: BP’s Tortue project to produce first LNG in Q4
+- **What happened:** BP's Greater Tortue Ahmeyim project faced delays, now expected to produce LNG in Q4 2024, indicating a production shortfall risks [Article 5].
+- **Market impact:** Any production setbacks could result in tighter LNG supplies, indirectly influencing crude oil prices due to the linked energy markets [Article 5].
+- **Sentiment contribution:** Bearish — Delay in production could cause concerns regarding overall supply stability.
+
+### 3. SIGNAL SYNTHESIS
+The risk signals present a mainly bullish outlook due to significant supply chain disruptions caused by geopolitical events, specifically in the Red Sea. While the influx of crude supply from producers like EOG offers some stability, the delays in LNG production also introduce risk which is slightly bearish. Overall, the tightening supply and increased operational costs lead to a net bullish sentiment towards crude oil at this time.
+
+### 4. WATCH LIST
+- [ ] **Ongoing geopolitical developments in the Red Sea** → Continued attacks could exacerbate tanker shortages and further drive prices up.
+- [ ] **Updates on BP’s Greater Tortue project** → Further delays or confirmation of production could influence market expectations for LNG and crude prices.
+- [ ] **Market reactions to EOG's operational strategies in upcoming quarters** → Success or failure in capital efficiency may impact sentiment on crude supply stability.
+
+### 5. BOTTOM LINE
+**Risk Level: Medium**  
+The primary concern is the high risk related to supply chain blockage due to geopolitical tensions. While current supply levels appear stable, any escalation in conflict or production delays will significantly affect market prices and availability. The signals are primarily driven by demonstrable supply constraints, yet moderate risks from production indices keep the overarching outlook from being overly aggressive.

@@ -1,0 +1,54 @@
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+## COMMODITY RISK REPORT
+**Commodity:** crude oil  
+**Report Date:** 2026-04-11  
+**Articles Analysed:** 5 articles  
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+### 1. OVERALL SENTIMENT
+**Mixed**  
+The dominant sentiment is mixed due to the geopolitical risk from Chad's nationalization of ExxonMobil's assets, which creates uncertainty and potential supply disruptions, contrasted with other articles indicating no significant risks from recent financial activities in the sector.
+
+---
+
+### 2. KEY RISK SIGNALS
+
+**Geopolitics & Policy | Geopolitical Conflict | Severity: High**
+- **Headline:** Chad approves bill to nationalise assets ExxonMobil sold to Savannah Energy
+- **What happened:** Chad's parliament has passed a bill to nationalize oil assets sold by ExxonMobil, driven by concerns over public order and stability, which Savannah Energy will contest [Article 1].
+- **Market impact:** This action increases geopolitical risk in the region, potentially affecting supply stability and investor confidence, which may lead to higher prices due to uncertainty.
+- **Sentiment contribution:** Bullish — this situation raises concerns over availability and production, contributing positively to price expectations.
+
+---
+
+**Financial Flows/Positioning | No Significant Risk | Severity: Low**
+- **Headline:** Alpine Summit Energy Partners Announces Strategic Review of Assets
+- **What happened:** Alpine Summit initiated a strategic review in response to acquisition inquiries and announced the suspension of dividend payments due to price volatility [Article 2].
+- **Market impact:** This suggests internal restructuring but does not indicate immediate risks to supply or demand dynamics.
+- **Sentiment contribution:** Neutral — while it's significant for the company, it does not impact the broader crude oil supply outlook.
+
+---
+
+**Geopolitics & Policy | Regulatory Constraint | Severity: Medium**
+- **Headline:** Marathon deal brings ConocoPhillips assets in multiple basins
+- **What happened:** ConocoPhillips announced a significant acquisition of Marathon Oil, which is anticipated to face regulatory scrutiny due to increased market concentration [Article 3].
+- **Market impact:** The regulatory challenges could delay or complicate new projects, indirectly affecting supply in the market.
+- **Sentiment contribution:** Bearish — potential regulatory hurdles introduce additional uncertainty, which might negatively affect operational capacity in the future.
+
+---
+
+### 3. SIGNAL SYNTHESIS
+The key risk signals present a mixed outlook. Chad's nationalization of ExxonMobil's assets poses a significant geopolitical risk, likely leading to bullish price sentiments. In contrast, recent strategic reviews and regulatory concerns suggest more subdued expectations due to potential operational difficulties. This mix indicates an overall caution among market participants regarding crude oil investments.
+
+---
+
+### 4. WATCH LIST
+- [ ] **Chad's nationalization contest by Savannah Energy** → If Savannah successfully contests the nationalization, it could stabilize investor confidence and reduce geopolitical risk.
+- [ ] **Regulatory outcomes for ConocoPhillips-Midland acquisition** → Should regulatory scrutiny complicate or delay the deal, it may dampen near-term supply outlooks.
+- [ ] **Future oil price movements following dividend suspension by Alpine Summit** → Continued volatility in natural gas prices could influence broader market sentiment towards crude oil.
+
+---
+
+### 5. BOTTOM LINE
+**Risk Level: Medium**  
+The primary takeaway is the geopolitical risk stemming from Chad's actions, which adds considerable uncertainty to the market. This signal is not contradicted by other data, but the mixed sentiment should be approached with caution as traders navigate potential volatility.

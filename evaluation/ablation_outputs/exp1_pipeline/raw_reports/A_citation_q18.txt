@@ -1,0 +1,39 @@
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+## COMMODITY RISK REPORT
+**Commodity:** crude oil  
+**Report Date:** 2026-04-11  
+**Articles Analysed:** 5 articles  
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+### 1. OVERALL SENTIMENT
+**Bullish**  
+The easing of U.S. sanctions on Venezuela's oil sector is likely to increase supply potential in the market, positively influencing sentiment despite the risk of subsequent reversals in policy.
+
+---
+### 2. KEY RISK SIGNALS
+
+**Geopolitics & Policy | Geopolitical Conflict | Severity: High**  
+- **Headline:** United States Eases Sanctions on Venezuelan Oil and Gas, Gold, and Securities  
+- **What happened:** The U.S. has relaxed sanctions on Venezuela’s oil and gas sectors, which could enable increased oil production and exportation contingent on Venezuela’s political reform commitments [Article 1].  
+- **Market impact:** This could lead to an increase in supply from Venezuela, potentially easing price pressures if production rises.  
+- **Sentiment contribution:** Bullish — the policy change indicates a potential increase in market supply and a more stable geopolitical environment.
+
+**Geopolitics & Policy | Geopolitical Conflict | Severity: High**  
+- **Headline:** Trump cuts financial lifeline for Venezuela by ending permit to export oil to U.S.  
+- **What happened:** Trump has revoked a permit allowing Chevron to export oil from Venezuela, hindering export capabilities for the short term and reversing previous relief granted by the Biden administration [Article 3].  
+- **Market impact:** This creates uncertainty around Venezuelan oil supplies, leading to potential volatility and supply disruptions.  
+- **Sentiment contribution:** Bearish — the abrupt policy shift could constrict supply and create pricing pressure.
+
+### 3. SIGNAL SYNTHESIS
+The risk signals present a mixed view. While the recent easing of sanctions suggests a potential increase in Venezuelan oil supply, the contradictory action of revoking Chevron’s export permit introduces uncertainty and could limit production recovery. This dynamic creates volatility in sentiment as the market weighs the potential benefits of increased supply against the risks of future restrictions.
+
+---
+### 4. WATCH LIST
+- [ ] Future U.S. policy announcements regarding Venezuela → A retraction or further easing could significantly influence supply outlook and market sentiment.
+- [ ] Developments in Venezuela's political landscape → Successful democratic reforms could solidify current sanction relaxations, influencing overall production capacity.
+- [ ] Actions by Chevron and other companies in response to the permit revocation → Their ability to adapt and continue operations will affect short-term supply dynamics.
+
+---
+### 5. BOTTOM LINE
+**Risk Level: Medium**  
+Traders should remain cautious as the situation is fluid, with the potential for policy shifts that could reintroduce barriers to Venezuelan oil exports. The current sentiment is notably fragile due to contradictory signals from U.S. sanctions policies.

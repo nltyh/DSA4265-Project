@@ -1,0 +1,42 @@
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  
+## COMMODITY RISK REPORT  
+**Commodity:** crude oil  
+**Report Date:** 2026-04-11  
+**Articles Analysed:** 5 articles  
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  
+
+### 1. OVERALL SENTIMENT  
+**Mixed**  
+The overall sentiment for crude oil is mixed due to a significant supply disruption risk from labor disputes at Chevron's LNG facilities, contrasted with articles indicating no significant risks from other developments in the sector. The labor dispute could elevate prices while other recent transactions contribute to a neutral or stable sentiment.
+
+### 2. KEY RISK SIGNALS  
+
+**LNG & Natural Gas | Supply Chain Blockage | Severity: High**  
+- **Headline:** Explainer: What's at stake in Chevron's Australia LNG labour dispute?  
+- **What happened:** A potential strike at Chevron's Gorgon and Wheatstone LNG facilities threatens global gas markets, as the Offshore Alliance union demands better working conditions for approximately 500 workers [Article 1].  
+- **Market impact:** The dispute could disrupt LNG supply to key Asian markets, consequently impacting crude oil prices due to interdependence in energy markets.  
+- **Sentiment contribution:** Bullish — The potential strike would elevate prices as supply becomes constrained amid increasing demand during the Northern Hemisphere winter.
+
+**Supply (Production / Upstream) | No Significant Risk | Severity: Low**  
+- **Headline:** Woodside Sells Greater Angostura Stakes to Perenco  
+- **What happened:** Woodside Energy sold its Greater Angostura oil and gas assets, aiming to simplify its portfolio and provide cash flow [Article 2].  
+- **Market impact:** This transaction does not pose a threat to crude oil supply, indicating stability in that segment.  
+- **Sentiment contribution:** Neutral — While the sale enhances Woodside's operational focus, it does not affect the overall market supply perception.
+
+**Supply (Production / Upstream) | Production Shortfall | Severity: Medium**  
+- **Headline:** Australia’s Fuels Dependence Turns Into a Crisis  
+- **What happened:** Australia faces disruptions to its fuel imports, leading to a supply vulnerability in crude oil production [Article 3].  
+- **Market impact:** This situation raises concerns about the ability of crude oil production to meet domestic and export demands.  
+- **Sentiment contribution:** Bearish — Increasing reliance on imports amid domestic fuel challenges signals potential price increases and supply instability.
+
+### 3. SIGNAL SYNTHESIS  
+The risk signals present a complex outlook for crude oil. The significant risk posed by labor disputes at Chevron's LNG facilities aligns with potential supply constrictions, while other developments suggest no immediate threats. The sentiments are driven by heightened geopolitical uncertainty, but the fundamental basis indicates mixed signals from production vulnerabilities and stable asset transitions in the market. 
+
+### 4. WATCH LIST  
+- [ ] **Outcome of Chevron’s labor dispute** → If a strike occurs, expect a surge in crude oil prices due to LNG supply disruptions.  
+- [ ] **Impacts of Australia's fuel import disruptions** → Long-term effects could exacerbate crude oil price instability and domestic market volatility.  
+- [ ] **Future announcements from Woodside Energy regarding other assets** → Any significant asset management news may alter market perceptions of stability and supply.
+
+### 5. BOTTOM LINE  
+**Risk Level: Medium**  
+Current risks associated with a potential strike at Chevron combined with Australia’s fuel import vulnerabilities increase the medium-level risk of supply shocks in crude oil. Monitoring labor relations and domestic supply capacity is crucial for risk management strategies moving forward.

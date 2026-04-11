@@ -1,0 +1,56 @@
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+## COMMODITY RISK REPORT
+**Commodity:** LNG  
+**Report Date:** 2026-04-11  
+**Articles Analysed:** 5 articles  
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+### 1. OVERALL SENTIMENT
+**Bullish**  
+> The LNG market sentiment is predominantly bullish due to increased export capabilities and demand stemming from geopolitical tensions, particularly the Russia-Ukraine conflict, despite temporary supply disruptions due to the Freeport LNG facility's fire [Article 1, 2].
+
+---
+
+### 2. KEY RISK SIGNALS
+
+**LNG & natural gas | Supply Chain Blockage | Severity: Medium**  
+- **Headline:** U.S. becomes top LNG exporter in first half of 2022 - EIA  
+- **What happened:** The United States emerged as the leading LNG exporter in H1 2022, despite a temporary reduction in exports due to a fire at the Freeport LNG facility [Article 1].  
+- **Market impact:** This event indicates a potential supply constraint, which may elevate prices as demand continues to push against reduced supply capabilities.  
+- **Sentiment contribution:** Bullish—because the U.S. is expected to continue increasing its LNG capacity long-term.
+
+**LNG & natural gas | Demand / macro activity | Severity: Medium**  
+- **Headline:** U.S. natgas up 3% after hitting 14-yr high ahead of contract rollover  
+- **What happened:** U.S. natural gas prices surged by 3% to a seven-week high, influenced by hot weather forecasts, strong demand, and rising coal prices, alongside concerns regarding Russian gas supplies [Article 2].  
+- **Market impact:** This demand-driven price increase signals increased reliance on U.S. LNG amid global energy supply uncertainties.  
+- **Sentiment contribution:** Bullish—reflecting strong market demand for LNG exports within a volatile global energy context.
+
+**LNG & natural gas | No Significant Risk | Severity: Low**  
+- **Headline:** Cheniere and PTT Sign Long-Term LNG Sale and Purchase Agreement  
+- **What happened:** Cheniere Energy secured a long-term agreement with PTT Global LNG Company, emphasizing the ongoing need for reliable LNG supply [Article 3].  
+- **Market impact:** This arrangement promotes stability in long-term contracts, which may buffer against price volatility.  
+- **Sentiment contribution:** Neutral—while this agreement provides a positive outlook for future stability, it does not significantly alter immediate market dynamics.
+
+**LNG & natural gas | No Significant Risk | Severity: Low**  
+- **Headline:** Cheniere, NextDecade Each Clinch LNG Contracts for Asian Deliveries  
+- **What happened:** Cheniere and NextDecade finalized long-term contracts with Asian partners for LNG deliveries [Article 4].  
+- **Market impact:** These contracts enhance U.S. LNG's foothold in Asian markets, signaling a stable export landscape.  
+- **Sentiment contribution:** Neutral—these developments do not present an immediate risk or opportunity.
+
+---
+
+### 3. SIGNAL SYNTHESIS
+The risk signals indicate a mixed nature of challenges but are aligned towards contributing to a bullish sentiment overall. Supply constraints from the Freeport LNG facility, alongside significantly increased demand driven by geopolitical issues, are driving prices higher. However, long-term contracts suggest a strategic resilience in the market that may mitigate immediate volatility impacts.
+
+---
+
+### 4. WATCH LIST
+- [ ] Monitor developments regarding the Freeport LNG facility's operational status → Resumption of full capacity could stabilize supply and pricing.  
+- [ ] Observe weather forecasts for extreme conditions → Potential for increased demand which may affect pricing dynamics.  
+- [ ] Track geopolitical developments, particularly between the U.S. and Russia → Any escalation may further drive LNG demand in Europe.
+
+---
+
+### 5. BOTTOM LINE
+**Risk Level: Medium**  
+Current market dynamics present medium-risk exposure primarily due to geopolitical influences and temporary supply disruptions. Risk managers should stay alert to fluctuations stemming from ongoing demand shifts and operational updates from LNG facilities, as current signals are somewhat fragile and context-dependent.

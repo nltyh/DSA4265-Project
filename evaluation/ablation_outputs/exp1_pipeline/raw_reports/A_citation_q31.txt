@@ -1,0 +1,46 @@
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+## COMMODITY RISK REPORT
+**Commodity:** Diesel  
+**Report Date:** 2026-04-11  
+**Articles Analysed:** 5 articles  
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+### 1. OVERALL SENTIMENT
+**Mixed**  
+While Valero's shutdown of its refinery due to an explosion indicates a tightening in diesel supply, regulatory pressures in California pose a risk to long-term operational stability, influencing bearish sentiment. The overall outcome reflects both disruptions and regulatory uncertainties.
+
+---
+### 2. KEY RISK SIGNALS
+
+**LNG & Natural Gas | Production Shortfall | Severity: Medium**  
+- **Headline:** Woodside Retiring North West Shelf LNG Train Amid Declining Feed Gas — Three Things to Know About the LNG Market  
+- **What happened:** Woodside Energy Group Ltd. is retiring Train 2 at its North West Shelf LNG facility due to declining feed gas availability and cost management needs [Article 1].  
+- **Market impact:** This may affect LNG supply dynamics, leading to potential increases in LNG prices; however, the impact is partially mitigated by existing weak demand and oversupply in the maritime sector.  
+- **Sentiment contribution:** Bearish — due to the weak demand environment despite the production shortfall.
+
+**Refining (Downstream) | Regulatory Constraint | Severity: High**  
+- **Headline:** Valero Considers All Options, Including Sale, for California Refineries Amid Regulatory Pressure  
+- **What happened:** Valero Energy Corp. is evaluating the sale of its California refineries due to stringent regulatory pressures in the state [Article 2].  
+- **Market impact:** Heightened regulatory scrutiny may result in increased operational costs or refinery closures, thereby potentially tightening diesel supply and increasing reliance on imports.  
+- **Sentiment contribution:** Bearish — as regulatory constraints are likely to create long-term bottlenecks in supply, negatively impacting prices in the short to medium term.
+
+**Refining (Downstream) | Refining Outage | Severity: High**  
+- **Headline:** Valero Shuts Major Refinery After Explosion as Fuel Markets Tighten  
+- **What happened:** Valero has shut down its Port Arthur refinery following an explosion, impacting diesel production capacity [Article 3].  
+- **Market impact:** This outage contributes to tighter diesel supply in an already constrained market environment.  
+- **Sentiment contribution:** Bullish — as outages directly lead to reduced supply, putting upward pressure on diesel prices.
+
+---
+### 3. SIGNAL SYNTHESIS
+The risk signals indicate a complex landscape where tightening supply from refining outages is counterbalanced by regulatory constraints that may inhibit production capacities. The bullish sentiment driven by the refining outage and overall reduced supply is undermined by bearish forces from regulatory pressures, leading to a mixed outlook.
+
+---
+### 4. WATCH LIST
+- [ ] **Valero's Decision on Refineries** → A decision to sell or close refineries could drastically impact supply and pricing, leading to potential spikes in diesel costs.
+- [ ] **Updates on Regulatory Developments in California** → Any changes to regulatory frameworks could either alleviate pressures or exacerbate operational challenges in refining, impacting market dynamics.
+- [ ] **Further Incidents at Refineries** → Additional outages or problems could tighten supply further and escalate prices sharply.
+
+---
+### 5. BOTTOM LINE
+**Risk Level: High**  
+Traders should be aware of significant risks stemming from refining outages and regulatory pressures. The potential for further disruptions in diesel supply amidst a tightening market warrants close monitoring, particularly given the mixed sentiment driven by both bullish outages and bearish regulatory constraints.

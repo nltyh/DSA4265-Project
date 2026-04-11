@@ -1,0 +1,56 @@
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+## COMMODITY RISK REPORT
+**Commodity:** LNG,crude oil  
+**Report Date:** 2026-04-11  
+**Articles Analysed:** 5 articles  
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+### 1. OVERALL SENTIMENT
+**Bearish**
+> The predominant sentiment is bearish due to rising labor costs threatening the financial viability of new LNG projects, which could lead to supply constraints.
+
+---
+
+### 2. KEY RISK SIGNALS
+
+**LNG & Natural Gas | Supply Chain Blockage | Severity: High**
+- **Headline:** Rising US labor costs threaten to derail new LNG projects
+- **What happened:** Increasing labor costs and inflation in the U.S. Gulf Coast jeopardize the financial viability of new LNG developments, leading to significant budget overruns and project delays.
+- **Market impact:** This risk has the potential to restrict supply, ultimately putting upward pressure on prices if demand remains stable.
+- **Sentiment contribution:** Bearish — as project uncertainty is likely to lead to supply shortages in the future.
+
+**LNG & Natural Gas | No Significant Risk | Severity: Low**
+- **Headline:** FERC Approves Transco's Texas to Louisiana Gas Pipeline Project
+- **What happened:** Federal approval for the expansion of the Transco pipeline aims to significantly boost natural gas transportation capacity.
+- **Market impact:** This development enhances infrastructure reliability without introducing immediate supply risks.
+- **Sentiment contribution:** Neutral — the expansion supports long-term logistics but does not offset current labor-related risks.
+
+**LNG & Natural Gas | No Significant Risk | Severity: Low**
+- **Headline:** Aramco, Sempra ink non-binding Port Arthur LNG deal
+- **What happened:** Aramco signed a non-binding agreement to purchase LNG from Sempra's Port Arthur expansion, alongside a contingency for project equity participation.
+- **Market impact:** While it indicates market interest and potential future supply, it does not pose immediate risks.
+- **Sentiment contribution:** Neutral — while positive for strategic positioning, it doesn't alleviate current labor issues.
+
+**LNG & Natural Gas | No Significant Risk | Severity: Low**
+- **Headline:** Exxon Mobil: Gaining A Competitive Edge With Cost Advantaged Assets
+- **What happened:** Exxon Mobil reports record profitability in Guyana, with no immediate production risks indicated.
+- **Market impact:** Illustrates the strength of Exxon’s assets, but does not directly impact LNG supply viability in the Gulf Coast.
+- **Sentiment contribution:** Neutral — reinforces Exxon’s market position but disconnected from the current LNG supply concerns.
+
+---
+
+### 3. SIGNAL SYNTHESIS
+The risk signals indicate a prevailing bearish sentiment primarily driven by rising labor costs affecting new LNG projects, which raises concerns over future supply. Other articles provide neutral signals regarding infrastructure expansion and corporate agreements, but they do not offset the pressing supply concerns exacerbated by labor cost challenges. Thus, the net effect indicates heightened commodity risk exposure, particularly for LNG.
+
+---
+
+### 4. WATCH LIST
+- [ ] Monitor labor cost trends in the U.S. Gulf Coast → sustained increases could further derail LNG projects.
+- [ ] Watch for further approvals of infrastructure projects like the Transco pipeline → successful implementation could improve logistics and mitigate some risks.
+- [ ] Keep an eye on global LNG demand forecasts → unexpected spikes might exacerbate supply issues if domestic projects are delayed.
+
+---
+
+### 5. BOTTOM LINE
+**Risk Level: High**
+Current risks are significantly influenced by escalating labor costs threatening LNG project viability, creating uncertainties in future supply. Risk managers should closely monitor labor developments as they hold considerable implications for market dynamics.

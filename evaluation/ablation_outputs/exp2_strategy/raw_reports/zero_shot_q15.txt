@@ -1,0 +1,46 @@
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+## COMMODITY RISK REPORT
+**Commodity:** crude oil  
+**Report Date:** 2023-04-30  
+**Articles Analysed:** 5 articles  
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+### 1. OVERALL SENTIMENT
+**Mixed**  
+> The sentiment is mixed as pressure from climate activists and shareholder opposition against BP's climate targets raises regulatory concerns, while stable profit reports from U.S. refiners suggest solid economic performance.
+
+---
+### 2. KEY RISK SIGNALS
+
+**Energy Transition / Structural | Geopolitical Conflict | Severity: Medium**
+- **Headline:** BP faces green protest over new climate goals
+- **What happened:** BP faced protests and shareholder opposition after weakening climate targets, causing concerns from institutional investors and activists.
+- **Market impact:** This may lead to increased scrutiny and pressure on BP, potentially influencing its production strategies and affecting crude oil market stability.
+- **Sentiment contribution:** Bearish — due to the risk of regulatory constraints and investor dissatisfaction.
+
+**Geopolitics & Policy | Regulatory Constraint | Severity: Medium**
+- **Headline:** Norway's Wealth Fund Sides With Activists Against Exxon, Chevron
+- **What happened:** Norway's sovereign wealth fund supported shareholder proposals at ExxonMobil and Chevron aimed at introducing emissions targets.
+- **Market impact:** Increased regulatory pressure could hinder production capabilities of major oil companies, influencing crude oil supply dynamics.
+- **Sentiment contribution:** Bearish — reflecting growing regulatory environment concerns.
+
+**Refining (Downstream) | Macro-Economic Cooling | Severity: Medium**
+- **Headline:** U.S. oil refiners to post strong Q1 earnings, but demand outlook dims
+- **What happened:** U.S. refiners are projected to post strong first-quarter earnings despite a slump in domestic diesel demand, indicating changing market conditions.
+- **Market impact:** The dimming outlook for fuel demand could affect future refining margins and crude oil prices negatively.
+- **Sentiment contribution:** Bearish — as weakening demand signals could suppress crude oil pricing.
+
+---
+### 3. SIGNAL SYNTHESIS
+The risk signals are somewhat aligned, indicating a consistent theme of increasing regulatory pressures on oil companies amid diminishing demand outlooks. While U.S. refiners project strong earnings, the overall sentiment is negatively impacted by activist pressures that challenge company policies. The risks appear sentiment-driven as they focus on shareholder dynamics rather than immediate supply disruptions.
+
+---
+### 4. WATCH LIST
+- [ ] BP's response to shareholder pressures → Could indicate shifts in production strategy.
+- [ ] Changes in Norway's wealth fund policies → May affect other oil companies and increase scrutiny across the sector.
+- [ ] Updates on U.S. diesel demand trends → Could affect refinery operations and crude oil pricing.
+
+---
+### 5. BOTTOM LINE
+**Risk Level: Medium**  
+The most crucial takeaway for risk managers is the potential for regulatory constraints due to shareholder activism and climate pressures, juxtaposed with robust financial performances from U.S. refiners. The signals are nuanced and should be monitored closely as they evolve.

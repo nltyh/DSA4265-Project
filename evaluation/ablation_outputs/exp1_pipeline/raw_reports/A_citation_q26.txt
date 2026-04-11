@@ -1,0 +1,51 @@
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+## COMMODITY RISK REPORT
+**Commodity:** crude oil  
+**Report Date:** 2026-04-11  
+**Articles Analysed:** 5 articles  
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+### 1. OVERALL SENTIMENT
+**Mixed**  
+The sentiment is mixed due to ongoing regulatory hurdles associated with Chevron's acquisition of Hess, which introduces geopolitical risks, while the cleared FTC review provides a somewhat supportive backdrop.
+
+---
+
+### 2. KEY RISK SIGNALS
+
+**Geopolitics & Policy | Geopolitical Conflict | Severity: High**
+- **Headline:** Chevron’s Hess Deal Suffers New Blow as Arbitration Drags On  
+- **What happened:** Chevron's acquisition of Hess Corp. faces delays due to an arbitration hearing that has been pushed to May 2025 concerning Exxon's right-of-first-refusal claim.  
+- **Market impact:** This uncertainty may lead to investor caution and can negatively affect market prices due to the potential for extended delays in adding Hess's assets to Chevron’s portfolio.  
+- **Sentiment contribution:** Bearish — as the prolonged arbitration process introduces significant uncertainty about the merger.
+
+**Financial Flows/Positioning | No Significant Risk | Severity: Low**
+- **Headline:** Chevron Agrees Hess CEO Won’t Join Board in Deal With US FTC  
+- **What happened:** Chevron's agreement with the US FTC regarding Hess's CEO not joining Chevron’s board allows the merger process to advance despite the arbitration deadline.  
+- **Market impact:** The progression of the merger might stabilize trading sentiment by offering some clarity in the deal, albeit with ongoing risks from the arbitration.  
+- **Sentiment contribution:** Neutral — while there is some positive movement, the primary risks remain largely unchanged.
+
+**Financial Flows/Positioning | No Significant Risk | Severity: Low**
+- **Headline:** Hess beats first-quarter profit estimate despite weak oil prices  
+- **What happened:** Hess reported slightly better-than-expected profits despite falling oil prices and ongoing arbitration concerning its assets.  
+- **Market impact:** This suggests that Hess may remain resilient even in challenging market conditions, which could support prices indirectly.  
+- **Sentiment contribution:** Neutral — the performance indicates potential stability but is overshadowed by risks related to the merger.
+
+---
+
+### 3. SIGNAL SYNTHESIS
+The risk signals are both aligned and contradictory. While the geopolitical conflict due to arbitration delays creates a bearish sentiment, the approvals and financial performance provide a stabilizing influence, resulting in mixed sentiments overall. The risks identified appear sentiment-driven, influenced by ongoing negotiations and uncertainties tied to the merger process.
+
+---
+
+### 4. WATCH LIST
+- [ ] Completion of Chevron-Hess arbitration → if delayed further, it could significantly decrease investor confidence.
+- [ ] Any new regulatory challenges from US or international bodies → could further complicate the merger and impact market pricing.
+- [ ] Hess production levels in Guyana → a decline might affect supply projections and pricing, especially if merged assets are affected by the ongoing arbitration.
+- [ ] Oil price trends following the next OPEC meeting → changes could provide insight into wider market dynamics affecting crude oil pricing.
+  
+---
+
+### 5. BOTTOM LINE
+**Risk Level: Medium**  
+The most important takeaway for risk managers is to monitor the arbitration closely, as its outcome may materially impact Chevron and Hess. The current sentiment is fragile, with persistent geopolitical risks that could influence market stability and pricing in the crude oil sector.

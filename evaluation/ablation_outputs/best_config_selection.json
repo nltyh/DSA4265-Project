@@ -1,0 +1,27 @@
+{
+  "A": {
+    "retrieval_score": 0.7001,
+    "generation_score": 0.715,
+    "combined_score": 0.7075
+  },
+  "B": {
+    "retrieval_score": 0.8247,
+    "generation_score": 0.685,
+    "combined_score": 0.7548
+  },
+  "C": {
+    "retrieval_score": 0.8656,
+    "generation_score": 0.69,
+    "combined_score": 0.7778
+  },
+  "D": {
+    "retrieval_score": 0.8509,
+    "generation_score": 0.705,
+    "combined_score": 0.778
+  },
+  "E": {
+    "retrieval_score": 0.8656,
+    "generation_score": 0.68,
+    "combined_score": 0.7728
+  }
+}

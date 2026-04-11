@@ -1,0 +1,62 @@
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+## COMMODITY RISK REPORT
+**Commodity:** crude oil  
+**Report Date:** 2026-04-11  
+**Articles Analysed:** 5 articles  
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+### 1. OVERALL SENTIMENT
+**Bullish**  
+The overall sentiment is bullish as the recent surge in Brent prices above $110 is primarily driven by geopolitical tensions surrounding Iran, which are leading to fears of supply disruptions in the oil market [Article 1, 5].
+
+---
+
+### 2. KEY RISK SIGNALS
+
+**Geopolitics & Policy | Geopolitical Conflict | Severity: High**  
+- **Headline:** Brent Surges Past $110 on Iran Rejection  
+- **What happened:** Tensions over the Strait of Hormuz have escalated as Iran has rejected U.S. terms, impacting negotiations.  
+- **Market impact:** This has pushed Brent prices above $110, indicating strong bullish sentiment driven by possible future supply disruptions.  
+- **Sentiment contribution:** Bullish — the rejection increases risk perceptions surrounding oil supply stability [Article 1].
+
+---
+
+**Geopolitics & Policy | Geopolitical Conflict | Severity: High**  
+- **Headline:** Macquarie: Two More Months of War Could Send Oil to $200  
+- **What happened:** Analysts predict potential oil prices could skyrocket to $200 if the conflict in the Middle East continues through the second quarter.  
+- **Market impact:** The potential for heightened conflict amplifies the bullish outlook for oil prices due to supply fears.  
+- **Sentiment contribution:** Bullish — this view reinforces the high-risk perception influencing current market sentiment [Article 5].
+
+---
+
+**Supply (Production/Upstream) | Supply Chain Blockage | Severity: Medium**  
+- **Headline:** Asia Begins Pricing U.S. Oil Against Brent as Dubai Volatility Spikes  
+- **What happened:** Asian refiners are adapting to increased volatility in the Dubai benchmark by pricing U.S. oil against Brent.  
+- **Market impact:** This shift indicates a supply chain blockage affecting Middle Eastern benchmarks and reflects a move towards more stable pricing mechanisms.  
+- **Sentiment contribution:** Bearish — the unpredictability introduced by supply blocks tempers the overall bullish sentiment, but the prevailing risk remains higher [Article 4].
+
+---
+
+**Geopolitics & Policy | Macro-Economic Cooling | Severity: Medium**  
+- **Headline:** Oil Markets Price In Peace, but the Upside Risk Remains  
+- **What happened:** Despite ongoing hostilities, some traders are betting on a potential diplomatic resolution, leading to anticipated price declines.  
+- **Market impact:** This sentiment of potential peace adds a contradictory element to the overall bullish outlook, with traders anticipating lower prices in the absence of conflict escalation.  
+- **Sentiment contribution:** Bearish — this trend represents a risk counter to the bullish scenarios driven by geopolitical tensions [Article 3].
+
+---
+
+### 3. SIGNAL SYNTHESIS
+The risk signals are mainly aligned towards a bullish outlook due to geopolitical tensions, although there are notable bearish sentiments concerning the consequences of ongoing hostilities and potential diplomatic resolutions. The high risk of geopolitical conflict appears to dominate, but there are contradicting signals suggesting that macro-economic cooling and supply chain adjustments could temper immediate bullishness.
+
+---
+
+### 4. WATCH LIST
+- [ ] **Iranian Negotiations** → If negotiations succeed, it could stabilize supply and reduce prices, reversing bullish sentiments.
+- [ ] **Middle East Conflict Escalation** → An intensification of conflict would likely push prices higher due to heightened supply fears.
+- [ ] **Global Economic Data Releases** → Poor economic indicators could dampen demand, leading to downward pressure on prices despite geopolitical fears.
+
+---
+
+### 5. BOTTOM LINE
+**Risk Level: High**  
+Current market dynamics reflect a high-risk environment primarily driven by geopolitical tensions, which are likely to keep prices elevated. Risk managers should remain alert to conflicting signals and potential shifts in diplomatic relations that could quickly alter the market sentiment.

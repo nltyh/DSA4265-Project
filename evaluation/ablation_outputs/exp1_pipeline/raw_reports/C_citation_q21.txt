@@ -1,0 +1,54 @@
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  
+## COMMODITY RISK REPORT  
+**Commodity:** LNG, crude oil  
+**Report Date:** 2026-04-11  
+**Articles Analysed:** 5 articles  
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  
+
+### 1. OVERALL SENTIMENT  
+**Bearish**  
+The overall sentiment is bearish due to persistent operational issues at Freeport LNG, which contribute to production shortfalls, compounded by low prices affecting company profits.
+
+### 2. KEY RISK SIGNALS  
+
+**LNG & Natural Gas | Production Shortfall | Severity: High**  
+- **Headline:** As demand for US LNG booms, one plant struggles to stay online  
+- **What happened:** Freeport LNG has been operating below 80% capacity because of ongoing technical issues and damage from a freeze, leading to a decrease in average utilization rate from 80% to 72% over the past year [Article 1].  
+- **Market impact:** This unreliability affects U.S. LNG exports, resulting in price volatility in Henry Hub natural gas futures [Article 1].  
+- **Sentiment contribution:** Bearish — operational struggles lead to decreased supply, negatively impacting market confidence.
+
+**LNG & Natural Gas | Production Shortfall | Severity: High**  
+- **Headline:** Chesapeake Energy misses quarterly profit estimates as natgas prices remain low  
+- **What happened:** Chesapeake Energy reported lower adjusted profit due to persistently low natural gas prices, prompting plans to reduce gas production and delay new wells [Article 5].  
+- **Market impact:** A reduction in production could lead to tighter supply in the medium term if market dynamics improve, but current impacts are bearish due to low prices.  
+- **Sentiment contribution:** Bearish — company's struggles indicate a broader issue with market pricing and profitability.
+
+**LNG & Natural Gas | No Significant Risk | Severity: Low**  
+- **Headline:** Range Resources Sees Strong Natural Gas Demand, Keeps Production Steady  
+- **What happened:** Range Resources maintained steady production with a positive outlook due to strong domestic demand and anticipated LNG export growth [Article 2].  
+- **Market impact:** This consistent production could provide some support to the market, but amid uneven dynamics, its impact appears limited.  
+- **Sentiment contribution:** Neutral — steady production does counterbalance some bearish signals but does not change the overarching risk landscape.
+
+**LNG & Natural Gas | Geopolitical Conflict | Severity: Medium**  
+- **Headline:** EQT says fracked gas is a climate solution, but scientists call that deceptive greenwashing  
+- **What happened:** The ongoing debate about the sustainability of LNG amidst a temporary pause on new export projects signals potential regulatory risk under the current administration [Article 3].  
+- **Market impact:** While this may deter new investments, it could also signify a shift towards prioritizing domestic production efficiency.  
+- **Sentiment contribution:** Bearish — regulatory uncertainties contribute to overall negative market sentiment.
+
+**LNG & Natural Gas | No Significant Risk | Severity: Low**  
+- **Headline:** Equinor Expects Asia, LNG Competition to Drive European Natural Gas Prices  
+- **What happened:** Competition for LNG is expected to drive European prices, while Equinor opts to high-grade its U.S. gas portfolio rather than increase investment in LNG [Article 4].  
+- **Market impact:** This suggests that while external markets may fluctuate, internal investment strategies will remain cautious in the current environment.  
+- **Sentiment contribution:** Neutral — competitive dynamics are not driving significant changes currently.
+
+### 3. SIGNAL SYNTHESIS  
+The risk signals indicate a prevailing bearish sentiment within the LNG sector, primarily driven by significant production shortfalls and low pricing pressures highlighted by operational failures at Freeport LNG and Chesapeake Energy. Despite some stabilizing factors from other producers, the dominant narrative is one of production difficulties and external geopolitical pressures, leading to a heightened risk exposure.
+
+### 4. WATCH LIST  
+- [ ] Monitor Freeport LNG's operational recovery → improvements could stabilize U.S. LNG supply and pricing.  
+- [ ] Track natural gas price movements, especially if they rebound from current low levels → possible shifts in production strategies from major producers.  
+- [ ] Watch for any policy announcements regarding LNG exports from the Biden administration → could significantly affect regulatory risks and investment strategies.
+
+### 5. BOTTOM LINE  
+**Risk Level: High**  
+Current market conditions are fragile due to operational issues at key LNG production facilities, leading to high exposure to ongoing production shortfalls and bearish pricing. Signal contradictions exist but are not significant enough to offset the prevailing bearish trends in production and profitability.

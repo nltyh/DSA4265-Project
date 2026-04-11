@@ -1,0 +1,46 @@
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+## COMMODITY RISK REPORT
+**Commodity:** LNG  
+**Report Date:** 2026-04-11  
+**Articles Analysed:** 5 articles  
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+### 1. OVERALL SENTIMENT
+**Bearish**  
+> The significant drop in China's LNG imports to an 8-year low due to surging prices indicates a constrained demand environment, contributing to bearish sentiments in the market.
+
+---
+### 2. KEY RISK SIGNALS
+
+**LNG & natural gas | Supply Chain Blockage | Severity: High**
+- **Headline:** Soaring Prices Set to Crash China’s LNG Imports to 8-Year Low
+- **What happened:** Surging LNG prices due to the ongoing conflict in the Middle East will lead to the lowest monthly imports of LNG into China in eight years, as Qatari and UAE supplies are off the market.  
+- **Market impact:** A drop in Chinese LNG imports suggests a tighter supply-demand balance, likely resulting in downward pressure on prices in the broader market.  
+- **Sentiment contribution:** Bearish — the dramatic reduction in imports indicates weaker demand from a major consumer, reinforcing negative market sentiment [Article 1].
+
+**LNG & natural gas | Supply Chain Blockage | Severity: Medium**
+- **Headline:** Europe’s scramble for LNG leaves Asia starving for energy
+- **What happened:** Increased European demand for LNG is diverting shipments away from Asia. This situation has resulted in energy shortages for countries like China and Japan.  
+- **Market impact:** With Asia facing supply challenges, high prices could persist, adding volatility to the LNG market.  
+- **Sentiment contribution:** Bearish — heightened competition for limited supplies negatively influences sentiment in the Asian LNG market [Article 4].
+
+**LNG & natural gas | Production Shortfall | Severity: Medium**
+- **Headline:** Chesapeake Energy misses quarterly profit estimates as natgas prices remain low
+- **What happened:** Chesapeake Energy Corp is reducing gas production due to persistently low prices and delayed new well activations.  
+- **Market impact:** A production shortfall in the U.S. might create upward pressure on prices if demand begins to recover.  
+- **Sentiment contribution:** Neutral — while lower production impacts supply, existing high prices from international dynamics offset this risk [Article 3].
+
+---
+### 3. SIGNAL SYNTHESIS
+The risk signals indicate a predominantly bearish sentiment in the LNG market, primarily driven by reduced demand from China and supply chain blockages due to competition with Europe. While there is an element of production shortfall due to domestic factors, it does not currently outweigh the bearish pressure from demand-side challenges and strategic market shifts. Overall, the net effect suggests increased vulnerability in the LNG market due to constrained demand from significant consumers.
+
+---
+### 4. WATCH LIST
+- [ ] **Chinese government policy changes on LNG imports** → A relaxation could indicate a rebound in demand, altering market dynamics.
+- [ ] **Further escalation in the Middle East conflict** → Prolonged supply chain issues may exacerbate prices and affect availability.
+- [ ] **U.S. LNG production increases** → If production levels rise significantly, this could relieve some pressure caused by current shortages.
+
+---
+### 5. BOTTOM LINE
+**Risk Level: High**  
+Risks related to declining imports from China and competitive supply blockages are currently high. Traders and risk managers should prepare for potential market adjustments as the situation develops, being mindful of fragilities in both demand and supply aspects.

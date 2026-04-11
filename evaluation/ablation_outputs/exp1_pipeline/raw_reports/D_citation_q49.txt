@@ -1,0 +1,49 @@
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+## COMMODITY RISK REPORT
+**Commodity:** crude oil  
+**Report Date:** 2026-04-11  
+**Articles Analysed:** 5 articles  
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+### 1. OVERALL SENTIMENT
+**Bullish**  
+> The recent production disruptions in the Middle East, particularly Saudi Arabia's cut in exports to India and China, have increased concerns over supply shortages, contributing to a bullish sentiment in the crude oil market.
+
+### 2. KEY RISK SIGNALS
+
+**LNG & Natural Gas | Production Shortfall | Severity: High**
+- **Headline:** Saudi Oil Exports to China and India Set to Fall Amid War Disruptions
+- **What happened:** Saudi crude oil exports to its major clients, India and China, are projected to decline in April as a result of ongoing production disruptions in the Middle East [Article 1].
+- **Market impact:** The decline in exports is likely to exacerbate supply concerns, potentially leading to higher oil prices due to reduced availability in key markets.
+- **Sentiment contribution:** Bullish - The anticipated drop in supply increases fears of shortages, thus driving prices up.
+
+**Geopolitics & Policy | Geopolitical Conflict | Severity: High**
+- **Headline:** War Could Soon Force Oil Prices To Catch Up with the Massive Supply Loss
+- **What happened:** Continuation of geopolitical tensions in the Strait of Hormuz is prompting analysts to predict significant price increases if the situation remains unresolved [Article 2].
+- **Market impact:** Geopolitical instability is likely to heighten risk perceptions, pushing prices higher as markets react to potential supply losses.
+- **Sentiment contribution:** Bullish - The ongoing conflict intensifies the likelihood of further disruptions, leading to upward pressure on oil prices.
+
+**Financial Flows/Positioning | No Significant Risk | Severity: Low**
+- **Headline:** Washington Stress-Tests $200 Oil as War Risk Mounts
+- **What happened:** U.S. government modeling anticipates potential economic fallout in the event that crude oil prices hit $200 per barrel due to escalating risks [Article 3].
+- **Market impact:** Although it indicates a serious risk, it is speculative and does not reflect immediate market conditions.
+- **Sentiment contribution:** Neutral - While it highlights a risk scenario, it does not currently have a direct impact on market sentiment.
+
+**Financial Flows/Positioning | No Significant Risk | Severity: Low**
+- **Headline:** Record Oil and Gas Output Fails to Shield CNOOC from Market Volatility
+- **What happened:** Despite record production levels, CNOOC reported lower profits due to falling oil prices [Article 4].
+- **Market impact:** Indicates that high production alone may not stabilize prices if demand does not meet expectations.
+- **Sentiment contribution:** Neutral - This disconnection reflects broader market volatility but does not contribute significantly to bullish or bearish sentiment.
+
+### 3. SIGNAL SYNTHESIS
+The risk signals are largely aligned, indicating heightened concerns around supply due to geopolitical circumstances, especially the production shortfall highlighted by Saudi Arabia's export cuts. While there's speculative modeling about extreme price scenarios, it does not disrupt the predominantly bullish sentiment driven by tangible supply risks.
+
+### 4. WATCH LIST
+- [ ] **Strait of Hormuz Developments** → Further escalations could lead to widespread supply disruptions and increased oil prices.
+- [ ] **Saudi Arabia's Export Volumes** → Any additional cuts beyond April could indicate sustained supply tightness.
+- [ ] **Global Demand Changes** → Fluctuations in global demand, especially from China and India, will crucially impact price dynamics.
+- [ ] **Market Responses to Speculations** → How traders react to projected $200 oil could impact short-term market sentiment and trading positions.
+
+### 5. BOTTOM LINE
+**Risk Level: High**  
+The crude oil market is facing significant risks due to production shortfalls and geopolitical conflicts. Traders should closely monitor developments in the Middle East that could temporarily disrupt supply chains, as the current bullish sentiment is underscored by real risks rather than mere speculation.

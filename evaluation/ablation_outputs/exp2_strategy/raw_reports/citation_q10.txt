@@ -1,0 +1,36 @@
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+## COMMODITY RISK REPORT
+**Commodity:** crude oil  
+**Report Date:** 2026-04-11  
+**Articles Analysed:** 2 articles  
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+### 1. OVERALL SENTIMENT
+**Bearish**  
+The primary sentiment arises from geopolitical concerns impacting supply dynamics, particularly regarding continued support for Russian activities amidst international sanctions, which may undermine overall market confidence.
+
+### 2. KEY RISK SIGNALS
+
+**Geopolitics & Policy | Geopolitical Conflict | Severity: High**
+- **Headline:** Procter & Gamble continues sponsoring Russia’s war with two giant factories
+- **What happened:** Procter & Gamble operates two significant factories in Russia, which financially supports the Russian economy during ongoing military actions in Ukraine [Article 1].
+- **Market impact:** This situation could contribute to heightened geopolitical tensions, potentially leading to further sanctions against Russia that disrupt crude oil supplies.
+- **Sentiment contribution:** Bearish — as continued support for Russia may prompt more severe international responses impacting oil prices.
+
+**Financial Flows/Positioning | No Significant Risk | Severity: Low**
+- **Headline:** BNY Mellon Dismissed, Alight, Colgate-Palmolive Remain in Retirement Theft Lawsuit
+- **What happened:** A court dismissed claims against BNY Mellon while allowing claims against other parties to proceed in a lawsuit concerning retirement theft [Article 2].
+- **Market impact:** This legal matter does not notably impact crude oil directly, and thus does not influence supply or demand in the market.
+- **Sentiment contribution:** Neutral — as this issue does not pose a significant risk to the crude oil market.
+
+### 3. SIGNAL SYNTHESIS
+The geopolitical conflict due to Procter & Gamble's actions introduces high risk and bearish sentiment, as tensions with Russia could escalate further affecting oil supply. The other article related to the lawsuit is not relevant to crude oil risks and presents no significant sentiment pressure. Overall, geopolitical factors significantly outweigh the neutral signals, indicating elevated commodity risk exposure.
+
+### 4. WATCH LIST
+- [ ] Escalation of military actions in Ukraine → This would likely lead to increased sanctions or disruptions in oil supply chains, affecting prices.
+- [ ] New sanctions imposed on Russia → This would further tighten supply in the market, potentially leading to price increases.
+- [ ] Changes in corporate policies regarding operations in Russia → Any withdrawal of businesses could signal increasing isolation of the Russian economy, impacting market sentiment and supply risk.
+
+### 5. BOTTOM LINE
+**Risk Level: High**  
+The crude oil market is currently facing high geopolitical risk due to ongoing support for Russian operations, which could lead to supply disruptions. This signal is based on confirmed geopolitical factors rather than fragile data, emphasizing the need for close monitoring of developments in Ukraine.

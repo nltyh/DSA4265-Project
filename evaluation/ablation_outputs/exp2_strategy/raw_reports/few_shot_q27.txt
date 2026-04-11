@@ -1,0 +1,59 @@
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+## COMMODITY RISK REPORT
+**Commodity:** crude oil  
+**Report Date:** 2026-04-11  
+**Articles Analyzed:** 5 articles  
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+### 1. OVERALL SENTIMENT
+**[Bearish]**  
+> The market sentiment is predominantly bearish, driven by expectations of increased supply from OPEC+ and uncertainties surrounding U.S. Federal Reserve interest rate cuts, which dampen oil demand.
+
+---
+### 2. KEY RISK SIGNALS
+
+**[Financial flows/positioning] | [Macro-Economic Cooling] | Severity: Medium**  
+- **Headline:** Oil settles $1 down as supply set to rise, uncertainty around Fed rate cuts  
+- **What happened:** Oil prices declined due to anticipated increased supply from OPEC+ in October and reduced hopes for significant interest rate cuts by the Federal Reserve.  
+- **Market impact:** Expectations of a demand decrease due to a potential macroeconomic cooling could lead to further downward pressure on oil prices.  
+- **Sentiment contribution:** Bearish — the combination of increased supply and weaker demand signals likely impacts pricing negatively.
+
+---
+
+**[Demand/Macro Activity] | [No Significant Risk] | Severity: Low**  
+- **Headline:** Exxon forecasts 2050 oil demand to match today's, 25% above BP estimate  
+- **What happened:** Exxon Mobil predicts long-term crude oil demand stability, projecting it will remain above 100 million barrels per day through 2050.  
+- **Market impact:** This outlook suggests a potential underlying strength in demand that could balance any short-term fluctuations.  
+- **Sentiment contribution:** Neutral — while demand forecasts are positive, they do not significantly influence the current bearish sentiment driven by macroeconomic factors.
+
+---
+
+**[Financial flows/positioning] | [No Significant Risk] | Severity: Low**  
+- **Headline:** Marathon Oil receives stakeholder approval for $22.5bn ConocoPhillips merger  
+- **What happened:** Marathon Oil secured approval for a merger expected to enhance its asset base and provide cost efficiencies.  
+- **Market impact:** Merger approval is a positive signal for investor confidence in consolidation within the oil sector, but it does not directly alter supply/demand dynamics.  
+- **Sentiment contribution:** Neutral — while it reflects positive corporate strategy, it does not affect the broader market sentiment significantly.
+
+---
+
+**[Financial flows/positioning] | [No Significant Risk] | Severity: Low**  
+- **Headline:** These offshore oil drillers look like bargain stocks as the industry recovers  
+- **What happened:** There is increasing demand for offshore drilling amidst low stock prices, presenting investment opportunities.  
+- **Market impact:** Investment interest in the sector could lead to price support; however, it remains speculative and contingent on broader market movements.  
+- **Sentiment contribution:** Neutral — interest in undervalued assets may provide some upside, but current conditions remain dominated by bearish signals.
+
+---
+
+### 3. SIGNAL SYNTHESIS
+The risk signals found are primarily aligned with a bearish sentiment, driven chiefly by macroeconomic cooling and anticipated supply increases, which both exert downward pressure on prices. While there are signals of underlying demand stability and positive corporate movements, these are presently overshadowed by bearish fundamentals. Overall, the net effect increases concern regarding short-term exposure in the crude oil market.
+
+---
+### 4. WATCH LIST
+- [ ] **OPEC+ Production Decisions** → Changes in production levels announced by OPEC+ could significantly influence prices.
+- [ ] **Federal Reserve Interest Rate Announcements** → Any significant change in interest rate policy could impact oil demand forecasts.
+- [ ] **Unexpected Supply Disruptions** → Geopolitical developments causing supply losses could create immediate price shocks.
+
+---
+### 5. BOTTOM LINE
+**Risk Level: Medium**  
+While current risks are manageable, the crude oil market faces significant downward pressure due to supply increases and macroeconomic uncertainties. Traders and risk managers should keep an eye on external economic indicators and OPEC+ decisions, as these factors could shift market dynamics swiftly.

@@ -1,0 +1,44 @@
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+## COMMODITY RISK REPORT
+**Commodity:** Diesel, crude oil  
+**Report Date:** 2026-04-11  
+**Articles Analysed:** 5 articles  
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+### 1. OVERALL SENTIMENT
+**Bearish**  
+> The overall sentiment is bearish primarily due to Valero's consideration of selling its California refineries amidst increasing regulatory pressures, which could lead to refinery closures and negatively impact supply.
+
+---
+
+### 2. KEY RISK SIGNALS
+
+**LNG & Natural Gas | Production Shortfall | Severity: Medium**  
+- **Headline:** Woodside Retiring North West Shelf LNG Train Amid Declining Feed Gas — Three Things to Know About the LNG Market  
+- **What happened:** Woodside Energy is retiring Train 2 of its North West Shelf LNG facility due to declining feed gas availability.  
+- **Market impact:** This move could reduce LNG production and supply, potentially affecting gas prices in the market.  
+- **Sentiment contribution:** Bearish — the retirement indicates a contraction in natural gas supply.
+
+---
+
+**Refining (Downstream) | Regulatory Constraint | Severity: High**  
+- **Headline:** Valero Considers All Options, Including Sale, for California Refineries Amid Regulatory Pressure  
+- **What happened:** Valero is evaluating a potential sale of its California refineries due to stringent new regulations and high gas prices.  
+- **Market impact:** Regulatory pressures may lead to further refinery closures, affecting diesel supply and prices negatively in the short term.  
+- **Sentiment contribution:** Bearish — concerns over refinery viability and gasoline imports may push prices higher, reflecting increased costs for consumers.
+
+---
+
+### 3. SIGNAL SYNTHESIS
+The risk signals present a largely bearish outlook for the diesel and crude oil market. The retirement of Woodside's LNG train signals a potential production shortfall in LNG, while Valero's situation highlights significant regulatory risks that could constrain refining capabilities in California. These risks are fundamentally driven by the current regulatory environment and operational decisions affecting supply chains.
+
+### 4. WATCH LIST
+- [ ] Monitor California refinery regulations → additional regulatory changes could lead to more refinery closures, exacerbating supply issues for diesel.
+- [ ] Watch global LNG demand trends → an increase in demand could offset the impact of Woodside's production drop, stabilizing prices.
+- [ ] Track oil price fluctuations → any significant changes could either mitigate or exacerbate the overall bearish sentiment in the diesel market.
+
+---
+
+### 5. BOTTOM LINE
+**Risk Level: High**  
+The current environment poses significant risks due to regulatory pressures on refiners like Valero, which may lead to reduced diesel supply. Traders should remain vigilant as these developments may have profound implications for market dynamics moving forward.

@@ -1,0 +1,62 @@
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+## COMMODITY RISK REPORT
+**Commodity:** crude oil  
+**Report Date:** 2026-04-11  
+**Articles Analysed:** 5 articles  
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+### 1. OVERALL SENTIMENT
+**Bullish**  
+> The overall sentiment is bullish as Hess Corp. reported a significant increase in oil production in Guyana, contributing positively to supply forecasts despite challenges from refining margins indicated by Phillips 66's report.
+
+---
+
+### 2. KEY RISK SIGNALS
+
+**Supply (Production/Upstream) | Production Shortfall | Severity: High**  
+- **Headline:** Hess Doubles Guyana Oil Output  
+- **What happened:** Hess Corp. increased its net oil production in Guyana by 52% year-on-year to 195,000 bpd in Q4 2024.  
+- **Market impact:** This substantial increase in production bolsters overall supply levels, which could stabilize or lower prices depending on demand.  
+- **Sentiment contribution:** Bullish — due to the strong production increase indicating a healthy supply outlook.
+
+---
+
+**Financial Flows/Positioning | No Significant Risk | Severity: Low**  
+- **Headline:** ExxonMobil Announces 2024 Results  
+- **What happened:** ExxonMobil reported solid earnings and significant cash flow, achieving record production in critical areas including Guyana.  
+- **Market impact:** This reflects stable corporate health and capacity in oil production without immediate risks to supply.  
+- **Sentiment contribution:** Neutral — as the strong performance does not change the supply-demand dynamics significantly.
+
+---
+
+**Financial Flows/Positioning | No Significant Risk | Severity: Low**  
+- **Headline:** Altria Group (MO) Q4 2024 Earnings: Key financials and quarterly highlights  
+- **What happened:** Altria reported strong earnings growth, though it is not a direct indicator for the crude oil market.  
+- **Market impact:** The report does not significantly influence crude oil prices or risks.  
+- **Sentiment contribution:** Neutral — for the same reason that it does not relate directly to crude oil production or demand.
+
+---
+
+**Refining (Downstream) | Refining Outage | Severity: Medium**  
+- **Headline:** Phillips 66 Q4 profit plunges, shares fall on weak refining margins  
+- **What happened:** Phillips 66 reported a significant drop in fourth-quarter profit primarily due to weak refining margins.  
+- **Market impact:** Weak refining margins can impact the profitability of crude oil processors, which may indirectly affect crude oil demand and prices.  
+- **Sentiment contribution:** Bearish — as this indicates vulnerabilities in the refining sector that could put downward pressure on demand.
+
+---
+
+### 3. SIGNAL SYNTHESIS
+The risk signals show a largely bullish outlook driven by increased production from Hess, but are mixed with bearish sentiment from Phillips 66's refining struggles. The production increase supports supply stability, while refining sector issues pose potential threats to crude oil demand dynamics. Overall, the net effect is cautious optimism for crude oil supply amid downstream challenges.
+
+---
+
+### 4. WATCH LIST
+- [ ] Monitor Hess's production rates → sustained increases could solidify bullish sentiment in the market.
+- [ ] Keep an eye on Phillips 66's refining margins → a further decline could indicate a troubling trend for overall demand.
+- [ ] Track geopolitical developments affecting major production areas → disruptions could lead to unexpected supply shocks.
+
+---
+
+### 5. BOTTOM LINE
+**Risk Level: Medium**  
+The risk landscape for crude oil currently includes high production levels juxtaposed with potential threats from refining profitability challenges. Risk managers should be prepared for volatility driven by downstream performance while recognizing strong production trends.

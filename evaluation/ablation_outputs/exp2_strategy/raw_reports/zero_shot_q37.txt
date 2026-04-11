@@ -1,0 +1,46 @@
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+## COMMODITY RISK REPORT
+**Commodity:** crude oil  
+**Report Date:** 2026-04-11  
+**Articles Analysed:** 5 articles  
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+### 1. OVERALL SENTIMENT
+**Bearish**  
+> The overall sentiment is bearish due to downward pressure on oil prices stemming from discussions about OPEC+ supply increases alongside a market surplus expectation for late 2025 and throughout 2026.
+
+---
+### 2. KEY RISK SIGNALS
+
+**Supply (production / upstream) | Supply Chain Blockage | Severity: High**  
+- **Headline:** The Commodities Feed: Oil under pressure amid noise over more OPEC+ supply hikes  
+- **What happened:** Oil prices are under pressure due to potential additional supply increases from OPEC+ and anticipated market surplus.  
+- **Market impact:** This situation indicates a potential imbalance in supply and demand, leading to downward price movement in the crude oil market.  
+- **Sentiment contribution:** Bearish — as the expectations of increased supply conflict with price stability.
+
+**Financial flows / positioning | No Significant Risk | Severity: Low**  
+- **Headline:** Why Occidental Petroleum Stock Rose In After-Hours Today?  
+- **What happened:** Occidental Petroleum's stock rose on a potential acquisition deal, amidst declining oil prices.  
+- **Market impact:** Market sentiment towards specific stocks may improve, but overall oil market dynamics remain bearish.  
+- **Sentiment contribution:** Neutral — while positive news exists for Occidental, it does not significantly influence the broader crude oil market outlook.
+
+**Financial flows / positioning | No Significant Risk | Severity: Low**  
+- **Headline:** Exxon Mobil (XOM): Company Profile, Stock Price, News, Rankings  
+- **What happened:** A profile of Exxon Mobil with no new negative developments was noted.  
+- **Market impact:** Lacks pressing influence on the crude oil market.  
+- **Sentiment contribution:** Neutral — serves more as background information rather than a market driver.
+
+---
+### 3. SIGNAL SYNTHESIS
+The risk signals are aligned in their bearish outlook on crude oil prices, primarily driven by anticipated increases in supply from OPEC+. The positive sentiment about specific companies (like Occidental) does not counterbalance the overall bearish market conditions. As such, the net effect indicates heightened risk exposure within the crude oil market.
+
+---
+### 4. WATCH LIST
+- [ ] OPEC+ officially announces supply increase → Could lead to further drops in crude oil prices if confirmed.
+- [ ] Economic indicators show demand recovery in key markets → A demand rebound could stabilize or increase prices.
+- [ ] Unplanned outages in major oil-producing regions occur → Could create a supply crunch and push prices upward.
+
+---
+### 5. BOTTOM LINE
+**Risk Level: High**  
+The current bearish sentiment around crude oil is primarily driven by OPEC+'s supply increase discussions and expected market surplus. Traders should closely monitor OPEC's decisions and global demand indicators, as these will be crucial in determining the near-term price trajectory.

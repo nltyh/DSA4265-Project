@@ -1,0 +1,47 @@
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+## COMMODITY RISK REPORT
+**Commodity:** crude oil
+**Report Date:** 2024-07-31
+**Articles Analysed:** 5 articles
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+### 1. OVERALL SENTIMENT
+**Bearish**
+> The overall sentiment is bearish due to ongoing uncertainties surrounding Chevron's acquisition of Hess Corp., particularly the delays in arbitration that could impact production timelines in the Guyana oil project, ultimately affecting prices negatively.
+
+### 2. KEY RISK SIGNALS
+**Geopolitics & policy | Geopolitical Conflict | Severity: High**
+- **Headline:** Chevron’s Hess Deal Suffers New Blow as Arbitration Drags On
+- **What happened:** Chevron's acquisition of Hess is experiencing delays with arbitration pushed to May 2025, linked to a dispute with Exxon Mobil over Hess's interest in the Guyana oil project [Article 1].
+- **Market impact:** This delay raises concerns about the stability of production from the Guyana project, which is crucial for future supply, thereby exerting downward pressure on crude oil prices.
+- **Sentiment contribution:** Bearish because it increases uncertainty regarding future production levels.
+
+**Financial flows/positioning | No Significant Risk | Severity: Low**
+- **Headline:** Hess beats first-quarter profit estimate despite weak oil prices
+- **What happened:** Despite lower oil prices, Hess still surpassed Wall Street expectations for profits, while the ongoing arbitration concerning its assets continues [Article 2].
+- **Market impact:** Stability in Hess's production forecasts provides some cushion against the bearish sentiment arising from arbitration uncertainties.
+- **Sentiment contribution:** Neutral as it does not significantly sway market perception amid ongoing arbitration issues.
+
+**Geopolitics & policy | Geopolitical Conflict | Severity: High**
+- **Headline:** Chevron to resolve ExxonMobil arbitration over Guyana discovery soon following $53 billion Hess acquisition, CEO predicts
+- **What happened:** Chevron anticipates a resolution to its important arbitration process soon, which is essential for completing the Hess acquisition [Article 4].
+- **Market impact:** If resolved positively, it may bolster confidence in production stability; however, the delay casts doubt on timely completion.
+- **Sentiment contribution:** Mixed, as it shows some optimism but is tempered by the actual delay.
+
+**Geopolitics & policy | Geopolitical Conflict | Severity: High**
+- **Headline:** Chevron’s $53 billion merger with Hess moves forward but not out of woods yet as arbitration keeps suspense alive
+- **What happened:** The merger has passed an FTC review but remains contingent on arbitration outcomes, indicating unresolved risks [Article 5].
+- **Market impact:** Continued arbitration and regulatory hurdles create an unstable outlook for both Chevron and Hess, worsening market sentiment.
+- **Sentiment contribution:** Bearish, as the uncertainties prolong risks in the crude oil market.
+
+### 3. SIGNAL SYNTHESIS
+The signals are aligned towards a bearish sentiment, primarily driven by the delays in the Chevron-Hess merger arbitration, which has implications for future production from Guyana. While Hess's operational stability provides some neutral sentiment, the overarching risk surrounding geopolitical conflicts related to the merger underscores a deteriorating risk exposure in the crude oil market.
+
+### 4. WATCH LIST
+- [ ] **Outcome of Chevron-Hess arbitration** → A positive resolution could stabilize the market and reverse bearish sentiment.
+- [ ] **Hess's ongoing production reports** → Consistent production levels could mitigate market fears linked to the acquisition.
+- [ ] **Changes in oil prices** due to external factors like OPEC decisions → Significant shifts may influence the overall supply-demand balance for crude oil.
+
+### 5. BOTTOM LINE
+**Risk Level: High**
+High risks are present due to geopolitical uncertainties surrounding the Chevron-Hess merger and its implications for future production. The current sentiment remains fragile, driven by unresolved arbitration, necessitating close monitoring of developments in this area.

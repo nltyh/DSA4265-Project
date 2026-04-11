@@ -1,0 +1,107 @@
+## COMMODITY RISK REPORT
+**Commodity:** crude oil  
+**Report Date:** 2026-04-11  
+**Articles Analysed:** 5 articles  
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+### 1. OVERALL SENTIMENT
+**Mixed**  
+> The risk landscape for crude oil is mixed due to significant geopolitical developments in Chad affecting supply dynamics while financial signals indicate no immediate risk to companies.
+
+---
+### 2. KEY RISK SIGNALS
+
+**Geopolitics & Policy | Geopolitical Conflict | Severity: High**
+- **Headline:** Chad approves bill to nationalise assets ExxonMobil sold to Savannah Energy
+- **What happened:** Chad's parliament approved a bill to nationalise oil assets sold by ExxonMobil to Savannah Energy, marking a substantial political shift.
+- **Market impact:** This nationalisation could disrupt existing contracts and investment flows, leading to potential supply constraints and increased geopolitical risk in the region.
+- **Sentiment contribution:** Bullish — concerns over supply disruptions may push prices higher as market participants react to the political instability.
+
+---
+
+**Financial Flows/Positioning | No Significant Risk | Severity: Low**
+- **Headline:** 4 Energy Stocks With Fast-Growing Dividends
+- **What happened:** Energy companies are expected to continue prioritizing shareholder returns, despite lower predicted oil price surges in 2023.
+- **Market impact:** This trend may signal overall stability and confidence in the energy sector's financial health, which could support prices in the longer term.
+- **Sentiment contribution:** Neutral — while companies are financially sound, it does not indicate immediate volatility in commodity pricing.
+
+---
+
+**Energy Transition/Structural | No Significant Risk | Severity: Low**
+- **Headline:** Schlumberger Rebrands as SLB to Drive the Future of Energy
+- **What happened:** Schlumberger announced a rebranding to emphasize its commitment to technology and energy transition strategies.
+- **Market impact:** While focusing on innovation and sustainability, such corporate strategies do not presently influence market conditions or price fluctuations significantly.
+- **Sentiment contribution:** Neutral — reflects a longer-term strategic vision rather than immediate market implications.
+
+---
+
+### 3. SIGNAL SYNTHESIS
+The primary risk signal from the nationalisation of assets in Chad represents a high-stakes geopolitical conflict that can disrupt supply chains, which stands in contrast to the other articles that present a stable corporate financial outlook with no immediate risk to prices. The conflicting narratives—geopolitical tensions versus financial stability—create a mixed sentiment that suggests traders should proceed with caution given the potential for political events to sway the crude oil market.
+
+---
+### 4. WATCH LIST
+- [ ] Monitor further developments in Chad's nationalisation process → If Savannah Energy's legal contest is successful, it may restore some stability.
+- [ ] Watch for changes in global oil demand forecasts for 2023 → A decline might pressure prices regardless of geopolitical tensions.
+- [ ] Track investments and production announcements from major oil companies → Significant shifts could indicate a longer-term trend in supply or demand.
+
+---
+### 5. BOTTOM LINE
+**Risk Level: Medium**  
+The major concern is the high geopolitical risk due to Chad's nationalisation efforts, which presents a credible threat to supply stability. This risk is not countered by any substantive immediate threats in financial outlooks or operational capabilities of companies in the sector. Market participants should be alert to evolving geopolitical dynamics that could impact crude oil supply.
+
+---
+
+[REFLECTION]
+No issues found. 
+
+[FINAL REPORT]
+## COMMODITY RISK REPORT
+**Commodity:** crude oil  
+**Report Date:** 2026-04-11  
+**Articles Analysed:** 5 articles  
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+### 1. OVERALL SENTIMENT
+**Mixed**  
+> The risk landscape for crude oil is mixed due to significant geopolitical developments in Chad affecting supply dynamics while financial signals indicate no immediate risk to companies.
+
+---
+### 2. KEY RISK SIGNALS
+
+**Geopolitics & Policy | Geopolitical Conflict | Severity: High**
+- **Headline:** Chad approves bill to nationalise assets ExxonMobil sold to Savannah Energy
+- **What happened:** Chad's parliament approved a bill to nationalise oil assets sold by ExxonMobil to Savannah Energy, marking a substantial political shift.
+- **Market impact:** This nationalisation could disrupt existing contracts and investment flows, leading to potential supply constraints and increased geopolitical risk in the region.
+- **Sentiment contribution:** Bullish — concerns over supply disruptions may push prices higher as market participants react to the political instability.
+
+---
+
+**Financial Flows/Positioning | No Significant Risk | Severity: Low**
+- **Headline:** 4 Energy Stocks With Fast-Growing Dividends
+- **What happened:** Energy companies are expected to continue prioritizing shareholder returns, despite lower predicted oil price surges in 2023.
+- **Market impact:** This trend may signal overall stability and confidence in the energy sector's financial health, which could support prices in the longer term.
+- **Sentiment contribution:** Neutral — while companies are financially sound, it does not indicate immediate volatility in commodity pricing.
+
+---
+
+**Energy Transition/Structural | No Significant Risk | Severity: Low**
+- **Headline:** Schlumberger Rebrands as SLB to Drive the Future of Energy
+- **What happened:** Schlumberger announced a rebranding to emphasize its commitment to technology and energy transition strategies.
+- **Market impact:** While focusing on innovation and sustainability, such corporate strategies do not presently influence market conditions or price fluctuations significantly.
+- **Sentiment contribution:** Neutral — reflects a longer-term strategic vision rather than immediate market implications.
+
+---
+
+### 3. SIGNAL SYNTHESIS
+The primary risk signal from the nationalisation of assets in Chad represents a high-stakes geopolitical conflict that can disrupt supply chains, which stands in contrast to the other articles that present a stable corporate financial outlook with no immediate risk to prices. The conflicting narratives—geopolitical tensions versus financial stability—create a mixed sentiment that suggests traders should proceed with caution given the potential for political events to sway the crude oil market.
+
+---
+### 4. WATCH LIST
+- [ ] Monitor further developments in Chad's nationalisation process → If Savannah Energy's legal contest is successful, it may restore some stability.
+- [ ] Watch for changes in global oil demand forecasts for 2023 → A decline might pressure prices regardless of geopolitical tensions.
+- [ ] Track investments and production announcements from major oil companies → Significant shifts could indicate a longer-term trend in supply or demand.
+
+---
+### 5. BOTTOM LINE
+**Risk Level: Medium**  
+The major concern is the high geopolitical risk due to Chad's nationalisation efforts, which presents a credible threat to supply stability. This risk is not countered by any substantive immediate threats in financial outlooks or operational capabilities of companies in the sector. Market participants should be alert to evolving geopolitical dynamics that could impact crude oil supply.

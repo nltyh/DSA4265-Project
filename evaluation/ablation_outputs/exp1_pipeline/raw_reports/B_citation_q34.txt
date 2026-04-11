@@ -1,0 +1,56 @@
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+## COMMODITY RISK REPORT
+**Commodity:** crude oil  
+**Report Date:** 2026-04-11  
+**Articles Analysed:** 5 articles  
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+### 1. OVERALL SENTIMENT
+**Bearish**  
+The overall sentiment is bearish due to the revocation of Chevron's oil export license by Trump, which reduces potential supply from Venezuela and increases geopolitical tension impacting market stability.
+
+---
+
+### 2. KEY RISK SIGNALS
+
+**Geopolitics & policy | Geopolitical Conflict | Severity: High**  
+- **Headline:** Trump cuts financial lifeline for Venezuela by ending permit to export oil to U.S.  
+- **What happened:** Former President Trump terminated a permit that allowed Chevron to export Venezuelan oil, a critical financial asset for the country.  
+- **Market impact:** This action effectively halts oil exports from Venezuela to the U.S., likely leading to decreased crude oil supply and upward pressure on prices due to restricted access to this resource.  
+- **Sentiment contribution:** Bearish — this action not only limits supply but also fuels geopolitical risks.
+
+**Geopolitics & policy | Geopolitical Conflict | Severity: High**  
+- **Headline:** FACTBOX | Summary of US licenses and authorizations for Venezuela's oil sector  
+- **What happened:** The article summarizes the trends in U.S. licensing affecting the Venezuelan oil sector, particularly focusing on the impact of Trump’s recent decision on export permissions.  
+- **Market impact:** The overall trend indicates increased restrictions which could further impact Venezuelan oil production levels and export capabilities.  
+- **Sentiment contribution:** Bearish — ongoing restrictions diminish supply expectations.
+
+**Geopolitics & policy | Geopolitical Conflict | Severity: High**  
+- **Headline:** Oil Plummets 8% as Trump Postpones Hormuz Deadline Threat  
+- **What happened:** Brent crude prices dropped by over 8% following a statement from Trump about engaging in dialogue with Iran, contrasting with his actions toward Venezuela.  
+- **Market impact:** Indications of reduced tension with Iran could lead to increased oil supply from the region, but the focus remains on Venezuela's reduced offerings.  
+- **Sentiment contribution:** Bearish — while this may hint at potential supply increases, the shortfall due to Venezuela’s license revocation outbalances this.
+
+**Geopolitics & policy | Geopolitical Conflict | Severity: High**  
+- **Headline:** Trinidad court recognizes ConocoPhillips' $1.3 bln claim against Venezuela  
+- **What happened:** A court ruling has allowed ConocoPhillips to pursue claims against Venezuela, potentially complicating future investment in the Venezuelan oil sector.  
+- **Market impact:** Ongoing legal issues may hinder investments, essential for improving output, contributing to supply issues.  
+- **Sentiment contribution:** Bearish — continued legal challenges reduce investor confidence and increase operational risks within the Venezuelan oil market.
+
+---
+
+### 3. SIGNAL SYNTHESIS
+The risk signals present a coherent bearish outlook, primarily driven by geopolitical factors and regulatory constraints that restrict Venezuelan oil supply. The revocation of Chevron’s export permit significantly constrains production capabilities, while compounding judicial issues further diminish market confidence. The net effect is a pronounced risk exposure in commodity markets.
+
+---
+
+### 4. WATCH LIST
+- [ ] Revocation of additional U.S. permits for Venezuelan oil exports → would further restrict supply and elevate price pressures.
+- [ ] Any announcements from Chevron regarding production capabilities in Venezuela → a potential lift or further constraints could alter market dynamics.
+- [ ] Outcomes of ConocoPhillips’ claims against Venezuela → settlements or losses could impact future investment in Venezuelan oil production.
+
+---
+
+### 5. BOTTOM LINE
+**Risk Level: High**  
+The immediate landscape for Venezuelan crude oil is marked by significant geopolitical risks stemming from policy changes that stifle export potential. This situation is fragile, given the contradiction of potential negotiations with Iran, which does not offset the severe constraints posed by Trump's decisions on Venezuelan exports.

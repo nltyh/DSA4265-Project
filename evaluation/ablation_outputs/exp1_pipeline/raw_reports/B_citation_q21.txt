@@ -1,0 +1,40 @@
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+## COMMODITY RISK REPORT
+**Commodity:** LNG  
+**Report Date:** 2026-04-11  
+**Articles Analysed:** 5 articles  
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+### 1. OVERALL SENTIMENT
+**Bearish**  
+> The ongoing operational struggles of Freeport LNG and its impact on U.S. LNG exports contribute negatively to the market sentiment. The unreliability of this major facility leads to price volatility and concerns over supply stability.
+
+---
+### 2. KEY RISK SIGNALS
+
+**LNG & Natural Gas | Production Shortfall | Severity: High**
+- **Headline:** As demand for US LNG booms, one plant struggles to stay online
+- **What happened:** Freeport LNG has been operating below 80% capacity due to technical issues and damage from a freeze, with average utilization dropping to 72% over the past year [Article 1].
+- **Market impact:** The disruptions at Freeport LNG are causing volatility in Henry Hub natural gas futures prices and raising concerns over supply shortages.
+- **Sentiment contribution:** Bearish — the operational unreliability directly impacts supply forecasts and induces market uncertainty.
+
+**LNG & Natural Gas | Supply Chain Blockage | Severity: Medium**
+- **Headline:** U.S. LNG exports help fill supply gap
+- **What happened:** While U.S. Gulf Coast exporters have been expanding operations in response to heightened global LNG demand due to external conflicts, supply chain challenges remain evident [Article 5].
+- **Market impact:** Continued supply interruptions can exacerbate existing market pressures, leading to potential price increases.
+- **Sentiment contribution:** Neutral — while the expansion helps, ongoing supply challenges can mitigate any potential benefits.
+
+---
+### 3. SIGNAL SYNTHESIS
+The risk signals regarding production shortfalls are primarily aligned, emphasizing the fragility of supply due to operational challenges at Freeport LNG. These concerns seem to be confirmed by the fundamentals as expressed in the articles, reflecting a lack of capacity relative to demand. The overall sentiment remains bearish due to the significant impact of Freeport's struggles on market stability.
+
+---
+### 4. WATCH LIST
+- [ ] Monitoring Freeport LNG's operational updates → A return to stable operations could help alleviate supply fears and stabilize prices.
+- [ ] Watch for changes in LNG export authorizations by the Biden administration → Any easing of regulations could boost production and exports.
+- [ ] Track global LNG demand trends, particularly from Europe and Asia → Increased demand could counterbalance supply issues and support prices.
+
+---
+### 5. BOTTOM LINE
+**Risk Level: High**  
+Ongoing operational issues at Freeport LNG pose a significant risk to supply and market prices, contributing to a bearish sentiment in the LNG sector. Risk managers should closely monitor supply chain developments and operational statuses of major export facilities.

@@ -1,0 +1,51 @@
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+## COMMODITY RISK REPORT
+**Commodity:** crude oil
+**Report Date:** 2024-10-31
+**Articles Analysed:** 5 articles
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+### 1. OVERALL SENTIMENT
+**Bullish**
+> The market is experiencing upward pressure due to potential disruptions from NextDecade's infrastructure challenges, which might threaten additional supply from the Permian Basin, coupled with concerns about feed gas availability following Woodside's LNG facility adjustments.
+
+---
+### 2. KEY RISK SIGNALS
+
+**[LNG & Natural Gas] | [Infrastructure Damage] | Severity: High**
+- **Headline:** NextDecade: LNG halt flows back to Permian gas producers
+- **What happened:** NextDecade faced a critical setback with its Rio Grande LNG facility as a U.S. Court vacated its permits, prompting plans to appeal and pursue further environmental review.
+- **Market impact:** The halt in LNG development raises concerns about Permian Basin gas supply, potentially leading to reduced crude oil production and increased prices due to supply constraints.
+- **Sentiment contribution:** Bullish — the disruption signals potential supply shortages, affecting crude prices given the interconnected nature of gas and oil markets.
+
+---
+
+**[LNG & Natural Gas] | [No Significant Risk] | Severity: Low**
+- **Headline:** As Other Projects Fall Behind, Cheniere Says Corpus Christi LNG Expansion Still Ahead of Schedule
+- **What happened:** Cheniere Energy confirmed their Corpus Christi LNG expansion remains on track, with no significant delays reported.
+- **Market impact:** Continued expansion could provide stable demand for Permian gas, indirectly supporting crude oil production.
+- **Sentiment contribution:** Neutral — while this signals ongoing development, it does not materially shift market dynamics concerning overall supply risks.
+
+---
+
+**[LNG & Natural Gas] | [Production Shortfall] | Severity: Medium**
+- **Headline:** Woodside Retiring North West Shelf LNG Train Amid Declining Feed Gas — Three Things to Know About the LNG Market
+- **What happened:** Woodside announced the retirement of an LNG train due to feed gas shortages, indicating challenges in their operational capacity.
+- **Market impact:** This may limit LNG availability, leading to increased competition for existing gas supplies, impacting crude oil markets through rising energy costs.
+- **Sentiment contribution:** Bearish — a production shortfall in LNG can lead to tighter energy markets, potentially raising crude prices, but indicates broader supply stress.
+
+---
+
+### 3. SIGNAL SYNTHESIS
+The risks identified are somewhat aligned, emphasizing potential supply disruptions stemming from infrastructure issues and production shortfalls. The bullish sentiment from NextDecade’s situation could contradict the bearish signals from Woodside’s production cuts, yet the overall outlook suggests heightened risk for crude due to interdependencies in natural gas and crude oil markets. The net effect is an increased exposure to supply chain vulnerabilities.
+
+---
+### 4. WATCH LIST
+- [ ] **NextDecade’s permit appeal outcome** → A successful appeal may stabilize LNG supply and reduce crude price volatility.
+- [ ] **Progress on the environmental review for Rio Grande LNG** → Delays could exacerbate supply issues from the Permian Basin.
+- [ ] **Market response to Woodside's production adjustments** → Continued feed gas difficulties could further strangle LNG supplies, impacting crude indirectly.
+
+---
+### 5. BOTTOM LINE
+**Risk Level: High**
+Current developments indicate a significant risk of supply disruptions impacting crude oil prices, particularly linked to natural gas infrastructure challenges. The situation is dynamic; thus, stakeholders should remain vigilant about regulatory outcomes and their implications on market stability.

@@ -1,0 +1,48 @@
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+## COMMODITY RISK REPORT
+**Commodity:** crude oil  
+**Report Date:** 2026-04-11  
+**Articles Analysed:** 5 articles  
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+### 1. OVERALL SENTIMENT
+**Bullish**
+> The dominant sentiment is bullish, primarily driven by Hess Corp.'s significant increase in oil production in Guyana, indicating robust supply growth. While other articles reflect stable financial performance from major companies, they do not counter the strong growth narrative.
+
+### 2. KEY RISK SIGNALS
+
+**Supply (Production/Upstream) | Production Shortfall | Severity: High**
+- **Headline:** Hess Doubles Guyana Oil Output
+- **What happened:** Hess Corp. increased its net oil production in Guyana by 52% year-on-year to 195,000 bpd in Q4 2024, outperforming analyst estimates [Article 1].
+- **Market impact:** This significant production boost contributes positively to global oil supply, potentially alleviating tight market conditions.
+- **Sentiment contribution:** Bullish — this increase signals strong production capabilities and enhanced supply.
+
+**Financial Flows/Positioning | No Significant Risk | Severity: Low**
+- **Headline:** ExxonMobil Announces 2024 Results
+- **What happened:** ExxonMobil reported strong earnings with record production levels in both the Permian and Guyana basins [Article 2].
+- **Market impact:** Stable financial performance and production levels indicate resilience in the market, but do not directly influence pricing or supply concerns.
+- **Sentiment contribution:** Neutral — while the performance is strong, it does not indicate an immediate risk.
+
+**Financial Flows/Positioning | No Significant Risk | Severity: Low**
+- **Headline:** Altria Group (MO) Q4 2024 Earnings: Key financials and quarterly highlights
+- **What happened:** Altria Group maintained flat revenues but reported a 47.5% increase in net earnings [Article 3].
+- **Market impact:** The company’s performance is not closely related to crude oil supply or demand, hence it has minimal impact on the crude oil market.
+- **Sentiment contribution:** Neutral — does not significantly sway market expectations.
+
+**Supply (Production/Upstream) | No Significant Risk | Severity: Low**
+- **Headline:** Viper Energy, Inc. Announces Drop Down Transaction and Operations Update
+- **What happened:** Viper Energy announced strong production alongside upcoming acquisition-related growth strategies [Article 4].
+- **Market impact:** While this highlights potential future growth, it does not currently indicate any immediate risks or changes in the existing supply landscape.
+- **Sentiment contribution:** Neutral — the activity signifies stability and potential growth without immediate urgency.
+
+### 3. SIGNAL SYNTHESIS
+The risk signals are generally aligned, with strong production reports bolstering a bullish outlook while other financial reports offer stability without suggesting immediate risks. The increase in production capacities is robustly supported by Hess's performance, which stands out against the background of steady performances from other companies that do not pose immediate threats.
+
+### 4. WATCH LIST
+- [ ] Monitor Hess’s ongoing output rates → Sustained production increases could further strengthen the bullish sentiment.
+- [ ] Watch for global geopolitical stability or disruptions affecting the Guyana region → Unforeseen conflicts could undermine supply expectations.
+- [ ] Observe any shifts in refining margins or significant refinery outages → These could impact demand for crude oil and overall pricing.
+
+### 5. BOTTOM LINE
+**Risk Level: Low**
+The current outlook for crude oil risk is low, supported by increasing production from Hess and overall stable financial reports from major players. Nonetheless, any emerging geopolitical tensions or unexpected supply chain disruptions could alter the landscape quickly.

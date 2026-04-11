@@ -1,0 +1,57 @@
+## COMMODITY RISK REPORT
+**Commodity:** crude oil  
+**Report Date:** 2026-04-11  
+**Articles Analysed:** 5 articles  
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+### 1. OVERALL SENTIMENT
+**Bullish**  
+> The dominant signal indicates a bullish sentiment as Brent crude prices surged past $110 due to geopolitical tensions, particularly the ongoing conflict related to Iran.
+
+---
+### 2. KEY RISK SIGNALS
+
+**Geopolitics & policy | Geopolitical Conflict | Severity: High**
+- **Headline:** Brent Surges Past $110 on Iran Rejection
+- **What happened:** The closure of the Hormuz Strait and Iran's rejection of U.S. terms have raised tensions, pushing Brent crude prices above $110.
+- **Market impact:** This escalation contributes to fears of supply disruptions in a critical shipping route, resulting in increased crude oil prices.
+- **Sentiment contribution:** Bullish — the prevailing geopolitical risks encourage higher pricing.
+
+**Supply (production / upstream) | Supply Chain Blockage | Severity: Medium**
+- **Headline:** Asia Begins Pricing U.S. Oil Against Brent as Dubai Volatility Spikes
+- **What happened:** Asian refiners shifted pricing to the ICE Brent benchmark amid volatile supply conditions from the Persian Gulf.
+- **Market impact:** This indicates potential supply chain disruptions impacting how U.S. crude is priced, reflecting fears of supply shortages.
+- **Sentiment contribution:** Neutral — the change in pricing strategy adds complexity but does not strongly indicate a bullish or bearish shift.
+
+**Geopolitics & policy | Macro-Economic Cooling | Severity: Medium**
+- **Headline:** Oil Markets Price In Peace, but the Upside Risk Remains
+- **What happened:** Despite heightened geopolitical tensions, some traders are anticipating a reduction in oil prices based on diplomatic optimism regarding the conflict.
+- **Market impact:** The potential for price declines in the short term could temper buyer enthusiasm amid existing geopolitical factors.
+- **Sentiment contribution:** Bearish — this contrasts with the strong bullish signals from other articles and introduces uncertainty.
+
+**Geopolitics & policy | Geopolitical Conflict | Severity: High**
+- **Headline:** Macquarie: Two More Months of War Could Send Oil to $200
+- **What happened:** Analysts warn that continued conflict could further elevate prices dramatically, reflecting extreme bullish forecasts.
+- **Market impact:** Concerns over prolonged unrest raise speculative risks and potential price spikes.
+- **Sentiment contribution:** Bullish — indicates potential for even higher prices if conflicts persist.
+
+**Geopolitics & policy | Geopolitical Conflict | Severity: High**
+- **Headline:** Oil Traders Caught Between Diplomacy and Disruption Risk
+- **What happened:** Oil prices have remained volatile due to conflicting headlines regarding U.S.-Iran diplomacy.
+- **Market impact:** Traders are experiencing increased price movements due to ongoing geopolitical risks.
+- **Sentiment contribution:** Bullish — sustained tensions could maintain elevated oil prices.
+
+---
+### 3. SIGNAL SYNTHESIS
+The risk signals present a mixed but predominantly bullish outlook for crude oil prices. While geopolitical risks are acknowledged and could yield higher prices, sentiments of potential peace and adjustments in pricing strategies introduce some bearish tendencies. Crucially, the overarching impact of escalating geopolitical conflict contributes to a heightened risk exposure related to pricing.
+
+---
+### 4. WATCH LIST
+- [ ] **Continuation of U.S.-Iran conflict** → Could further elevate prices if tensions escalate.
+- [ ] **Diplomatic resolutions** → A potential peace agreement could lead to a price drop, alleviating supply concerns.
+- [ ] **Pricing strategies from Asian refiners** → Changes could indicate supply issues, affecting regional pricing dynamics.
+
+---
+### 5. BOTTOM LINE
+**Risk Level: High**  
+Traders and risk managers should remain cautious of high geopolitical risks that can cause significant price volatility in the crude oil market. The situation is fragile due to mixed signals regarding the potential for conflict resolution vs. continued geopolitical tensions.

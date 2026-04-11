@@ -1,0 +1,46 @@
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+## COMMODITY RISK REPORT
+**Commodity:** crude oil  
+**Report Date:** 2026-04-11  
+**Articles Analysed:** 5 articles  
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+### 1. OVERALL SENTIMENT
+**Bearish**  
+The overall sentiment is bearish due to the geopolitical implications of Procter & Gamble's continued operations in Russia, which support the Russian economy amid ongoing conflict, alongside a significant decline in China's LNG imports impacting market dynamics [Article 2, 3].
+
+---
+
+### 2. KEY RISK SIGNALS
+
+**Geopolitics & Policy | Geopolitical Conflict | Severity: High**  
+- **Headline:** Procter & Gamble continues sponsoring Russia’s war with two giant factories  
+- **What happened:** Procter & Gamble operates two large factories in Russia, contributing to the Russian budget through taxes while facilitating military mobilization [Article 2].  
+- **Market impact:** This ongoing support may undermine efforts to isolate Russia economically, which can lead to supply disruptions and increase market volatility.  
+- **Sentiment contribution:** Bearish — due to potential backlash from markets concerned about geopolitical stability and supply chain ramifications.
+
+---
+
+**LNG & Natural Gas | Supply Chain Blockage | Severity: Medium**  
+- **Headline:** LNG imports to China tumble 20% in 2022  
+- **What happened:** China’s LNG imports dropped by 20% in 2022 due to strict COVID-19 measures and a pivot toward domestic production [Article 3].  
+- **Market impact:** This suggests a tighter supply for global markets, potentially increasing competition for crude oil as a substitute energy source.  
+- **Sentiment contribution:** Bearish — as a reduced demand for LNG may lead to increased crude oil use, yet overall demand remains uncertain.
+
+---
+
+### 3. SIGNAL SYNTHESIS
+The key risk signals are primarily aligned, indicating rising bearish sentiment driven by geopolitical and supply chain risks. The geopolitical conflict around Russia and ongoing influence on energy markets heightens uncertainty in crude oil pricing and supply. While LNG demand impacts the market, it's more of a secondary consequence to the primary geopolitical tensions affecting crude.
+
+---
+
+### 4. WATCH LIST
+- [ ] Monitor changes in sanctions against Russian companies → A tightening of sanctions could further destabilize oil supply chains.
+- [ ] Track China's domestic energy policy shifts → A significant change could lead to shifts in global LNG and oil demand.
+- [ ] Observe the market reactions of major oil companies operating in Russia → Any shift in their operational stance could signal broader market sentiment changes.
+
+---
+
+### 5. BOTTOM LINE
+**Risk Level: High**  
+Current geopolitical tensions and supply chain issues driven by actions in Russia present significant risks to the crude oil market. Risk managers should be particularly vigilant regarding escalating conflicts and their potential impact on global oil supply dynamics.

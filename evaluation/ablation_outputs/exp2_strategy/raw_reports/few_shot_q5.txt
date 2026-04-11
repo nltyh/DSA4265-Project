@@ -1,0 +1,43 @@
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+## COMMODITY RISK REPORT
+**Commodity:** LNG  
+**Report Date:** 2026-04-11  
+**Articles Analysed:** 5 articles  
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+### 1. OVERALL SENTIMENT
+**Bullish**  
+> The overall sentiment is bullish due to heightened demand in Europe driving up LNG prices, despite potential long-term supply constraints impacting Asian markets.
+
+---
+### 2. KEY RISK SIGNALS
+
+**[LNG & Natural Gas] | [Supply Chain Blockage] | Severity: High**
+- **Headline:** Europe’s scramble for LNG leaves Asia starving for energy
+- **What happened:** Europe’s increased demand for LNG, driven by geopolitical tensions, is diverting shipments away from Asia, creating energy shortages in countries like China, Japan, and Bangladesh.
+- **Market impact:** The shift in shipments may lead to increased prices in Asia and force countries to seek alternative energy sources or increase reliance on coal, creating a tight supply dynamic.
+- **Sentiment contribution:** Bullish — the diversion of LNG is creating a supply crunch in Asia while European demand remains robust.
+
+---
+
+**[LNG & Natural Gas] | [Supply Chain Blockage] | Severity: Medium**
+- **Headline:** QatarEnergy’s US LNG project approved for gas exports
+- **What happened:** The US Energy Department has approved exports for major LNG projects, aiming to alleviate supply issues in Europe but with no immediate benefit.
+- **Market impact:** While this approval may support long-term supply chains, current needs remain unmet, sustaining upward pressure on prices.
+- **Sentiment contribution:** Bearish — while aimed at boosting supply, the projects will not resolve current market pressures soon.
+
+---
+
+### 3. SIGNAL SYNTHESIS
+The risk signals are largely aligned; increased demand in Europe is creating a critical supply blockage for LNG in Asia. The geopolitical backdrop supports bullish sentiment, but the future availability of LNG from new projects remains a concern. Therefore, while immediate risks lean bullish, uncertainties about new supply sources contribute a mixed element.
+
+---
+### 4. WATCH LIST
+- [ ] **Monitor LNG shipments to Asia** → An increase in diversion back to Asia could alleviate potential price spikes.
+- [ ] **Track progress of US LNG projects** → Delays or advancements in the timing of these supplies could shift market sentiment.
+- [ ] **Observe geopolitical developments affecting European energy policy** → New sanctions or conflicts might drastically alter supply dynamics and demand across the region.
+
+---
+### 5. BOTTOM LINE
+**Risk Level: Medium**  
+Despite the current bullish sentiment in the LNG market due to high demand, the overall risk is medium due to potential supply constraints from upcoming projects. Risk managers should remain cautious, as any changes in geopolitical dynamics or logistics could significantly impact both supply and pricing.

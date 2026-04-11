@@ -1,0 +1,58 @@
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+## COMMODITY RISK REPORT
+**Commodity:** crude oil  
+**Report Date:** 2026-04-11  
+**Articles Analysed:** 5 articles  
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+### 1. OVERALL SENTIMENT
+**Bullish**
+> The nationalization of ExxonMobil's assets in Chad introduces significant geopolitical risks, which are expected to disrupt crude oil supply and elevate prices, overshadowing the otherwise neutral sentiment from financial positioning.
+
+---
+### 2. KEY RISK SIGNALS
+
+**[Geopolitics & Policy] | [Geopolitical Conflict] | Severity: High**
+- **Headline:** Chad approves bill to nationalise assets ExxonMobil sold to Savannah Energy
+- **What happened:** Chad's parliament has nationalized oil assets previously sold to Savannah Energy, claiming threats to public order and stability.
+- **Market impact:** This action raises concerns over crude supply disruptions in Chad, a key oil-producing nation, potentially impacting global oil prices due to reduced availability.
+- **Sentiment contribution:** Bullish — heightened geopolitical tension creates supply-side risks, confirmed by market reactions anticipating a potential supply crunch.
+
+**[Financial Flows/Positioning] | [No Significant Risk] | Severity: Low**
+- **Headline:** 4 Energy Stocks With Fast-Growing Dividends
+- **What happened:** Energy companies are expected to continue dividend growth despite a projected normalization of oil prices.
+- **Market impact:** Positive dividend growth indicates financial strength in the sector, but the overall impact on crude oil supply or demand is minimal.
+- **Sentiment contribution:** Neutral — while it reflects financial resilience, it does not alter the substantial risks introduced by the nationalization incident.
+
+**[Financial Flows/Positioning] | [No Significant Risk] | Severity: Low**
+- **Headline:** Car Glove Compartment Market 2023 – Latest Sales Figure Signals More Opportunities Ahead
+- **What happened:** Analysis of the automotive market indicates steady growth unrelated to crude oil supply/demand dynamics.
+- **Market impact:** This sector's positive outlook does not correlate with crude oil market conditions directly.
+- **Sentiment contribution:** Neutral — does not impact oil markets.
+
+**[Energy Transition/Structural] | [No Significant Risk] | Severity: Low**
+- **Headline:** Schlumberger Rebrands as SLB to Drive the Future of Energy
+- **What happened:** Schlumberger's rebranding as SLB highlights a transition toward technology and decarbonization.
+- **Market impact:** While progressive, this shift does not pose immediate risk to current crude oil dynamics.
+- **Sentiment contribution:** Neutral — reflects long-term trends rather than short-term risks.
+
+**[LNG & Natural Gas] | [No Significant Risk] | Severity: Low**
+- **Headline:** Baker Hughes wins MRC supply contract for Sempra’s Port Arthur LNG
+- **What happened:** Baker Hughes secured a contract for LNG infrastructure development.
+- **Market impact:** While positive for LNG, it is unrelated to the immediate risks affecting crude oil supplies.
+- **Sentiment contribution:** Neutral — does not influence crude oil market directly.
+
+---
+### 3. SIGNAL SYNTHESIS
+The primary risk signal stemming from the nationalization of ExxonMobil's assets represents a significant geopolitical threat that could disrupt supply, thus contributing to a bullish sentiment. Other financial articles were neutral or favorable, but they did not directly counter the heightened concerns raised by the geopolitical developments in Chad.
+
+---
+### 4. WATCH LIST
+- [ ] **Continued escalation of conflicts in Chad** → further disruptions in crude oil supply could exacerbate market tensions and drive prices higher.
+- [ ] **Chad's response from international energy firms, such as legal challenges** → if challenging nationalization leads to instability, it could aggravate supply risks.
+- [ ] **Monitoring for potential sanction responses from international markets towards Chad** → could further isolate Chad's oil production and influence global supply.
+
+---
+### 5. BOTTOM LINE
+**Risk Level: High**  
+The nationalization of oil assets in Chad raises significant geopolitical risks that may severely impact crude oil supply chains, warranting close monitoring of further developments. The situation is confirmed by both legislative actions and anticipated market reactions, suggesting substantial risk exposure.

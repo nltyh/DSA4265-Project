@@ -1,0 +1,43 @@
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+## COMMODITY RISK REPORT
+**Commodity:** crude oil  
+**Report Date:** 2026-04-11  
+**Articles Analysed:** 5 articles  
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+### 1. OVERALL SENTIMENT
+**Bearish**  
+The dominant signal is bearish due to increased supply expectations from OPEC+ and concerns regarding macroeconomic conditions, including uncertainty around U.S. Federal Reserve interest rate cuts, which dampen demand prospects.
+
+### 2. KEY RISK SIGNALS
+
+**Financial Flows/Positioning | Macro-Economic Cooling | Severity: High**  
+- **Headline:** Oil settles $1 down as supply set to rise, uncertainty around Fed rate cuts  
+- **What happened:** Oil prices fell amid expectations of increased supply from OPEC+ starting in October and diminished hopes for significant rate cuts by the U.S. Federal Reserve.  
+- **Market impact:** The increase in supply combined with a macro-economic environment that dampens oil demand contributes to downward price pressure.  
+- **Sentiment contribution:** Bearish, due to the expectation of higher supply and lower demand from macroeconomic factors [Article 1].
+
+**Demand/Macro Activity | No Significant Risk | Severity: Low**  
+- **Headline:** Exxon forecasts 2050 oil demand to match today's, 25% above BP estimate  
+- **What happened:** Exxon Mobil's forecast anticipates steady crude oil demand above 100 million barrels per day, suggesting a resilient demand outlook.  
+- **Market impact:** While this points to long-term stability in demand, it does not significantly alter the current bearish sentiment rooted in immediate supply issues.  
+- **Sentiment contribution:** Neutral, as the forecast does not address current supply-demand imbalances [Article 2].
+
+**Financial Flows/Positioning | No Significant Risk | Severity: Low**  
+- **Headline:** Marathon Oil receives stakeholder approval for $22.5bn ConocoPhillips merger  
+- **What happened:** The merger approval indicates ongoing consolidation in the oil sector, potentially leading to more efficient operations but does not present immediate risk factors.  
+- **Market impact:** The approval does not directly impact supply or demand, and while it may benefit long-term corporate strategies, it does not change the current market dynamics.  
+- **Sentiment contribution:** Neutral, as it doesn't significantly impact market prices or risk exposure [Article 3, 5].
+
+### 3. SIGNAL SYNTHESIS
+The risk signals indicate a predominantly bearish sentiment influenced by increased supply expectations and economic uncertainties. However, the forecasts for stable long-term demand provide some offsetting optimism. Overall, risk exposure appears more driven by immediate supply-demand tensions than by long-term projections.
+
+### 4. WATCH LIST
+- [ ] **OPEC+ production adjustments** → A decision to cut production could reverse bearish sentiment if it tightens supply.  
+- [ ] **U.S. interest rate policy announcements** → Any hint at rate cuts could influence demand positively and affect oil prices.  
+- [ ] **Geopolitical developments in oil-producing regions** → Tensions or disruptions could create sudden upward price pressures.  
+- [ ] **Market reactions to global economic indicators** → A slowdown could dampen oil demand forecasts further.
+
+### 5. BOTTOM LINE
+**Risk Level: High**  
+The current bearish sentiment driven by increased supply and macroeconomic concerns signals a high-risk environment for crude oil traders. Monitoring upcoming OPEC+ decisions and U.S. economic indicators is crucial for adjusting strategies in response to potential volatility.

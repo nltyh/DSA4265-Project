@@ -1,0 +1,35 @@
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+## COMMODITY RISK REPORT
+**Commodity:** LNG  
+**Report Date:** 2022-03-07  
+**Articles Analysed:** 5 articles  
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+### 1. OVERALL SENTIMENT
+**Bullish**  
+> The overall sentiment is bullish due to strong ongoing demand growth for LNG driven by geopolitical events and industry dynamics, despite some forecasts of future volatility.
+
+### 2. KEY RISK SIGNALS
+**LNG & natural gas | Supply Chain Blockage | Severity: High**  
+- **Headline:** Cheniere’s CEO Sees LNG Demand Growing Exponentially, with Volatile Market Even Tighter in Future  
+- **What happened:** Cheniere Energy CEO Jack Fusco reported significant growth in LNG demand, emphasizing that U.S. export facility capacity is sold out through the 2040s, highlighting supply chain constraints.  
+- **Market impact:** This can lead to unsustainably high prices in Europe, reflecting tight supply amidst robust demand.  
+- **Sentiment contribution:** Bullish — the tight supply situation coupled with strong demand indicates upward price pressure.
+
+**LNG & natural gas | Supply Chain Blockage | Severity: High**  
+- **Headline:** U.S. LNG exports help fill supply gap  
+- **What happened:** The ongoing war in Ukraine has led to increased LNG exports from the U.S., with a reported 46% increase in 2021.  
+- **Market impact:** Heightened exports help mitigate global supply gaps but also contribute to higher prices within a constrained market.  
+- **Sentiment contribution:** Bullish — the increased exports in response to geopolitical dynamics boost price expectations.
+
+### 3. SIGNAL SYNTHESIS
+The key risks identified are aligned, all pointing toward strong demand amidst significant supply constraints. These signals reflect underlying fundamentals rather than sentiment alone, indicating a robust risk exposure for LNG as traders navigate tightness created by geopolitical developments and operational capacities at export facilities. Overall, the sentiment leans bullish, suggesting that while immediate risks exist, they are largely driven by strong fundamentals.
+
+### 4. WATCH LIST
+- [ ] Monitor the effects of geopolitical developments (e.g., Ukraine conflict escalation) → could further tighten supply and elevate prices.
+- [ ] Track new LNG facility activations (e.g., Corpus Christi LNG expansion) → increased supply could stabilize or reduce prices if consumption patterns hold.
+- [ ] Observe global LNG market price movements, particularly in Europe → sustained high prices could trigger demand shifts or alternative sourcing strategies.
+
+### 5. BOTTOM LINE
+**Risk Level: High**  
+The situation poses a high risk due to constrained supply, reinforced by heightened demand as geopolitical tensions drive market dynamics. Risk managers should monitor the volatility implications closely, given that prices may remain high amidst ongoing uncertainties in supply chains.
