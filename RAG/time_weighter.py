@@ -1,6 +1,14 @@
 from datetime import datetime
 import numpy as np
 
+
+def _parse_date(date_str: str) -> datetime:
+    """Parse date string supporting both YYYY-MM-DD and DD/MM/YYYY formats."""
+    try:
+        return datetime.fromisoformat(date_str)
+    except ValueError:
+        return datetime.strptime(date_str, "%d/%m/%Y")
+
 class TimeWeighter:
     def __init__(self, decay_rate=0.1):
         """
@@ -26,7 +34,7 @@ class TimeWeighter:
         # Anchor: query date if given, wallclock otherwise
         if reference_date:
             try:
-                anchor = datetime.strptime(reference_date, "%Y-%m-%d")
+                anchor = _parse_date(reference_date)
             except ValueError:
                 anchor = datetime.now()
         else:
@@ -37,7 +45,7 @@ class TimeWeighter:
         for doc in documents:
             # ---- Handle missing or bad date safely ----
             try:
-                doc_date = datetime.strptime(doc["date"], "%Y-%m-%d")
+                doc_date = _parse_date(doc["date"])
                 # abs() → symmetric: penalise articles far from the query date
                 # in either direction, not just older ones
                 days_diff = abs((anchor - doc_date).days)

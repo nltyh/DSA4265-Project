@@ -324,6 +324,9 @@ if __name__ == "__main__":
     # reports = gen.generate_all_strategies(query, reranked_docs, graph_context)
 
     # ── Mock data for standalone testing ────────────────────────────
+    import sys
+    from pathlib import Path
+    sys.path.insert(0, str(Path(__file__).parent.parent / "RAG"))
     from generation import Generator, build_context
 
     MOCK_DOCS = [

@@ -1,4 +1,5 @@
 import re
+import logging
 import dateparser
 from datetime import datetime
 
@@ -63,6 +64,14 @@ class QueryProcessor:
         }
 
 
+def _parse_date(date_str: str) -> datetime:
+    """Parse date string supporting both YYYY-MM-DD and DD/MM/YYYY formats."""
+    try:
+        return datetime.fromisoformat(date_str)
+    except ValueError:
+        return datetime.strptime(date_str, "%d/%m/%Y")
+
+
 class MetadataFilter:
     def __init__(self, target_date=None, window_days=None, commodity=None):
         self.target_date = target_date
@@ -75,7 +84,7 @@ class MetadataFilter:
 
         # Prepare target date
         if self.target_date:
-            target = datetime.strptime(self.target_date, "%Y-%m-%d")
+            target = _parse_date(self.target_date)
 
         for doc, meta in zip(documents, metadata):
             keep = True
@@ -83,7 +92,7 @@ class MetadataFilter:
             # ---- Date Filtering ----
             if self.target_date:
                 try:
-                    doc_date = datetime.strptime(meta["date"], "%Y-%m-%d")
+                    doc_date = _parse_date(meta["date"])
 
                     if self.window_days is not None:
                         # ✅ Window filtering
@@ -94,9 +103,8 @@ class MetadataFilter:
                         if doc_date != target:
                             keep = False
 
-                except:
-                    # fallback: keep doc if date parsing fails
-                    pass
+                except (ValueError, KeyError) as e:
+                    logging.warning("Date parsing failed: %s", e)
 
             # ---- Commodity Filtering ----
             if self.commodity:

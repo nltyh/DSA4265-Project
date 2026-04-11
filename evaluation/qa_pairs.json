@@ -1,0 +1,452 @@
+[
+  {
+    "id": 1,
+    "query_type": "Factual - Event",
+    "commodity": "crude oil",
+    "risk_category": "Geopolitical Conflict",
+    "difficulty": "Easy",
+    "query": "What immediate market impact did Russia's military invasion of Ukraine on 24 February 2022 have on crude oil prices?",
+    "expected_answer": "Crude oil prices surged to nearly $100 per barrel on 24 February 2022 following Russia's attack on Ukraine. Asian and European equity markets simultaneously plunged. The market sentiment was Bullish due to the Geopolitical Conflict risk, as traders priced in the threat of supply disruptions from a major oil-producing nation under sanctions."
+  },
+  {
+    "id": 2,
+    "query_type": "Factual - Event",
+    "commodity": "LNG",
+    "risk_category": "Supply Chain Blockage",
+    "difficulty": "Easy",
+    "query": "What did Cheniere Energy's CEO Jack Fusco say about the outlook for U.S. LNG export capacity in March 2022?",
+    "expected_answer": "Cheniere Energy CEO Jack Fusco stated in early March 2022 that U.S. LNG export facilities such as Sabine Pass and Corpus Christi were effectively sold out through the 2040s. He described LNG demand growth as having accelerated since COVID-19 and expected it to continue exponentially. The Ukraine invasion had further tightened and volatilized the LNG market, leading to unsustainably high gas prices in Europe. The market sentiment at the time was Bullish, reflecting a High-severity Supply Chain Blockage."
+  },
+  {
+    "id": 3,
+    "query_type": "Factual - Event",
+    "commodity": "LNG",
+    "risk_category": "Supply Chain Blockage",
+    "difficulty": "Medium",
+    "query": "How did Europe's surge in LNG demand following the Ukraine war affect Asian energy markets in early April 2022?",
+    "expected_answer": "Europe's scramble for LNG to replace Russian pipeline gas diverted LNG shipments away from Asian buyers, causing energy shortages in countries including China, Japan, and Bangladesh. Asian nations were forced to consider restarting nuclear plants, increasing coal usage, or accepting high prices and supply constraints. The U.S. pledged to raise LNG exports to Europe, but long-term implications for Asian energy security and climate goals remained uncertain. The market sentiment was Bearish with a High-severity Supply Chain Blockage classification."
+  },
+  {
+    "id": 4,
+    "query_type": "Factual - Corporate Action",
+    "commodity": "crude oil",
+    "risk_category": "Geopolitical Conflict",
+    "difficulty": "Easy",
+    "query": "Why did Shell announce it would stop buying Russian oil and natural gas in March 2022, and what was the market context?",
+    "expected_answer": "Shell announced it would cease purchasing Russian oil and natural gas in March 2022 following public criticism from Ukraine's foreign minister and amid surging global oil prices rattling financial markets. The decision was made under pressure from geopolitical condemnation of Russia's invasion of Ukraine. The market sentiment for crude oil was Bearish at the time, reflecting High-severity Geopolitical Conflict risk as major energy companies began voluntarily exiting Russian commodity supply chains."
+  },
+  {
+    "id": 5,
+    "query_type": "Analytical - Cross-commodity",
+    "commodity": "LNG",
+    "risk_category": "Regulatory Constraint",
+    "difficulty": "Medium",
+    "query": "What regulatory dilemma did Cheniere Energy's pollution exemption request in July 2022 expose for the Biden administration?",
+    "expected_answer": "Cheniere Energy, the largest U.S. LNG producer, asked the Biden administration for an exemption from an EPA pollution rule limiting cancer-causing emissions at its terminals. Cheniere argued enforcement would significantly reduce LNG shipments to Europe, undermining efforts to cut energy dependence on Russia. The administration faced a direct conflict between its environmental protection commitments and its energy security obligations to European allies. This was classified as High-severity Regulatory Constraint with Bearish sentiment."
+  },
+  {
+    "id": 6,
+    "query_type": "Factual - Market Data",
+    "commodity": "LNG",
+    "risk_category": "Demand / macro activity",
+    "difficulty": "Medium",
+    "query": "What drove U.S. natural gas futures to a 14-year high in late July 2022, and what did the August delivery contract achieve?",
+    "expected_answer": "U.S. natural gas futures hit a 14-year high in late July 2022, rising approximately 3% to a seven-week high. The drivers included forecasts for hotter weather, concerns about Russian gas supply cuts to Europe, record coal prices, and the ongoing Freeport LNG export plant outage. The August delivery contract rose to $8.993 per mmBtu, marking a potential record 66% gain for the month of July. The event was classified as High-severity with Bullish market sentiment."
+  },
+  {
+    "id": 7,
+    "query_type": "Factual - Regulatory",
+    "commodity": "LNG",
+    "risk_category": "Regulatory Constraint",
+    "difficulty": "Medium",
+    "query": "What did the Oil Change International and Greenpeace USA report allege about Cheniere Energy's cargo emissions tags in August 2022?",
+    "expected_answer": "The August 2022 report alleged that Cheniere Energy's cargo emissions tags were a greenwashing scheme. It claimed Cheniere's methodology relied on a misleading methane analysis that significantly underestimated actual leakage volumes from its LNG export operations. The report further highlighted that the tags failed to account for environmental burdens on frontline communities near the terminals, and that Cheniere had a history of exceeding pollution limits. This was classified as High-severity Regulatory Constraint with Bearish sentiment."
+  },
+  {
+    "id": 8,
+    "query_type": "Factual - Infrastructure",
+    "commodity": "LNG",
+    "risk_category": "Regulatory Constraint",
+    "difficulty": "Hard",
+    "query": "What specific pollution concerns did U.S. regulators raise about Cheniere Energy's LNG plant permitting, and how did Cheniere respond?",
+    "expected_answer": "U.S. regulators, including the EPA in 2011 and 2013, warned that Cheniere Energy's choice of gas-fired turbines for its Texas and Louisiana LNG terminals would produce higher levels of carcinogens such as formaldehyde and benzene compared to alternative technologies. Regulators flagged cleaner alternatives and add-on controls, but Cheniere proceeded with its original turbine plans, arguing the alternatives were technically infeasible or unproven at the time. The consequence was potential costly upgrades and possible disruption to LNG shipments to comply with later emission limits. Classified as High-severity Regulatory Constraint with Bearish sentiment."
+  },
+  {
+    "id": 9,
+    "query_type": "Analytical - Corporate Strategy",
+    "commodity": "LNG",
+    "risk_category": "Production Shortfall",
+    "difficulty": "Hard",
+    "query": "Why were investors and analysts skeptical of Tellurian's business model for its $13.6 billion Driftwood LNG project in December 2022?",
+    "expected_answer": "Tellurian, led by chairman Charif Souki, was promoting a business model that intentionally exposed the company to LNG spot price volatility in exchange for potentially higher profits, departing from the industry norm of long-term fixed-price off-take contracts. Despite strong global demand for natural gas, investors were skeptical due to the higher risk profile of this approach combined with rising inflation and escalating construction costs in late 2022. The lack of secured major investment commitments highlighted the project's financial fragility. Classified as High-severity Production Shortfall with Bearish sentiment."
+  },
+  {
+    "id": 10,
+    "query_type": "Analytical - Cross-commodity",
+    "commodity": "crude oil",
+    "risk_category": "Geopolitical Conflict",
+    "difficulty": "Medium",
+    "query": "How did the Russia-Ukraine war contribute to Exxon Mobil's record annual profits in 2022, and what were those profits?",
+    "expected_answer": "Exxon Mobil reported record annual profits of $55.7 billion in 2022, surpassing its previous record set in 2008. The Russia-Ukraine war contributed by driving up global energy costs through geopolitical risk premiums and supply disruptions that elevated crude oil and natural gas prices throughout the year. CEO Darren Woods credited counter-cyclical investments made during the COVID-19 pandemic alongside increased production. The article was classified as High-severity Geopolitical Conflict with Bullish sentiment, reflecting how supply shocks directly benefited integrated producers."
+  },
+  {
+    "id": 11,
+    "query_type": "Factual - Geopolitical",
+    "commodity": "crude oil",
+    "risk_category": "Geopolitical Conflict",
+    "difficulty": "Medium",
+    "query": "What action did Chad's parliament take in March 2023 regarding ExxonMobil's oil asset sale to Savannah Energy, and what was the vote margin?",
+    "expected_answer": "Chad's parliament voted 172 to 175 members present (172 out of 175) to approve a bill nationalizing oil assets that ExxonMobil had sold to Savannah Energy for $407 million. The Chadian government argued that the actions of ExxonMobil and Savannah Energy posed threats to public order and national stability. Savannah Energy vowed to contest the nationalization. This was classified as a High-severity Geopolitical Conflict with Bearish market sentiment for crude oil."
+  },
+  {
+    "id": 12,
+    "query_type": "Factual - Weather",
+    "commodity": "crude oil",
+    "risk_category": "Weather Extremity",
+    "difficulty": "Medium",
+    "query": "How did Tropical Storm Freddy in February 2023 threaten commodity supply chains, and which company's operations were specifically at risk?",
+    "expected_answer": "Severe tropical storm Freddy was forecast to make landfall in Mozambique as a cyclone in late February 2023, directly threatening Sasol's natural gas operations near Vilankulo. The storm already caused the port of Beira to halt operations and prompted flight cancellations and school closures in affected regions. Experts predicted widespread flooding from months' worth of rain falling within days. This was classified as High-severity Weather Extremity with Bearish crude oil sentiment."
+  },
+  {
+    "id": 13,
+    "query_type": "Factual - Infrastructure",
+    "commodity": "crude oil",
+    "risk_category": "Infrastructure Damage",
+    "difficulty": "Medium",
+    "query": "What did a parliamentary inquiry conclude about the Dutch government, Shell, and Exxon in relation to Groningen gas production?",
+    "expected_answer": "A Dutch parliamentary inquiry concluded in February 2023 that the government, Shell, and Exxon Mobil had gravely underestimated the risks of gas extraction in Groningen for years, causing significant earth tremors, property damage, and distress for residents. The companies and government had generated substantial profits from the gas field while residents suffered the consequences. The parliamentary committee called on the state and oil companies to reconcile their debt to Groningen's population. Classified as High-severity Infrastructure Damage with Bearish sentiment."
+  },
+  {
+    "id": 14,
+    "query_type": "Analytical - M&A",
+    "commodity": "crude oil",
+    "risk_category": "Geopolitical Conflict",
+    "difficulty": "Hard",
+    "query": "Explain the core legal dispute between Exxon Mobil and Chevron over the Hess acquisition and its significance for the Guyana oil assets.",
+    "expected_answer": "Chevron announced a $53 billion all-stock acquisition of Hess Corporation in October 2023, with the primary strategic asset being Hess's 30% stake in the Stabroek oil block offshore Guyana — a prolific deepwater discovery operated by Exxon. Exxon and co-venturer CNOOC subsequently claimed a right of first refusal under their joint operating agreement, entitling them to purchase Hess's stake before it could be transferred to Chevron. Exxon initiated arbitration to assert this right, causing significant delays and uncertainty around the deal's closure, which was pushed into 2025. Multiple High-severity Geopolitical Conflict articles with Bearish sentiment tracked this dispute, as the outcome had major implications for control over one of the world's most valuable new oil provinces."
+  },
+  {
+    "id": 15,
+    "query_type": "Factual - Geopolitical",
+    "commodity": "crude oil",
+    "risk_category": "Geopolitical Conflict",
+    "difficulty": "Medium",
+    "query": "What were the terms of ConocoPhillips' arbitration claim against Venezuela recognized by a Trinidad court in May 2024, and what were the wider implications?",
+    "expected_answer": "A Trinidad and Tobago court recognized ConocoPhillips' $1.33 billion claim against Venezuela for past expropriations of its assets. The recognition gave Conoco the right to seize any compensation Venezuela might receive from joint gas projects with Trinidad. This threatened to complicate ongoing offshore gas ventures between Trinidad and Venezuela, a strategically important energy relationship for both countries. Conoco was also a claimant in a Delaware court case seeking to auction CITGO shares to pay creditors. Classified as High-severity Geopolitical Conflict with Bearish crude oil sentiment."
+  },
+  {
+    "id": 16,
+    "query_type": "Factual - Shipping",
+    "commodity": "crude oil",
+    "risk_category": "Supply Chain Blockage",
+    "difficulty": "Hard",
+    "query": "What shipping market dynamics were created by Houthi attacks in the Red Sea in early 2024, and what was the tanker supply backdrop?",
+    "expected_answer": "Houthi attacks in the Red Sea in early 2024 forced widespread diversions of oil tankers, significantly increasing voyage durations and creating a shortage of available vessels. The backdrop was particularly tight because only two new supertankers were expected to be delivered in 2024 — the lowest number in nearly four decades — meaning no new capacity could relieve the shortage. Diversion-driven demand for tankers drove up freight rates and provided a positive outlook for tanker owners. Classified as High-severity Supply Chain Blockage with Bullish crude oil sentiment."
+  },
+  {
+    "id": 17,
+    "query_type": "Factual - Infrastructure",
+    "commodity": "LNG",
+    "risk_category": "Production Shortfall",
+    "difficulty": "Hard",
+    "query": "What operational and financial difficulties has Freeport LNG experienced since its 2022 fire, and how has this affected U.S. LNG exports?",
+    "expected_answer": "Freeport LNG, the second-largest U.S. LNG export facility, suffered a fire in 2022 that severely impacted its reliability. By April 2024, the plant was consistently operating below 80% capacity due to ongoing technical issues compounded by damage from a January freeze. Its average utilization rate had fallen from 80% to 72% over the preceding year. This chronic underperformance led to volatility in Henry Hub natural gas futures prices and meaningfully reduced total U.S. LNG export volumes, affecting buyers in Europe and Asia. Classified as High-severity Production Shortfall with Bearish sentiment for LNG and crude oil."
+  },
+  {
+    "id": 18,
+    "query_type": "Analytical - Regulatory",
+    "commodity": "crude oil",
+    "risk_category": "Regulatory Constraint",
+    "difficulty": "Medium",
+    "query": "What was the Climate Change Superfund Act signed in New York in December 2024, and what are its financial implications for energy companies?",
+    "expected_answer": "New York Governor Kathy Hochul signed the Climate Change Superfund Act, requiring companies responsible for significant greenhouse gas emissions between 2000 and 2024 to pay $3 billion annually for 25 years into a fund for extreme weather damage recovery. The law aims to shift financial liability for climate damages from taxpayers to the fossil fuel industry's largest emitters. This introduced a major new ongoing financial liability for oil and gas companies operating in or exposed to New York's regulatory environment. Classified as Medium-severity Regulatory Constraint with Bearish sentiment for crude oil and diesel."
+  },
+  {
+    "id": 19,
+    "query_type": "Factual - Corporate",
+    "commodity": "crude oil",
+    "risk_category": "Refining Outage",
+    "difficulty": "Medium",
+    "query": "Why did Phillips 66 report a dramatic collapse in Q4 2024 profit, and what was the scale of the decline?",
+    "expected_answer": "Phillips 66 reported Q4 2024 net profit of only $8 million, a collapse from $1.26 billion in the same quarter the prior year, driven primarily by weak refining margins. Its refining segment posted a loss of $775 million in the quarter. Despite this, the company's renewable fuels segment reported a $28 million profit, which helped Phillips 66 beat adjusted loss estimates. The stock fell 3.2% in morning trading following the announcement. Classified as High-severity Refining Outage with Bearish sentiment for diesel and crude oil."
+  },
+  {
+    "id": 20,
+    "query_type": "Factual - Geopolitical",
+    "commodity": "crude oil",
+    "risk_category": "Geopolitical Conflict",
+    "difficulty": "Medium",
+    "query": "What did the Trump administration's revocation of Chevron's Venezuela export permit in February 2025 mean for Venezuela's economy and U.S. policy?",
+    "expected_answer": "President Trump terminated the license allowing Chevron to pump and export Venezuelan crude oil to the United States in February 2025, citing Venezuela's failure to meet democratic election conditions and its slow pace of repatriating immigrants. The permit had been granted by the Biden administration in 2022 to incentivize democratic elections, and had provided Venezuela with a critical financial lifeline. The revocation reversed a Biden-era concession and significantly tightened pressure on President Maduro's government. Classified as High-severity Geopolitical Conflict with Bearish crude oil sentiment."
+  },
+  {
+    "id": 21,
+    "query_type": "Factual - Geopolitical",
+    "commodity": "LNG",
+    "risk_category": "Geopolitical Conflict",
+    "difficulty": "Hard",
+    "query": "What was the significance of the Ras Laffan attack in March 2026 for the global LNG market narrative?",
+    "expected_answer": "The attack on Ras Laffan in March 2026 shattered the dominant market narrative of impending LNG abundance that analysts had promoted for the prior two years. Market observers had been warning of an upcoming LNG tsunami from new capacity additions led by Qatari expansions and U.S. projects. The attack removed the world's largest LNG complex from the market, fundamentally disrupting supply forecasts and price expectations. Classified as High-severity Geopolitical Conflict with Bearish LNG sentiment."
+  },
+  {
+    "id": 22,
+    "query_type": "Factual - Market Price",
+    "commodity": "crude oil",
+    "risk_category": "Geopolitical Conflict",
+    "difficulty": "Easy",
+    "query": "By what percentage did Brent crude oil prices rise in the month of March 2026, and what drove this?",
+    "expected_answer": "Brent crude oil was set to record its largest monthly price gain in history, rising approximately 59% since the start of March 2026. The surge was driven by Houthi attacks on Israel that escalated the Middle East conflict, the effective closure of the Strait of Hormuz choking Persian Gulf oil exports, and President Trump's threat to seize Iranian oil. The market classification was High-severity Geopolitical Conflict with Bullish crude oil sentiment."
+  },
+  {
+    "id": 23,
+    "query_type": "Factual - Shipping",
+    "commodity": "crude oil",
+    "risk_category": "Supply Chain Blockage",
+    "difficulty": "Medium",
+    "query": "How many ships were confirmed stranded near the Strait of Hormuz as of end-March 2026, and what commodities were involved?",
+    "expected_answer": "The Indian government confirmed that at least 28 ships were stranded near the Strait of Hormuz as of late March 2026. The vessels were carrying crude oil, liquefied petroleum gas (LPG), and LNG supplies destined for India, including at least 10 foreign-flagged cargoes with Indian crew members aboard. The blockage directly threatened India's energy import security. Classified as High-severity Supply Chain Blockage with Bearish sentiment for crude oil and LNG."
+  },
+  {
+    "id": 24,
+    "query_type": "Factual - Infrastructure",
+    "commodity": "LNG",
+    "risk_category": "Infrastructure Damage",
+    "difficulty": "Medium",
+    "query": "What damage did Chevron's Wheatstone LNG plant suffer in late March 2026, and what was the operational impact?",
+    "expected_answer": "Chevron's Wheatstone LNG plant offshore Australia suffered extensive damage from a cyclone in late March 2026. Both of the facility's liquefaction trains were shut down and remained offline. The outage occurred at a particularly critical time as global LNG markets were already severely disrupted by the Middle East war and the Ras Laffan complex outage. Classified as High-severity Infrastructure Damage with Bearish LNG sentiment."
+  },
+  {
+    "id": 25,
+    "query_type": "Analytical - Price Forecast",
+    "commodity": "crude oil",
+    "risk_category": "Geopolitical Conflict",
+    "difficulty": "Hard",
+    "query": "What conditions did Macquarie Group analysts identify as potentially driving oil prices to $200 per barrel in 2026, and what probability did they assign?",
+    "expected_answer": "Macquarie Group analysts warned in late March 2026 that oil prices could reach a record $200 per barrel if the Middle East war extended through the entire second quarter of 2026. They placed the probability of the Iran conflict dragging on until June at 40%. The scenario was contingent on the Strait of Hormuz remaining effectively closed, preventing the roughly 8 million barrels per day of Persian Gulf crude from reaching global markets. Classified as High-severity Geopolitical Conflict with Bullish crude oil sentiment."
+  },
+  {
+    "id": 26,
+    "query_type": "Factual - Market Data",
+    "commodity": "crude oil",
+    "risk_category": "Geopolitical Conflict",
+    "difficulty": "Medium",
+    "query": "What was the WTI crude oil price level in late March 2026 and what intraday dynamic characterized trading during that period?",
+    "expected_answer": "Nearby WTI crude oil was trading at approximately $94.30 per barrel in late March 2026, down about $3.90 on the day, as U.S.-Iran diplomatic headlines drove sharp intraday swings. Traders were caught between short-term diplomatic progress signals — which triggered price drops — and the persistent underlying disruption risk from the Hormuz closure, which supported the risk premium. The market was characterized as a headline-driven trader's market. Classified as High-severity Geopolitical Conflict with Bearish crude oil sentiment."
+  },
+  {
+    "id": 27,
+    "query_type": "Analytical - Supply Cascade",
+    "commodity": "LNG",
+    "risk_category": "Production Shortfall",
+    "difficulty": "Hard",
+    "query": "What compounding LNG supply disruptions occurred in the final week of March 2026, and how severe was the aggregate impact on global exports?",
+    "expected_answer": "In the final week of March 2026, global LNG supply suffered multiple simultaneous shocks: the Ras Laffan complex in Qatar (the world's largest LNG facility) was knocked offline by the Middle East war, Australian producer Santos was forced to shut its Barossa LNG plant and Darwin LNG export terminal following a cyclone, and Chevron's Gorgon and Wheatstone facilities also sustained cyclone damage. Collectively, these disruptions pushed worldwide LNG exports to a six-month low of approximately 1.1 million metric tons per week. Commodity analysts revised global LNG supply forecasts down by approximately 35 million tons as a result."
+  },
+  {
+    "id": 28,
+    "query_type": "Analytical - Substitution Effect",
+    "commodity": "LNG",
+    "risk_category": "Production Shortfall",
+    "difficulty": "Medium",
+    "query": "How did Asia respond to the LNG supply crisis caused by the Middle East war in March 2026, and what fuel did countries turn to?",
+    "expected_answer": "With LNG prices surging to three-year highs due to the Middle East war disrupting Qatari and UAE supplies, Asian countries scrambled to replace lost gas supply by significantly increasing coal consumption for power generation. Coal, despite ongoing energy transition commitments, returned as the primary near-term backstop fuel across Asian power markets. Countries also sought to maximize domestic gas production and pipeline deliveries to substitute for unavailable LNG seaborne cargoes. China's LNG imports were set to fall to their lowest monthly level in eight years. Classified as High-severity Production Shortfall with Bullish LNG sentiment."
+  },
+  {
+    "id": 29,
+    "query_type": "Factual - Geopolitical",
+    "commodity": "crude oil",
+    "risk_category": "Geopolitical Conflict",
+    "difficulty": "Medium",
+    "query": "How did Iran's rejection of U.S. terms in late March 2026 move oil prices, and what Brent level was reached?",
+    "expected_answer": "When Iran rejected U.S. negotiation terms regarding the Strait of Hormuz standoff in late March 2026, Brent crude surged back above $110 per barrel. The rejection signaled that the Hormuz closure would persist, removing any near-term diplomatic resolution discount from prices. Simultaneously, delays in negotiations kept the geopolitical risk premium embedded in oil prices elevated. Classified as High-severity Geopolitical Conflict with Bullish crude oil sentiment."
+  },
+  {
+    "id": 30,
+    "query_type": "Factual - Corporate",
+    "commodity": "crude oil",
+    "risk_category": "Geopolitical Conflict",
+    "difficulty": "Medium",
+    "query": "How did African energy producers benefit from the Middle East war's disruption to global oil and LNG markets in March 2026?",
+    "expected_answer": "The Middle East conflict cut off approximately 8 million barrels per day of crude oil and 20% of global LNG trade flows, with Brent surging more than 50% to around $110 per barrel. African energy producers were positioned as major winners: geopolitically stable alternatives to Middle Eastern supply with proximity to global shipping lanes. The conflict strengthened the investment case for African upstream projects as buyers urgently sought non-Gulf supply alternatives. Classified as High-severity Geopolitical Conflict with Bullish sentiment for crude oil and LNG."
+  },
+  {
+    "id": 31,
+    "query_type": "Factual - Geopolitical",
+    "commodity": "crude oil",
+    "risk_category": "Supply Chain Blockage",
+    "difficulty": "Medium",
+    "query": "How did the effective closure of the Strait of Hormuz affect Saudi Arabia's crude oil exports to Asia in March and April 2026?",
+    "expected_answer": "Saudi Arabia slashed its crude oil exports to Asia in April 2026 for the second consecutive month, as the de facto closure of the Strait of Hormuz prevented Aramco from shipping oil through its primary export route. Aramco notified term customers of supply reductions. Saudi Arabia's two largest customers — India and China — were both set to receive significantly reduced volumes in April. The stranded supply contributed directly to global crude oil tightening and upward price pressure. Classified as High-severity Supply Chain Blockage with Bearish crude oil sentiment."
+  },
+  {
+    "id": 32,
+    "query_type": "Analytical - Pricing Mechanics",
+    "commodity": "crude oil",
+    "risk_category": "Supply Chain Blockage",
+    "difficulty": "Hard",
+    "query": "Why did Asian refiners switch from pricing U.S. crude against Dubai crude to pricing against ICE Brent in March 2026, and what does this indicate about market stress?",
+    "expected_answer": "Asian refiners switched to pricing U.S. crude oil imports against ICE Brent instead of the customary Dubai benchmark in late March 2026 because wild fluctuations in the Dubai crude price — caused by the physical supply collapse from the Persian Gulf amid the Hormuz closure — made it an unreliable reference point. Brent, sourced predominantly from the North Sea and Atlantic Basin, was less directly affected by the Middle East disruption and thus provided a more stable pricing anchor. This benchmark switch indicates severe dislocation in physical crude oil markets and the breakdown of normal Gulf supply flows. Classified as Medium-severity Supply Chain Blockage with Bearish crude oil sentiment."
+  },
+  {
+    "id": 33,
+    "query_type": "Factual - LNG Infrastructure",
+    "commodity": "LNG",
+    "risk_category": "Geopolitical Conflict",
+    "difficulty": "Medium",
+    "query": "Why did the Middle East war strengthen the investment case for Western Canadian LNG export projects in March 2026?",
+    "expected_answer": "The war in the Middle East halted approximately 20% of global LNG trade flows, exposing the vulnerability of supply concentrated in politically unstable regions. Western Canadian LNG export projects — positioned on the Pacific Coast — offered geopolitical stability and proximity to Asian markets, making them a strategically attractive long-term alternative to Middle Eastern LNG. The crisis accelerated the urgency for Asian buyers to diversify their LNG import sources toward politically secure suppliers. Classified as High-severity Geopolitical Conflict with Bullish LNG sentiment."
+  },
+  {
+    "id": 34,
+    "query_type": "Analytical - System Sentiment",
+    "commodity": "crude oil",
+    "risk_category": "Geopolitical Conflict",
+    "difficulty": "Hard",
+    "query": "What would be the appropriate overall market sentiment output for the week of 23-27 March 2026, and what factors support or moderate it?",
+    "expected_answer": "The appropriate overall sentiment for crude oil in the week of 23-27 March 2026 is Bullish with extreme volatility. Supporting factors: Strait of Hormuz effectively closed choking 8 million bpd; Saudi Arabia slashing exports to Asia for two months; Brent surging past $110 with potential $200/bbl scenario (Macquarie, 40% probability); Iran rejecting U.S. terms. Moderating factors: Trump's diplomatic statement on 23 March briefly sent prices down 8%, demonstrating fragile headline sensitivity; U.S. crude inventory builds (API reported +2.3M barrels) showing some demand-side softness. Net assessment: Strongly Bullish bias driven by unprecedented physical supply disruption, but highly volatile and news-headline-dependent."
+  },
+  {
+    "id": 35,
+    "query_type": "Factual - Refining",
+    "commodity": "diesel",
+    "risk_category": "Refining Outage",
+    "difficulty": "Medium",
+    "query": "What happened at Valero's Port Arthur refinery in March 2026, and what was the market context in which it occurred?",
+    "expected_answer": "Valero shut down its Port Arthur refinery after an explosion ignited a fire in the diesel processing unit in late March 2026. Emergency services were dispatched to the site and a shelter-in-place order was reported. The refinery outage occurred during a period of already severely tightened global fuel markets caused by the Middle East war and Hormuz disruption. The loss of diesel processing capacity from a major U.S. refinery further tightened fuel supply at a critical juncture. Classified as High-severity Refining Outage with Bullish diesel sentiment, reflecting upward price pressure from supply loss."
+  },
+  {
+    "id": 36,
+    "query_type": "Factual - Australia Energy",
+    "commodity": "crude oil",
+    "risk_category": "Production Shortfall",
+    "difficulty": "Medium",
+    "query": "What paradox did Australia face in March 2026 regarding its own energy resources and fuel supply security?",
+    "expected_answer": "Despite being a major resource-rich nation with significant domestic crude oil production and LNG exports, Australia found itself in a fuel supply crisis in March 2026. Disruptions to its usual import routes — driven by the Middle East conflict and the Hormuz closure — left Australia scrambling for fuel, exposing a structural dependence on imported refined products. This illustrated that domestic hydrocarbon production does not automatically guarantee fuel security without the refining and logistics infrastructure to convert and distribute it. Classified as High-severity Production Shortfall with Bullish crude oil sentiment."
+  },
+  {
+    "id": 37,
+    "query_type": "Factual - OPEC",
+    "commodity": "crude oil",
+    "risk_category": "Supply Chain Blockage",
+    "difficulty": "Medium",
+    "query": "What OPEC+ developments in September 2025 were putting downward pressure on oil prices, and what other markets were simultaneously moving?",
+    "expected_answer": "In September 2025, discussions around potential additional OPEC+ supply increases contributed to downward pressure on oil prices, alongside expectations of a market surplus in late 2025 and into 2026. Simultaneously, gold surged past $3,800 per ounce for the first time, buoyed by a weaker U.S. dollar, central bank purchases, and anticipated interest rate cuts amid U.S. government shutdown fears. European natural gas prices also weakened despite unplanned outages, as Asian LNG demand remained soft. Classified as High-severity Supply Chain Blockage with Bearish crude oil sentiment."
+  },
+  {
+    "id": 38,
+    "query_type": "Factual - Regulatory",
+    "commodity": "crude oil",
+    "risk_category": "Regulatory Constraint",
+    "difficulty": "Medium",
+    "query": "What was the scale of Trump administration funding cuts to clean energy projects in May 2025, and which specific Exxon project was affected?",
+    "expected_answer": "The Trump administration cut $3.7 billion in federal funding across 24 clean energy and recycling projects in May 2025. Among the projects affected was Exxon Mobil's clean hydrogen complex in Baytown, Texas, which lost over $330 million in designated DOE funding. The Department of Energy stated the projects failed to advance energy needs, lacked economic viability, and would not generate positive returns on taxpayer investment. Industry groups criticized the decision as a major setback for clean energy initiatives. Classified as High-severity Regulatory Constraint with Bearish crude oil sentiment."
+  },
+  {
+    "id": 39,
+    "query_type": "Factual - Refining",
+    "commodity": "diesel",
+    "risk_category": "Refining Outage",
+    "difficulty": "Medium",
+    "query": "What caused Cenovus Energy to shut down a unit at its Lima, Ohio refinery in July 2024, and how did analysts rate the stock despite the incident?",
+    "expected_answer": "Cenovus Energy announced the shutdown of a unit at its Lima refinery in July 2024, a critical facility for the company's refining capacity, while actively working to resolve the issue. Despite the operational disruption, analysts maintained a Strong Buy rating on the stock with an average target price of CAD 32.19, reflecting confidence in the company's broader fundamentals. Stock Target Advisor offered a slightly more cautious Slightly Bearish outlook based on mixed signal analysis. Classified as Medium-severity Refining Outage with Bearish diesel sentiment."
+  },
+  {
+    "id": 40,
+    "query_type": "Analytical - Transition",
+    "commodity": "diesel",
+    "risk_category": "Energy transition",
+    "difficulty": "Medium",
+    "query": "What milestone did Phillips 66's Rodeo Renewable Energy Complex reach in Q2 2024, and what does it signify for the refining sector?",
+    "expected_answer": "Phillips 66's Rodeo Renewable Energy Complex achieved full operational rates in Q2 2024, successfully converting its former oil refinery to process exclusively renewable fuels feedstock at approximately 50,000 barrels per day of planned capacity. This milestone represented one of the largest refinery-to-renewable-fuels conversions in the United States and signaled a broader structural shift in the refining sector — particularly in California — toward biofuels and sustainable feedstocks. Classified as Low-severity Energy transition with Bullish diesel sentiment."
+  },
+  {
+    "id": 41,
+    "query_type": "Analytical - Market Macro",
+    "commodity": "crude oil",
+    "risk_category": "Macro-Economic Cooling",
+    "difficulty": "Medium",
+    "query": "How did U.S. Federal Reserve rate-cut expectations and OPEC+ supply signals jointly affect crude oil prices in August 2024?",
+    "expected_answer": "Oil prices fell in August 2024 as investors weighed two simultaneous bearish pressures: first, OPEC+ was expected to begin increasing output from October 2024, signaling an end to production restraint; second, strong U.S. consumer spending data reduced expectations for a large Federal Reserve interest rate cut, suggesting tighter financial conditions that would dampen oil demand. Ongoing oilfield closures in Libya provided a partial counterweight. The combined effect pushed crude prices down approximately $1 on the session. Classified as Medium-severity Macro-Economic Cooling with Bearish crude oil sentiment."
+  },
+  {
+    "id": 42,
+    "query_type": "Factual - Geopolitical",
+    "commodity": "crude oil",
+    "risk_category": "Geopolitical Conflict",
+    "difficulty": "Hard",
+    "query": "What was the outcome of the court-mandated CITGO auction in September 2024, and why was the winning bid considered insufficient?",
+    "expected_answer": "Elliott Investment Management was selected as the winning bidder for CITGO, Venezuela's U.S.-based oil refiner, with an offer of $7.286 billion in September 2024. However, this figure fell significantly short of the total creditor claims against Venezuela and previous estimates of CITGO's intrinsic value. The proceeds were intended to satisfy claims from 18 creditors, predominantly distressed debt (vulture) funds. The sale was further complicated by parallel lawsuits and disputes over the status of PDVSA 2020 bondholders. Classified as High-severity Geopolitical Conflict with Bearish crude oil sentiment."
+  },
+  {
+    "id": 43,
+    "query_type": "Factual - Infrastructure",
+    "commodity": "crude oil",
+    "risk_category": "Infrastructure Damage",
+    "difficulty": "Medium",
+    "query": "What legal challenges did NextDecade's Rio Grande LNG facility face in October 2024 despite already being under construction?",
+    "expected_answer": "A U.S. Court of Appeals vacated the operating permits for NextDecade's Rio Grande LNG facility in Brownsville, Texas in October 2024, a decision NextDecade called unprecedented. The company announced plans to appeal to the Supreme Court if necessary. Despite the permit revocation, construction of the first phase — which relied heavily on Permian Basin gas and had secured European buyers — continued, as FERC was conducting an additional environmental review expected to conclude by July 2025. Classified as High-severity Infrastructure Damage with Bearish crude oil sentiment."
+  },
+  {
+    "id": 44,
+    "query_type": "Analytical - Production",
+    "commodity": "crude oil",
+    "risk_category": "Production Shortfall",
+    "difficulty": "Medium",
+    "query": "What production disruptions caused Chevron to revise its 2023 annual production to the low end of guidance, and what assets were impacted?",
+    "expected_answer": "Chevron's 2023 annual oil and gas production was revised to the low end of guidance due to two key disruptions: wildfires in Canada that curtailed upstream operations, and a platform incident in Thailand that reduced net production by approximately 10,000 barrels of oil equivalent per day on an indefinite basis. CEO Michael Wirth confirmed these events were the primary drivers. Despite the setbacks, Chevron maintained confidence in its Permian Basin operations and its 50% stake in Kazakhstan's Tengizchevroil (TCO) as future production growth drivers. Classified as High-severity Production Shortfall with Bearish crude oil sentiment."
+  },
+  {
+    "id": 45,
+    "query_type": "Factual - M&A",
+    "commodity": "crude oil",
+    "risk_category": "Regulatory Constraint",
+    "difficulty": "Medium",
+    "query": "What were the key terms and strategic rationale of ConocoPhillips' acquisition of Marathon Oil announced in May 2024?",
+    "expected_answer": "ConocoPhillips agreed to acquire Marathon Oil in an all-stock transaction valued at approximately $22.5 billion, including $5.4 billion in net debt, in May 2024. The deal added over 2 billion barrels of oil equivalent in resources, concentrated in the Bakken, Eagle Ford, and Permian Basin — significantly expanding ConocoPhillips' U.S. onshore footprint. It also enhanced the company's natural gas and LNG-related exposure and was expected to increase shareholder returns. The acquisition was part of a broader wave of U.S. energy sector consolidation. Classified as High-severity Regulatory Constraint with Bearish crude oil sentiment."
+  },
+  {
+    "id": 46,
+    "query_type": "Factual - Houthi",
+    "commodity": "crude oil",
+    "risk_category": "Geopolitical Conflict",
+    "difficulty": "Hard",
+    "query": "How did Houthi targeting criteria for Greek-operated ships evolve by May 2024, and what does this reveal about their attack strategy?",
+    "expected_answer": "By late May 2024, Houthis had expanded their attack criteria to target ships operated by Greece-based companies that had any recent history of trade with Israeli ports, regardless of the vessel's current destination or cargo. A key example was the Marshall Islands-flagged bulk carrier Laax, which was significantly damaged despite signaling an Iranian port and having no direct ties to Israel. This shift demonstrated that Houthi antiship targeting was based on historical trade relationships rather than current voyage profiles, dramatically broadening the pool of vessels at risk. Classified as High-severity Geopolitical Conflict with Bearish crude oil sentiment."
+  },
+  {
+    "id": 47,
+    "query_type": "Factual - LNG Labor",
+    "commodity": "LNG",
+    "risk_category": "Supply Chain Blockage",
+    "difficulty": "Hard",
+    "query": "What labor cost dynamics were threatening new U.S. LNG project economics on the Gulf Coast in mid-2024, and what were the specific consequences?",
+    "expected_answer": "Wages for skilled construction workers on U.S. Gulf Coast LNG projects had increased by as much as 20% since 2021 by mid-2024, driven by labor market tightness and inflation. This forced contractors to pay elevated base rates and additional per diem costs to retain qualified staff. The consequences included significant budget overruns, project delays, at least one major contractor bankruptcy, and LNG developers being compelled to revisit and revise their construction plans. Classified as High-severity Supply Chain Blockage with Bearish LNG and crude oil sentiment."
+  },
+  {
+    "id": 48,
+    "query_type": "Analytical - Sentiment Conflict",
+    "commodity": "LNG",
+    "risk_category": "Supply Chain Blockage",
+    "difficulty": "Hard",
+    "query": "In the March 2022 news cycle, the U.S.-EU LNG partnership announcement was Bullish for LNG but Europe's demand squeeze on Asia was Bearish. How should a sentiment model resolve this conflict for the LNG market?",
+    "expected_answer": "The two signals reflect different dimensions of the same supply chain disruption. The U.S.-EU LNG partnership announcement (Bullish) signals incremental supply being mobilized and U.S. export demand increasing, which supports producer-side pricing. The European demand diverting LNG away from Asia (Bearish) signals that the market reallocation was creating regional shortages and systemic stress for importing nations. A well-calibrated sentiment model should differentiate by market position: producer/exporter sentiment is Bullish (demand surge), importer sentiment (especially Asia) is Bearish (supply squeeze). The aggregate global LNG market sentiment for Q1-Q2 2022 is best characterized as Bullish on price (tight supply globally) but with asymmetric distributional risks — Europe benefiting from U.S. redirected supply while Asia bears the shortage burden."
+  },
+  {
+    "id": 49,
+    "query_type": "Analytical - RAG Retrieval",
+    "commodity": "crude oil",
+    "risk_category": "Geopolitical Conflict",
+    "difficulty": "Hard",
+    "query": "A trader asks: 'What is the current risk to crude oil supply from the Strait of Hormuz, and how is the market pricing this?' What key articles should a RAG system retrieve and what answer should it synthesize for late March 2026?",
+    "expected_answer": "A well-functioning RAG system should retrieve the cluster of late-March 2026 articles covering: (1) Saudi Arabia slashing exports to Asia for two consecutive months due to the Hormuz closure; (2) Brent surging past $110 as Iran rejected U.S. terms; (3) Oil plunging 8% on Trump's diplomatic postponement of Hormuz deadline, then recovering; (4) Macquarie's $200/bbl scenario (40% probability) if war extends to Q2; (5) At least 28 ships stranded near Hormuz. The synthesized answer should state: The Strait of Hormuz is effectively closed, cutting approximately 8 million bpd of Persian Gulf crude exports. Brent is trading above $110/bbl with extreme intraday volatility tied to diplomatic headlines. The market is pricing in a sustained supply shock — Macquarie estimates 40% probability of prices reaching $200/bbl if the disruption extends through Q2 2026. Near-term risk is highly elevated (High severity, Bullish bias) but fragile to ceasefire developments."
+  },
+  {
+    "id": 50,
+    "query_type": "Analytical - Full System",
+    "commodity": "multi-commodity",
+    "risk_category": "multiple",
+    "difficulty": "Hard",
+    "query": "A portfolio manager with exposure to crude oil refiners, LNG importers, and shipping equities asks for a consolidated risk snapshot for Q1 2026. What should the full system output including sentiment scores, risk categories, and watch items?",
+    "expected_answer": "Crude Oil — Sentiment: Strongly Bullish (geopolitical risk premium dominant). Key risks: Strait of Hormuz closure (~8M bpd offline), Saudi export cuts to Asia, Brent at $110+ with $200 tail scenario. Counterweight: U.S. inventory builds (+2.3M barrels API), diplomatic headline volatility. Watch: ceasefire developments, OPEC+ emergency response, U.S. Strategic Petroleum Reserve releases. LNG — Sentiment: Bearish for importers, Bullish for producers/exporters. Key risks: Ras Laffan (world's largest LNG complex) offline, Australian cyclone disrupting Gorgon, Wheatstone, Barossa; global LNG exports at 6-month lows (~1.1M tons/week). Supply forecast revised down ~35M tons. China imports heading to 8-year low. Watch: Australian facility restart timelines, Canadian LNG project acceleration, Asian coal and pipeline gas substitution rates. Diesel — Sentiment: Bullish (tightening). Key risk: Valero Port Arthur refinery explosion shutting diesel processing unit during period of already-tight fuel markets. Refining margins under pressure from feedstock cost spikes. Shipping — Sentiment: Bullish for tanker owners (rates elevated due to diversions and vessel shortage). Risk of physical vessel stranding (28 ships confirmed near Hormuz). Watch: Hormuz reopening (would sharply reverse tanker rates), Red Sea Houthi targeting scope."
+  }
+]

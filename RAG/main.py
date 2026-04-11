@@ -1,6 +1,13 @@
+import sys
+import json
 import pandas as pd
 from pathlib import Path
-import json
+
+# ── Path setup: allow imports from RAG/ and evaluation/
+RAG_DIR  = Path(__file__).parent
+EVAL_DIR = Path(__file__).parent.parent / "evaluation"
+sys.path.insert(0, str(RAG_DIR))
+sys.path.insert(0, str(EVAL_DIR))
 
 from hybrid_retriever import HybridRetriever
 from reranker import Reranker
@@ -158,7 +165,7 @@ def run_pipeline(query, documents, metadata, df, doc_to_idx, generation_strategy
 
 # ---- MAIN ----
 if __name__ == "__main__":
-    file_path = "data/merged_df_v2.csv"
+    file_path = "data/final_df.csv"
 
     df, documents, metadata, doc_to_idx = load_data(file_path)
 

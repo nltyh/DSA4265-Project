@@ -31,7 +31,7 @@ class HybridRetriever:
         )
         return scores
     
-    def hybrid_search(self, query, top_k=5, alpha=0.5):
+    def hybrid_search(self, query, top_k=10, alpha=0.5):
         """
         alpha controls weighting:
         alpha = 0.5 → equal weight
