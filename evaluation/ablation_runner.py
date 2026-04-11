@@ -55,6 +55,12 @@ import matplotlib.pyplot as plt
 
 from openai import OpenAI
 
+# ── Path setup: allow imports from RAG/ and evaluation/
+BASE_DIR = Path(__file__).parent
+RAG_DIR  = BASE_DIR.parent / "RAG"
+sys.path.insert(0, str(RAG_DIR))
+sys.path.insert(0, str(BASE_DIR))
+
 from ablation_configs import (
     PIPELINE_CONFIGS,
     GENERATION_STRATEGIES,
@@ -71,8 +77,7 @@ from generation import Generator, build_context
 from evaluate import evaluate_reports
 
 # ── Paths ─────────────────────────────────────────────────────────────────────
-BASE_DIR   = Path(__file__).parent
-DATA_FILE  = BASE_DIR / ".." / "data" / "merged_df_v2.csv"
+DATA_FILE  = BASE_DIR / ".." / "data" / "final_df.csv"
 QA_FILE    = BASE_DIR / "qa_pairs.json"
 OUTPUT_DIR = BASE_DIR / "ablation_outputs"
 

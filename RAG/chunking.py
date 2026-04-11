@@ -1,9 +1,12 @@
 import pandas as pd
+from pathlib import Path
 from transformers import GPT2TokenizerFast
+import matplotlib
+matplotlib.use("Agg")
 import matplotlib.pyplot as plt
 
 # ---- Load Data ----
-file_path = "data/merged_df_v2.csv" 
+file_path = "data/final_df.csv"
 df = pd.read_csv(file_path)
 
 # ---- Initialize GPT tokenizer ----
@@ -40,12 +43,16 @@ print(f"Documents needing chunking (> {MAX_TOKENS_PER_CHUNK} tokens): {chunk_nee
 
 # ---- Plot distributions ----
 plt.figure(figsize=(12,5))
-
-plt.subplot(1,2,2)
 plt.hist(token_counts, bins=20, color='salmon', edgecolor='black')
 plt.title("Token count distribution")
 plt.xlabel("Tokens per document")
 plt.ylabel("Number of documents")
 
 plt.tight_layout()
-plt.show()
+
+OUTPUT_DIR = Path("outputs")
+OUTPUT_DIR.mkdir(exist_ok=True)
+plot_path = OUTPUT_DIR / "token_distribution.png"
+plt.savefig(plot_path, dpi=150, bbox_inches="tight")
+plt.close()
+print(f"\n📊 Plot saved → {plot_path}")

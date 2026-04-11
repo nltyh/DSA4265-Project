@@ -1,0 +1,1352 @@
+{
+  "bm25": {
+    "1": {
+      "precision_at_k": 0.1,
+      "recall_at_k": 1.0,
+      "mrr": 0.3333,
+      "relevance_list": [
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "The document focuses on the impact of the Ukraine crisis on Procter & Gamble and does not provide specific information about crude oil prices or their immediate market reaction to the invasion.",
+        "The document discusses Procter & Gamble's operations in Russia and their impact on the Russian economy, but it does not provide information on the immediate market impact of Russia's invasion of Ukraine on crude oil prices.",
+        "The document provides specific information about the surge in crude oil prices to nearly $100 per barrel following Russia's invasion of Ukraine on 24 February 2022, which directly addresses the query.",
+        "The document focuses on Petrobras' financial performance and does not provide information on the immediate market impact of Russia's invasion of Ukraine on crude oil prices.",
+        "The document does not provide information regarding the market impact of Russia's invasion of Ukraine on crude oil prices.",
+        "The document discusses Colgate-Palmolive's business decisions in response to the invasion, but does not provide information about the impact on crude oil prices.",
+        "The document does not discuss the immediate market impact of Russia's military invasion of Ukraine on crude oil prices.",
+        "The document discusses the uranium market and tariff threats, which do not relate to the impact of Russia's invasion of Ukraine on crude oil prices.",
+        "The document discusses a hypothetical scenario of crude oil prices reaching $200 but does not provide information on the immediate price surge or market impact on 24 February 2022.",
+        "The document focuses on ETF holdings and financial data rather than the immediate market impact of the invasion on crude oil prices."
+      ]
+    },
+    "3": {
+      "precision_at_k": 0.1,
+      "recall_at_k": 1.0,
+      "mrr": 1.0,
+      "relevance_list": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "The document directly discusses how Europe's surge in LNG demand following the Ukraine war impacted Asian energy markets, matching the query's focus.",
+        "The document discusses LNG exports from Western Canada in the context of a Middle East war, which does not address the specific impact of Europe's LNG demand surge on Asian markets following the Ukraine war.",
+        "The document discusses U.S. LNG exports and operational expansions but does not address the impact on Asian energy markets following Europe's demand surge due to the Ukraine war.",
+        "The retrieved document discusses asset managers' voting trends and does not address LNG demand, European energy needs post-Ukraine war, or impacts on Asian markets.",
+        "The document focuses on the impact of Russian military action on oil prices and does not address LNG demand or its effects on Asian energy markets.",
+        "The document discusses future rig demand related to LNG Canada but does not address the impact of Europe's LNG demand surge on Asian energy markets.",
+        "The document discusses Exxon Mobil's profits and general impact of high gas prices due to the war in Ukraine but does not address the specific effects on Asian energy markets related to LNG demand following the conflict.",
+        "The document focuses on the impact of the Ukraine crisis on Procter & Gamble Co. and crude oil, not on LNG demand in Europe or its effects on Asian energy markets.",
+        "The document discusses LNG prices and coal usage in Asia due to a war in the Middle East, rather than the specific impacts of Europe's LNG demand after the Ukraine war.",
+        "The document focuses on U.S. electricity consumption and investment opportunities in natural gas and copper, lacking information on Europe's LNG demand impact on Asian markets."
+      ]
+    },
+    "6": {
+      "precision_at_k": 0.1,
+      "recall_at_k": 1.0,
+      "mrr": 1.0,
+      "relevance_list": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "The document provides detailed information on the factors that drove U.S. natural gas futures to a 14-year high in late July 2022 and confirms the August delivery contract's achievement.",
+        "The retrieved document focuses on oil ETFs and crude oil, which do not address U.S. natural gas futures, their price movements, or the factors driving those changes.",
+        "The document focuses on Exxon Mobil's profits and crude oil rather than U.S. natural gas futures or the specific events that influenced their prices in late July 2022.",
+        "The retrieved document discusses U.S. crude oil production and does not contain relevant information regarding U.S. natural gas futures or their price movements in July 2022.",
+        "The document discusses a low-carbon hydrogen facility and crude oil, which are unrelated to U.S. natural gas futures or the specified events in July 2022.",
+        "The document discusses the operational issues of the Freeport LNG plant but does not mention the specific drivers for the natural gas futures reaching a 14-year high or the details about the August delivery contract.",
+        "The retrieved document discusses Frank Phillips and crude oil, which do not pertain to U.S. natural gas futures or the events of late July 2022.",
+        "The document discusses Cheniere Energy's construction plans for an LNG plant but does not provide information about the specific drivers behind U.S. natural gas futures reaching a 14-year high in July 2022 or details about the August delivery contract.",
+        "The retrieved document discusses crude oil, not U.S. natural gas futures or the specific events leading to their price changes.",
+        "The document discusses the U.S. becoming the top LNG exporter but does not address the specific drivers for the natural gas futures increase or the August delivery contract achievement in July 2022."
+      ]
+    },
+    "9": {
+      "precision_at_k": 0.1,
+      "recall_at_k": 1.0,
+      "mrr": 1.0,
+      "relevance_list": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "The document provides detailed information about Tellurian's business model for the Driftwood LNG project and the skepticism among investors and analysts regarding its high-risk approach, which aligns with the query.",
+        "The document discusses China's LNG imports and does not address Tellurian's business model or investor skepticism about the Driftwood LNG project.",
+        "The document discusses T-Mobile's earnings and business strategies, which are unrelated to Tellurian's Driftwood LNG project or the skepticism surrounding its business model.",
+        "The document discusses ConocoPhillips and crude oil, which is unrelated to Tellurian's Driftwood LNG project and the skepticism around its business model.",
+        "The document discusses Exxon Mobil's stock and does not mention Tellurian, the Driftwood LNG project, or investor skepticism toward its business model.",
+        "The document discusses the U.S. becoming the top LNG exporter but does not address investor skepticism about Tellurian's Driftwood LNG project or its business model.",
+        "The retrieved document discusses a different LNG project and does not provide any information about Tellurian's business model or investor skepticism regarding the Driftwood LNG project.",
+        "The document discusses Chevron's restructuring and cost-cutting measures, which do not relate to Tellurian's business model or the skepticism surrounding the Driftwood LNG project.",
+        "The document discusses the ConocoPhillips Willow oil project and does not mention Tellurian or its Driftwood LNG project, making it irrelevant to the query.",
+        "The retrieved document discusses a joint venture in natural gas infrastructure but does not address Tellurian's business model or investor skepticism regarding the Driftwood LNG project."
+      ]
+    },
+    "11": {
+      "precision_at_k": 0.0,
+      "recall_at_k": 0.0,
+      "mrr": 0.0,
+      "relevance_list": [
+        0
+      ],
+      "reasons": [
+        "The retrieved document does not contain information about Chad's parliament, the vote on ExxonMobil's asset sale, or the specifics of the nationalization."
+      ]
+    },
+    "17": {
+      "precision_at_k": 0.1,
+      "recall_at_k": 1.0,
+      "mrr": 1.0,
+      "relevance_list": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "The document provides detailed information about Freeport LNG's operational struggles and financial impacts since the 2022 fire, directly addressing the query.",
+        "The document discusses U.S. LNG exports and a fire at Freeport LNG but does not provide specific details on operational and financial difficulties or their effects on U.S. LNG exports since the fire.",
+        "The document discusses pollution limits at a different LNG plant and does not address Freeport LNG's difficulties or its impact on U.S. LNG exports.",
+        "The document discusses the U.S. becoming the largest LNG exporter but does not address Freeport LNG's operational issues post-2022 fire or the impact on U.S. LNG exports.",
+        "The retrieved document discusses electricity demand and investment implications for natural gas and copper, but does not address the operational and financial difficulties Freeport LNG faced post-2022 fire or their impact on U.S. LNG exports.",
+        "The document discusses Equinor's perspective on LNG competition and pricing but does not mention Freeport LNG's operational and financial difficulties following its 2022 fire or how this has affected U.S. LNG exports.",
+        "The document focuses on a long-term LNG agreement between Cheniere and PTT but does not address the operational and financial difficulties faced by Freeport LNG or its impact on U.S. LNG exports.",
+        "The document focuses on LNG demand growth and market volatility but does not address Freeport LNG's operational and financial difficulties or their impact on U.S. LNG exports.",
+        "The document discusses Petronas and Commonwealth LNG's supply talks but does not address Freeport LNG's operational and financial difficulties or their impact on U.S. LNG exports.",
+        "The document discusses rising labor costs and their impact on new LNG projects but does not address Freeport LNG's operational or financial difficulties post-2022 fire or the effects on U.S. LNG exports."
+      ]
+    },
+    "19": {
+      "precision_at_k": 0.1,
+      "recall_at_k": 1.0,
+      "mrr": 1.0,
+      "relevance_list": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "The document provides specific details about Phillips 66's Q4 2024 profit decline, including the figures and reasons for the collapse, which directly answers the query.",
+        "The document is unrelated to Phillips 66's financial performance or the specific details about its Q4 2024 profit collapse.",
+        "The document does not address the profit collapse of Phillips 66 in Q4 2024 or the reasons behind it.",
+        "The document does not provide information about Phillips 66's Q4 2024 profit decline or the reasons behind it, focusing instead on stock positioning and earlier performance.",
+        "The document discusses a strategic acquisition by Phillips 66 but does not address the profit collapse or financial results for Q4 2024.",
+        "The document discusses an acquisition by Tivoli Midstream and does not provide any information about Phillips 66's Q4 2024 profit decline or the reasons behind it.",
+        "The retrieved document discusses the renewable fuels facility conversion by Phillips 66 but does not address the Q4 2024 profit collapse or the reasons behind the financial decline.",
+        "The document does not contain information about Phillips 66's Q4 2024 profit collapse or the reasons behind it.",
+        "The retrieved document does not provide any specific details about Phillips 66's Q4 2024 profit collapse or the reasons behind it.",
+        "The document does not provide any information regarding the collapse in Q4 2024 profit or the reasons behind it."
+      ]
+    },
+    "33": {
+      "precision_at_k": 0.125,
+      "recall_at_k": 1.0,
+      "mrr": 1.0,
+      "relevance_list": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "The document discusses the collapse of Middle Eastern LNG supply and its impact on global LNG exports, highlighting the vulnerability of supply which supports the investment case for Western Canadian LNG projects.",
+        "The document focuses on crude oil supply issues and does not address LNG trade or the impact of the Middle East war on Western Canadian LNG export projects.",
+        "The document discusses broader narratives in global gas markets and supply but does not specifically address the Middle East war's impact on Western Canadian LNG projects in March 2026.",
+        "The document focuses on crude oil prices in India and does not address LNG export projects or the impact of the Middle East war on them.",
+        "The document discusses LPG transit through the Strait of Hormuz and does not address the Middle East war's impact on LNG investment in Western Canada.",
+        "The retrieved document focuses on crude oil and gasoline prices in relation to a conflict, without addressing LNG, the Middle East war's impact on LNG trade, or the investment case for Western Canadian LNG.",
+        "The document discusses crude oil prices and supply issues, which are not directly related to LNG export projects or the impact of Middle East war on LNG trade.",
+        "The retrieved document focuses on crude oil and a specific geopolitical event involving the U.S. and Iran, which does not address the Middle East war's impact on LNG export projects."
+      ]
+    },
+    "38": {
+      "precision_at_k": 0.1,
+      "recall_at_k": 1.0,
+      "mrr": 1.0,
+      "relevance_list": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "The document provides specific details about the scale of the funding cuts and mentions the Exxon project affected, directly addressing the query.",
+        "The document discusses Sempra's LNG project and the Trump administration's actions regarding LNG permits, which do not address the funding cuts to clean energy projects or the specific Exxon project mentioned in the query.",
+        "The retrieved document discusses funding cuts related to Venezuelan oil exports and does not address the Trump administration's funding cuts to clean energy projects in May 2025 or the specific Exxon project that was affected.",
+        "The document discusses EQT's fracking operations and federal investigations, which do not pertain to the Trump administration's funding cuts to clean energy projects or the specific Exxon project mentioned in the query.",
+        "The document discusses an arbitration related to Chevron's acquisition of Hess and does not contain any information about funding cuts to clean energy projects or specifics about Exxon Mobil's clean hydrogen complex.",
+        "The document discusses tariffs on metals and does not provide information about the Trump administration's funding cuts to clean energy projects or the specific Exxon project affected.",
+        "The document discusses Valero's Sustainable Aviation Fuel project and does not provide information regarding the Trump administration's funding cuts to clean energy projects or the specific Exxon project affected.",
+        "The document discusses Exxon's acquisition of Pioneer Natural Resources but does not address funding cuts to clean energy projects or any specific details about projects affected in May 2025.",
+        "The document discusses Exxon Mobil's stock and financial positioning in December 2025, without addressing the May 2025 funding cuts or the specific clean energy project affected.",
+        "The document discusses funding cuts to an Eastman project and does not provide information on the Trump administration's cuts to clean energy projects specifically in May 2025 or details about an Exxon project."
+      ]
+    },
+    "47": {
+      "precision_at_k": 0.1,
+      "recall_at_k": 1.0,
+      "mrr": 1.0,
+      "relevance_list": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "The document contains specific information about rising labor costs, budget overruns, project delays, and other consequences related to new LNG projects on the U.S. Gulf Coast in mid-2024.",
+        "The retrieved document focuses on oil ETFs and investment opportunities in crude oil, lacking relevant information about labor cost dynamics affecting U.S. LNG projects in mid-2024.",
+        "The document discusses LNG exports and facility operations but does not address labor cost dynamics, budget overruns, or project delays related to the Gulf Coast in mid-2024.",
+        "The document discusses a natural gas supply venture and does not address labor costs or associated dynamics affecting LNG project economics.",
+        "The retrieved document does not address labor cost dynamics or the economic implications for U.S. LNG projects on the Gulf Coast in mid-2024.",
+        "The document discusses drilling activity in Saskatchewan and crude oil but does not address labor cost dynamics or U.S. LNG project economics.",
+        "The document focuses on a pipeline project and does not address labor cost dynamics or consequences related to U.S. LNG projects in mid-2024.",
+        "The document discusses the Mad Dog Phase 2 project in the Gulf of Mexico focused on crude oil production, not the labor cost dynamics impacting U.S. LNG projects.",
+        "The document discusses a Gulf of Mexico oil lease sale and does not provide information on labor cost dynamics affecting LNG project economics.",
+        "The document primarily discusses EQT's LNG supply agreements and pipeline projects without addressing labor cost dynamics or their impact on project economics."
+      ]
+    }
+  },
+  "semantic": {
+    "1": {
+      "precision_at_k": 0.1,
+      "recall_at_k": 1.0,
+      "mrr": 1.0,
+      "relevance_list": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "The document provides specific information about the surge in crude oil prices to nearly $100 per barrel following Russia's invasion of Ukraine on 24 February 2022, which directly addresses the query.",
+        "The document focuses on the impact of the Ukraine crisis on Procter & Gamble and does not provide specific information about crude oil prices or their immediate market reaction to the invasion.",
+        "The document discusses Shell's decision related to Russian oil but does not provide information on the immediate market impact of the invasion on crude oil prices.",
+        "The document discusses a different context of oil prices and does not mention the impact of Russia's invasion of Ukraine on crude oil prices.",
+        "The document discusses the impact of future sanctions on Russian fuel imports and U.S. refiners' profit margins but does not address the immediate market impact on crude oil prices following the invasion on 24 February 2022.",
+        "The document discusses supply issues related to the Strait of Hormuz but does not mention the immediate market impact of Russia's invasion of Ukraine on crude oil prices.",
+        "The document discusses OPEC+ decisions regarding oil supply and does not address the immediate market impact of Russia's invasion of Ukraine on crude oil prices.",
+        "The document discusses oil prices in relation to Iran and the Strait of Hormuz, which does not address the immediate market impact of Russia's invasion of Ukraine on crude oil prices.",
+        "The document discusses current factors affecting crude oil prices but does not address the impact of Russia's invasion of Ukraine on 24 February 2022.",
+        "The document discusses factors affecting oil prices but does not mention the immediate impact of Russia's invasion of Ukraine on crude oil prices."
+      ]
+    },
+    "3": {
+      "precision_at_k": 0.1,
+      "recall_at_k": 1.0,
+      "mrr": 1.0,
+      "relevance_list": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "The document directly discusses how Europe's surge in LNG demand following the Ukraine war impacted Asian energy markets, matching the query's focus.",
+        "The document discusses LNG prices and coal usage in Asia due to a war in the Middle East, rather than the specific impacts of Europe's LNG demand after the Ukraine war.",
+        "The retrieved document does not address the impact of Europe's LNG demand surge on Asian energy markets.",
+        "The retrieved document discusses global LNG supply disruptions due to a different conflict (Iran), rather than addressing the specific impact of the Ukraine war on Asian energy markets.",
+        "The document discusses overall LNG demand growth and market volatility but does not specifically address the impact on Asian energy markets following the Ukraine war.",
+        "The document discusses U.S. LNG exports and operational expansions but does not address the impact on Asian energy markets following Europe's demand surge due to the Ukraine war.",
+        "The document discusses future trends in U.S. LNG feed gas demand and supply without addressing the impact of Europe's LNG demand on Asian markets or the specific events after the Ukraine war.",
+        "The document focuses on the impact of Russian military action on oil prices and does not address LNG demand or its effects on Asian energy markets.",
+        "The retrieved document discusses European gas prices and macroeconomic risks but does not address the impact of Europe's LNG demand on Asian energy markets.",
+        "The document discusses LNG imports in China but does not mention Europe's LNG demand or the impact on Asian energy markets due to the Ukraine war."
+      ]
+    },
+    "6": {
+      "precision_at_k": 0.1,
+      "recall_at_k": 1.0,
+      "mrr": 1.0,
+      "relevance_list": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "The document provides detailed information on the factors that drove U.S. natural gas futures to a 14-year high in late July 2022 and confirms the August delivery contract's achievement.",
+        "The document discusses LNG demand and future projections but does not address the specific factors that drove U.S. natural gas futures to a 14-year high in July 2022 or the August delivery contract details.",
+        "The retrieved document discusses U.S. crude oil production and does not contain relevant information regarding U.S. natural gas futures or their price movements in July 2022.",
+        "The document focuses on European gas prices and does not provide information about U.S. natural gas futures or the specific drivers behind their price increase in July 2022.",
+        "The document does not address the drivers of U.S. natural gas futures or the August delivery contract, focusing instead on rig counts and production.",
+        "The document discusses LNG demand and market volatility but does not address the specific drivers of U.S. natural gas futures reaching a 14-year high or the August delivery contract details.",
+        "The document focuses on rising labor costs affecting LNG projects and does not address the specific reasons for the rise in U.S. natural gas futures or the performance of the August delivery contract.",
+        "The document discusses U.S. LNG feed gas demand in 2026, which is unrelated to the specific events and details regarding U.S. natural gas futures in late July 2022.",
+        "The document discusses the operational issues of the Freeport LNG plant but does not mention the specific drivers for the natural gas futures reaching a 14-year high or the details about the August delivery contract.",
+        "The retrieved document does not address the drivers behind U.S. natural gas futures reaching a 14-year high or the August delivery contract's performance."
+      ]
+    },
+    "9": {
+      "precision_at_k": 0.1,
+      "recall_at_k": 1.0,
+      "mrr": 1.0,
+      "relevance_list": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "The document provides detailed information about Tellurian's business model for the Driftwood LNG project and the skepticism among investors and analysts regarding its high-risk approach, which aligns with the query.",
+        "The document focuses on a lawsuit against Tellurian's chairman related to investment losses but does not address the business model skepticism or the financial concerns of the Driftwood LNG project.",
+        "The retrieved document discusses contracts related to Cheniere and NextDecade, but does not address Tellurian's business model or the specific skepticism surrounding the Driftwood LNG project.",
+        "The document discusses Exxon's acquisition of Pioneer Natural Resources, which is unrelated to Tellurian's Driftwood LNG project and the skepticism surrounding its business model.",
+        "The document discusses Cheniere's financial performance and guidance for 2024, which does not address the skepticism surrounding Tellurian's business model for the Driftwood LNG project in December 2022.",
+        "The document discusses general LNG demand growth and market volatility but does not address the specific skepticism regarding Tellurian's business model or the Driftwood LNG project.",
+        "The document discusses a supply deal related to Cheniere Energy's LNG project, which does not address Tellurian's business model or the skepticism surrounding the Driftwood LNG project.",
+        "The document discusses BP's positive outlook on U.S. natural gas prices but does not address Tellurian's business model or the skepticism from investors regarding the Driftwood LNG project.",
+        "The document discusses a different LNG project and does not address Tellurian's business model or investor skepticism regarding the Driftwood LNG project.",
+        "The retrieved document focuses on BP and Shell's share prices and does not discuss Tellurian's business model or the Driftwood LNG project."
+      ]
+    },
+    "11": {
+      "precision_at_k": 0.0,
+      "recall_at_k": 0.0,
+      "mrr": 0.0,
+      "relevance_list": [
+        0
+      ],
+      "reasons": [
+        "The retrieved document does not contain information about Chad's parliament, the vote on ExxonMobil's asset sale, or the specifics of the nationalization."
+      ]
+    },
+    "17": {
+      "precision_at_k": 0.1,
+      "recall_at_k": 1.0,
+      "mrr": 1.0,
+      "relevance_list": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "The document provides detailed information about Freeport LNG's operational struggles and financial impacts since the 2022 fire, directly addressing the query.",
+        "The document discusses U.S. LNG exports and a fire at Freeport LNG but does not provide specific details on operational and financial difficulties or their effects on U.S. LNG exports since the fire.",
+        "The document discusses U.S. LNG exports and new facilities but does not address Freeport LNG's operational and financial difficulties since its 2022 fire.",
+        "The document discusses U.S. natural gas prices and market conditions but does not provide specific information about Freeport LNG's operational and financial difficulties since the fire or their impact on U.S. LNG exports.",
+        "The document discusses global LNG export conditions unrelated to Freeport LNG's operational and financial difficulties post-2022 fire.",
+        "The document discusses U.S. LNG exports in general but does not provide details on Freeport LNG's operational and financial difficulties or their impact on U.S. exports since the 2022 fire.",
+        "The document does not address Freeport LNG's operational and financial difficulties since the 2022 fire or its impact on U.S. LNG exports.",
+        "The document discusses LNG prices and imports in China, which does not address Freeport LNG's operational and financial difficulties or their impact on U.S. LNG exports.",
+        "The document discusses the U.S. becoming the largest LNG exporter but does not address Freeport LNG's operational issues post-2022 fire or the impact on U.S. LNG exports.",
+        "The document focuses on China's LNG imports and does not provide information about Freeport LNG's operational and financial difficulties or their impact on U.S. LNG exports."
+      ]
+    },
+    "19": {
+      "precision_at_k": 0.1,
+      "recall_at_k": 1.0,
+      "mrr": 1.0,
+      "relevance_list": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "The document provides specific details about Phillips 66's Q4 2024 profit decline, including the figures and reasons for the collapse, which directly answers the query.",
+        "The document does not address the reasons for the profit collapse or provide any specific financial figures for Q4 2024.",
+        "The document pertains to Phillips 66's plans for Q1 2023 and does not address the Q4 2024 profit collapse or the reasons behind it.",
+        "The document does not provide information about Phillips 66's Q4 2024 profit collapse or the reasons behind it.",
+        "The document does not provide information about Phillips 66's Q4 2024 profit decline or the reasons behind it, focusing instead on stock positioning and earlier performance.",
+        "The document does not provide any information regarding the collapse in Q4 2024 profit or the reasons behind it.",
+        "The retrieved document does not provide any specific details about Phillips 66's Q4 2024 profit collapse or the reasons behind it.",
+        "The document discusses a strategic acquisition by Phillips 66 but does not address the profit collapse or financial results for Q4 2024.",
+        "The document does not provide any information regarding Phillips 66's Q4 2024 profit collapse or the specific factors leading to that decline.",
+        "The retrieved document discusses Booking Holdings' earnings report and does not provide any information related to Phillips 66's Q4 2024 profit collapse."
+      ]
+    },
+    "33": {
+      "precision_at_k": 0.125,
+      "recall_at_k": 1.0,
+      "mrr": 1.0,
+      "relevance_list": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "The document discusses the collapse of Middle Eastern LNG supply and its impact on global LNG exports, highlighting the vulnerability of supply which supports the investment case for Western Canadian LNG projects.",
+        "The document discusses broader narratives in global gas markets and supply but does not specifically address the Middle East war's impact on Western Canadian LNG projects in March 2026.",
+        "The document focuses on crude oil supply issues and does not address LNG trade or the impact of the Middle East war on Western Canadian LNG export projects.",
+        "The retrieved document focuses on crude oil and a specific geopolitical event involving the U.S. and Iran, which does not address the Middle East war's impact on LNG export projects.",
+        "The document discusses crude oil prices and supply issues, which are not directly related to LNG export projects or the impact of Middle East war on LNG trade.",
+        "The retrieved document focuses on crude oil and gasoline prices in relation to a conflict, without addressing LNG, the Middle East war's impact on LNG trade, or the investment case for Western Canadian LNG.",
+        "The document discusses LPG transit through the Strait of Hormuz and does not address the Middle East war's impact on LNG investment in Western Canada.",
+        "The document focuses on crude oil prices in India and does not address LNG export projects or the impact of the Middle East war on them."
+      ]
+    },
+    "38": {
+      "precision_at_k": 0.1,
+      "recall_at_k": 1.0,
+      "mrr": 1.0,
+      "relevance_list": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "The document provides specific details about the scale of the funding cuts and mentions the Exxon project affected, directly addressing the query.",
+        "The document does not address the funding cuts to clean energy projects or the specific impacts on Exxon in May 2025.",
+        "The document discusses Exxon's carbon capture technology but does not mention the Trump administration's funding cuts or the specific clean energy project affected.",
+        "The document does not address the funding cuts to clean energy projects or the specific Exxon project affected in May 2025.",
+        "The document discusses Exxon Mobil's profits and energy prices but does not address the funding cuts to clean energy projects or the specific Exxon project affected in May 2025.",
+        "The document does not contain information about Trump administration funding cuts to clean energy projects in May 2025 or any specific Exxon project affected.",
+        "The retrieved document focuses on ExxonMobil's sustainability efforts and does not provide information about the funding cuts to clean energy projects or specific details about the Exxon project affected.",
+        "The document does not mention funding cuts to clean energy projects or the specific Exxon project affected, focusing instead on the general energy outlook.",
+        "The document discusses Chevron and Exxon's efforts in developing renewable gasoline blends but does not address the specific funding cuts to clean energy projects by the Trump administration in May 2025.",
+        "The retrieved document discusses energy transition trends but does not provide information on the Trump administration's funding cuts or specific projects affected in May 2025."
+      ]
+    },
+    "47": {
+      "precision_at_k": 0.1,
+      "recall_at_k": 1.0,
+      "mrr": 1.0,
+      "relevance_list": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "The document contains specific information about rising labor costs, budget overruns, project delays, and other consequences related to new LNG projects on the U.S. Gulf Coast in mid-2024.",
+        "The document discusses Sempra's LNG project expansions and financial outlook but does not address labor cost dynamics or their consequences affecting project economics.",
+        "The document discusses LNG projects in Western Canada and geopolitical issues, which do not address labor cost dynamics or their impact on U.S. Gulf Coast LNG projects.",
+        "The document discusses LNG feed gas demand and market risks in 2026, which does not address the labor cost dynamics or consequences for U.S. LNG projects in mid-2024.",
+        "The document discusses LNG exports and facility operations but does not address labor cost dynamics, budget overruns, or project delays related to the Gulf Coast in mid-2024.",
+        "The document primarily discusses EQT's LNG supply agreements and pipeline projects without addressing labor cost dynamics or their impact on project economics.",
+        "The retrieved document discusses oil prices and geopolitical issues, which do not address labor cost dynamics affecting U.S. LNG projects on the Gulf Coast.",
+        "The document focuses on operational issues and technical problems at a specific LNG facility rather than labor cost dynamics impacting project economics.",
+        "The document discusses crude oil price scenarios and does not address labor cost dynamics or LNG project economics on the Gulf Coast.",
+        "The document discusses LNG demand and market conditions but does not provide any information about labor cost dynamics or their consequences for U.S. LNG projects."
+      ]
+    }
+  },
+  "hybrid": {
+    "1": {
+      "precision_at_k": 0.1,
+      "recall_at_k": 1.0,
+      "mrr": 1.0,
+      "relevance_list": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "The document provides specific information about the surge in crude oil prices to nearly $100 per barrel following Russia's invasion of Ukraine on 24 February 2022, which directly addresses the query.",
+        "The document focuses on the impact of the Ukraine crisis on Procter & Gamble and does not provide specific information about crude oil prices or their immediate market reaction to the invasion.",
+        "The document discusses Procter & Gamble's operations in Russia and their impact on the Russian economy, but it does not provide information on the immediate market impact of Russia's invasion of Ukraine on crude oil prices.",
+        "The document discusses supply issues related to the Strait of Hormuz but does not mention the immediate market impact of Russia's invasion of Ukraine on crude oil prices.",
+        "The document does not discuss the immediate market impact of Russia's invasion of Ukraine on crude oil prices, focusing instead on supply expectations and macroeconomic factors.",
+        "The document discusses OPEC+ decisions regarding oil supply and does not address the immediate market impact of Russia's invasion of Ukraine on crude oil prices.",
+        "The document discusses a hypothetical scenario of crude oil prices reaching $200 but does not provide information on the immediate price surge or market impact on 24 February 2022.",
+        "The document does not directly address the immediate market impact of Russia's invasion of Ukraine on crude oil prices.",
+        "The document discusses current factors affecting crude oil prices but does not address the impact of Russia's invasion of Ukraine on 24 February 2022.",
+        "The document discusses the impact of future sanctions on Russian fuel imports and U.S. refiners' profit margins but does not address the immediate market impact on crude oil prices following the invasion on 24 February 2022."
+      ]
+    },
+    "3": {
+      "precision_at_k": 0.1,
+      "recall_at_k": 1.0,
+      "mrr": 1.0,
+      "relevance_list": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "The document directly discusses how Europe's surge in LNG demand following the Ukraine war impacted Asian energy markets, matching the query's focus.",
+        "The document discusses LNG prices and coal usage in Asia due to a war in the Middle East, rather than the specific impacts of Europe's LNG demand after the Ukraine war.",
+        "The retrieved document does not address the impact of Europe's LNG demand surge on Asian energy markets.",
+        "The document discusses U.S. LNG exports and operational expansions but does not address the impact on Asian energy markets following Europe's demand surge due to the Ukraine war.",
+        "The retrieved document discusses global LNG supply disruptions due to a different conflict (Iran), rather than addressing the specific impact of the Ukraine war on Asian energy markets.",
+        "The document focuses on the impact of Russian military action on oil prices and does not address LNG demand or its effects on Asian energy markets.",
+        "The document discusses overall LNG demand growth and market volatility but does not specifically address the impact on Asian energy markets following the Ukraine war.",
+        "The document discusses LNG exports from Western Canada in the context of a Middle East war, which does not address the specific impact of Europe's LNG demand surge on Asian markets following the Ukraine war.",
+        "The document discusses future trends in U.S. LNG feed gas demand and supply without addressing the impact of Europe's LNG demand on Asian markets or the specific events after the Ukraine war.",
+        "The document focuses on the impact of the Ukraine crisis on Procter & Gamble Co. and crude oil, not on LNG demand in Europe or its effects on Asian energy markets."
+      ]
+    },
+    "6": {
+      "precision_at_k": 0.1,
+      "recall_at_k": 1.0,
+      "mrr": 1.0,
+      "relevance_list": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "The document provides detailed information on the factors that drove U.S. natural gas futures to a 14-year high in late July 2022 and confirms the August delivery contract's achievement.",
+        "The retrieved document discusses U.S. crude oil production and does not contain relevant information regarding U.S. natural gas futures or their price movements in July 2022.",
+        "The document discusses LNG demand and future projections but does not address the specific factors that drove U.S. natural gas futures to a 14-year high in July 2022 or the August delivery contract details.",
+        "The document focuses on European gas prices and does not provide information about U.S. natural gas futures or the specific drivers behind their price increase in July 2022.",
+        "The document discusses the operational issues of the Freeport LNG plant but does not mention the specific drivers for the natural gas futures reaching a 14-year high or the details about the August delivery contract.",
+        "The document does not address the drivers of U.S. natural gas futures or the August delivery contract, focusing instead on rig counts and production.",
+        "The document discusses LNG demand and market volatility but does not address the specific drivers of U.S. natural gas futures reaching a 14-year high or the August delivery contract details.",
+        "The document focuses on U.S. LNG exports and does not address the specific drivers for natural gas futures reaching a 14-year high or the August delivery contract achievement.",
+        "The document discusses U.S. LNG feed gas demand in 2026, which is unrelated to the specific events and details regarding U.S. natural gas futures in late July 2022.",
+        "The document focuses on rising labor costs affecting LNG projects and does not address the specific reasons for the rise in U.S. natural gas futures or the performance of the August delivery contract."
+      ]
+    },
+    "9": {
+      "precision_at_k": 0.1,
+      "recall_at_k": 1.0,
+      "mrr": 1.0,
+      "relevance_list": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "The document provides detailed information about Tellurian's business model for the Driftwood LNG project and the skepticism among investors and analysts regarding its high-risk approach, which aligns with the query.",
+        "The document focuses on a lawsuit against Tellurian's chairman related to investment losses but does not address the business model skepticism or the financial concerns of the Driftwood LNG project.",
+        "The document discusses Cheniere's financial performance and guidance for 2024, which does not address the skepticism surrounding Tellurian's business model for the Driftwood LNG project in December 2022.",
+        "The document discusses Exxon Mobil's stock and does not mention Tellurian, the Driftwood LNG project, or investor skepticism toward its business model.",
+        "The document discusses China's LNG imports and does not address Tellurian's business model or investor skepticism about the Driftwood LNG project.",
+        "The retrieved document discusses contracts related to Cheniere and NextDecade, but does not address Tellurian's business model or the specific skepticism surrounding the Driftwood LNG project.",
+        "The document discusses a supply deal related to Cheniere Energy's LNG project, which does not address Tellurian's business model or the skepticism surrounding the Driftwood LNG project.",
+        "The document discusses T-Mobile's earnings and business strategies, which are unrelated to Tellurian's Driftwood LNG project or the skepticism surrounding its business model.",
+        "The document discusses Exxon's acquisition of Pioneer Natural Resources, which is unrelated to Tellurian's Driftwood LNG project and the skepticism surrounding its business model.",
+        "The document discusses Sempra Infrastructure's LNG projects and financial outlook but does not provide information about Tellurian's Driftwood LNG project or the skepticism surrounding its business model."
+      ]
+    },
+    "11": {
+      "precision_at_k": 0.0,
+      "recall_at_k": 0.0,
+      "mrr": 0.0,
+      "relevance_list": [
+        0
+      ],
+      "reasons": [
+        "The retrieved document does not contain information about Chad's parliament, the vote on ExxonMobil's asset sale, or the specifics of the nationalization."
+      ]
+    },
+    "17": {
+      "precision_at_k": 0.1,
+      "recall_at_k": 1.0,
+      "mrr": 1.0,
+      "relevance_list": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "The document provides detailed information about Freeport LNG's operational struggles and financial impacts since the 2022 fire, directly addressing the query.",
+        "The document discusses U.S. LNG exports and a fire at Freeport LNG but does not provide specific details on operational and financial difficulties or their effects on U.S. LNG exports since the fire.",
+        "The document discusses U.S. LNG exports and new facilities but does not address Freeport LNG's operational and financial difficulties since its 2022 fire.",
+        "The document discusses U.S. natural gas prices and market conditions but does not provide specific information about Freeport LNG's operational and financial difficulties since the fire or their impact on U.S. LNG exports.",
+        "The document discusses the U.S. becoming the largest LNG exporter but does not address Freeport LNG's operational issues post-2022 fire or the impact on U.S. LNG exports.",
+        "The document discusses U.S. LNG exports in general but does not provide details on Freeport LNG's operational and financial difficulties or their impact on U.S. exports since the 2022 fire.",
+        "The document focuses on China's LNG imports and does not provide information about Freeport LNG's operational and financial difficulties or their impact on U.S. LNG exports.",
+        "The document focuses on LNG demand growth and market volatility but does not address Freeport LNG's operational and financial difficulties or their impact on U.S. LNG exports.",
+        "The document does not address Freeport LNG's operational and financial difficulties since the 2022 fire or its impact on U.S. LNG exports.",
+        "The document discusses the U.S. becoming the largest LNG exporter by the end of 2021 but does not address Freeport LNG's operational and financial difficulties since the 2022 fire."
+      ]
+    },
+    "19": {
+      "precision_at_k": 0.1,
+      "recall_at_k": 1.0,
+      "mrr": 1.0,
+      "relevance_list": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "The document provides specific details about Phillips 66's Q4 2024 profit decline, including the figures and reasons for the collapse, which directly answers the query.",
+        "The document does not address the reasons for the profit collapse or provide any specific financial figures for Q4 2024.",
+        "The document does not provide information about Phillips 66's Q4 2024 profit decline or the reasons behind it, focusing instead on stock positioning and earlier performance.",
+        "The document pertains to Phillips 66's plans for Q1 2023 and does not address the Q4 2024 profit collapse or the reasons behind it.",
+        "The document does not provide information about Phillips 66's Q4 2024 profit collapse or the reasons behind it.",
+        "The document does not provide any information regarding the collapse in Q4 2024 profit or the reasons behind it.",
+        "The retrieved document does not provide any specific details about Phillips 66's Q4 2024 profit collapse or the reasons behind it.",
+        "The document discusses a strategic acquisition by Phillips 66 but does not address the profit collapse or financial results for Q4 2024.",
+        "The document does not address the profit collapse of Phillips 66 in Q4 2024 or the reasons behind it.",
+        "The document does not provide any information regarding Phillips 66's Q4 2024 profit collapse or the specific factors leading to that decline."
+      ]
+    },
+    "33": {
+      "precision_at_k": 0.125,
+      "recall_at_k": 1.0,
+      "mrr": 1.0,
+      "relevance_list": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "The document discusses the collapse of Middle Eastern LNG supply and its impact on global LNG exports, highlighting the vulnerability of supply which supports the investment case for Western Canadian LNG projects.",
+        "The document discusses broader narratives in global gas markets and supply but does not specifically address the Middle East war's impact on Western Canadian LNG projects in March 2026.",
+        "The document focuses on crude oil supply issues and does not address LNG trade or the impact of the Middle East war on Western Canadian LNG export projects.",
+        "The retrieved document focuses on crude oil and a specific geopolitical event involving the U.S. and Iran, which does not address the Middle East war's impact on LNG export projects.",
+        "The document discusses crude oil prices and supply issues, which are not directly related to LNG export projects or the impact of Middle East war on LNG trade.",
+        "The retrieved document focuses on crude oil and gasoline prices in relation to a conflict, without addressing LNG, the Middle East war's impact on LNG trade, or the investment case for Western Canadian LNG.",
+        "The document discusses LPG transit through the Strait of Hormuz and does not address the Middle East war's impact on LNG investment in Western Canada.",
+        "The document focuses on crude oil prices in India and does not address LNG export projects or the impact of the Middle East war on them."
+      ]
+    },
+    "38": {
+      "precision_at_k": 0.1,
+      "recall_at_k": 1.0,
+      "mrr": 1.0,
+      "relevance_list": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "The document provides specific details about the scale of the funding cuts and mentions the Exxon project affected, directly addressing the query.",
+        "The document discusses Exxon Mobil's profits and energy prices but does not address the funding cuts to clean energy projects or the specific Exxon project affected in May 2025.",
+        "The document does not address the funding cuts to clean energy projects or the specific impacts on Exxon in May 2025.",
+        "The document discusses Exxon's carbon capture technology but does not mention the Trump administration's funding cuts or the specific clean energy project affected.",
+        "The document discusses Chevron and Exxon's efforts in developing renewable gasoline blends but does not address the specific funding cuts to clean energy projects by the Trump administration in May 2025.",
+        "The document does not contain information about Trump administration funding cuts to clean energy projects in May 2025 or any specific Exxon project affected.",
+        "The document discusses tariffs on metals and does not provide information about the Trump administration's funding cuts to clean energy projects or the specific Exxon project affected.",
+        "The document does not mention funding cuts to clean energy projects or the specific Exxon project affected, focusing instead on the general energy outlook.",
+        "The retrieved document discusses funding cuts related to Venezuelan oil exports and does not address the Trump administration's funding cuts to clean energy projects in May 2025 or the specific Exxon project that was affected.",
+        "The document discusses EQT's fracking operations and federal investigations, which do not pertain to the Trump administration's funding cuts to clean energy projects or the specific Exxon project mentioned in the query."
+      ]
+    },
+    "47": {
+      "precision_at_k": 0.1,
+      "recall_at_k": 1.0,
+      "mrr": 1.0,
+      "relevance_list": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "The document contains specific information about rising labor costs, budget overruns, project delays, and other consequences related to new LNG projects on the U.S. Gulf Coast in mid-2024.",
+        "The document discusses LNG exports and facility operations but does not address labor cost dynamics, budget overruns, or project delays related to the Gulf Coast in mid-2024.",
+        "The document primarily discusses EQT's LNG supply agreements and pipeline projects without addressing labor cost dynamics or their impact on project economics.",
+        "The document discusses LNG projects in Western Canada and geopolitical issues, which do not address labor cost dynamics or their impact on U.S. Gulf Coast LNG projects.",
+        "The document discusses crude oil price scenarios and does not address labor cost dynamics or LNG project economics on the Gulf Coast.",
+        "The document discusses a natural gas supply venture and does not address labor costs or associated dynamics affecting LNG project economics.",
+        "The document discusses Sempra's LNG project expansions and financial outlook but does not address labor cost dynamics or their consequences affecting project economics.",
+        "The retrieved document does not address labor cost dynamics or the economic implications for U.S. LNG projects on the Gulf Coast in mid-2024.",
+        "The document discusses LNG feed gas demand and market risks in 2026, which does not address the labor cost dynamics or consequences for U.S. LNG projects in mid-2024.",
+        "The document discusses the Mad Dog Phase 2 project in the Gulf of Mexico focused on crude oil production, not the labor cost dynamics impacting U.S. LNG projects."
+      ]
+    }
+  },
+  "hybrid_time": {
+    "1": {
+      "precision_at_k": 0.1,
+      "recall_at_k": 1.0,
+      "mrr": 0.1,
+      "relevance_list": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1
+      ],
+      "reasons": [
+        "The document discusses supply issues related to the Strait of Hormuz but does not mention the immediate market impact of Russia's invasion of Ukraine on crude oil prices.",
+        "The document does not directly address the immediate market impact of Russia's invasion of Ukraine on crude oil prices.",
+        "The document discusses a hypothetical scenario of crude oil prices reaching $200 but does not provide information on the immediate price surge or market impact on 24 February 2022.",
+        "The document discusses OPEC+ decisions regarding oil supply and does not address the immediate market impact of Russia's invasion of Ukraine on crude oil prices.",
+        "The document discusses current factors affecting crude oil prices but does not address the impact of Russia's invasion of Ukraine on 24 February 2022.",
+        "The document does not discuss the immediate market impact of Russia's invasion of Ukraine on crude oil prices, focusing instead on supply expectations and macroeconomic factors.",
+        "The document discusses the impact of future sanctions on Russian fuel imports and U.S. refiners' profit margins but does not address the immediate market impact on crude oil prices following the invasion on 24 February 2022.",
+        "The document discusses Procter & Gamble's operations in Russia and their impact on the Russian economy, but it does not provide information on the immediate market impact of Russia's invasion of Ukraine on crude oil prices.",
+        "The document focuses on the impact of the Ukraine crisis on Procter & Gamble and does not provide specific information about crude oil prices or their immediate market reaction to the invasion.",
+        "The document provides specific information about the surge in crude oil prices to nearly $100 per barrel following Russia's invasion of Ukraine on 24 February 2022, which directly addresses the query."
+      ]
+    },
+    "3": {
+      "precision_at_k": 0.1,
+      "recall_at_k": 1.0,
+      "mrr": 0.1429,
+      "relevance_list": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "The document discusses LNG prices and coal usage in Asia due to a war in the Middle East, rather than the specific impacts of Europe's LNG demand after the Ukraine war.",
+        "The retrieved document does not address the impact of Europe's LNG demand surge on Asian energy markets.",
+        "The retrieved document discusses global LNG supply disruptions due to a different conflict (Iran), rather than addressing the specific impact of the Ukraine war on Asian energy markets.",
+        "The document discusses LNG exports from Western Canada in the context of a Middle East war, which does not address the specific impact of Europe's LNG demand surge on Asian markets following the Ukraine war.",
+        "The document discusses future trends in U.S. LNG feed gas demand and supply without addressing the impact of Europe's LNG demand on Asian markets or the specific events after the Ukraine war.",
+        "The document discusses U.S. LNG exports and operational expansions but does not address the impact on Asian energy markets following Europe's demand surge due to the Ukraine war.",
+        "The document directly discusses how Europe's surge in LNG demand following the Ukraine war impacted Asian energy markets, matching the query's focus.",
+        "The document discusses overall LNG demand growth and market volatility but does not specifically address the impact on Asian energy markets following the Ukraine war.",
+        "The document focuses on the impact of the Ukraine crisis on Procter & Gamble Co. and crude oil, not on LNG demand in Europe or its effects on Asian energy markets.",
+        "The document focuses on the impact of Russian military action on oil prices and does not address LNG demand or its effects on Asian energy markets."
+      ]
+    },
+    "6": {
+      "precision_at_k": 0.1,
+      "recall_at_k": 1.0,
+      "mrr": 0.125,
+      "relevance_list": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0
+      ],
+      "reasons": [
+        "The document focuses on European gas prices and does not provide information about U.S. natural gas futures or the specific drivers behind their price increase in July 2022.",
+        "The document discusses U.S. LNG feed gas demand in 2026, which is unrelated to the specific events and details regarding U.S. natural gas futures in late July 2022.",
+        "The document discusses LNG demand and future projections but does not address the specific factors that drove U.S. natural gas futures to a 14-year high in July 2022 or the August delivery contract details.",
+        "The document does not address the drivers of U.S. natural gas futures or the August delivery contract, focusing instead on rig counts and production.",
+        "The document focuses on rising labor costs affecting LNG projects and does not address the specific reasons for the rise in U.S. natural gas futures or the performance of the August delivery contract.",
+        "The document discusses the operational issues of the Freeport LNG plant but does not mention the specific drivers for the natural gas futures reaching a 14-year high or the details about the August delivery contract.",
+        "The retrieved document discusses U.S. crude oil production and does not contain relevant information regarding U.S. natural gas futures or their price movements in July 2022.",
+        "The document provides detailed information on the factors that drove U.S. natural gas futures to a 14-year high in late July 2022 and confirms the August delivery contract's achievement.",
+        "The document focuses on U.S. LNG exports and does not address the specific drivers for natural gas futures reaching a 14-year high or the August delivery contract achievement.",
+        "The document discusses LNG demand and market volatility but does not address the specific drivers of U.S. natural gas futures reaching a 14-year high or the August delivery contract details."
+      ]
+    },
+    "9": {
+      "precision_at_k": 0.1,
+      "recall_at_k": 1.0,
+      "mrr": 0.125,
+      "relevance_list": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0
+      ],
+      "reasons": [
+        "The document discusses Exxon Mobil's stock and does not mention Tellurian, the Driftwood LNG project, or investor skepticism toward its business model.",
+        "The document discusses T-Mobile's earnings and business strategies, which are unrelated to Tellurian's Driftwood LNG project or the skepticism surrounding its business model.",
+        "The document discusses Cheniere's financial performance and guidance for 2024, which does not address the skepticism surrounding Tellurian's business model for the Driftwood LNG project in December 2022.",
+        "The document discusses Sempra Infrastructure's LNG projects and financial outlook but does not provide information about Tellurian's Driftwood LNG project or the skepticism surrounding its business model.",
+        "The document discusses Exxon's acquisition of Pioneer Natural Resources, which is unrelated to Tellurian's Driftwood LNG project and the skepticism surrounding its business model.",
+        "The document discusses a supply deal related to Cheniere Energy's LNG project, which does not address Tellurian's business model or the skepticism surrounding the Driftwood LNG project.",
+        "The document discusses China's LNG imports and does not address Tellurian's business model or investor skepticism about the Driftwood LNG project.",
+        "The document provides detailed information about Tellurian's business model for the Driftwood LNG project and the skepticism among investors and analysts regarding its high-risk approach, which aligns with the query.",
+        "The retrieved document discusses contracts related to Cheniere and NextDecade, but does not address Tellurian's business model or the specific skepticism surrounding the Driftwood LNG project.",
+        "The document focuses on a lawsuit against Tellurian's chairman related to investment losses but does not address the business model skepticism or the financial concerns of the Driftwood LNG project."
+      ]
+    },
+    "11": {
+      "precision_at_k": 0.0,
+      "recall_at_k": 0.0,
+      "mrr": 0.0,
+      "relevance_list": [
+        0
+      ],
+      "reasons": [
+        "The retrieved document does not contain information about Chad's parliament, the vote on ExxonMobil's asset sale, or the specifics of the nationalization."
+      ]
+    },
+    "17": {
+      "precision_at_k": 0.1,
+      "recall_at_k": 1.0,
+      "mrr": 1.0,
+      "relevance_list": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "The document provides detailed information about Freeport LNG's operational struggles and financial impacts since the 2022 fire, directly addressing the query.",
+        "The document focuses on China's LNG imports and does not provide information about Freeport LNG's operational and financial difficulties or their impact on U.S. LNG exports.",
+        "The document discusses U.S. LNG exports and a fire at Freeport LNG but does not provide specific details on operational and financial difficulties or their effects on U.S. LNG exports since the fire.",
+        "The document discusses U.S. natural gas prices and market conditions but does not provide specific information about Freeport LNG's operational and financial difficulties since the fire or their impact on U.S. LNG exports.",
+        "The document discusses U.S. LNG exports and new facilities but does not address Freeport LNG's operational and financial difficulties since its 2022 fire.",
+        "The document focuses on LNG demand growth and market volatility but does not address Freeport LNG's operational and financial difficulties or their impact on U.S. LNG exports.",
+        "The document discusses U.S. LNG exports in general but does not provide details on Freeport LNG's operational and financial difficulties or their impact on U.S. exports since the 2022 fire.",
+        "The document discusses the U.S. becoming the largest LNG exporter but does not address Freeport LNG's operational issues post-2022 fire or the impact on U.S. LNG exports.",
+        "The document discusses the U.S. becoming the largest LNG exporter by the end of 2021 but does not address Freeport LNG's operational and financial difficulties since the 2022 fire.",
+        "The document does not address Freeport LNG's operational and financial difficulties since the 2022 fire or its impact on U.S. LNG exports."
+      ]
+    },
+    "19": {
+      "precision_at_k": 0.1,
+      "recall_at_k": 1.0,
+      "mrr": 0.2,
+      "relevance_list": [
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "The document does not provide information about Phillips 66's Q4 2024 profit decline or the reasons behind it, focusing instead on stock positioning and earlier performance.",
+        "The document does not provide information about Phillips 66's Q4 2024 profit collapse or the reasons behind it.",
+        "The document does not provide any information regarding the collapse in Q4 2024 profit or the reasons behind it.",
+        "The document does not provide any information regarding Phillips 66's Q4 2024 profit collapse or the specific factors leading to that decline.",
+        "The document provides specific details about Phillips 66's Q4 2024 profit decline, including the figures and reasons for the collapse, which directly answers the query.",
+        "The document discusses a strategic acquisition by Phillips 66 but does not address the profit collapse or financial results for Q4 2024.",
+        "The retrieved document does not provide any specific details about Phillips 66's Q4 2024 profit collapse or the reasons behind it.",
+        "The document does not address the reasons for the profit collapse or provide any specific financial figures for Q4 2024.",
+        "The document does not address the profit collapse of Phillips 66 in Q4 2024 or the reasons behind it.",
+        "The document pertains to Phillips 66's plans for Q1 2023 and does not address the Q4 2024 profit collapse or the reasons behind it."
+      ]
+    },
+    "33": {
+      "precision_at_k": 0.125,
+      "recall_at_k": 1.0,
+      "mrr": 1.0,
+      "relevance_list": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "The document discusses the collapse of Middle Eastern LNG supply and its impact on global LNG exports, highlighting the vulnerability of supply which supports the investment case for Western Canadian LNG projects.",
+        "The document discusses broader narratives in global gas markets and supply but does not specifically address the Middle East war's impact on Western Canadian LNG projects in March 2026.",
+        "The document focuses on crude oil supply issues and does not address LNG trade or the impact of the Middle East war on Western Canadian LNG export projects.",
+        "The document discusses crude oil prices and supply issues, which are not directly related to LNG export projects or the impact of Middle East war on LNG trade.",
+        "The retrieved document focuses on crude oil and a specific geopolitical event involving the U.S. and Iran, which does not address the Middle East war's impact on LNG export projects.",
+        "The retrieved document focuses on crude oil and gasoline prices in relation to a conflict, without addressing LNG, the Middle East war's impact on LNG trade, or the investment case for Western Canadian LNG.",
+        "The document discusses LPG transit through the Strait of Hormuz and does not address the Middle East war's impact on LNG investment in Western Canada.",
+        "The document focuses on crude oil prices in India and does not address LNG export projects or the impact of the Middle East war on them."
+      ]
+    },
+    "38": {
+      "precision_at_k": 0.1,
+      "recall_at_k": 1.0,
+      "mrr": 0.5,
+      "relevance_list": [
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "The document does not mention funding cuts to clean energy projects or the specific Exxon project affected, focusing instead on the general energy outlook.",
+        "The document provides specific details about the scale of the funding cuts and mentions the Exxon project affected, directly addressing the query.",
+        "The document discusses tariffs on metals and does not provide information about the Trump administration's funding cuts to clean energy projects or the specific Exxon project affected.",
+        "The retrieved document discusses funding cuts related to Venezuelan oil exports and does not address the Trump administration's funding cuts to clean energy projects in May 2025 or the specific Exxon project that was affected.",
+        "The document discusses EQT's fracking operations and federal investigations, which do not pertain to the Trump administration's funding cuts to clean energy projects or the specific Exxon project mentioned in the query.",
+        "The document discusses Exxon's carbon capture technology but does not mention the Trump administration's funding cuts or the specific clean energy project affected.",
+        "The document does not contain information about Trump administration funding cuts to clean energy projects in May 2025 or any specific Exxon project affected.",
+        "The document discusses Exxon Mobil's profits and energy prices but does not address the funding cuts to clean energy projects or the specific Exxon project affected in May 2025.",
+        "The document discusses Chevron and Exxon's efforts in developing renewable gasoline blends but does not address the specific funding cuts to clean energy projects by the Trump administration in May 2025.",
+        "The document does not address the funding cuts to clean energy projects or the specific impacts on Exxon in May 2025."
+      ]
+    },
+    "47": {
+      "precision_at_k": 0.1,
+      "recall_at_k": 1.0,
+      "mrr": 0.2,
+      "relevance_list": [
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "The document discusses crude oil price scenarios and does not address labor cost dynamics or LNG project economics on the Gulf Coast.",
+        "The document discusses LNG projects in Western Canada and geopolitical issues, which do not address labor cost dynamics or their impact on U.S. Gulf Coast LNG projects.",
+        "The retrieved document does not address labor cost dynamics or the economic implications for U.S. LNG projects on the Gulf Coast in mid-2024.",
+        "The document discusses LNG feed gas demand and market risks in 2026, which does not address the labor cost dynamics or consequences for U.S. LNG projects in mid-2024.",
+        "The document contains specific information about rising labor costs, budget overruns, project delays, and other consequences related to new LNG projects on the U.S. Gulf Coast in mid-2024.",
+        "The document discusses a natural gas supply venture and does not address labor costs or associated dynamics affecting LNG project economics.",
+        "The document discusses Sempra's LNG project expansions and financial outlook but does not address labor cost dynamics or their consequences affecting project economics.",
+        "The document primarily discusses EQT's LNG supply agreements and pipeline projects without addressing labor cost dynamics or their impact on project economics.",
+        "The document discusses the Mad Dog Phase 2 project in the Gulf of Mexico focused on crude oil production, not the labor cost dynamics impacting U.S. LNG projects.",
+        "The document discusses LNG exports and facility operations but does not address labor cost dynamics, budget overruns, or project delays related to the Gulf Coast in mid-2024."
+      ]
+    }
+  },
+  "hybrid_time_rerank": {
+    "1": {
+      "precision_at_k": 0.1,
+      "recall_at_k": 1.0,
+      "mrr": 1.0,
+      "relevance_list": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "The document provides specific information about the surge in crude oil prices to nearly $100 per barrel following Russia's invasion of Ukraine on 24 February 2022, which directly addresses the query.",
+        "The document focuses on the impact of the Ukraine crisis on Procter & Gamble and does not provide specific information about crude oil prices or their immediate market reaction to the invasion.",
+        "The document discusses Procter & Gamble's operations in Russia and their impact on the Russian economy, but it does not provide information on the immediate market impact of Russia's invasion of Ukraine on crude oil prices.",
+        "The document discusses supply issues related to the Strait of Hormuz but does not mention the immediate market impact of Russia's invasion of Ukraine on crude oil prices.",
+        "The document discusses OPEC+ decisions regarding oil supply and does not address the immediate market impact of Russia's invasion of Ukraine on crude oil prices.",
+        "The document discusses the impact of future sanctions on Russian fuel imports and U.S. refiners' profit margins but does not address the immediate market impact on crude oil prices following the invasion on 24 February 2022.",
+        "The document does not discuss the immediate market impact of Russia's invasion of Ukraine on crude oil prices, focusing instead on supply expectations and macroeconomic factors.",
+        "The document does not directly address the immediate market impact of Russia's invasion of Ukraine on crude oil prices.",
+        "The document discusses current factors affecting crude oil prices but does not address the impact of Russia's invasion of Ukraine on 24 February 2022.",
+        "The document discusses a hypothetical scenario of crude oil prices reaching $200 but does not provide information on the immediate price surge or market impact on 24 February 2022."
+      ]
+    },
+    "3": {
+      "precision_at_k": 0.1,
+      "recall_at_k": 1.0,
+      "mrr": 1.0,
+      "relevance_list": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "The document directly discusses how Europe's surge in LNG demand following the Ukraine war impacted Asian energy markets, matching the query's focus.",
+        "The document discusses U.S. LNG exports and operational expansions but does not address the impact on Asian energy markets following Europe's demand surge due to the Ukraine war.",
+        "The document discusses overall LNG demand growth and market volatility but does not specifically address the impact on Asian energy markets following the Ukraine war.",
+        "The retrieved document does not address the impact of Europe's LNG demand surge on Asian energy markets.",
+        "The document focuses on the impact of Russian military action on oil prices and does not address LNG demand or its effects on Asian energy markets.",
+        "The document discusses future trends in U.S. LNG feed gas demand and supply without addressing the impact of Europe's LNG demand on Asian markets or the specific events after the Ukraine war.",
+        "The document discusses LNG prices and coal usage in Asia due to a war in the Middle East, rather than the specific impacts of Europe's LNG demand after the Ukraine war.",
+        "The retrieved document discusses global LNG supply disruptions due to a different conflict (Iran), rather than addressing the specific impact of the Ukraine war on Asian energy markets.",
+        "The document discusses LNG exports from Western Canada in the context of a Middle East war, which does not address the specific impact of Europe's LNG demand surge on Asian markets following the Ukraine war.",
+        "The document focuses on the impact of the Ukraine crisis on Procter & Gamble Co. and crude oil, not on LNG demand in Europe or its effects on Asian energy markets."
+      ]
+    },
+    "6": {
+      "precision_at_k": 0.1,
+      "recall_at_k": 1.0,
+      "mrr": 1.0,
+      "relevance_list": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "The document provides detailed information on the factors that drove U.S. natural gas futures to a 14-year high in late July 2022 and confirms the August delivery contract's achievement.",
+        "The document focuses on U.S. LNG exports and does not address the specific drivers for natural gas futures reaching a 14-year high or the August delivery contract achievement.",
+        "The document discusses the operational issues of the Freeport LNG plant but does not mention the specific drivers for the natural gas futures reaching a 14-year high or the details about the August delivery contract.",
+        "The retrieved document discusses U.S. crude oil production and does not contain relevant information regarding U.S. natural gas futures or their price movements in July 2022.",
+        "The document discusses U.S. LNG feed gas demand in 2026, which is unrelated to the specific events and details regarding U.S. natural gas futures in late July 2022.",
+        "The document discusses LNG demand and future projections but does not address the specific factors that drove U.S. natural gas futures to a 14-year high in July 2022 or the August delivery contract details.",
+        "The document focuses on European gas prices and does not provide information about U.S. natural gas futures or the specific drivers behind their price increase in July 2022.",
+        "The document does not address the drivers of U.S. natural gas futures or the August delivery contract, focusing instead on rig counts and production.",
+        "The document discusses LNG demand and market volatility but does not address the specific drivers of U.S. natural gas futures reaching a 14-year high or the August delivery contract details.",
+        "The document focuses on rising labor costs affecting LNG projects and does not address the specific reasons for the rise in U.S. natural gas futures or the performance of the August delivery contract."
+      ]
+    },
+    "9": {
+      "precision_at_k": 0.1,
+      "recall_at_k": 1.0,
+      "mrr": 1.0,
+      "relevance_list": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "The document provides detailed information about Tellurian's business model for the Driftwood LNG project and the skepticism among investors and analysts regarding its high-risk approach, which aligns with the query.",
+        "The document focuses on a lawsuit against Tellurian's chairman related to investment losses but does not address the business model skepticism or the financial concerns of the Driftwood LNG project.",
+        "The document discusses Exxon Mobil's stock and does not mention Tellurian, the Driftwood LNG project, or investor skepticism toward its business model.",
+        "The document discusses China's LNG imports and does not address Tellurian's business model or investor skepticism about the Driftwood LNG project.",
+        "The document discusses Cheniere's financial performance and guidance for 2024, which does not address the skepticism surrounding Tellurian's business model for the Driftwood LNG project in December 2022.",
+        "The document discusses Sempra Infrastructure's LNG projects and financial outlook but does not provide information about Tellurian's Driftwood LNG project or the skepticism surrounding its business model.",
+        "The document discusses T-Mobile's earnings and business strategies, which are unrelated to Tellurian's Driftwood LNG project or the skepticism surrounding its business model.",
+        "The retrieved document discusses contracts related to Cheniere and NextDecade, but does not address Tellurian's business model or the specific skepticism surrounding the Driftwood LNG project.",
+        "The document discusses a supply deal related to Cheniere Energy's LNG project, which does not address Tellurian's business model or the skepticism surrounding the Driftwood LNG project.",
+        "The document discusses Exxon's acquisition of Pioneer Natural Resources, which is unrelated to Tellurian's Driftwood LNG project and the skepticism surrounding its business model."
+      ]
+    },
+    "11": {
+      "precision_at_k": 0.0,
+      "recall_at_k": 0.0,
+      "mrr": 0.0,
+      "relevance_list": [
+        0
+      ],
+      "reasons": [
+        "The retrieved document does not contain information about Chad's parliament, the vote on ExxonMobil's asset sale, or the specifics of the nationalization."
+      ]
+    },
+    "17": {
+      "precision_at_k": 0.1,
+      "recall_at_k": 1.0,
+      "mrr": 1.0,
+      "relevance_list": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "The document provides detailed information about Freeport LNG's operational struggles and financial impacts since the 2022 fire, directly addressing the query.",
+        "The document discusses U.S. LNG exports and a fire at Freeport LNG but does not provide specific details on operational and financial difficulties or their effects on U.S. LNG exports since the fire.",
+        "The document discusses U.S. LNG exports and new facilities but does not address Freeport LNG's operational and financial difficulties since its 2022 fire.",
+        "The document discusses the U.S. becoming the largest LNG exporter but does not address Freeport LNG's operational issues post-2022 fire or the impact on U.S. LNG exports.",
+        "The document discusses the U.S. becoming the largest LNG exporter by the end of 2021 but does not address Freeport LNG's operational and financial difficulties since the 2022 fire.",
+        "The document discusses U.S. LNG exports in general but does not provide details on Freeport LNG's operational and financial difficulties or their impact on U.S. exports since the 2022 fire.",
+        "The document discusses U.S. natural gas prices and market conditions but does not provide specific information about Freeport LNG's operational and financial difficulties since the fire or their impact on U.S. LNG exports.",
+        "The document focuses on China's LNG imports and does not provide information about Freeport LNG's operational and financial difficulties or their impact on U.S. LNG exports.",
+        "The document does not address Freeport LNG's operational and financial difficulties since the 2022 fire or its impact on U.S. LNG exports.",
+        "The document focuses on LNG demand growth and market volatility but does not address Freeport LNG's operational and financial difficulties or their impact on U.S. LNG exports."
+      ]
+    },
+    "19": {
+      "precision_at_k": 0.1,
+      "recall_at_k": 1.0,
+      "mrr": 1.0,
+      "relevance_list": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "The document provides specific details about Phillips 66's Q4 2024 profit decline, including the figures and reasons for the collapse, which directly answers the query.",
+        "The document pertains to Phillips 66's plans for Q1 2023 and does not address the Q4 2024 profit collapse or the reasons behind it.",
+        "The document does not provide information about Phillips 66's Q4 2024 profit collapse or the reasons behind it.",
+        "The document does not provide information about Phillips 66's Q4 2024 profit decline or the reasons behind it, focusing instead on stock positioning and earlier performance.",
+        "The document does not address the reasons for the profit collapse or provide any specific financial figures for Q4 2024.",
+        "The document does not provide any information regarding the collapse in Q4 2024 profit or the reasons behind it.",
+        "The document discusses a strategic acquisition by Phillips 66 but does not address the profit collapse or financial results for Q4 2024.",
+        "The retrieved document does not provide any specific details about Phillips 66's Q4 2024 profit collapse or the reasons behind it.",
+        "The document does not address the profit collapse of Phillips 66 in Q4 2024 or the reasons behind it.",
+        "The document does not provide any information regarding Phillips 66's Q4 2024 profit collapse or the specific factors leading to that decline."
+      ]
+    },
+    "33": {
+      "precision_at_k": 0.125,
+      "recall_at_k": 1.0,
+      "mrr": 1.0,
+      "relevance_list": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "The document discusses the collapse of Middle Eastern LNG supply and its impact on global LNG exports, highlighting the vulnerability of supply which supports the investment case for Western Canadian LNG projects.",
+        "The document focuses on crude oil supply issues and does not address LNG trade or the impact of the Middle East war on Western Canadian LNG export projects.",
+        "The document discusses broader narratives in global gas markets and supply but does not specifically address the Middle East war's impact on Western Canadian LNG projects in March 2026.",
+        "The retrieved document focuses on crude oil and gasoline prices in relation to a conflict, without addressing LNG, the Middle East war's impact on LNG trade, or the investment case for Western Canadian LNG.",
+        "The document focuses on crude oil prices in India and does not address LNG export projects or the impact of the Middle East war on them.",
+        "The document discusses LPG transit through the Strait of Hormuz and does not address the Middle East war's impact on LNG investment in Western Canada.",
+        "The retrieved document focuses on crude oil and a specific geopolitical event involving the U.S. and Iran, which does not address the Middle East war's impact on LNG export projects.",
+        "The document discusses crude oil prices and supply issues, which are not directly related to LNG export projects or the impact of Middle East war on LNG trade."
+      ]
+    },
+    "38": {
+      "precision_at_k": 0.1,
+      "recall_at_k": 1.0,
+      "mrr": 1.0,
+      "relevance_list": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "The document provides specific details about the scale of the funding cuts and mentions the Exxon project affected, directly addressing the query.",
+        "The retrieved document discusses funding cuts related to Venezuelan oil exports and does not address the Trump administration's funding cuts to clean energy projects in May 2025 or the specific Exxon project that was affected.",
+        "The document discusses EQT's fracking operations and federal investigations, which do not pertain to the Trump administration's funding cuts to clean energy projects or the specific Exxon project mentioned in the query.",
+        "The document discusses Exxon Mobil's profits and energy prices but does not address the funding cuts to clean energy projects or the specific Exxon project affected in May 2025.",
+        "The document does not address the funding cuts to clean energy projects or the specific impacts on Exxon in May 2025.",
+        "The document does not mention funding cuts to clean energy projects or the specific Exxon project affected, focusing instead on the general energy outlook.",
+        "The document discusses Exxon's carbon capture technology but does not mention the Trump administration's funding cuts or the specific clean energy project affected.",
+        "The document does not contain information about Trump administration funding cuts to clean energy projects in May 2025 or any specific Exxon project affected.",
+        "The document discusses Chevron and Exxon's efforts in developing renewable gasoline blends but does not address the specific funding cuts to clean energy projects by the Trump administration in May 2025.",
+        "The document discusses tariffs on metals and does not provide information about the Trump administration's funding cuts to clean energy projects or the specific Exxon project affected."
+      ]
+    },
+    "47": {
+      "precision_at_k": 0.1,
+      "recall_at_k": 1.0,
+      "mrr": 1.0,
+      "relevance_list": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "reasons": [
+        "The document contains specific information about rising labor costs, budget overruns, project delays, and other consequences related to new LNG projects on the U.S. Gulf Coast in mid-2024.",
+        "The document discusses LNG exports and facility operations but does not address labor cost dynamics, budget overruns, or project delays related to the Gulf Coast in mid-2024.",
+        "The document discusses LNG feed gas demand and market risks in 2026, which does not address the labor cost dynamics or consequences for U.S. LNG projects in mid-2024.",
+        "The document primarily discusses EQT's LNG supply agreements and pipeline projects without addressing labor cost dynamics or their impact on project economics.",
+        "The document discusses a natural gas supply venture and does not address labor costs or associated dynamics affecting LNG project economics.",
+        "The document discusses LNG projects in Western Canada and geopolitical issues, which do not address labor cost dynamics or their impact on U.S. Gulf Coast LNG projects.",
+        "The document discusses the Mad Dog Phase 2 project in the Gulf of Mexico focused on crude oil production, not the labor cost dynamics impacting U.S. LNG projects.",
+        "The document discusses Sempra's LNG project expansions and financial outlook but does not address labor cost dynamics or their consequences affecting project economics.",
+        "The retrieved document does not address labor cost dynamics or the economic implications for U.S. LNG projects on the Gulf Coast in mid-2024.",
+        "The document discusses crude oil price scenarios and does not address labor cost dynamics or LNG project economics on the Gulf Coast."
+      ]
+    }
+  }
+}
