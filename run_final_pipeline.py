@@ -36,12 +36,6 @@ DATA_PATH = BASE_DIR / "data" / "final_df.csv"
 print("Loading data...")
 df = load_data(data_path = DATA_PATH)
 
-try:
-    df = pd.read_csv(DATA_PATH)
-except FileNotFoundError:
-    print(f"ERROR: Could not find required data file at {DATA_PATH}")
-    sys.exit(1)
-
 documents = []
 metadata = []
 for _, row in df.iterrows():
