@@ -8,3 +8,8 @@ rouge-score
 bert-score
 openai
 python-dotenv
+torch
+transformers
+scikit-learn
+requests
+newsapi-python
