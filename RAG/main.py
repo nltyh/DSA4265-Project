@@ -3,7 +3,7 @@ import json
 import pandas as pd
 from pathlib import Path
 
-# ── Path setup: allow imports from RAG/ and evaluation/
+# ── Path setup
 RAG_DIR  = Path(__file__).parent
 EVAL_DIR = Path(__file__).parent.parent / "evaluation"
 sys.path.insert(0, str(RAG_DIR))
@@ -25,7 +25,7 @@ def load_data(file_path):
     documents = []
     metadata = []
 
-    for _, row in df.iterrows():
+    for i, row in df.iterrows():
         text = f"""
         Title: {row['title']}
         Description: {row['description']}
@@ -37,13 +37,13 @@ def load_data(file_path):
         documents.append(text)
 
         metadata.append({
+            "id": i,   # ✅ add unique id
             "date": row["date"],
             "commodity": row["relevant_commodities"],
             "risk": row["risk_category"],
             "severity": row["risk_severity"]
         })
 
-    # Create fast lookup
     doc_to_idx = {doc: i for i, doc in enumerate(documents)}
 
     return df, documents, metadata, doc_to_idx
@@ -56,7 +56,6 @@ def run_pipeline(query, documents, metadata, df, doc_to_idx, generation_strategy
     # ---- 0. Query Parsing ----
     qp = QueryProcessor()
     parsed = qp.parse_query(query)
-
     print("Parsed Query:", parsed)
 
     # ---- 1. Metadata Filtering ----
@@ -67,7 +66,6 @@ def run_pipeline(query, documents, metadata, df, doc_to_idx, generation_strategy
     )
 
     filtered_docs, filtered_meta = filter.apply(documents, metadata)
-
     print(f"Filtered Docs: {len(filtered_docs)} / {len(documents)}")
 
     # ---- 2. Hybrid Retrieval ----
@@ -87,8 +85,11 @@ def run_pipeline(query, documents, metadata, df, doc_to_idx, generation_strategy
         })
 
     # ---- 4. Time Weighting ----
-    time_weighter = TimeWeighter(decay_rate=0.03)
-    time_weighted = time_weighter.apply(results_with_meta, reference_date=parsed["date"])
+    time_weighter = TimeWeighter(decay_rate=0.0001)
+    time_weighted = time_weighter.apply(
+        results_with_meta,
+        reference_date=parsed["date"]
+    )
 
     # ---- 5. Reranking ----
     reranker = Reranker()
@@ -96,25 +97,33 @@ def run_pipeline(query, documents, metadata, df, doc_to_idx, generation_strategy
     texts = [d["text"] for d in time_weighted]
     pairs = [(query, t) for t in texts]
 
-    scores = reranker.model.predict(pairs)
+    semantic_scores = reranker.model.predict(pairs)
 
     reranked = []
-    for i, score in enumerate(scores):
+    for i, sem_score in enumerate(semantic_scores):
+        time_score = time_weighted[i]["score"]
+
+        final_score = final_score = 0.7 * sem_score + 0.3 * time_score # normalized combination
+
         reranked.append({
             "text": texts[i],
-            "score": score,
+            "score": final_score,
+            "semantic_score": sem_score,
+            "time_score": time_score,
             "date": time_weighted[i]["date"],
             "commodity": time_weighted[i]["commodity"]
         })
 
-    # Sort
     reranked.sort(key=lambda x: x["score"], reverse=True)
 
-    # ---- 6. GraphRAG ----
+    # ---- 6. GraphRAG  ----
     graph = GraphRAG()
 
+    top_k_graph = 10
+    top_docs = reranked[:top_k_graph]
+
     docs_for_graph = []
-    for d in time_weighted:
+    for d in top_docs:
         idx = doc_to_idx[d["text"]]
 
         entities = [
@@ -130,24 +139,31 @@ def run_pipeline(query, documents, metadata, df, doc_to_idx, generation_strategy
 
     graph.build_graph(docs_for_graph)
 
-    #  Query entities (use parsed commodity if available)
+    # ---- Query Entities  ----
     query_entities = []
+
     if parsed["commodity"]:
         query_entities.append(parsed["commodity"])
-    query_entities.extend(query.lower().split())
+
+    keywords = ["supply", "risk", "disruption", "price", "sanctions"]
+    for word in keywords:
+        if word in query.lower():
+            query_entities.append(word)
 
     subgraph = graph.retrieve_subgraph(query_entities)
 
     # ---- 7. Generation ----
     print(f"\n✍️  Generating report with strategy: {generation_strategy}")
     gen = Generator(strategy=generation_strategy)
+
     report = gen.generate(query, reranked, graph_context=subgraph)
-    generation_docs = reranked[: gen.top_k_docs]
+    generation_docs = reranked[:gen.top_k_docs]
 
     # ---- OUTPUT ----
     print("\n📊 Top Reranked Results:")
     for item in reranked[:5]:
-        print(f"\nScore: {item['score']:.4f}")
+        print(f"\nFinal Score: {item['score']:.4f}")
+        print(f"Semantic: {item['semantic_score']:.4f} | Time: {item['time_score']:.6f}")
         print(f"Date: {item['date']} | Commodity: {item['commodity']}")
         print(item['text'][:200], "...")
 
@@ -170,7 +186,7 @@ if __name__ == "__main__":
     df, documents, metadata, doc_to_idx = load_data(file_path)
 
     queries = [
-        "After Russia invaded Ukraine, provide crude oil market snapshot" # CHANGE THIS TO TEST OTHER QUERIES
+        "After Russia invaded Ukraine, provide crude oil market snapshot"
     ]
 
     STRATEGY = "citation"
@@ -180,14 +196,18 @@ if __name__ == "__main__":
     output_dir.mkdir(exist_ok=True)
 
     for i, q in enumerate(queries, start=1):
-        result = run_pipeline(q, documents, metadata, df, doc_to_idx,
-                              generation_strategy=STRATEGY)
+        result = run_pipeline(
+            q, documents, metadata, df, doc_to_idx,
+            generation_strategy=STRATEGY
+        )
+
         output_path = output_dir / f"query_{i}_{STRATEGY}_report.txt"
         output_path.write_text(result["report"], encoding="utf-8")
         print(f"\n💾 Saved report to {output_path}")
 
         if EVALUATE_REPORT:
             context = build_context(result["generation_docs"])
+
             evaluation = evaluate_reports(
                 query=q,
                 reports={STRATEGY: result["report"]},
@@ -196,8 +216,12 @@ if __name__ == "__main__":
                 run_groundedness=True,
                 run_llm_judge=True,
             )
+
             print_summary(evaluation)
 
             evaluation_path = output_dir / f"query_{i}_{STRATEGY}_evaluation.json"
-            evaluation_path.write_text(json.dumps(evaluation, indent=2), encoding="utf-8")
+            evaluation_path.write_text(
+                json.dumps(evaluation, indent=2),
+                encoding="utf-8"
+            )
             print(f"\n💾 Saved evaluation to {evaluation_path}")
